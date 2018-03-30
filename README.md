@@ -13,11 +13,16 @@
 - New Links must use this format:
   - `DD MMM YYYY: [Link Name](link)`
 
+# Note
+
+This repo has no affiliation to the React team. For official communication from them, please visit [the React blog](https://reactjs.org/blog) and follow their Twitter updates [here](https://twitter.com/reactjs). **Our intent is NOT to be a substitute for official communication**, rather it is for early adopters sharing links to understand and try out things from the community.
+
 # React Team Official Communication
 
-- 27 Mar 2018: [Async React Demo](https://gist.github.com/acdlite/f31becd03e2f5feb9b4b22267a58bc1f)
-- 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4)
+- 27 Mar 2018: [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) blogpost on migration path for the deprecated and new lifecycle methods
+- 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense
 - 1 Mar 2018: [JSConf Iceland - Beyond React 16](https://www.youtube.com/watch?v=v6iR3Zk4oDY)
+- 1 Mar 2018: [Sneak Peek: Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html) blogpost
 - 23 Feb 2018: [The Suspense PR](https://github.com/facebook/react/pull/12279)
 
 # Code To Check Out

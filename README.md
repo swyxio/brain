@@ -46,7 +46,6 @@ This repo has no affiliation to the React team. For official communication from 
 - 11 Mar 2018: [@dan_abramov on React team credits](https://twitter.com/dan_abramov/status/972856536073687040)
 - 1 Mar 2018: [@dan_abramov on JSConf demo credits](https://twitter.com/dan_abramov/status/969173182811987968)
 - 19 Sep 2017: [Async React with non react views](https://gist.github.com/acdlite/f31becd03e2f5feb9b4b22267a58bc1f)
-- 18 Jul 2016: [React Fiber architecture](https://github.com/acdlite/react-fiber-architecture) from andrew clark
 
 # React Suspense-specific
 
@@ -78,6 +77,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 - 22 Feb 2017: [React Fiber vs Stack Demo](https://github.com/claudiopro/react-fiber-vs-stack-demo/)
 - 16 Mar 2017: [Lin Clark's A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+- 18 Jul 2016: [React Fiber architecture](https://github.com/acdlite/react-fiber-architecture) from andrew clark
 - 16 Aug 2014: [Jordan Walke first tweet about Async rendering](https://twitter.com/jordwalke/status/500587022890061824)
 
 ## License

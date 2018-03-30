@@ -34,6 +34,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 4 Mar 2018: [Benoit Zugmeyer's demo clone](https://github.com/BenoitZugmeyer/react-suspense-demo)
 - 1 Mar 2018: [async React Apollo demo](https://dev-blog.apollodata.com/a-first-look-at-async-react-apollo-10a82907b48e)
 - 1 Mar 2018: [Jared Palmer's test app with suspense](https://codesandbox.io/s/github/jaredpalmer/react-suspense-playground)
+- 19 Oct 2017: [Rodrigo Pombo's didact fiber](https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec) - simplified attempt to create a React Fiber clone, might be easier to understand than real React
 
 
 # Async React/React Fiber general info
@@ -45,6 +46,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 11 Mar 2018: [@dan_abramov on React team credits](https://twitter.com/dan_abramov/status/972856536073687040)
 - 1 Mar 2018: [@dan_abramov on JSConf demo credits](https://twitter.com/dan_abramov/status/969173182811987968)
 - 19 Sep 2017: [Async React with non react views](https://gist.github.com/acdlite/f31becd03e2f5feb9b4b22267a58bc1f)
+- 18 Jul 2016: [React Fiber architecture](https://github.com/acdlite/react-fiber-architecture) from andrew clark
 
 # React Suspense-specific
 

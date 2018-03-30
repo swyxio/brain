@@ -46,6 +46,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 11 Mar 2018: [@dan_abramov on React team credits](https://twitter.com/dan_abramov/status/972856536073687040)
 - 1 Mar 2018: [@dan_abramov on JSConf demo credits](https://twitter.com/dan_abramov/status/969173182811987968)
 - 19 Sep 2017: [Async React with non react views](https://gist.github.com/acdlite/f31becd03e2f5feb9b4b22267a58bc1f)
+- 16 Mar 2017: [Lin Clark's talk - A cartoon intro to fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 
 # React Suspense-specific
 

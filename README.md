@@ -39,6 +39,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Async React/React Fiber general info
 
+- 30 Mar 2018: [Async React Devtools Chrome extension lets you put Lag Radar on any site (from @swyx)](https://twitter.com/swyx/status/979809563632336896)
 - 26 Mar 2018: [@acdlite on scheduling updates at different priorities](https://twitter.com/acdlite/status/978412930973687808) and avoiding starvation
 - 23 Mar 2018: [@acdlite on the difference between async and sync rendering in React](https://twitter.com/acdlite/status/977291318324948992)
 - 15 Mar 2018: [@acdlite on React API preferences](https://twitter.com/acdlite/status/974437383939743746)
@@ -49,6 +50,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 30 Mar 2018: [@jaredpalmer / @mjackson working out react router in a Suspense world](https://twitter.com/jaredpalmer/status/979753531291979776)
 - 29 Mar 2018: [React Suspense: The Interactive Experience](https://slides.com/swyx/react-suspense#/) [background slides](https://slides.com/swyx/background-thread) Swyx's talk at ReactNYC Mar 2018
 - 29 Mar 2018: [React Suspense Debouncing use case](https://github.com/acdlite/react/blob/7166ce6d9b7973ddd5e06be9effdfaaeeff57ed6/packages/react-reconciler/src/tests/ReactSuspense-test.js#L573)
 - 17 Mar 2018: [create-create-fetcher](https://github.com/petegleeson/create-create-fetcher) Pete Gleeson's attempt to make createFetcher with React 16.2

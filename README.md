@@ -3,7 +3,7 @@
 **YOU** have a say on every **fresh** 🍅 list. 
 
 - Check out [Pull Request](https://github.com/sw-yx/fresh-async-react/pulls)s for new links
-- Check out other people's PRs and 👍🏼 or 👎 or comment. PRs above 5 👍's get approved on this repo
+- Check out other people's PRs and 👍🏼 or 👎 or comment. PRs above 3 👍's get approved on this repo
 - Hit **WATCH** on this repo to stay up to date!
 
 # Keep Us Fresh 🍅
@@ -39,6 +39,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Async React/React Fiber general info
 
+- 2 Apr 2018: [Mark Erikson on Async Rendering and its impact on Redux](https://youtu.be/nOoWpdSvChc?t=13m49s)
 - 30 Mar 2018: [Async React Devtools Chrome extension lets you put Lag Radar on any site (from @swyx)](https://twitter.com/swyx/status/979809563632336896)
 - 26 Mar 2018: [@acdlite on scheduling updates at different priorities](https://twitter.com/acdlite/status/978412930973687808) and avoiding starvation
 - 23 Mar 2018: [@acdlite on the difference between async and sync rendering in React](https://twitter.com/acdlite/status/977291318324948992)

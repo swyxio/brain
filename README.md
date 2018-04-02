@@ -68,6 +68,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 3 Mar 2018: [Luca Matteis: React Suspense for the layman](https://medium.com/@lmatteis/react-suspense-for-the-layman-caae7f48686f) blogpost
 - 2 Mar 2018: [Swyx: A walkthrough of that React Suspense Demo](https://dev.to/swyx/a-walkthrough-of-that-react-suspense-demo--4j6a) blogpost
 - 2 Mar 2018: [@dan_abramov on render idempotency vs purity, and algebraic effects](https://twitter.com/dan_abramov/status/969629411996766208)
+- 1 Mar 2018: [@acdlite on how Suspense works](https://twitter.com/acdlite/status/969171217356746752)
 - 1 Mar 2018: [@acdlite on the original idea for Suspense being SSR](https://twitter.com/acdlite/status/969368473443774464)
 - 1 Mar 2018: [@acdlite: you can suspend inside gDSFP and setState](https://twitter.com/acdlite/status/969428655238557697)
 

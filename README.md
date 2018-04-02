@@ -1,4 +1,4 @@
-# YOU have a say
+# WATCH this repo, YOU have a say
 
 **YOU** have a say on every **fresh** 🍅 list. 
 
@@ -12,6 +12,10 @@
 - This list follows [the Fresh 🍅 Manifesto](https://github.com/sw-yx/fresh/blob/master/fresh.md)
 - New Links must use this format:
   - `DD MMM YYYY: [Link Name](link)`
+
+# How to Try Out Async React today
+
+I have to put the requisite disclaimer that you shouldn't do this for anything in production. If you just want to tinker, any version after [16.4.0-alpha.0911da3](https://github.com/reactjs/react-redux/issues/890#issuecomment-371846088) is good.
 
 # Note
 

@@ -17,6 +17,8 @@
 
 I have to put the requisite disclaimer that you shouldn't do this for anything in production. If you just want to tinker, any version after [16.4.0-alpha.0911da3](https://github.com/reactjs/react-redux/issues/890#issuecomment-371846088) is good.
 
+Here is a short guide to [Try React Suspense in 5 Minutes](https://dev.to/swyx/how-to-try-react-suspense-in-5-minutes-474c).
+
 # Note
 
 This repo has no affiliation to the React team. For official communication from them, please visit [the React blog](https://reactjs.org/blog) and follow their Twitter updates [here](https://twitter.com/reactjs). **Our intent is NOT to be a substitute for official communication**, rather it is for early adopters sharing links to understand and try out things from the community.
@@ -27,7 +29,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense
 - 1 Mar 2018: [JSConf Iceland - Beyond React 16](https://www.youtube.com/watch?v=v6iR3Zk4oDY)
 - 1 Mar 2018: [Sneak Peek: Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html) blogpost
-- 23 Feb 2018: [The Suspense PR](https://github.com/facebook/react/pull/12279)
+- 23 Feb 2018: [The Suspense PR](https://github.com/facebook/react/pull/12279) especially the [tests](https://github.com/acdlite/react/blob/7166ce6d9b7973ddd5e06be9effdfaaeeff57ed6/packages/react-reconciler/src/__tests__/ReactSuspense-test.js)
 
 # Code To Check Out
 

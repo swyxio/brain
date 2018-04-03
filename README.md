@@ -33,6 +33,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 2 Apr 2018: [hitchcock](https://github.com/pomber/hitchcock) - Rodrigo Pombo's take on cache provider
 - 29 Mar 2018: [simple-cache-provider](https://github.com/facebook/react/tree/master/packages/simple-cache-provider) from the React Team
 - 17 Mar 2018: [Pete gleeson's ..future clone](https://github.com/petegleeson/create-create-fetcher/blob/master/src/future/index.js)
 - 9 Mar 2018: [@reactions/fetch](https://github.com/reactions/fetch) suspense-ready component

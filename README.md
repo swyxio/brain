@@ -35,7 +35,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 17 Mar 2018: [Pete gleeson's ..future clone](https://github.com/petegleeson/create-create-fetcher/blob/master/src/future/index.js)
 - 9 Mar 2018: [@reactions/fetch](https://github.com/reactions/fetch) suspense-ready component
 - 9 Mar 2018: [karl's demo clone](https://github.com/karl/react-async-io-testbed)
-- 3 Mar 2018: [React's `create-subscription package](https://github.com/facebook/react/blob/master/packages/create-subscription/README.md) For library authors to have an async-safe way to hook into React as it [can be tricky](https://gist.github.com/bvaughn/d569177d70b50b58bff69c3c4a5353f3)
+- 3 Mar 2018: [React's `create-subscription` package](https://github.com/facebook/react/blob/master/packages/create-subscription/README.md) For library authors to have an async-safe way to hook into React as it [can be tricky](https://gist.github.com/bvaughn/d569177d70b50b58bff69c3c4a5353f3)
 - 4 Mar 2018: [Benoit Zugmeyer's demo clone](https://github.com/BenoitZugmeyer/react-suspense-demo)
 - 1 Mar 2018: [async React Apollo demo](https://dev-blog.apollodata.com/a-first-look-at-async-react-apollo-10a82907b48e)
 - 1 Mar 2018: [Jared Palmer's test app with suspense](https://codesandbox.io/s/github/jaredpalmer/react-suspense-playground)

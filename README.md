@@ -47,6 +47,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Async React/React Fiber general info
 
+- 3 Apr 2018: [Michel Westrate on Async Rendering and its impact on MobX](https://egghead.simplecast.fm/94ad357b)
 - 2 Apr 2018: [Mark Erikson on Async Rendering and its impact on Redux](https://youtu.be/nOoWpdSvChc?t=13m49s)
 - 30 Mar 2018: [Async Render Devtools Chrome extension lets you put Lag Radar on any site (from @swyx)](https://twitter.com/swyx/status/979809563632336896)
 - 26 Mar 2018: [@acdlite on scheduling updates at different priorities](https://twitter.com/acdlite/status/978412930973687808) and avoiding starvation

@@ -23,7 +23,7 @@ Here is a short guide to [Try React Suspense in 5 Minutes](https://dev.to/swyx/h
 
 This repo has no affiliation to the React team. For official communication from them, please visit [the React blog](https://reactjs.org/blog) and follow their Twitter updates [here](https://twitter.com/reactjs). **Our intent is NOT to be a substitute for official communication**, rather it is for early adopters sharing links to understand and try out things from the community.
 
-# React Team Official Communication
+# React Team Public Communication
 
 - 27 Mar 2018: [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) blogpost on migration path for the deprecated and new lifecycle methods
 - 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense
@@ -47,6 +47,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Async React/React Fiber general info
 
+- 10 Apr 2018: [Andrew Clark on Async React](https://changelog.com/reactpodcast/6) on the React Podcast
 - 4 Apr 2018: [@dan_abramov chart on where each lifecycle fits into commit or render phase](https://twitter.com/dan_abramov/status/981712092611989509)
 - 3 Apr 2018: [Michel Westrate on Async Rendering and its impact on MobX](https://egghead.simplecast.fm/94ad357b)
 - 2 Apr 2018: [Mark Erikson on Async Rendering and its impact on Redux](https://youtu.be/nOoWpdSvChc?t=13m49s)
@@ -57,6 +58,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 11 Mar 2018: [@dan_abramov on async rendering](https://twitter.com/dan_abramov/status/972838329367584768)
 - 11 Mar 2018: [@dan_abramov on React team credits](https://twitter.com/dan_abramov/status/972856536073687040)
 - 1 Mar 2018: [@dan_abramov on JSConf demo credits](https://twitter.com/dan_abramov/status/969173182811987968)
+- 28 Feb 2018: [Dan Abramov on the future of React](https://changelog.com/reactpodcast/3) on the React Podcast
 - 19 Sep 2017: [Async React with non react views](https://gist.github.com/acdlite/f31becd03e2f5feb9b4b22267a58bc1f)
 
 # React Suspense-specific
@@ -91,7 +93,9 @@ This repo has no affiliation to the React team. For official communication from 
 
 - 22 Feb 2017: [React Fiber vs Stack Demo](https://github.com/claudiopro/react-fiber-vs-stack-demo/)
 - 16 Mar 2017: [Lin Clark's A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
-- 18 Jul 2016: [React Fiber architecture](https://github.com/acdlite/react-fiber-architecture) from andrew clark
+- 16 Mar 2017: [React Performance End to End](https://www.youtube.com/watch?v=bvFpe5j9-zQ) Sebastian's presentation at ReactConf 2017
+- 18 Jul 2016: [React Fiber architecture](https://github.com/acdlite/react-fiber-architecture) from Andrew Clark
+- 12 Apr 2016: [React-Basic](https://github.com/reactjs/react-basic) Sebastian's Conceptual notes on how React works
 - 16 Aug 2014: [Jordan Walke first tweet about Async rendering](https://twitter.com/jordwalke/status/500587022890061824)
 
 ## License

@@ -48,6 +48,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Async React/React Fiber general info
 
+- 19 Apr 2018: [Toru Kobayashi: Async Rendering slide deck](https://speakerdeck.com/koba04/ready-for-async-rendering)
 - 10 Apr 2018: [Andrew Clark on Async React](https://changelog.com/reactpodcast/6) on the React Podcast
 - 4 Apr 2018: [@dan_abramov chart on where each lifecycle fits into commit or render phase](https://twitter.com/dan_abramov/status/981712092611989509)
 - 3 Apr 2018: [Michel Westrate on Async Rendering and its impact on MobX](https://egghead.simplecast.fm/94ad357b)

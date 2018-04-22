@@ -33,6 +33,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 22 Apr 2018: [React “Suspense” + RESTore Demo](https://github.com/coreh/RESTore/tree/master/examples/react) experimental restful data store, example of react suspense integration
 - 20 Apr 2018: [redux-suspense](https://github.com/alexeyraspopov/redux-suspense) experimental integration of redux with react suspense
 - 13 Apr 2018: [James Please' fetchers API](https://gist.github.com/jamesplease/16218201e9226891bbc3645759d21712) - a gist with some ideas
 - 2 Apr 2018: [hitchcock](https://github.com/pomber/hitchcock) - Rodrigo Pombo's take on cache provider

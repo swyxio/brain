@@ -25,6 +25,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Team Public Communication
 
+- 28 Apr 2018: [Zeit Day: React Suspense and SSR](https://spectrum.chat/notifications?thread=5b655762-55d2-490f-b3be-d86485ff50db) Notes from @acdlite's presentation at Zeit Day - video pending.
 - 27 Mar 2018: [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) blogpost on migration path for the deprecated and new lifecycle methods
 - 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense
 - 1 Mar 2018: [JSConf Iceland - Beyond React 16](https://www.youtube.com/watch?v=v6iR3Zk4oDY)
@@ -102,6 +103,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 18 Jul 2016: [React Fiber architecture](https://github.com/acdlite/react-fiber-architecture) from Andrew Clark
 - 12 Apr 2016: [React-Basic](https://github.com/reactjs/react-basic) Sebastian's Conceptual notes on how React works
 - 16 Aug 2014: [Jordan Walke first tweet about Async rendering](https://twitter.com/jordwalke/status/500587022890061824)
+- 4 Jun 2010: [BigPipe: Pipelining web pages for high performance](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/) original idea for streaming SSR [related discussion](https://twitter.com/dan_abramov/status/990388105759940609)
 
 ## License
 

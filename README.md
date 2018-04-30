@@ -25,7 +25,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Team Public Communication
 
-- 28 Apr 2018: [Zeit Day: React Suspense and SSR](https://spectrum.chat/notifications?thread=5b655762-55d2-490f-b3be-d86485ff50db) Notes from @acdlite's presentation at Zeit Day - video pending.
+- 28 Apr 2018: [Zeit Day: React Suspense and SSR](https://spectrum.chat/notifications?thread=5b655762-55d2-490f-b3be-d86485ff50db) Notes from @acdlite's presentation at Zeit Day - [periscope video here](https://www.pscp.tv/zeithq/1BRKjrvoyYZKw?t=2h52m8s).
 - 27 Mar 2018: [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) blogpost on migration path for the deprecated and new lifecycle methods
 - 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense
 - 1 Mar 2018: [JSConf Iceland - Beyond React 16](https://www.youtube.com/watch?v=v6iR3Zk4oDY)
@@ -69,6 +69,8 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 26 Apr 2018: [@jaredpalmer prediction on react routers with suspense](https://twitter.com/jaredpalmer/status/989478105948606464)
+- 24 Apr 2018: [@ryanflorence on how Context will work with Suspense](https://twitter.com/ryanflorence/status/988877331715448832)
 - 30 Mar 2018: [@jaredpalmer / @mjackson working out react router in a Suspense world](https://twitter.com/jaredpalmer/status/979753531291979776)
 - 29 Mar 2018: [React Suspense: The Interactive Experience](https://slides.com/swyx/react-suspense#/) [background slides](https://slides.com/swyx/background-thread) Swyx's talk at ReactNYC Mar 2018
 - 29 Mar 2018: [React Suspense Debouncing use case](https://github.com/acdlite/react/blob/7166ce6d9b7973ddd5e06be9effdfaaeeff57ed6/packages/react-reconciler/src/tests/ReactSuspense-test.js#L573)

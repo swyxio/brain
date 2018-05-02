@@ -25,6 +25,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Team Public Communication
 
+- 2 May 2018: [@EphemeralCircle's Streaming SSR proof of concept (non React Suspense)](https://github.com/Ephem/streaming-ssr-progress-poc) link to [live version and discussion](https://twitter.com/EphemeralCircle/status/991617640945930241)
 - 28 Apr 2018: [Zeit Day: React Suspense and SSR](https://spectrum.chat/notifications?thread=5b655762-55d2-490f-b3be-d86485ff50db) Notes from @acdlite's presentation at Zeit Day - [periscope video here](https://www.pscp.tv/zeithq/1BRKjrvoyYZKw?t=2h52m8s).
 - 27 Mar 2018: [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) blogpost on migration path for the deprecated and new lifecycle methods
 - 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense

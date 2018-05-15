@@ -71,6 +71,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 15 May 2018: [@pete_gleeson's ANZCoders talk on how the createFetcher API and promise throwing works](https://www.youtube.com/watch?v=DsTsZ6cgPtw&feature=youtu.be&a)
 - 26 Apr 2018: [@jaredpalmer prediction on react routers with suspense](https://twitter.com/jaredpalmer/status/989478105948606464)
 - 24 Apr 2018: [@ryanflorence on how Context will work with Suspense](https://twitter.com/ryanflorence/status/988877331715448832)
 - 30 Mar 2018: [@jaredpalmer / @mjackson working out react router in a Suspense world](https://twitter.com/jaredpalmer/status/979753531291979776)

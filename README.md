@@ -35,7 +35,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
-- 17 May 2018: [Peggy Rayzis' React Apollo 3.0 with Suspense demo at ReactEurope](https://github.com/peggyrayzis/react-europe-apollo) Slides, demo, and graphql Server. Talk video forthcoming.
+- 17 May 2018: [Peggy Rayzis' React Apollo 3.0 with Suspense demo at ReactEurope](https://github.com/peggyrayzis/react-europe-apollo) Slides, demo, and graphql Server. [Talk video](https://youtu.be/hCyCIHKYRqg?t=1h17m25s).
 - 23 Apr 2018: [react-suspense-redux-cache](https://www.npmjs.com/package/react-suspense-redux-cache) another toy integration of redux with suspense (not production)
 - 22 Apr 2018: [React “Suspense” + RESTore Demo](https://github.com/coreh/RESTore/tree/master/examples/react) experimental restful data store, example of react suspense integration
 - 20 Apr 2018: [redux-suspense](https://github.com/alexeyraspopov/redux-suspense) experimental integration of redux with react suspense

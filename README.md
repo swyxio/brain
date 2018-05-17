@@ -72,7 +72,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
-- 17 May 2018: [@ken_wheeler's ReactEurope talk on React Suspense](https://youtu.be/-EF6RmH2eR4?t=1h22m9s) and the simple-cache-provider API ([slides](http://reacteurope2018.surge.sh/#/))
+- 17 May 2018: [@ken_wheeler's ReactEurope talk on React Suspense](https://youtu.be/-EF6RmH2eR4?t=1h22m9s) and the simple-cache-provider API ([slides](http://reacteurope2018.surge.sh/#/) and [code](https://github.com/FormidableLabs/react-europe-demos))
 - 15 May 2018: [@pete_gleeson's ANZCoders talk on how the createFetcher API and promise throwing works](https://www.youtube.com/watch?v=DsTsZ6cgPtw&feature=youtu.be&a)
 - 26 Apr 2018: [@jaredpalmer prediction on react routers with suspense](https://twitter.com/jaredpalmer/status/989478105948606464)
 - 24 Apr 2018: [@ryanflorence on how Context will work with Suspense](https://twitter.com/ryanflorence/status/988877331715448832)

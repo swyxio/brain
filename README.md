@@ -35,7 +35,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
-- 17 May 2018: [Peggy Rayzis' React Apollo 3.0 with Suspense demo at ReactEurope](https://github.com/peggyrayzis/react-europe-apollo) Slides, demo, and graphql Server. [Talk video](https://youtu.be/hCyCIHKYRqg?t=1h17m25s).
+- 17 May 2018: [Peggy Rayzis' React Apollo 3.0 with Suspense demo at ReactEurope](https://github.com/peggyrayzis/react-europe-apollo) Slides, demo, and graphql Server. [Talk video](https://www.youtube.com/watch?v=fCXYA3lZTbo).
 - 23 Apr 2018: [react-suspense-redux-cache](https://www.npmjs.com/package/react-suspense-redux-cache) another toy integration of redux with suspense (not production)
 - 22 Apr 2018: [React “Suspense” + RESTore Demo](https://github.com/coreh/RESTore/tree/master/examples/react) experimental restful data store, example of react suspense integration
 - 20 Apr 2018: [redux-suspense](https://github.com/alexeyraspopov/redux-suspense) experimental integration of redux with react suspense
@@ -72,7 +72,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
-- 17 May 2018: [@ken_wheeler's ReactEurope talk on React Suspense](https://youtu.be/-EF6RmH2eR4?t=1h22m9s) and the simple-cache-provider API ([slides](http://reacteurope2018.surge.sh/#/) and [code](https://github.com/FormidableLabs/react-europe-demos))
+- 17 May 2018: [@ken_wheeler's ReactEurope keynote, including React Suspense](https://www.youtube.com/watch?v=QFk6YwMz8nc) and the simple-cache-provider API ([slides](http://reacteurope2018.surge.sh/#/) and [code](https://github.com/FormidableLabs/react-europe-demos))
 - 15 May 2018: [@pete_gleeson's ANZCoders talk on how the createFetcher API and promise throwing works](https://www.youtube.com/watch?v=DsTsZ6cgPtw&feature=youtu.be&a)
 - 26 Apr 2018: [@jaredpalmer prediction on react routers with suspense](https://twitter.com/jaredpalmer/status/989478105948606464)
 - 24 Apr 2018: [@ryanflorence on how Context will work with Suspense](https://twitter.com/ryanflorence/status/988877331715448832)

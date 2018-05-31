@@ -2,7 +2,7 @@
 
 **YOU** have a say on every **fresh** 🍅 list. 
 
-- Check out [Pull Request](https://github.com/sw-yx/fresh-async-react/pulls)s for new links
+- Check out [Pull Requests](https://github.com/sw-yx/fresh-async-react/pulls) for new links
 - Check out other people's PRs and 👍🏼 or 👎 or comment. PRs above 3 👍's get approved on this repo
 - Hit **WATCH** on this repo to stay up to date!
 
@@ -37,6 +37,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 - 17 May 2018: [Peggy Rayzis' React Apollo 3.0 with Suspense demo at ReactEurope](https://github.com/peggyrayzis/react-europe-apollo) Slides, demo, and graphql Server. [Talk video](https://www.youtube.com/watch?v=fCXYA3lZTbo).
 - 29 Apr 2018: [@acdlite React Suspense SSR demo](https://github.com/acdlite/suspense-ssr-demo) code for Andrew's ZEIT day talk.
+- 24 Apr 2018: [React Suspense Server Renderer](https://github.com/acdlite/react/commit/0e8d322b70d61a334bc94195ed2929787fe5f4ed) just a prototype - not an official PR
 - 23 Apr 2018: [react-suspense-redux-cache](https://www.npmjs.com/package/react-suspense-redux-cache) another toy integration of redux with suspense (not production)
 - 22 Apr 2018: [React “Suspense” + RESTore Demo](https://github.com/coreh/RESTore/tree/master/examples/react) experimental restful data store, example of react suspense integration
 - 20 Apr 2018: [redux-suspense](https://github.com/alexeyraspopov/redux-suspense) experimental integration of redux with react suspense
@@ -78,6 +79,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 15 May 2018: [@pete_gleeson's ANZCoders talk on how the createFetcher API and promise throwing works](https://www.youtube.com/watch?v=DsTsZ6cgPtw&feature=youtu.be&a)
 - 26 Apr 2018: [@jaredpalmer prediction on react routers with suspense](https://twitter.com/jaredpalmer/status/989478105948606464)
 - 24 Apr 2018: [@ryanflorence on how Context will work with Suspense](https://twitter.com/ryanflorence/status/988877331715448832)
+- 24 Apr 2018: [React Suspense Server Renderer](https://github.com/acdlite/react/commit/0e8d322b70d61a334bc94195ed2929787fe5f4ed) just a prototype - not an official PR
 - 30 Mar 2018: [@jaredpalmer / @mjackson working out react router in a Suspense world](https://twitter.com/jaredpalmer/status/979753531291979776)
 - 29 Mar 2018: [React Suspense: The Interactive Experience](https://slides.com/swyx/react-suspense#/) [background slides](https://slides.com/swyx/background-thread) Swyx's talk at ReactNYC Mar 2018
 - 29 Mar 2018: [React Suspense Debouncing use case](https://github.com/acdlite/react/blob/7166ce6d9b7973ddd5e06be9effdfaaeeff57ed6/packages/react-reconciler/src/tests/ReactSuspense-test.js#L573)

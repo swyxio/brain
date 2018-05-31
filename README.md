@@ -26,7 +26,7 @@ This repo has no affiliation to the React team. For official communication from 
 # React Team Public Communication
 
 - 2 May 2018: [@EphemeralCircle's Streaming SSR proof of concept (non React Suspense)](https://github.com/Ephem/streaming-ssr-progress-poc) link to [live version and discussion](https://twitter.com/EphemeralCircle/status/991617640945930241)
-- 28 Apr 2018: [Zeit Day: React Suspense and SSR](https://spectrum.chat/notifications?thread=5b655762-55d2-490f-b3be-d86485ff50db) Notes from @acdlite's presentation at Zeit Day - [video here](https://www.youtube.com/watch?v=z-6JC0_cOns) and a bit of [Twitter discussion](https://twitter.com/acdlite/status/1001163729965232128).
+- 28 Apr 2018: [Zeit Day: React Suspense and SSR](https://spectrum.chat/notifications?thread=5b655762-55d2-490f-b3be-d86485ff50db) Notes from @acdlite's presentation at Zeit Day - [video here](https://www.youtube.com/watch?v=z-6JC0_cOns) and a bit of [Twitter discussion](https://twitter.com/acdlite/status/1001163729965232128). [Demo code is here](https://github.com/acdlite/suspense-ssr-demo)
 - 27 Mar 2018: [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) blogpost on migration path for the deprecated and new lifecycle methods
 - 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense
 - 1 Mar 2018: [JSConf Iceland - Beyond React 16](https://www.youtube.com/watch?v=v6iR3Zk4oDY)
@@ -36,6 +36,7 @@ This repo has no affiliation to the React team. For official communication from 
 # Code To Check Out
 
 - 17 May 2018: [Peggy Rayzis' React Apollo 3.0 with Suspense demo at ReactEurope](https://github.com/peggyrayzis/react-europe-apollo) Slides, demo, and graphql Server. [Talk video](https://www.youtube.com/watch?v=fCXYA3lZTbo).
+- 29 Apr 2018: [@acdlite React Suspense SSR demo](https://github.com/acdlite/suspense-ssr-demo) code for Andrew's ZEIT day talk.
 - 23 Apr 2018: [react-suspense-redux-cache](https://www.npmjs.com/package/react-suspense-redux-cache) another toy integration of redux with suspense (not production)
 - 22 Apr 2018: [React “Suspense” + RESTore Demo](https://github.com/coreh/RESTore/tree/master/examples/react) experimental restful data store, example of react suspense integration
 - 20 Apr 2018: [redux-suspense](https://github.com/alexeyraspopov/redux-suspense) experimental integration of redux with react suspense

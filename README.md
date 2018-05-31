@@ -34,6 +34,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 31 May 2018: [@reach/router examples](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples) with time-slicing and suspense
 - 17 May 2018: [Peggy Rayzis' React Apollo 3.0 with Suspense demo at ReactEurope](https://github.com/peggyrayzis/react-europe-apollo) Slides, demo, and graphql Server. [Talk video](https://www.youtube.com/watch?v=fCXYA3lZTbo).
 - 29 Apr 2018: [@acdlite React Suspense SSR demo](https://github.com/acdlite/suspense-ssr-demo) code for Andrew's ZEIT day talk.
 - 24 Apr 2018: [React Suspense Server Renderer](https://github.com/acdlite/react/commit/0e8d322b70d61a334bc94195ed2929787fe5f4ed) just a prototype - not an official PR
@@ -73,6 +74,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 31 May 2018: [@reach/router example for suspense](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples/suspense)
 - 25 May 2018: [@swyx React Suspense talk](https://www.youtube.com/watch?v=DzpLKwjmFw8) a makeup from ReactNYC ([slides](https://slides.com/swyx/react-suspense))
 - 17 May 2018: [@ken_wheeler's ReactEurope keynote, including React Suspense](https://www.youtube.com/watch?v=QFk6YwMz8nc) and the simple-cache-provider API ([slides](http://reacteurope2018.surge.sh/#/) and [code](https://github.com/FormidableLabs/react-europe-demos))
 - 15 May 2018: [@pete_gleeson's ANZCoders talk on how the createFetcher API and promise throwing works](https://www.youtube.com/watch?v=DsTsZ6cgPtw&feature=youtu.be&a)
@@ -103,6 +105,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Time Slicing-specific
 
+- 31 May 2018: [@reach/router example for time slicing](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples/time-slicing)
 - 29 Mar 2018: [mobz/lag-radar](https://github.com/mobz/lag-radar) the radar used in Dan's demo
 
 # Streaming SSR specific

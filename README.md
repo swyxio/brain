@@ -56,6 +56,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Async React/React Fiber general info
 
+- 24 Jun 2018: [Discussion between @sebmarkbage, @dan_abramov et al on state management](https://twitter.com/sebmarkbage/status/1011003586799517696) long twitter thread.
 - 17 Jun 2018: [Michael Jackson on React Components (The Frontside Podcast)](https://frontsidethepodcast.simplecast.fm/f938c562) React suspense discussion 35 mins in
 - 3 May 2018: [Michael Jackson and Jay Phelps on Topics in React (Modern Web Podcast)](https://www.youtube.com/watch?v=2IIISbHFzsI) First part discusses Async react and React suspense
 - 19 Apr 2018: [Toru Kobayashi: Async Rendering slide deck](https://speakerdeck.com/koba04/ready-for-async-rendering)

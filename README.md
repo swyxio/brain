@@ -77,6 +77,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 13 Jun 2018: [Code splitting with React suspense](https://twitter.com/acdlite/status/1007062696141787136) screenshot of sample API shipping to Facebook staff
 - 31 May 2018: [@reach/router example for suspense](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples/suspense)
 - 25 May 2018: [@swyx React Suspense talk](https://www.youtube.com/watch?v=DzpLKwjmFw8) a makeup from ReactNYC ([slides](https://slides.com/swyx/react-suspense))
 - 17 May 2018: [@ken_wheeler's ReactEurope keynote, including React Suspense](https://www.youtube.com/watch?v=QFk6YwMz8nc) and the simple-cache-provider API ([slides](http://reacteurope2018.surge.sh/#/) and [code](https://github.com/FormidableLabs/react-europe-demos))

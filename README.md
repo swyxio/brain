@@ -25,6 +25,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Team Public Communication
 
+- 13 Jul 2018: [Suspense Umbrella Issue](https://github.com/facebook/react/issues/13206) tracking the remaining issues before official release
 - 28 Apr 2018: [Zeit Day: React Suspense and SSR](https://spectrum.chat/notifications?thread=5b655762-55d2-490f-b3be-d86485ff50db) Notes from @acdlite's presentation at Zeit Day - [video here](https://www.youtube.com/watch?v=z-6JC0_cOns) and a bit of [Twitter discussion](https://twitter.com/acdlite/status/1001163729965232128). [Demo code is here](https://github.com/acdlite/suspense-ssr-demo)
 - 27 Mar 2018: [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) blogpost on migration path for the deprecated and new lifecycle methods
 - 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense

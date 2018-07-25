@@ -57,6 +57,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Async React/React Fiber general info
 
+- 24 Jul 2018: [Async React Rollout/Adoption Plan](https://github.com/facebook/react/issues/13206#issuecomment-407535077) on the React Suspense Umbrella tracker issue.
 - 24 Jun 2018: [Discussion between @sebmarkbage, @dan_abramov et al on state management](https://twitter.com/sebmarkbage/status/1011003586799517696) long twitter thread.
 - 20 Jun 2018: [Brian Vaughn demoing prototype of new async-ready Profiler devtool](https://twitter.com/brian_d_vaughn/status/1009588924992221185) youtube walkthru with [followup here](https://twitter.com/brian_d_vaughn/status/1009977215176491008)
 - 17 Jun 2018: [Michael Jackson on React Components (The Frontside Podcast)](https://frontsidethepodcast.simplecast.fm/f938c562) React suspense discussion 35 mins in

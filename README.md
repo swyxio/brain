@@ -127,6 +127,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 16 Mar 2017: [React Performance End to End](https://www.youtube.com/watch?v=bvFpe5j9-zQ) Sebastian's presentation at ReactConf 2017
 - 18 Jul 2016: [React Fiber architecture](https://github.com/acdlite/react-fiber-architecture) from Andrew Clark
 - 12 Apr 2016: [React-Basic](https://github.com/reactjs/react-basic) Sebastian's Conceptual notes on how React works
+- 2 Mar 2016: [First Github disccussion of what became the Fiber rewrite](https://github.com/facebook/react/issues/6170) with timeslicing/suspense/context/error boundaries named
 - 16 Aug 2014: [Jordan Walke first tweet about Async rendering](https://twitter.com/jordwalke/status/500587022890061824)
 - 4 Jun 2010: [BigPipe: Pipelining web pages for high performance](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/) original idea for streaming SSR [related discussion](https://twitter.com/dan_abramov/status/990388105759940609)
 

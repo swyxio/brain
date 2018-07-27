@@ -35,6 +35,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 26 Jul 2018: [Sunil Pai's CSS Suspense library](https://github.com/threepointone/css-suspense) - including [Twitter prediscussion](https://twitter.com/threepointone/status/1022590660094947329)
 - 17 May 2018: [Peggy Rayzis' React Apollo 3.0 with Suspense demo at ReactEurope](https://github.com/peggyrayzis/react-europe-apollo) Slides, demo, and graphql Server. [Talk video](https://www.youtube.com/watch?v=fCXYA3lZTbo).
 - 29 Apr 2018: [@acdlite React Suspense SSR demo](https://github.com/acdlite/suspense-ssr-demo) code for Andrew's ZEIT day talk.
 - 24 Apr 2018: [React Suspense Server Renderer](https://github.com/acdlite/react/commit/0e8d322b70d61a334bc94195ed2929787fe5f4ed) just a prototype - not an official PR

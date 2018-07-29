@@ -79,6 +79,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 29 Jul 2018: [bvaughn playing with Devtools + Suspense](https://www.youtube.com/watch?v=5RzOiibu8sg) - demos Placeholder, createRoot for the first time
 - 13 Jun 2018: [Code splitting with React suspense](https://twitter.com/acdlite/status/1007062696141787136) screenshot of sample API shipping to Facebook staff
 - 31 May 2018: [@reach/router example for suspense](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples/suspense)
 - 25 May 2018: [@swyx React Suspense talk](https://www.youtube.com/watch?v=DzpLKwjmFw8) a makeup from ReactNYC ([slides](https://slides.com/swyx/react-suspense))
@@ -118,6 +119,15 @@ This repo has no affiliation to the React team. For official communication from 
 
 - 2 May 2018: [@EphemeralCircle's Streaming SSR proof of concept (non React Suspense)](https://github.com/Ephem/streaming-ssr-progress-poc) link to [live version and discussion](https://twitter.com/EphemeralCircle/status/991617640945930241)
 - 29 Apr 2018: [@acdlite React Suspense SSR demo](https://github.com/acdlite/suspense-ssr-demo) code for Andrew's ZEIT day talk.
+
+# DevTools Profiler specific
+
+- 28 Jul 2018: [Demo: DevTools Profiler with "interactions"](https://www.youtube.com/watch?v=vfm4018YBEY) and [minor twitter discussion](https://twitter.com/brian_d_vaughn/status/1023272704856576002)
+- 28 Jul 2018: [WIP fork of devtools with Profiler](https://github.com/bvaughn/react-devtools/tree/profiler-poc) - Github
+- 16 Jul 2018: [Profiler integrated with Interaction-Tracking](https://github.com/facebook/react/pull/13253) - Github PR
+- 11 Jul 2018: [Interaction Tracking POC](https://github.com/facebook/react/pull/13234) - Github PR
+- 20 Jun 2018: [Demo: DevTools Profiler](https://www.youtube.com/watch?v=-Ud_265QAwM) - youtube
+- 22 May 2018: [Profiler RFC](https://github.com/reactjs/rfcs/pull/51) - Github RFC
 
 # History
 

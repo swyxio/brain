@@ -25,7 +25,8 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Team Public Communication
 
-- 13 Jul 2018: [Suspense Umbrella Issue](https://github.com/facebook/react/issues/13206) tracking the remaining issues before official release
+- 2 Aug 2018: [Time Slicing Umbrella Issue](https://github.com/facebook/react/issues/13306) - (Github)
+- 13 Jul 2018: [Suspense Umbrella Issue](https://github.com/facebook/react/issues/13206) tracking the remaining issues before official release (Github)
 - 28 Apr 2018: [Zeit Day: React Suspense and SSR](https://spectrum.chat/notifications?thread=5b655762-55d2-490f-b3be-d86485ff50db) Notes from @acdlite's presentation at Zeit Day - [video here](https://www.youtube.com/watch?v=z-6JC0_cOns) and a bit of [Twitter discussion](https://twitter.com/acdlite/status/1001163729965232128). [Demo code is here](https://github.com/acdlite/suspense-ssr-demo)
 - 27 Mar 2018: [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) blogpost on migration path for the deprecated and new lifecycle methods
 - 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense
@@ -81,6 +82,7 @@ This repo has no affiliation to the React team. For official communication from 
 # React Suspense-specific
 
 - 29 Jul 2018: [bvaughn playing with Devtools + Suspense](https://www.youtube.com/watch?v=5RzOiibu8sg) - demos Placeholder, createRoot for the first time
+- 13 Jul 2018: [Suspense Umbrella Issue](https://github.com/facebook/react/issues/13206) tracking the remaining issues before official release (Github)
 - 13 Jun 2018: [Code splitting with React suspense](https://twitter.com/acdlite/status/1007062696141787136) screenshot of sample API shipping to Facebook staff
 - 31 May 2018: [@reach/router example for suspense](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples/suspense)
 - 25 May 2018: [@swyx React Suspense talk](https://www.youtube.com/watch?v=DzpLKwjmFw8) a makeup from ReactNYC ([slides](https://slides.com/swyx/react-suspense))
@@ -113,6 +115,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Time Slicing-specific
 
+- 2 Aug 2018: [Time Slicing Umbrella Issue](https://github.com/facebook/react/issues/13306) - (Github)
 - 31 May 2018: [@reach/router example for time slicing](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples/time-slicing)
 - 29 Mar 2018: [mobz/lag-radar](https://github.com/mobz/lag-radar) the radar used in Dan's demo
 

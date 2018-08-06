@@ -81,6 +81,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 6 Aug 2018: [@sebmarkbage on when to use preload() vs read()](https://twitter.com/sebmarkbage/status/1026514420908744704)
 - 29 Jul 2018: [bvaughn playing with Devtools + Suspense](https://www.youtube.com/watch?v=5RzOiibu8sg) - demos Placeholder, createRoot for the first time
 - 13 Jul 2018: [Suspense Umbrella Issue](https://github.com/facebook/react/issues/13206) tracking the remaining issues before official release (Github)
 - 13 Jun 2018: [Code splitting with React suspense](https://twitter.com/acdlite/status/1007062696141787136) screenshot of sample API shipping to Facebook staff

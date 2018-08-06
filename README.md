@@ -36,6 +36,8 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)
+- 2 Aug 2018: [JSConf Iceland Time Slicing demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/time-slicing)
 - 29 Jul 2018: [basic Suspense Demo gist](https://gist.github.com/bvaughn/76237e82b725c62287b4d8116505b339) from Brian Vaughn's [devtools + suspense livestream](https://www.youtube.com/watch?v=5RzOiibu8sg)
 - 26 Jul 2018: [Sunil Pai's CSS Suspense library](https://github.com/threepointone/css-suspense) - including [Twitter prediscussion](https://twitter.com/threepointone/status/1022590660094947329)
 - 17 May 2018: [Peggy Rayzis' React Apollo 3.0 with Suspense demo at ReactEurope](https://github.com/peggyrayzis/react-europe-apollo) Slides, demo, and graphql Server. [Talk video](https://www.youtube.com/watch?v=fCXYA3lZTbo).
@@ -81,7 +83,8 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
-- 6 Aug 2018: [@sebmarkbage on when to use preload() vs read()](https://twitter.com/sebmarkbage/status/1026514420908744704)
+- 6 Aug 2018: [dan](https://twitter.com/dan_abramov/status/1026513611269840898) and [@sebmarkbage on when to use preload() vs read()](https://twitter.com/sebmarkbage/status/1026514420908744704)
+- 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)
 - 29 Jul 2018: [bvaughn playing with Devtools + Suspense](https://www.youtube.com/watch?v=5RzOiibu8sg) - demos Placeholder, createRoot for the first time
 - 13 Jul 2018: [Suspense Umbrella Issue](https://github.com/facebook/react/issues/13206) tracking the remaining issues before official release (Github)
 - 13 Jun 2018: [Code splitting with React suspense](https://twitter.com/acdlite/status/1007062696141787136) screenshot of sample API shipping to Facebook staff
@@ -116,6 +119,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Time Slicing-specific
 
+- 2 Aug 2018: [JSConf Iceland Time Slicing demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/time-slicing)
 - 2 Aug 2018: [Time Slicing Umbrella Issue](https://github.com/facebook/react/issues/13306) - (Github)
 - 31 May 2018: [@reach/router example for time slicing](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples/time-slicing)
 - 29 Mar 2018: [mobz/lag-radar](https://github.com/mobz/lag-radar) the radar used in Dan's demo

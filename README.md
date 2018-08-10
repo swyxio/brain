@@ -15,9 +15,7 @@
 
 # How to Try Out Async React today
 
-I have to put the requisite disclaimer that you shouldn't do this for anything in production. If you just want to tinker, any version after [16.4.0-alpha.0911da3](https://github.com/reactjs/react-redux/issues/890#issuecomment-371846088) is good.
-
-Here is a short guide to [Try React Suspense in 5 Minutes](https://dev.to/swyx/how-to-try-react-suspense-in-5-minutes-474c).
+Use Jared Palmer's [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter)!
 
 # Note
 
@@ -36,6 +34,8 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 10 Aug 2018: [React Router Suspense](https://github.com/palmerhq/router-suspense) Jared Palmer's take on a suspense-ready version of React Router
+- 10 Aug 2018: [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter) prerelease, prebuilt version of React with Suspense enabled
 - 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)
 - 2 Aug 2018: [JSConf Iceland Time Slicing demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/time-slicing)
 - 29 Jul 2018: [basic Suspense Demo gist](https://gist.github.com/bvaughn/76237e82b725c62287b4d8116505b339) from Brian Vaughn's [devtools + suspense livestream](https://www.youtube.com/watch?v=5RzOiibu8sg)

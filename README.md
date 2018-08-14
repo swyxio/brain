@@ -26,6 +26,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 2 Aug 2018: [Time Slicing Umbrella Issue](https://github.com/facebook/react/issues/13306) - (Github)
 - 13 Jul 2018: [Suspense Umbrella Issue](https://github.com/facebook/react/issues/13206) tracking the remaining issues before official release (Github)
 - 28 Apr 2018: [Zeit Day: React Suspense and SSR](https://spectrum.chat/notifications?thread=5b655762-55d2-490f-b3be-d86485ff50db) Notes from @acdlite's presentation at Zeit Day - [video here](https://www.youtube.com/watch?v=z-6JC0_cOns) and a bit of [Twitter discussion](https://twitter.com/acdlite/status/1001163729965232128). [Demo code is here](https://github.com/acdlite/suspense-ssr-demo)
+- 23 Apr 2018: [Explanation of the double buffering Update Queue in ReactUpdateQueue.js](https://github.com/facebook/react/blame/5550ed4a8f33ff562e807175b8f35a1f9e037670/packages/react-reconciler/src/ReactUpdateQueue.js#L10) - comments in react source code
 - 27 Mar 2018: [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) blogpost on migration path for the deprecated and new lifecycle methods
 - 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense
 - 1 Mar 2018: [JSConf Iceland - Beyond React 16](https://www.youtube.com/watch?v=v6iR3Zk4oDY)

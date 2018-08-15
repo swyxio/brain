@@ -23,6 +23,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Team Public Communication
 
+- 15 Aug 2018: [React.lazy PR](https://github.com/facebook/react/pull/13398) - Github (after adding [promises as component types](https://github.com/facebook/react/pull/13397))
 - 2 Aug 2018: [Time Slicing Umbrella Issue](https://github.com/facebook/react/issues/13306) - (Github)
 - 13 Jul 2018: [Suspense Umbrella Issue](https://github.com/facebook/react/issues/13206) tracking the remaining issues before official release (Github)
 - 28 Apr 2018: [Zeit Day: React Suspense and SSR](https://spectrum.chat/notifications?thread=5b655762-55d2-490f-b3be-d86485ff50db) Notes from @acdlite's presentation at Zeit Day - [video here](https://www.youtube.com/watch?v=z-6JC0_cOns) and a bit of [Twitter discussion](https://twitter.com/acdlite/status/1001163729965232128). [Demo code is here](https://github.com/acdlite/suspense-ssr-demo)
@@ -35,6 +36,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 15 Aug 2018: [react-async-elements](https://github.com/palmerhq/react-async-elements) Suspense-friendly async React elements for common situations e.g. <Img> and <Script>
 - 10 Aug 2018: [React Router Suspense](https://github.com/palmerhq/router-suspense) Jared Palmer's take on a suspense-ready version of React Router
 - 10 Aug 2018: [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter) prerelease, prebuilt version of React with Suspense enabled
 - 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)

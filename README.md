@@ -17,6 +17,8 @@
 
 Use Jared Palmer's [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter)!
 
+or see the [live React Suspense Movie Demo here](https://build-twykjydwfh.now.sh/)
+
 # Note
 
 This repo has no affiliation to the React team. For official communication from them, please visit [the React blog](https://reactjs.org/blog) and follow their Twitter updates [here](https://twitter.com/reactjs). **Our intent is NOT to be a substitute for official communication**, rather it is for early adopters sharing links to understand and try out things from the community.
@@ -39,7 +41,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 15 Aug 2018: [react-async-elements](https://github.com/palmerhq/react-async-elements) Suspense-friendly async React elements for common situations e.g. <Img> and <Script>
 - 10 Aug 2018: [React Router Suspense](https://github.com/palmerhq/router-suspense) Jared Palmer's take on a suspense-ready version of React Router
 - 10 Aug 2018: [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter) prerelease, prebuilt version of React with Suspense enabled
-- 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)
+- 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense) - Movie demo code hosted [here](https://build-twykjydwfh.now.sh/), hit ? to show cache and click to load resources
 - 2 Aug 2018: [JSConf Iceland Time Slicing demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/time-slicing)
 - 29 Jul 2018: [basic Suspense Demo gist](https://gist.github.com/bvaughn/76237e82b725c62287b4d8116505b339) from Brian Vaughn's [devtools + suspense livestream](https://www.youtube.com/watch?v=5RzOiibu8sg)
 - 26 Jul 2018: [Sunil Pai's CSS Suspense library](https://github.com/threepointone/css-suspense) - including [Twitter prediscussion](https://twitter.com/threepointone/status/1022590660094947329)

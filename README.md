@@ -38,6 +38,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 18 Aug 2018: [@TejasKumar_'s demo at grilljs](https://codesandbox.io/s/jnqw46y79) - Codesandbox (note caveat from [Dan](https://twitter.com/TejasKumar_/status/1030925915696582657))
 - 15 Aug 2018: [react-async-elements](https://github.com/palmerhq/react-async-elements) Suspense-friendly async React elements for common situations e.g. <Img> and <Script>
 - 10 Aug 2018: [React Router Suspense](https://github.com/palmerhq/router-suspense) Jared Palmer's take on a suspense-ready version of React Router
 - 10 Aug 2018: [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter) prerelease, prebuilt version of React with Suspense enabled

@@ -25,6 +25,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Team Public Communication
 
+- 18 Aug 2018: [Transcript of @sophiebits' Q&A on Reactiflux](https://www.reactiflux.com/transcripts/sophie-alpert-2/) - covering Suspense, offscreen rendering, and misc React Native questions
 - 15 Aug 2018: [React.lazy PR](https://github.com/facebook/react/pull/13398) - Github (after adding [promises as component types](https://github.com/facebook/react/pull/13397))
 - 2 Aug 2018: [Time Slicing Umbrella Issue](https://github.com/facebook/react/issues/13306) - (Github)
 - 13 Jul 2018: [Suspense Umbrella Issue](https://github.com/facebook/react/issues/13206) tracking the remaining issues before official release (Github)

@@ -69,9 +69,9 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Async React/React Fiber general info
 
-- 18 Aug 2018: swyx@React Rally: Why React is -not- Reactive - [Youtube](https://www.youtube.com/watch?v=SaO-7Lk5hZ8), [Slides](http://swyx.io/ReactRally)
-- 18 Aug 2018: Brandon Dail@React Rally: Algebraic Effects, Fibers, Coroutines - [Youtube](https://www.youtube.com/watch?v=cWY1QzyFhfk), [Slides](http://fibers-effects-react-rally.surge.sh/#/), [Transcript](http://fibers-effects-react-rally.surge.sh/#/?presenter)
-- 18 Aug 2018: Ryan Florence@React Rally: Route Recalculating - [Youtube](https://www.youtube.com/watch?v=ii-T6HrkZFM&t=30240s), [Twitter](https://twitter.com/ryanflorence/status/1031597914584363008)
+- 18 Aug 2018: swyx@React Rally: Why React is -not- Reactive - [Youtube](https://www.youtube.com/watch?v=nyFHR0dDZo0), [Slides](http://swyx.io/ReactRally)
+- 18 Aug 2018: Brandon Dail@React Rally: Algebraic Effects, Fibers, Coroutines - [Youtube](https://www.youtube.com/watch?v=7GcrT0SBSnI), [Slides](http://fibers-effects-react-rally.surge.sh/#/), [Transcript](http://fibers-effects-react-rally.surge.sh/#/?presenter)
+- 18 Aug 2018: Ryan Florence@React Rally: Route Recalculating - [Youtube](https://www.youtube.com/watch?v=X-kA8B2QzjY), [Twitter](https://twitter.com/ryanflorence/status/1031597914584363008)
 - 24 Jul 2018: [Async React Rollout/Adoption Plan](https://github.com/facebook/react/issues/13206#issuecomment-407535077) on the React Suspense Umbrella tracker issue.
 - 24 Jun 2018: [Discussion between @sebmarkbage, @dan_abramov et al on state management](https://twitter.com/sebmarkbage/status/1011003586799517696) long twitter thread.
 - 20 Jun 2018: [Brian Vaughn demoing prototype of new async-ready Profiler devtool](https://twitter.com/brian_d_vaughn/status/1009588924992221185) youtube walkthru with [followup here](https://twitter.com/brian_d_vaughn/status/1009977215176491008)

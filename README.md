@@ -94,6 +94,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 21 Aug 2018: [Todo lo que debes saber sobre React Suspense](https://yeisondaza.com/todo-lo-que-debes-saber-sobre-react-suspense) (spanish) blogpost about general knowledge to use React Suspense
 - 21 Aug 2018: [Dan](https://twitter.com/dan_abramov/status/1032053023936262144) on how Suspense does partial rendering and async render isn't necessarily slower than sync render
 - 6 Aug 2018: [dan](https://twitter.com/dan_abramov/status/1026513611269840898) and [@sebmarkbage on when to use preload() vs read()](https://twitter.com/sebmarkbage/status/1026514420908744704)
 - 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)

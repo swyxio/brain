@@ -40,6 +40,7 @@ This repo has no affiliation to the React team. For official communication from 
 # Code To Check Out
 
 - 18 Aug 2018: [@TejasKumar_'s demo at grilljs](https://codesandbox.io/s/jnqw46y79) - Codesandbox (note caveat from [Dan](https://twitter.com/TejasKumar_/status/1030925915696582657))
+- 17 Aug 2018: [@mweststrate using mobx and suspense](https://twitter.com/mweststrate/status/1030479604656553984) - Codesandbox
 - 15 Aug 2018: [react-async-elements](https://github.com/palmerhq/react-async-elements) Suspense-friendly async React elements for common situations e.g. <Img> and <Script>
 - 10 Aug 2018: [React Router Suspense](https://github.com/palmerhq/router-suspense) Jared Palmer's take on a suspense-ready version of React Router
 - 10 Aug 2018: [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter) prerelease, prebuilt version of React with Suspense enabled
@@ -68,6 +69,9 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Async React/React Fiber general info
 
+- 18 Aug 2018: swyx@React Rally: Why React is -not- Reactive - [Youtube](https://www.youtube.com/watch?v=SaO-7Lk5hZ8), [Slides](http://swyx.io/ReactRally)
+- 18 Aug 2018: Brandon Dail@React Rally: Algebraic Effects, Fibers, Coroutines - [Youtube](https://www.youtube.com/watch?v=cWY1QzyFhfk), [Slides](http://fibers-effects-react-rally.surge.sh/#/), [Transcript](http://fibers-effects-react-rally.surge.sh/#/?presenter)
+- 18 Aug 2018: Ryan Florence@React Rally: Route Recalculating - [Youtube](https://www.youtube.com/watch?v=ii-T6HrkZFM&t=30240s), [Twitter](https://twitter.com/ryanflorence/status/1031597914584363008)
 - 24 Jul 2018: [Async React Rollout/Adoption Plan](https://github.com/facebook/react/issues/13206#issuecomment-407535077) on the React Suspense Umbrella tracker issue.
 - 24 Jun 2018: [Discussion between @sebmarkbage, @dan_abramov et al on state management](https://twitter.com/sebmarkbage/status/1011003586799517696) long twitter thread.
 - 20 Jun 2018: [Brian Vaughn demoing prototype of new async-ready Profiler devtool](https://twitter.com/brian_d_vaughn/status/1009588924992221185) youtube walkthru with [followup here](https://twitter.com/brian_d_vaughn/status/1009977215176491008)
@@ -90,6 +94,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 21 Aug 2018: [Dan](https://twitter.com/dan_abramov/status/1032053023936262144) on how Suspense does partial rendering and async render isn't necessarily slower than sync render
 - 6 Aug 2018: [dan](https://twitter.com/dan_abramov/status/1026513611269840898) and [@sebmarkbage on when to use preload() vs read()](https://twitter.com/sebmarkbage/status/1026514420908744704)
 - 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)
 - 29 Jul 2018: [bvaughn playing with Devtools + Suspense](https://www.youtube.com/watch?v=5RzOiibu8sg) - demos Placeholder, createRoot for the first time
@@ -133,6 +138,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Streaming SSR specific
 
+- 21 Aug 2018: [Jared palmer on single-pass SSR](https://twitter.com/jaredpalmer/status/1030895900527403009)
 - 2 May 2018: [@EphemeralCircle's Streaming SSR proof of concept (non React Suspense)](https://github.com/Ephem/streaming-ssr-progress-poc) link to [live version and discussion](https://twitter.com/EphemeralCircle/status/991617640945930241)
 - 29 Apr 2018: [@acdlite React Suspense SSR demo](https://github.com/acdlite/suspense-ssr-demo) code for Andrew's ZEIT day talk.
 

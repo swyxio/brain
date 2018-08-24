@@ -144,6 +144,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # DevTools Profiler specific
 
+- 23 Aug 2018: [Publicly released on Chrome web store](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - [Umbrella issue for remaining issues here](https://github.com/facebook/react-devtools/issues/1099)
 - 22 Aug 2018: [Public Beta Site for React DevTools pre-release build](https://react-devtools-profiler-prerelease.now.sh/) - [website](https://react-devtools-profiler-prerelease.now.sh/), [Twitter](https://twitter.com/brian_d_vaughn/status/1030966937470160896)
 - 28 Jul 2018: [Demo: DevTools Profiler with "interactions"](https://www.youtube.com/watch?v=vfm4018YBEY) and [minor twitter discussion](https://twitter.com/brian_d_vaughn/status/1023272704856576002)
 - 28 Jul 2018: [WIP fork of devtools with Profiler](https://github.com/bvaughn/react-devtools/tree/profiler-poc) - Github

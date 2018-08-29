@@ -39,6 +39,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 28 Aug 2018: [@ericclemmons React.lazy example](https://github.com/ericclemmons/react.lazy-example) - (with caution from [Seb](https://twitter.com/sebmarkbage/status/1034677541762564096))
 - 18 Aug 2018: [@TejasKumar_'s demo at grilljs](https://codesandbox.io/s/jnqw46y79) - Codesandbox (note caveat from [Dan](https://twitter.com/TejasKumar_/status/1030925915696582657))
 - 17 Aug 2018: [@mweststrate using mobx and suspense](https://twitter.com/mweststrate/status/1030479604656553984) - Codesandbox
 - 15 Aug 2018: [react-async-elements](https://github.com/palmerhq/react-async-elements) Suspense-friendly async React elements for common situations e.g. <Img> and <Script>

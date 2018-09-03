@@ -132,6 +132,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Time Slicing-specific
 
+- 3 Sep 2018: [Time slicing and the `hidden` attribute](https://github.com/oliviertassinari/react-swipeable-views/issues/453#issuecomment-417939459) - [further commentary on Twitter](https://twitter.com/dan_abramov/status/1036280032723955713)
 - 2 Aug 2018: [JSConf Iceland Time Slicing demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/time-slicing)
 - 2 Aug 2018: [Time Slicing Umbrella Issue](https://github.com/facebook/react/issues/13306) - (Github)
 - 31 May 2018: [@reach/router example for time slicing](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples/time-slicing)

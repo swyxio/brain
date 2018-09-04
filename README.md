@@ -39,6 +39,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 4 Sep 2018: [@pshrmn's @curi/router](https://curi.js.org) - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo)
 - 28 Aug 2018: [@ericclemmons React.lazy example](https://github.com/ericclemmons/react.lazy-example) - (with caution from [Seb](https://twitter.com/sebmarkbage/status/1034677541762564096))
 - 18 Aug 2018: [@TejasKumar_'s demo at grilljs](https://codesandbox.io/s/jnqw46y79) - Codesandbox (note caveat from [Dan](https://twitter.com/TejasKumar_/status/1030925915696582657))
 - 17 Aug 2018: [@mweststrate using mobx and suspense](https://twitter.com/mweststrate/status/1030479604656553984) - Codesandbox
@@ -95,6 +96,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 4 Sep 2018: [@curi/router](https://curi.js.org) demo - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo)
 - 21 Aug 2018: [Dan](https://twitter.com/dan_abramov/status/1032053023936262144) on how Suspense does partial rendering and async render isn't necessarily slower than sync render
 - 6 Aug 2018: [dan](https://twitter.com/dan_abramov/status/1026513611269840898) and [@sebmarkbage on when to use preload() vs read()](https://twitter.com/sebmarkbage/status/1026514420908744704)
 - 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)

@@ -39,7 +39,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
-- 4 Sep 2018: [@pshrmn's @curi/router](https://curi.js.org) - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo)
+- 4 Sep 2018: [@pshrmn's @curi/router](https://curi.js.org) - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo) - [Twitter convo](https://twitter.com/pshrmn/status/1036793476078350336)
 - 28 Aug 2018: [@ericclemmons React.lazy example](https://github.com/ericclemmons/react.lazy-example) - (with caution from [Seb](https://twitter.com/sebmarkbage/status/1034677541762564096))
 - 18 Aug 2018: [@TejasKumar_'s demo at grilljs](https://codesandbox.io/s/jnqw46y79) - Codesandbox (note caveat from [Dan](https://twitter.com/TejasKumar_/status/1030925915696582657))
 - 17 Aug 2018: [@mweststrate using mobx and suspense](https://twitter.com/mweststrate/status/1030479604656553984) - Codesandbox

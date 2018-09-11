@@ -80,7 +80,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 20 Jun 2018: [Brian Vaughn demoing prototype of new async-ready Profiler devtool](https://twitter.com/brian_d_vaughn/status/1009588924992221185) youtube walkthru with [followup here](https://twitter.com/brian_d_vaughn/status/1009977215176491008)
 - 17 Jun 2018: [Michael Jackson on React Components (The Frontside Podcast)](https://frontsidethepodcast.simplecast.fm/f938c562) React suspense discussion 35 mins in
 - 3 May 2018: [Michael Jackson and Jay Phelps on Topics in React (Modern Web Podcast)](https://www.youtube.com/watch?v=2IIISbHFzsI) First part discusses Async react and React suspense
-- 19 Apr 2018: [Toru Kobayashi: Async Rendering slide deck](https://speakerdeck.com/koba04/ready-for-async-rendering)
+- 19 Apr 2018: [Toru Kobayashi: Async Rendering slide deck](https://speakerdeck.com/koba04/ready-for-async-rendering) - [writeup here in Japanese](https://logmi.jp/302611)
 - 10 Apr 2018: [Podcast: Andrew Clark on Async React](https://changelog.com/reactpodcast/6) on the React Podcast
 - 4 Apr 2018: [@dan_abramov chart on where each lifecycle fits into commit or render phase](https://twitter.com/dan_abramov/status/981712092611989509)
 - 3 Apr 2018: [Michel Westrate on Async Rendering and its impact on MobX](https://egghead.simplecast.fm/94ad357b)

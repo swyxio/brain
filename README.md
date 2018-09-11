@@ -150,6 +150,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # DevTools Profiler specific
 
+- 12 Sep 2018: [Elijah Manor's walkthrough of the Profiler and Interaction Tracking](https://elijahmanor.com/react-devtools-profiler/)
 - 10 Sep 2018: [Gist: How to opt-in to profiling in production](https://gist.github.com/bvaughn/25e6233aeb1b4f0cdb8d8366e54a3977) - related [twitter](https://twitter.com/dan_abramov/status/1039169990317035521) on using with CRA
 - 6 Sep 2018: [Gist: Interaction Tracking with React](https://gist.github.com/bvaughn/8de925562903afd2e7a12554adcdda16) with related [Codesandbox](https://7mr45q5pqj.codesandbox.io/)
 - 6 Sep 2018: [React 16.5 Release](https://github.com/facebook/react/blob/master/CHANGELOG.md#1650-september-5-2018) - required for profiler to work

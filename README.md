@@ -33,12 +33,15 @@ This repo has no affiliation to the React team. For official communication from 
 - 23 Apr 2018: [Explanation of the double buffering Update Queue in ReactUpdateQueue.js](https://github.com/facebook/react/blame/5550ed4a8f33ff562e807175b8f35a1f9e037670/packages/react-reconciler/src/ReactUpdateQueue.js#L10) - comments in react source code
 - 27 Mar 2018: [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) blogpost on migration path for the deprecated and new lifecycle methods
 - 20 Mar 2018: [Suspense! ReactFest](https://www.youtube.com/watch?v=6g3g0Q_XVb4) 2nd Dan Abramov demo on Suspense
-- 1 Mar 2018: [JSConf Iceland - Beyond React 16](https://www.youtube.com/watch?v=v6iR3Zk4oDY)
+- 1 Mar 2018: [JSConf Iceland - Beyond React 16](https://www.youtube.com/watch?v=v6iR3Zk4oDY) - (Time Slicing Demo ([Live](https://timeslicing-unstable-demo.surge.sh/), [Code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/time-slicing)), Suspense Demo ([Live](https://build-twykjydwfh.now.sh/), [Code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)))
 - 1 Mar 2018: [Sneak Peek: Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html) blogpost
 - 23 Feb 2018: [The Suspense PR](https://github.com/facebook/react/pull/12279) especially the [tests](https://github.com/acdlite/react/blob/7166ce6d9b7973ddd5e06be9effdfaaeeff57ed6/packages/react-reconciler/src/__tests__/ReactSuspense-test.js)
 
 # Code To Check Out
 
+- 12 Sep 2018: [@swizec visualizing large datasets with Suspense and Time Slicing](https://medium.com/@swizec/how-to-use-react-suspense-and-time-slicing-to-visualize-large-datasets-b35dd86d3756) - [Github](https://github.com/Swizec/react-suspense-starter/blob/dataviz-demo/src/App.js), [Demo](https://dist-exhowcijhf.now.sh/)
+- 4 Sep 2018: [@pshrmn's @curi/router](https://curi.js.org) - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo) - [Twitter convo](https://twitter.com/pshrmn/status/1036793476078350336)
+- 28 Aug 2018: [@ericclemmons React.lazy example](https://github.com/ericclemmons/react.lazy-example) - (with caution from [Seb](https://twitter.com/sebmarkbage/status/1034677541762564096))
 - 18 Aug 2018: [@TejasKumar_'s Suspense Demo at GrillJS](https://codesandbox.io/s/jnqw46y79) - CodeSandbox
 - 17 Aug 2018: [@mweststrate using mobx and suspense](https://twitter.com/mweststrate/status/1030479604656553984) - Codesandbox
 - 15 Aug 2018: [react-async-elements](https://github.com/palmerhq/react-async-elements) Suspense-friendly async React elements for common situations e.g. <Img> and <Script>
@@ -69,6 +72,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Async React/React Fiber general info
 
+- 11 Sep 2018: Considering rename to [Concurrent React](https://twitter.com/dan_abramov/status/1036940380854464512)
 - 18 Aug 2018: swyx@React Rally: Why React is -not- Reactive - [Youtube](https://www.youtube.com/watch?v=nyFHR0dDZo0), [Slides](http://swyx.io/ReactRally)
 - 18 Aug 2018: Brandon Dail@React Rally: Algebraic Effects, Fibers, Coroutines - [Youtube](https://www.youtube.com/watch?v=7GcrT0SBSnI), [Slides](http://fibers-effects-react-rally.surge.sh/#/), [Transcript](http://fibers-effects-react-rally.surge.sh/#/?presenter)
 - 18 Aug 2018: Ryan Florence@React Rally: Route Recalculating - [Youtube](https://www.youtube.com/watch?v=X-kA8B2QzjY), [Twitter](https://twitter.com/ryanflorence/status/1031597914584363008)
@@ -77,7 +81,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 20 Jun 2018: [Brian Vaughn demoing prototype of new async-ready Profiler devtool](https://twitter.com/brian_d_vaughn/status/1009588924992221185) youtube walkthru with [followup here](https://twitter.com/brian_d_vaughn/status/1009977215176491008)
 - 17 Jun 2018: [Michael Jackson on React Components (The Frontside Podcast)](https://frontsidethepodcast.simplecast.fm/f938c562) React suspense discussion 35 mins in
 - 3 May 2018: [Michael Jackson and Jay Phelps on Topics in React (Modern Web Podcast)](https://www.youtube.com/watch?v=2IIISbHFzsI) First part discusses Async react and React suspense
-- 19 Apr 2018: [Toru Kobayashi: Async Rendering slide deck](https://speakerdeck.com/koba04/ready-for-async-rendering)
+- 19 Apr 2018: [Toru Kobayashi: Async Rendering slide deck](https://speakerdeck.com/koba04/ready-for-async-rendering) - [writeup here in Japanese](https://logmi.jp/302611)
 - 10 Apr 2018: [Podcast: Andrew Clark on Async React](https://changelog.com/reactpodcast/6) on the React Podcast
 - 4 Apr 2018: [@dan_abramov chart on where each lifecycle fits into commit or render phase](https://twitter.com/dan_abramov/status/981712092611989509)
 - 3 Apr 2018: [Michel Westrate on Async Rendering and its impact on MobX](https://egghead.simplecast.fm/94ad357b)
@@ -94,6 +98,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 4 Sep 2018: [@curi/router](https://curi.js.org) demo - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo)
 - 21 Aug 2018: [Dan](https://twitter.com/dan_abramov/status/1032053023936262144) on how Suspense does partial rendering and async render isn't necessarily slower than sync render
 - 6 Aug 2018: [dan](https://twitter.com/dan_abramov/status/1026513611269840898) and [@sebmarkbage on when to use preload() vs read()](https://twitter.com/sebmarkbage/status/1026514420908744704)
 - 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)
@@ -131,6 +136,8 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Time Slicing-specific
 
+- 7 Sep 2018: [Live version of JSConf Time Slicing Demo](https://timeslicing-unstable-demo.surge.sh/)
+- 3 Sep 2018: [Time slicing and the `hidden` attribute](https://github.com/oliviertassinari/react-swipeable-views/issues/453#issuecomment-417939459) - [further commentary on Twitter](https://twitter.com/dan_abramov/status/1036280032723955713)
 - 2 Aug 2018: [JSConf Iceland Time Slicing demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/time-slicing)
 - 2 Aug 2018: [Time Slicing Umbrella Issue](https://github.com/facebook/react/issues/13306) - (Github)
 - 31 May 2018: [@reach/router example for time slicing](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples/time-slicing)
@@ -144,6 +151,11 @@ This repo has no affiliation to the React team. For official communication from 
 
 # DevTools Profiler specific
 
+- 12 Sep 2018: [Elijah Manor's walkthrough of the Profiler and Interaction Tracking](https://elijahmanor.com/react-devtools-profiler/)
+- 10 Sep 2018: [Gist: How to opt-in to profiling in production](https://gist.github.com/bvaughn/25e6233aeb1b4f0cdb8d8366e54a3977) - related [twitter](https://twitter.com/dan_abramov/status/1039169990317035521) on using with CRA
+- 6 Sep 2018: [Gist: Interaction Tracking with React](https://gist.github.com/bvaughn/8de925562903afd2e7a12554adcdda16) with related [Codesandbox](https://7mr45q5pqj.codesandbox.io/)
+- 6 Sep 2018: [React 16.5 Release](https://github.com/facebook/react/blob/master/CHANGELOG.md#1650-september-5-2018) - required for profiler to work
+- 23 Aug 2018: [Publicly released on Chrome web store](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - [Umbrella issue for remaining issues here](https://github.com/facebook/react-devtools/issues/1099)
 - 22 Aug 2018: [Public Beta Site for React DevTools pre-release build](https://react-devtools-profiler-prerelease.now.sh/) - [website](https://react-devtools-profiler-prerelease.now.sh/), [Twitter](https://twitter.com/brian_d_vaughn/status/1030966937470160896)
 - 28 Jul 2018: [Demo: DevTools Profiler with "interactions"](https://www.youtube.com/watch?v=vfm4018YBEY) and [minor twitter discussion](https://twitter.com/brian_d_vaughn/status/1023272704856576002)
 - 28 Jul 2018: [WIP fork of devtools with Profiler](https://github.com/bvaughn/react-devtools/tree/profiler-poc) - Github

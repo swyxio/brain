@@ -151,6 +151,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # DevTools Profiler specific
 
+- 13 Sep 2018: [Official Profiler blogpost on the React Blog](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html) - [Demo here](https://react-devtools-profiler-demo.now.sh/) with [source](https://github.com/facebook/react-devtools/tree/master/test/example)
 - 12 Sep 2018: [Elijah Manor's walkthrough of the Profiler and Interaction Tracking](https://elijahmanor.com/react-devtools-profiler/)
 - 10 Sep 2018: [Gist: How to opt-in to profiling in production](https://gist.github.com/bvaughn/25e6233aeb1b4f0cdb8d8366e54a3977) - related [twitter](https://twitter.com/dan_abramov/status/1039169990317035521) on using with CRA
 - 6 Sep 2018: [Gist: Interaction Tracking with React](https://gist.github.com/bvaughn/8de925562903afd2e7a12554adcdda16) with related [Codesandbox](https://7mr45q5pqj.codesandbox.io/)
@@ -162,7 +163,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 16 Jul 2018: [Profiler integrated with Interaction-Tracking](https://github.com/facebook/react/pull/13253) - Github PR
 - 11 Jul 2018: [Interaction Tracking POC](https://github.com/facebook/react/pull/13234) - Github PR
 - 20 Jun 2018: [Demo: DevTools Profiler](https://www.youtube.com/watch?v=-Ud_265QAwM) - youtube
-- 22 May 2018: [Profiler RFC](https://github.com/reactjs/rfcs/pull/51) - Github RFC
+- 22 May 2018: [Profiler RFC](https://github.com/reactjs/rfcs/pull/51) - Github RFC, [text here](https://github.com/bvaughn/rfcs/blob/profiler/text/0000-profiler.md)
 
 # History
 

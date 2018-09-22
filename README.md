@@ -39,6 +39,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 22 Sep 2018: [topheman/react-fiber-experiments](https://react-fiber-experiments.surge.sh/) - exploration of React Fiber features. [Github](https://github.com/topheman/react-fiber-experiments), [Blogpost](http://dev.topheman.com/discover-react-suspense/), [Reddit discussion](https://www.reddit.com/r/reactjs/comments/9hzrsv/try_react_suspense_right_now/)
 - 12 Sep 2018: [@swizec visualizing large datasets with Suspense and Time Slicing](https://medium.com/@swizec/how-to-use-react-suspense-and-time-slicing-to-visualize-large-datasets-b35dd86d3756) - [Github](https://github.com/Swizec/react-suspense-starter/blob/dataviz-demo/src/App.js), [Demo](https://dist-exhowcijhf.now.sh/)
 - 4 Sep 2018: [@pshrmn's @curi/router](https://curi.js.org) - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo) - [Twitter convo](https://twitter.com/pshrmn/status/1036793476078350336)
 - 28 Aug 2018: [@ericclemmons React.lazy example](https://github.com/ericclemmons/react.lazy-example) - (with caution from [Seb](https://twitter.com/sebmarkbage/status/1034677541762564096))

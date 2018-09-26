@@ -39,9 +39,11 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 25 Sep 2018: [kentcdodds/react-suspense-simple-example](https://github.com/kentcdodds/react-suspense-simple-example) - walkthrough of writing a suspense cache from scratch - for Salt Lake City Frontend Meetup ([Video](https://www.youtube.com/watch?v=7LmrS2sdMlo&feature=youtu.be&a=))
 - 22 Sep 2018: [topheman/react-fiber-experiments](https://react-fiber-experiments.surge.sh/) - exploration of React Fiber features. [Github](https://github.com/topheman/react-fiber-experiments), [Blogpost](http://dev.topheman.com/discover-react-suspense/), [Reddit discussion](https://www.reddit.com/r/reactjs/comments/9hzrsv/try_react_suspense_right_now/)
 - 12 Sep 2018: [@swizec visualizing large datasets with Suspense and Time Slicing](https://medium.com/@swizec/how-to-use-react-suspense-and-time-slicing-to-visualize-large-datasets-b35dd86d3756) - [Github](https://github.com/Swizec/react-suspense-starter/blob/dataviz-demo/src/App.js), [Demo](https://dist-exhowcijhf.now.sh/)
 - 4 Sep 2018: [@pshrmn's @curi/router](https://curi.js.org) - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo) - [Twitter convo](https://twitter.com/pshrmn/status/1036793476078350336)
+- 31 Aug 2018: [Building a Polyfill for React Suspense](https://hackernoon.com/building-a-polyfill-for-react-suspense-f1c7baf18ca1) - Userland polyfill - [Github](https://github.com/transitive-bullshit/react-suspense-polyfill) and [Reddit](https://www.reddit.com/r/reactjs/comments/9bvlap/building_a_polyfill_for_react_suspense/?utm_term=b96e4216-f1c5-4077-8e21-a91b56afbcf3&utm_medium=search&utm_source=reddit&utm_name=reactjs&utm_content=1)
 - 28 Aug 2018: [@ericclemmons React.lazy example](https://github.com/ericclemmons/react.lazy-example) - (with caution from [Seb](https://twitter.com/sebmarkbage/status/1034677541762564096))
 - 18 Aug 2018: [@TejasKumar_'s Suspense Demo at GrillJS](https://codesandbox.io/s/jnqw46y79) - CodeSandbox
 - 17 Aug 2018: [@mweststrate using mobx and suspense](https://twitter.com/mweststrate/status/1030479604656553984) - Codesandbox
@@ -99,8 +101,11 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+
+- 25 Sep 2018: [kentcdodds/react-suspense-simple-example](https://github.com/kentcdodds/react-suspense-simple-example) - walkthrough of writing a suspense cache from scratch - for Salt Lake City Frontend Meetup ([Video](https://www.youtube.com/watch?v=7LmrS2sdMlo&feature=youtu.be&a=))
 - 13 Sep 2018: [@dan_abramov on why Code Splitting with Suspense is different from prior approaches](https://twitter.com/dan_abramov/status/1040055368632750080)
 - 4 Sep 2018: [@curi/router](https://curi.js.org) demo - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo)
+- 31 Aug 2018: [Building a Polyfill for React Suspense](https://hackernoon.com/building-a-polyfill-for-react-suspense-f1c7baf18ca1) - Userland polyfill - [Github](https://github.com/transitive-bullshit/react-suspense-polyfill) and [Reddit](https://www.reddit.com/r/reactjs/comments/9bvlap/building_a_polyfill_for_react_suspense/?utm_term=b96e4216-f1c5-4077-8e21-a91b56afbcf3&utm_medium=search&utm_source=reddit&utm_name=reactjs&utm_content=1)
 - 21 Aug 2018: [Dan](https://twitter.com/dan_abramov/status/1032053023936262144) on how Suspense does partial rendering and async render isn't necessarily slower than sync render
 - 6 Aug 2018: [dan](https://twitter.com/dan_abramov/status/1026513611269840898) and [@sebmarkbage on when to use preload() vs read()](https://twitter.com/sebmarkbage/status/1026514420908744704)
 - 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)

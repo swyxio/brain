@@ -39,6 +39,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 29 Oct 2018: Tejas Kumar's React suspense Pokedex - demo app for React Boston 2018 talk. [Github](https://github.com/TejasQ/react-suspense-pokedex), [Site](https://suspense-pokedex.now.sh/), Talk video pending
 - 25 Sep 2018: [kentcdodds/react-suspense-simple-example](https://github.com/kentcdodds/react-suspense-simple-example) - walkthrough of writing a suspense cache from scratch - for Salt Lake City Frontend Meetup ([Video](https://www.youtube.com/watch?v=7LmrS2sdMlo&feature=youtu.be&a=))
 - 22 Sep 2018: [topheman/react-fiber-experiments](https://react-fiber-experiments.surge.sh/) - exploration of React Fiber features. [Github](https://github.com/topheman/react-fiber-experiments), [Blogpost](http://dev.topheman.com/discover-react-suspense/), [Reddit discussion](https://www.reddit.com/r/reactjs/comments/9hzrsv/try_react_suspense_right_now/)
 - 12 Sep 2018: [@swizec visualizing large datasets with Suspense and Time Slicing](https://medium.com/@swizec/how-to-use-react-suspense-and-time-slicing-to-visualize-large-datasets-b35dd86d3756) - [Github](https://github.com/Swizec/react-suspense-starter/blob/dataviz-demo/src/App.js), [Demo](https://dist-exhowcijhf.now.sh/)
@@ -102,6 +103,7 @@ This repo has no affiliation to the React team. For official communication from 
 # React Suspense-specific
 
 
+- 1 Oct 2018: [Renamed simple-cache-provider to react-cache](https://github.com/facebook/react/pull/13755)
 - 25 Sep 2018: [kentcdodds/react-suspense-simple-example](https://github.com/kentcdodds/react-suspense-simple-example) - walkthrough of writing a suspense cache from scratch - for Salt Lake City Frontend Meetup ([Video](https://www.youtube.com/watch?v=7LmrS2sdMlo&feature=youtu.be&a=))
 - 13 Sep 2018: [@dan_abramov on why Code Splitting with Suspense is different from prior approaches](https://twitter.com/dan_abramov/status/1040055368632750080)
 - 4 Sep 2018: [@curi/router](https://curi.js.org) demo - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo)

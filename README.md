@@ -103,12 +103,12 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
-
 - 1 Oct 2018: [Renamed simple-cache-provider to react-cache](https://github.com/facebook/react/pull/13755)
 - 25 Sep 2018: [kentcdodds/react-suspense-simple-example](https://github.com/kentcdodds/react-suspense-simple-example) - walkthrough of writing a suspense cache from scratch - for Salt Lake City Frontend Meetup ([Video](https://www.youtube.com/watch?v=7LmrS2sdMlo&feature=youtu.be&a=))
 - 13 Sep 2018: [@dan_abramov on why Code Splitting with Suspense is different from prior approaches](https://twitter.com/dan_abramov/status/1040055368632750080)
 - 4 Sep 2018: [@curi/router](https://curi.js.org) demo - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo)
 - 31 Aug 2018: [Building a Polyfill for React Suspense](https://hackernoon.com/building-a-polyfill-for-react-suspense-f1c7baf18ca1) - Userland polyfill - [Github](https://github.com/transitive-bullshit/react-suspense-polyfill) and [Reddit](https://www.reddit.com/r/reactjs/comments/9bvlap/building_a_polyfill_for_react_suspense/?utm_term=b96e4216-f1c5-4077-8e21-a91b56afbcf3&utm_medium=search&utm_source=reddit&utm_name=reactjs&utm_content=1)
+- 21 Aug 2018: [Todo lo que debes saber sobre React Suspense](https://yeisondaza.com/todo-lo-que-debes-saber-sobre-react-suspense) (spanish) blogpost about general knowledge to use React Suspense
 - 21 Aug 2018: [Dan](https://twitter.com/dan_abramov/status/1032053023936262144) on how Suspense does partial rendering and async render isn't necessarily slower than sync render
 - 6 Aug 2018: [dan](https://twitter.com/dan_abramov/status/1026513611269840898) and [@sebmarkbage on when to use preload() vs read()](https://twitter.com/sebmarkbage/status/1026514420908744704)
 - 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense)

@@ -104,7 +104,8 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
-- 6 Oct 2018: [The Suspense is killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430) - comparison between Redux and Suspense from Ryan Florence
+- 6 Oct 2018: [@sebmarkbage on the concerns with global state/cache in Suspense API design and opportunities for innovation](https://twitter.com/sebmarkbage/status/1048564845782728706) - Twitter
+- 5 Oct 2018: [The Suspense is killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430) - comparison between Redux and Suspense from Ryan Florence
 - 1 Oct 2018: [Renamed simple-cache-provider to react-cache](https://github.com/facebook/react/pull/13755)
 - 25 Sep 2018: [kentcdodds/react-suspense-simple-example](https://github.com/kentcdodds/react-suspense-simple-example) - walkthrough of writing a suspense cache from scratch - for Salt Lake City Frontend Meetup ([Video](https://www.youtube.com/watch?v=7LmrS2sdMlo&feature=youtu.be&a=))
 - 13 Sep 2018: [@dan_abramov on why Code Splitting with Suspense is different from prior approaches](https://twitter.com/dan_abramov/status/1040055368632750080)

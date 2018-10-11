@@ -25,7 +25,7 @@ Use Jared Palmer's [React Suspense Starter](https://github.com/palmerhq/react-su
 
 or see the [live React Suspense Movie Demo here](https://build-twykjydwfh.now.sh/)
 
-or **try the [React Suspense fixture on CodeSandBox](https://codesandbox.io/s/w0n9ok3mqw)**.
+or **try the [React Suspense fixture](https://codesandbox.io/s/w0n9ok3mqw)** or the [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) on CodeSandBox.
 
 # Note
 
@@ -48,6 +48,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 11 Oct 2018: v16.6 canary release - [React Suspense fixture](https://codesandbox.io/s/w0n9ok3mqw), [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) both on CodeSandBox
 - 8 Oct 2018: Kent C Dodds' Fundamental Suspense - [Tweet](https://twitter.com/kentcdodds/status/1049322616727564289), [Gist](https://gist.github.com/kentcdodds/2510249a3fc5c9dce82ccee80396fc6a)
 - 29 Sep 2018: Tejas Kumar's React suspense Pokedex - demo app for React Boston 2018 talk. [Github](https://github.com/TejasQ/react-suspense-pokedex), [Site](https://suspense-pokedex.now.sh/), Talk video pending
 - 25 Sep 2018: [kentcdodds/react-suspense-simple-example](https://github.com/kentcdodds/react-suspense-simple-example) - walkthrough of writing a suspense cache from scratch - for Salt Lake City Frontend Meetup ([Video](https://www.youtube.com/watch?v=7LmrS2sdMlo&feature=youtu.be&a=))

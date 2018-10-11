@@ -25,6 +25,8 @@ Use Jared Palmer's [React Suspense Starter](https://github.com/palmerhq/react-su
 
 or see the [live React Suspense Movie Demo here](https://build-twykjydwfh.now.sh/)
 
+or **try the [React Suspense fixture on CodeSandBox](https://codesandbox.io/s/w0n9ok3mqw)**.
+
 # Note
 
 This repo has no affiliation to the React team. For official communication from them, please visit [the React blog](https://reactjs.org/blog) and follow their Twitter updates [here](https://twitter.com/reactjs). **Our intent is NOT to be a substitute for official communication**, rather it is for early adopters sharing links to understand and try out things from the community.

@@ -105,6 +105,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 11 Oct 2018: Suspense enabled; Placeholder renamed to Suspense - [PR](https://github.com/facebook/react/pull/13799)
 - 10 Oct 2018: New API for react-cache - [Github Summary by @jaredpalmer](https://github.com/facebook/react/pull/13337#issuecomment-425974864)
 - 6 Oct 2018: [@sebmarkbage on the concerns with global state/cache in Suspense API design and opportunities for innovation](https://twitter.com/sebmarkbage/status/1048564845782728706) - Twitter
 - 5 Oct 2018: [The Suspense is killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430) - comparison between Redux and Suspense from Ryan Florence

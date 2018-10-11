@@ -171,6 +171,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Streaming SSR specific
 
+- 10 Oct 2018: [@EphemeralCircle's talk slides on Suspense SSR](https://async-ssr-presentation.fredrikhoglund.com)
 - 21 Aug 2018: [Jared palmer on single-pass SSR](https://twitter.com/jaredpalmer/status/1030895900527403009)
 - 2 May 2018: [@EphemeralCircle's Streaming SSR proof of concept (non React Suspense)](https://github.com/Ephem/streaming-ssr-progress-poc) link to [live version and discussion](https://twitter.com/EphemeralCircle/status/991617640945930241)
 - 29 Apr 2018: [@acdlite React Suspense SSR demo](https://github.com/acdlite/suspense-ssr-demo) code for Andrew's ZEIT day talk.

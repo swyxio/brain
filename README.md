@@ -15,6 +15,12 @@
 
 # How to Try Out Async React today
 
+*Prerelease versions*
+
+- Release 16.6.0-alpha.8af6728: https://github.com/facebook/react/pull/13799
+
+*Demo/Starter Kits*
+
 Use Jared Palmer's [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter)!
 
 or see the [live React Suspense Movie Demo here](https://build-twykjydwfh.now.sh/)

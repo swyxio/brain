@@ -40,6 +40,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # Code To Check Out
 
+- 8 Oct 2018: Kent C Dodds' Fundamental Suspense - [Tweet](https://twitter.com/kentcdodds/status/1049322616727564289), [Gist](https://gist.github.com/kentcdodds/2510249a3fc5c9dce82ccee80396fc6a)
 - 29 Sep 2018: Tejas Kumar's React suspense Pokedex - demo app for React Boston 2018 talk. [Github](https://github.com/TejasQ/react-suspense-pokedex), [Site](https://suspense-pokedex.now.sh/), Talk video pending
 - 25 Sep 2018: [kentcdodds/react-suspense-simple-example](https://github.com/kentcdodds/react-suspense-simple-example) - walkthrough of writing a suspense cache from scratch - for Salt Lake City Frontend Meetup ([Video](https://www.youtube.com/watch?v=7LmrS2sdMlo&feature=youtu.be&a=))
 - 22 Sep 2018: [topheman/react-fiber-experiments](https://react-fiber-experiments.surge.sh/) - exploration of React Fiber features. [Github](https://github.com/topheman/react-fiber-experiments), [Blogpost](http://dev.topheman.com/discover-react-suspense/), [Reddit discussion](https://www.reddit.com/r/reactjs/comments/9hzrsv/try_react_suspense_right_now/)
@@ -104,6 +105,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 # React Suspense-specific
 
+- 10 Oct 2018: New API for react-cache - [Github Summary by @jaredpalmer](https://github.com/facebook/react/pull/13337#issuecomment-425974864)
 - 6 Oct 2018: [@sebmarkbage on the concerns with global state/cache in Suspense API design and opportunities for innovation](https://twitter.com/sebmarkbage/status/1048564845782728706) - Twitter
 - 5 Oct 2018: [The Suspense is killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430) - comparison between Redux and Suspense from Ryan Florence
 - 1 Oct 2018: [Renamed simple-cache-provider to react-cache](https://github.com/facebook/react/pull/13755)

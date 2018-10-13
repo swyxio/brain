@@ -1,19 +1,12 @@
-# WATCH this repo, YOU have a say
+## Keep Us Fresh 🍅
 
-**YOU** have a say on every **fresh** 🍅 list. 
-
-- Check out [Pull Requests](https://github.com/sw-yx/fresh-async-react/pulls) for new links
-- Check out other people's PRs and 👍🏼 or 👎 or comment. PRs above 3 👍's get approved on this repo
 - Hit **WATCH** on this repo to stay up to date!
-
-# Keep Us Fresh 🍅
-
 - Submit new links via [Pull Request](https://github.com/sw-yx/fresh-async-react/pulls)
 - This list follows [the Fresh 🍅 Manifesto](https://github.com/sw-yx/fresh/blob/master/fresh.md)
 - New Links must use this format:
   - `DD MMM YYYY: [Link Name](link)`
 
-# How to Try Out Async React today
+## How to Try Out Async React today
 
 *Prerelease versions*
 
@@ -27,11 +20,11 @@ or see the [live React Suspense Movie Demo here](https://build-twykjydwfh.now.sh
 
 or **try the [React Suspense fixture](https://codesandbox.io/s/w0n9ok3mqw)** or the [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) on CodeSandBox.
 
-# Note
+## Note
 
 This repo has no affiliation to the React team. For official communication from them, please visit [the React blog](https://reactjs.org/blog) and follow their Twitter updates [here](https://twitter.com/reactjs). **Our intent is NOT to be a substitute for official communication**, rather it is for early adopters sharing links to understand and try out things from the community.
 
-# React Team Public Communication
+## React Team Public Communication
 
 - 2 Oct 2018: [Summary of acdlite's talk at Framework Summit on React Roadmap](https://www.reddit.com/r/reactjs/comments/9ksj2l/acdlites_react_roadmap_presentedframework_summit/?) - Reddit recap, presumably more to follow later
 - 18 Aug 2018: [Transcript of @sophiebits' Q&A on Reactiflux](https://www.reactiflux.com/transcripts/sophie-alpert-2/) - covering Suspense, offscreen rendering, and misc React Native questions
@@ -46,7 +39,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 1 Mar 2018: [Sneak Peek: Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html) blogpost
 - 23 Feb 2018: [The Suspense PR](https://github.com/facebook/react/pull/12279) especially the [tests](https://github.com/acdlite/react/blob/7166ce6d9b7973ddd5e06be9effdfaaeeff57ed6/packages/react-reconciler/src/__tests__/ReactSuspense-test.js)
 
-# Code To Check Out
+## Code To Check Out
 
 - 11 Oct 2018: v16.6 canary release - [React Suspense fixture](https://codesandbox.io/s/w0n9ok3mqw), [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) both on CodeSandBox
 - 8 Oct 2018: Kent C Dodds' Fundamental Suspense - [Tweet](https://twitter.com/kentcdodds/status/1049322616727564289), [Gist](https://gist.github.com/kentcdodds/2510249a3fc5c9dce82ccee80396fc6a)
@@ -85,7 +78,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 19 Oct 2017: [Rodrigo Pombo's didact fiber](https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec) - simplified attempt to create a React Fiber clone, might be easier to understand than real React
 
 
-# Async React/React Fiber general info
+## Async React/React Fiber general info
 
 - 6 Oct 2018: Introduction of new lifecycle, `getDerivedStateFromError` and how it compares to `componentDidCatch` - [Reddit](https://www.reddit.com/r/reactjs/comments/9lp0k3/new_lifecycle_method_getderivedstatefromerror/), [PR](https://github.com/facebook/react/pull/13746)
 - 11 Sep 2018: Considering rename to [Concurrent React](https://twitter.com/dan_abramov/status/1036940380854464512) - [Confirmed](https://github.com/facebook/react/pull/13732))
@@ -112,7 +105,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 28 Feb 2018: [Dan Abramov on the future of React](https://changelog.com/reactpodcast/3) on the React Podcast
 - 19 Sep 2017: [Async React with non react views](https://gist.github.com/acdlite/f31becd03e2f5feb9b4b22267a58bc1f)
 
-# React Suspense-specific
+## React Suspense-specific
 
 - 11 Oct 2018: Suspense enabled; Placeholder renamed to Suspense - [PR](https://github.com/facebook/react/pull/13799)
 - 10 Oct 2018: New API for react-cache - [Github Summary by @jaredpalmer](https://github.com/facebook/react/pull/13337#issuecomment-425974864)
@@ -160,7 +153,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 1 Mar 2018: [@acdlite on the original idea for Suspense being SSR](https://twitter.com/acdlite/status/969368473443774464)
 - 1 Mar 2018: [@acdlite: you can suspend inside gDSFP and setState](https://twitter.com/acdlite/status/969428655238557697)
 
-# Time Slicing-specific
+## Time Slicing-specific
 
 - 7 Sep 2018: [Live version of JSConf Time Slicing Demo](https://timeslicing-unstable-demo.surge.sh/)
 - 3 Sep 2018: [Time slicing and the `hidden` attribute](https://github.com/oliviertassinari/react-swipeable-views/issues/453#issuecomment-417939459) - [further commentary on Twitter](https://twitter.com/dan_abramov/status/1036280032723955713)
@@ -169,14 +162,14 @@ This repo has no affiliation to the React team. For official communication from 
 - 31 May 2018: [@reach/router example for time slicing](https://github.com/reach/router/tree/ed177fa6960cbe05b3e62841e233d363002e7eed/examples/time-slicing)
 - 29 Mar 2018: [mobz/lag-radar](https://github.com/mobz/lag-radar) the radar used in Dan's demo
 
-# Streaming SSR specific
+## Streaming SSR specific
 
 - 10 Oct 2018: [@EphemeralCircle's talk slides on Suspense SSR](https://async-ssr-presentation.fredrikhoglund.com)
 - 21 Aug 2018: [Jared palmer on single-pass SSR](https://twitter.com/jaredpalmer/status/1030895900527403009)
 - 2 May 2018: [@EphemeralCircle's Streaming SSR proof of concept (non React Suspense)](https://github.com/Ephem/streaming-ssr-progress-poc) link to [live version and discussion](https://twitter.com/EphemeralCircle/status/991617640945930241)
 - 29 Apr 2018: [@acdlite React Suspense SSR demo](https://github.com/acdlite/suspense-ssr-demo) code for Andrew's ZEIT day talk.
 
-# DevTools Profiler specific
+## DevTools Profiler specific
 
 - 13 Sep 2018: [Official Profiler blogpost on the React Blog](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html) - [Demo here](https://react-devtools-profiler-demo.now.sh/) with [source](https://github.com/facebook/react-devtools/tree/master/test/example)
 - 12 Sep 2018: [Elijah Manor's walkthrough of the Profiler and Interaction Tracking](https://elijahmanor.com/react-devtools-profiler/)
@@ -192,7 +185,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 20 Jun 2018: [Demo: DevTools Profiler](https://www.youtube.com/watch?v=-Ud_265QAwM) - youtube
 - 22 May 2018: [Profiler RFC](https://github.com/reactjs/rfcs/pull/51) - Github RFC, [text here](https://github.com/bvaughn/rfcs/blob/profiler/text/0000-profiler.md)
 
-# History
+## History
 
 - 15 Dec 2016: [Why, What, and How of React Fiber](https://www.youtube.com/watch?v=crM1iRVGpGQ) google hangout with kent dodds, lin clark, dan abramov, brian vaughn and andrew clark demoing the sierpinski triangle
 - 22 Feb 2017: [React Fiber vs Stack Demo](https://github.com/claudiopro/react-fiber-vs-stack-demo/)
@@ -204,7 +197,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 16 Aug 2014: [Jordan Walke first tweet about Async rendering](https://twitter.com/jordwalke/status/500587022890061824)
 - 4 Jun 2010: [BigPipe: Pipelining web pages for high performance](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/) original idea for streaming SSR [related discussion](https://twitter.com/dan_abramov/status/990388105759940609)
 
-## License
+### License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

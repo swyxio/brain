@@ -1,18 +1,18 @@
 ## Keep Us Fresh 🍅
 
 - Hit **WATCH** on this repo to stay up to date!
-- Submit new links via [Pull Request](https://github.com/sw-yx/fresh-async-react/pulls)
+- Submit new links via [Pull Request](https://github.com/sw-yx/fresh-concurrent-react/pulls)
 - This list follows [the Fresh 🍅 Manifesto](https://github.com/sw-yx/fresh/blob/master/fresh.md)
 - New Links must use this format:
   - `DD MMM YYYY: [Link Name](link)`
 
-## How to Try Out Async React today
+## How to Try Out Concurrent React today
 
-*Prerelease versions*
+_Prerelease versions_
 
 - Release 16.6.0-alpha.8af6728: https://github.com/facebook/react/pull/13799
 
-*Demo/Starter Kits*
+_Demo/Starter Kits_
 
 Use Jared Palmer's [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter)!
 
@@ -52,7 +52,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 4 Sep 2018: [@pshrmn's @curi/router](https://curi.js.org) - [intro tweet](https://twitter.com/pshrmn/status/1036776780936499200) with [suspense demo](https://codesandbox.io/s/6vplvz9z83) and [Twitch clone](https://codesandbox.io/s/github/pshrmn/curi-react-suspense-demo) - [Twitter convo](https://twitter.com/pshrmn/status/1036793476078350336)
 - 31 Aug 2018: [Building a Polyfill for React Suspense](https://hackernoon.com/building-a-polyfill-for-react-suspense-f1c7baf18ca1) - Userland polyfill - [Github](https://github.com/transitive-bullshit/react-suspense-polyfill) and [Reddit](https://www.reddit.com/r/reactjs/comments/9bvlap/building_a_polyfill_for_react_suspense/?utm_term=b96e4216-f1c5-4077-8e21-a91b56afbcf3&utm_medium=search&utm_source=reddit&utm_name=reactjs&utm_content=1)
 - 28 Aug 2018: [@ericclemmons React.lazy example](https://github.com/ericclemmons/react.lazy-example) - (with caution from [Seb](https://twitter.com/sebmarkbage/status/1034677541762564096))
-- 18 Aug 2018: [@TejasKumar_'s Suspense Demo at GrillJS](https://codesandbox.io/s/jnqw46y79) - CodeSandbox
+- 18 Aug 2018: [@TejasKumar\_'s Suspense Demo at GrillJS](https://codesandbox.io/s/jnqw46y79) - CodeSandbox
 - 17 Aug 2018: [@mweststrate using mobx and suspense](https://twitter.com/mweststrate/status/1030479604656553984) - Codesandbox
 - 15 Aug 2018: [react-async-elements](https://github.com/palmerhq/react-async-elements) Suspense-friendly async React elements for common situations e.g. <Img> and <Script>
 - 10 Aug 2018: [React Router Suspense](https://github.com/palmerhq/router-suspense) Jared Palmer's take on a suspense-ready version of React Router
@@ -79,8 +79,7 @@ This repo has no affiliation to the React team. For official communication from 
 - 1 Mar 2018: [Jared Palmer's test app with suspense](https://codesandbox.io/s/github/jaredpalmer/react-suspense-playground)
 - 19 Oct 2017: [Rodrigo Pombo's didact fiber](https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec) - simplified attempt to create a React Fiber clone, might be easier to understand than real React
 
-
-## Async React/React Fiber general info
+## Concurrent React/React Fiber general info
 
 - 6 Oct 2018: Introduction of new lifecycle, `getDerivedStateFromError` and how it compares to `componentDidCatch` - [Reddit](https://www.reddit.com/r/reactjs/comments/9lp0k3/new_lifecycle_method_getderivedstatefromerror/), [PR](https://github.com/facebook/react/pull/13746)
 - 11 Sep 2018: Considering rename to [Concurrent React](https://twitter.com/dan_abramov/status/1036940380854464512) - [Confirmed](https://github.com/facebook/react/pull/13732))

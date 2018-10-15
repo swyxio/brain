@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "devDependencies": {
+    "docz": "^0.12.5"
+  }
+}

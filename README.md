@@ -16,6 +16,8 @@
 
 Use Jared Palmer's [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter)!
 
+or [cra-suspense-starter](https://github.com/mehiel/cra-suspense-starter) which is a CRA v2.0 based starter
+
 or see the [live React Suspense Movie Demo here](https://build-twykjydwfh.now.sh/)
 
 or **try the [React Suspense fixture](https://codesandbox.io/s/w0n9ok3mqw)** or the [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) on CodeSandBox.

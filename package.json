@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "docz": "^0.12.5"
+  },
+  "dependencies": {
+    "docz-plugin-netlify": "^1.1.4"
   }
 }

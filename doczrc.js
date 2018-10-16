@@ -1,5 +1,5 @@
 // doczrc.js
-// import doczPluginNetlify from "docz-plugin-netlify";
+import doczPluginNetlify from "docz-plugin-netlify";
 
 export default {
   title: 'Learn Concurrent React',
@@ -13,6 +13,5 @@ export default {
   // modifyBundlerConfig: config => {
   //   /* do your magic here */
   // },
-  // plugins: [myCoolPlugin()]
-  // plugins: [doczPluginNetlify()]
+  plugins: [doczPluginNetlify()]
 };

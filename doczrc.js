@@ -2,8 +2,8 @@
 import doczPluginNetlify from 'docz-plugin-netlify';
 
 export default {
-  title: 'Learn Concurrent React',
-  description: 'This is my thoughts on concurrent react',
+  title: 'Concurrent React',
+  description: 'Unstable, unofficial documentation for early adopters',
   // theme: 'my-coolest-theme',
   // themeConfig: {
   //   colors: {

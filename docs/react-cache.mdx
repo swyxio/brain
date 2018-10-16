@@ -1,6 +1,6 @@
 ---
 name: react-cache
-order: 3
+order: 666
 ---
 
 # `react-cache`
@@ -76,13 +76,13 @@ const Img = ({ src, alt, ...rest }) => (
 );
 ```
 
-## `resource.preload(key)` Example 
+## `resource.preload(key)` 
 
 `resource.preload(key)` is like `resource.read(key)` except it does not throw and suspend rendering.
 Thus it has the effect of "warming" the cache in the background.
 
 
-## `resource.invalidate()` Example 
+## `resource.invalidate()` 
 
 `resource.invalidate()` clears the cache. In future we should have fine-grained key-based invalidation.
 

@@ -13,5 +13,26 @@ export default {
   // modifyBundlerConfig: config => {
   //   /* do your magic here */
   // },
-  plugins: [doczPluginNetlify()]
+  plugins: [doczPluginNetlify()],
+  menu: [
+    'Introduction',
+    {
+      name: 'APIs',
+      menu: [
+        'Scheduler and Time Slicing',
+        'React Suspense',
+        'react-cache',
+        'hidden',
+        'Misc APIs'
+      ]
+    },
+    {
+      name: 'Community',
+      menu: ['Libraries', 'Demos', 'Talks']
+    },
+    {
+      name: 'Edit this on Github',
+      href: 'https://github.com/sw-yx/fresh-concurrent-react'
+    }
+  ]
 };

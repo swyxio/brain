@@ -82,6 +82,7 @@ This repo has no affiliation to the React team. For official communication from 
 
 ## Async React/React Fiber general info
 
+- 16 Oct 2018: React-Static and its "Suspenseful" future - [Youtube](https://www.youtube.com/watch?v=oj1I7_ukgYI&feature=youtu.be)
 - 6 Oct 2018: Introduction of new lifecycle, `getDerivedStateFromError` and how it compares to `componentDidCatch` - [Reddit](https://www.reddit.com/r/reactjs/comments/9lp0k3/new_lifecycle_method_getderivedstatefromerror/), [PR](https://github.com/facebook/react/pull/13746)
 - 11 Sep 2018: Considering rename to [Concurrent React](https://twitter.com/dan_abramov/status/1036940380854464512) - [Confirmed](https://github.com/facebook/react/pull/13732))
 - 7 Sep 2018: Algorithms in React - comparing the Stack Reconciler to the Fiber Reconciler by going through the source code. Last section on Suspense also. [Talk Slides](https://speakerdeck.com/koba04/algorithms-in-react)

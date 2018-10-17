@@ -14,8 +14,8 @@ If you are looking for the old chronological list of sources, check `Timeline.md
 
 If you are looking for concise, curated writeups from me:
 
-- start with `Intro.md`
-- then work through `/apis` and `/community`.
+- start with [`Intro.md`](/Intro)
+- then work through [`/apis`](/apis/time-slicing) and [`/community`](/community/talks).
 
 ## Note
 

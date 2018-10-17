@@ -61,6 +61,7 @@
 
 ## Concurrent React/React Fiber general info
 
+- 17 Oct 2018: Dan Abramov on what ReactDOM.createRoot does - [Twitter](https://twitter.com/dan_abramov/status/1052690486438313984)
 - 6 Oct 2018: Introduction of new lifecycle, `getDerivedStateFromError` and how it compares to `componentDidCatch` - [Reddit](https://www.reddit.com/r/reactjs/comments/9lp0k3/new_lifecycle_method_getderivedstatefromerror/), [PR](https://github.com/facebook/react/pull/13746)
 - 11 Sep 2018: Considering rename to [Concurrent React](https://twitter.com/dan_abramov/status/1036940380854464512) - [Confirmed](https://github.com/facebook/react/pull/13732))
 - 7 Sep 2018: Algorithms in React - comparing the Stack Reconciler to the Fiber Reconciler by going through the source code. Last section on Suspense also. [Talk Slides](https://speakerdeck.com/koba04/algorithms-in-react)

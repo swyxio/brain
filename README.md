@@ -12,7 +12,10 @@ _Demo/Starter Kits_
 
 If you are looking for the old chronological list of sources, check `Timeline.md`.
 
-If you are looking for concise, curated writeups from me, start with `Intro.mdx` and then work through `/apis` and `/community`.
+If you are looking for concise, curated writeups from me:
+
+- start with `Intro.md`
+- then work through `/apis` and `/community`.
 
 ## Note
 

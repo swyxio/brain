@@ -83,7 +83,7 @@ It doesn’t destroy the previous view while this is happening.
 
 --- 
 
-> Next: [Time Slicing](/docs-time-slicing)
+> Next: [Time Slicing](apis/time-slicing)
 
 ---
 

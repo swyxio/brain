@@ -57,7 +57,7 @@ Also see the Time Slicing Fixture: [Live Demo](https://timeslicing-unstable-demo
 
 --- 
 
-> Next: [React Suspense](/docs-react-suspense)
+> Next: [React Suspense](/apis/react-suspense)
 
 --- 
 

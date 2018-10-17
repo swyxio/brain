@@ -46,7 +46,7 @@ Also see the React Suspense Fixture: [CodeSandBox](https://codesandbox.io/s/w0n9
 
 --- 
 
-> Next: [React Cache](/docs-react-cache)
+> Next: [React Cache](/apis/react-cache)
 
 --- 
 

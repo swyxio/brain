@@ -88,7 +88,7 @@ Thus it has the effect of "warming" the cache in the background.
 
 --- 
 
-> Next: [hidden](/docs-hidden)
+> Next: [hidden](/apis/hidden)
 
 --- 
 

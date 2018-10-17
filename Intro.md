@@ -64,7 +64,7 @@ _Note: Your app must be `<StrictMode>` compliant first before you apply `Concurr
 
 _Current API: `ReactDOM.unstable_createRoot`_
 
-Instead of `ReactDOM.render`, `ReactDOM.createRoot` automatically opts into `<ConcurrentMode>`. It also doesn't assume the first render is synchronous (aka you can suspend even on the first render, which useful for prerendering via `root.createBatch()`)
+If you use this instead of `ReactDOM.render`, `ReactDOM.createRoot` automatically opts into Concurrent mode for your whole app. For more info, see the separate Roots doc.
 
 ```js
 const container = document.getElementById('root');
@@ -105,4 +105,3 @@ It doesn’t destroy the previous view while this is happening.
 - [Codesandbox with running example](https://codesandbox.io/s/w0n9ok3mqw)
 - [JSConf Iceland 2018 Demo](https://www.youtube.com/watch?v=nLF0n9SACd4)
 - [Beyond React 16 Blogpost](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
-- [createRoot proposal](https://github.com/facebook/react/issues/10366)

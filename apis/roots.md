@@ -59,7 +59,7 @@ work.commit();
 
 ---
 
-> Next: [Misc APIs](/apis/misc-apis)
+> Next: [Misc APIs](/apis/misc-apis.md)
 
 ---
 

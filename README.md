@@ -6,7 +6,9 @@ _Prerelease React versions_
 
 _Demo/Starter Kits_
 
-**Try the [React Suspense fixture](https://codesandbox.io/s/w0n9ok3mqw)** or the [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) on CodeSandBox.
+- Try the [React Suspense fixture](https://codesandbox.io/s/3vpn605615) ([here it is with tracing enabled](https://codesandbox.io/s/w0n9ok3mqw)) or 
+- the [Time Slicing fixture](https://codesandbox.io/s/xl3rjr9mjo) or
+- the [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) on CodeSandBox.
 
 ## Where to get info on ConcurrentMode?
 

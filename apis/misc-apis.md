@@ -20,7 +20,7 @@ import React, {lazy} from 'react'
 import button from './Button'
 
 // dynamic, code split
-const Button = lazy(() => import ('./Button))
+const Button = lazy(() => import ('./Button'))
 ```
 
 [Read more in the RFC](https://github.com/reactjs/rfcs/blob/gaearon-patch-2/text/0000-lazy.md)

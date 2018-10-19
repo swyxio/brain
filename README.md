@@ -6,7 +6,7 @@ _Prerelease React versions_
 
 _Demo/Starter Kits_
 
-- Try the [React Suspense fixture](https://codesandbox.io/s/3vpn605615) ([here it is with tracing enabled](https://codesandbox.io/s/w0n9ok3mqw)) or 
+- Try the [React Suspense fixture](https://codesandbox.io/s/3vpn605615) ([here it is with tracing enabled](https://codesandbox.io/s/w0n9ok3mqw)) or
 - the [Time Slicing fixture](https://codesandbox.io/s/xl3rjr9mjo) or
 - the [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) on CodeSandBox.
 
@@ -16,8 +16,8 @@ If you are looking for the old chronological list of sources, check `Timeline.md
 
 If you are looking for concise, curated writeups from me:
 
-- start with [`Intro.md`](/Intro)
-- then work through [`/apis`](/apis/time-slicing) and [`/community`](/community/talks).
+- start with [`Intro.md`](/Intro.md)
+- then work through [`/apis`](/apis/time-slicing.md) and [`/community`](/community/talks.md).
 
 ## Note
 

@@ -9,6 +9,7 @@ Here is demo code you can try out immediately:
 
 - the React Suspense fixture: [codesandbox](https://codesandbox.io/s/w0n9ok3mqw)
 - updated JSConf Iceland Movie Demo: [codesandbox](https://codesandbox.io/s/r76q199xxn)
+- Bang & Olufsen React Suspense demo: [GitHub](https://github.com/stipsan/public-talks/tree/24-09-2018-react-suspense), [Site](https://bang-olufsen-react-suspense-demo.now.sh/)
 
 Outdated but possibly helpful demos:
 

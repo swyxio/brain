@@ -34,7 +34,7 @@
 - 28 Aug 2018: [@ericclemmons React.lazy example](https://github.com/ericclemmons/react.lazy-example) - (with caution from [Seb](https://twitter.com/sebmarkbage/status/1034677541762564096))
 - 18 Aug 2018: [@TejasKumar\_'s Suspense Demo at GrillJS](https://codesandbox.io/s/jnqw46y79) - CodeSandbox
 - 17 Aug 2018: [@mweststrate using mobx and suspense](https://twitter.com/mweststrate/status/1030479604656553984) - Codesandbox
-- 15 Aug 2018: [react-async-elements](https://github.com/palmerhq/react-async-elements) Suspense-friendly async React elements for common situations e.g. <Img> and <Script>
+- 15 Aug 2018: [react-async-elements](https://github.com/palmerhq/react-async-elements) Suspense-friendly async React elements for common situations e.g. Img and Script
 - 10 Aug 2018: [React Router Suspense](https://github.com/palmerhq/router-suspense) Jared Palmer's take on a suspense-ready version of React Router
 - 10 Aug 2018: [React Suspense Starter](https://github.com/palmerhq/react-suspense-starter) prerelease, prebuilt version of React with Suspense enabled
 - 2 Aug 2018: [JSConf Iceland React Suspense demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense) - Movie demo code hosted [here](https://build-twykjydwfh.now.sh/), hit ? to show cache and click to load resources

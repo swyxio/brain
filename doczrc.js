@@ -14,6 +14,7 @@ export default {
   //   /* do your magic here */
   // },
   plugins: [doczPluginNetlify()],
+  files: '**/*.md',
   menu: [
     'Introduction',
     {

@@ -8,7 +8,7 @@ route: /
 Concurrent React is an umbrella name for a new set of APIs resulting from the React Fiber rewrite.
 It was previously known as "Async React".
 
-The new name emphasizes React's new ability concurrently render, suspend, and resume rendering frames
+The new name emphasizes React's new ability to concurrently render, suspend, and resume rendering frames
 in the background _while remaining interactive_ (aka not destroying old frames while rendering the next).
 This ability helps Concurrent React apps adapt to the user's device and network,
 allowing for fast interactions to feel instant while slower interactions feel responsive.

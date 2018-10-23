@@ -56,8 +56,16 @@ The primary method of a `resource` is `read`. A mental model of `resource.read(k
 const FooResource = createResource(id => fetch(`/foo/${id}`)); // return a promise, or async/await
 
 // inside render...
-const fooResponse = FooResource.read(id); // suspends if not in cache; renders if in cache
+const fooResponse = FooResource.read(cache, id); // suspends if not in cache; renders if in cache
 return <div> {fooResponse} </div>;
+```
+
+You don't need a key if you just want the whole cache to map through:
+
+```js
+FooResource.read(cache).map(user => (
+  // user is an object with an `id` field as well as the rest of the data
+))}
 ```
 
 Alternative Example with Image Loading:
@@ -74,13 +82,13 @@ const ImageResource = createResource(
 
 // suspending <Img /> component
 const Img = ({ src, alt, ...rest }) => (
-  <img src={ImageResource.read(src)} alt={alt} {...rest} />
+  <img src={ImageResource.read(cache, src)} alt={alt} {...rest} />
 );
 ```
 
-## `resource.preload(key)`
+## `resource.preload(cache, key)`
 
-`resource.preload(key)` is like `resource.read(key)` except it does not throw and suspend rendering.
+`resource.preload(cache, key)` is like `resource.read(cache ,key)` except it does not throw and suspend rendering.
 Thus it has the effect of "warming" the cache in the background.
 
 ## `resource.invalidate()`

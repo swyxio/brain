@@ -8,6 +8,7 @@
 
 ## React Team Public Communication
 
+- 23 Oct 2018: [React 16.6 release: React.lazy, .memo, and static contextType](https://reactjs.org/blog/2018/10/23/react-v-16-6.html)
 - 2 Oct 2018: [Summary of acdlite's talk at Framework Summit on React Roadmap](https://www.reddit.com/r/reactjs/comments/9ksj2l/acdlites_react_roadmap_presentedframework_summit/?) - Reddit recap, presumably more to follow later
 - 18 Aug 2018: [Transcript of @sophiebits' Q&A on Reactiflux](https://www.reactiflux.com/transcripts/sophie-alpert-2/) - covering Suspense, offscreen rendering, and misc React Native questions
 - 15 Aug 2018: [React.lazy PR](https://github.com/facebook/react/pull/13398) - Github (after adding [promises as component types](https://github.com/facebook/react/pull/13397)), [Usage example](https://twitter.com/kentcdodds/status/1047165818608410624))
@@ -90,6 +91,7 @@
 
 ## React Suspense-specific
 
+- 23 Oct 2018: Post React 16.6 release: "The longer term vision for suspense is that every component import is dynamic" - [@danabramov](https://twitter.com/dan_abramov/status/1054940536161865729)
 - 11 Oct 2018: Suspense enabled; Placeholder renamed to Suspense - [PR](https://github.com/facebook/react/pull/13799)
 - 10 Oct 2018: New API for react-cache - [Github Summary by @jaredpalmer](https://github.com/facebook/react/pull/13337#issuecomment-425974864)
 - 6 Oct 2018: [@sebmarkbage on the concerns with global state/cache in Suspense API design and opportunities for innovation](https://twitter.com/sebmarkbage/status/1048564845782728706) - Twitter

@@ -67,6 +67,7 @@
 - 6 Oct 2018: Introduction of new lifecycle, `getDerivedStateFromError` and how it compares to `componentDidCatch` - [Reddit](https://www.reddit.com/r/reactjs/comments/9lp0k3/new_lifecycle_method_getderivedstatefromerror/), [PR](https://github.com/facebook/react/pull/13746)
 - 11 Sep 2018: Considering rename to [Concurrent React](https://twitter.com/dan_abramov/status/1036940380854464512) - [Confirmed](https://github.com/facebook/react/pull/13732))
 - 7 Sep 2018: Algorithms in React - comparing the Stack Reconciler to the Fiber Reconciler by going through the source code. Last section on Suspense also. [Talk Slides](https://speakerdeck.com/koba04/algorithms-in-react)
+- 21 Aug 2018: Rendering while suspending - an important part of Suspense and why we want to call it Concurrent rather than Async - [Twitter](https://twitter.com/dan_abramov/status/1032053804886372352)
 - 18 Aug 2018: swyx@React Rally: Why React is -not- Reactive - [Youtube](https://www.youtube.com/watch?v=nyFHR0dDZo0), [Slides](http://swyx.io/ReactRally)
 - 18 Aug 2018: Brandon Dail@React Rally: Algebraic Effects, Fibers, Coroutines - [Youtube](https://www.youtube.com/watch?v=7GcrT0SBSnI), [Slides](http://fibers-effects-react-rally.surge.sh/#/), [Transcript](http://fibers-effects-react-rally.surge.sh/#/?presenter)
 - 18 Aug 2018: Ryan Florence@React Rally: Route Recalculating - [Youtube](https://www.youtube.com/watch?v=X-kA8B2QzjY), [Twitter](https://twitter.com/ryanflorence/status/1031597914584363008)

@@ -24,6 +24,7 @@
 
 ## Code To Check Out
 
+- 24 Oct 2018: testing Suspense's maxDuration - [Github](https://github.com/kentcdodds/suspense-max-duration-issue?fbclid=IwAR1ZYaFXCplCK0O2hcHQXu1kVCNuVJ_-oxgkeZiBD8Zxz_dnerHJzSNs7uQ) and [Twitter](https://twitter.com/kentcdodds/status/1055292963545264128)
 - 11 Oct 2018: v16.6 canary release - [React Suspense fixture](https://codesandbox.io/s/w0n9ok3mqw), [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) both on CodeSandBox
 - 8 Oct 2018: Kent C Dodds' Fundamental Suspense - [Tweet](https://twitter.com/kentcdodds/status/1049322616727564289), [Gist](https://gist.github.com/kentcdodds/2510249a3fc5c9dce82ccee80396fc6a)
 - 29 Sep 2018: Tejas Kumar's React suspense Pokedex - demo app for React Boston 2018 talk. [Github](https://github.com/TejasQ/react-suspense-pokedex), [Site](https://suspense-pokedex.now.sh/), Talk video pending
@@ -142,6 +143,7 @@
 
 ## Time Slicing-specific
 
+- 24 Oct 2018: Incoming helper to do high pri and low pri updates together - [Twitter](https://twitter.com/dan_abramov/status/1055300192927408128)
 - 7 Sep 2018: [Live version of JSConf Time Slicing Demo](https://timeslicing-unstable-demo.surge.sh/)
 - 3 Sep 2018: [Time slicing and the `hidden` attribute](https://github.com/oliviertassinari/react-swipeable-views/issues/453#issuecomment-417939459) - [further commentary on Twitter](https://twitter.com/dan_abramov/status/1036280032723955713)
 - 2 Aug 2018: [JSConf Iceland Time Slicing demo code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/time-slicing)

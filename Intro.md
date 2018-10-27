@@ -16,13 +16,19 @@ allowing for fast interactions to feel instant while slower interactions feel re
 Concurrent React includes features like **Time Slicing** and **React Suspense**.
 New libraries have also been introduced in relation to these features, like `scheduler` and `react-cache`.
 
-As of 15 Oct 2018 these features were available under the `@canary` tag, or `v16.6.0-alpha.8af6728`:
+As of 15 Oct 2018 these features were available (with `unstable_` flag) under the `@canary` tag, or `v16.6.0-alpha.8af6728`:
 
 - [react](https://www.npmjs.com/package/react/v/16.6.0-alpha.8af6728)
 - [react-dom](https://www.npmjs.com/package/react-dom/v/16.6.0-alpha.8af6728)
 - [react-cache](https://www.npmjs.com/package/react-cache/v/16.6.0-alpha.8af6728)
-- [scheduler](https://www.npmjs.com/package/scheduler/v/16.6.0-alpha.8af6728)
-- [create-subscription](https://www.npmjs.com/package/create-subscription/v/16.6.0-alpha.8af6728)
+- [scheduler](https://www.npmjs.com/package/scheduler/v/0.10.0-alpha.8af6728)
+
+As of 25 Oct 2018 these features were available (without `unstable_` flag) under the `@next` tag, or `v16.7.0-alpha.0`:
+
+- [react](https://www.npmjs.com/package/react/v/16.7.0-alpha.0)
+- [react-dom](https://www.npmjs.com/package/react-dom/v/16.7.0-alpha.0)
+- [react-cache](https://www.npmjs.com/package/react-cache/v/2.0.0-alpha.0)
+- [scheduler](https://www.npmjs.com/package/scheduler/v/0.11.0-alpha.0)
 
 This site is an attempt to sum up the state of knowledge with regards to Concurrent React.
 It is curated by [swyx](http://twitter.com/swyx) and is not to be taken as a replacement for any
@@ -40,7 +46,8 @@ For example, see the next section on `<ConcurrentMode>`.
 
 ## Getting Started with `<ConcurrentMode>`
 
-_Current API: `React.unstable_ConcurrentMode`_
+_@canary API: `React.unstable_ConcurrentMode`_
+_@next API: `React.ConcurrentMode`_
 
 Concurrent React is not enabled by default in React 16.
 Instead, you'll have to opt-in to it in React 16.6 on up:
@@ -62,7 +69,8 @@ _Note: Your app must be `<StrictMode>` compliant first before you apply `Concurr
 
 ## Alternatively; `ReactDOM.createRoot`
 
-_Current API: `ReactDOM.unstable_createRoot`_
+_@canary API: `ReactDOM.unstable_createRoot`_
+_@next API: `ReactDOM.createRoot`_
 
 If you use this instead of `ReactDOM.render`, `ReactDOM.createRoot` automatically opts into Concurrent mode for your whole app. For more info, see the separate Roots doc.
 

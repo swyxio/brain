@@ -8,6 +8,7 @@
 
 ## React Team Public Communication
 
+- 25 Oct 2018: [React Suspense keynote and Jared Palmer at React Conf 2018](https://www.youtube.com/watch?v=WXYPpY_mElQ)
 - 23 Oct 2018: [React 16.6 release: React.lazy, .memo, and static contextType](https://reactjs.org/blog/2018/10/23/react-v-16-6.html)
 - 2 Oct 2018: [Summary of acdlite's talk at Framework Summit on React Roadmap](https://www.reddit.com/r/reactjs/comments/9ksj2l/acdlites_react_roadmap_presentedframework_summit/?) - Reddit recap, presumably more to follow later
 - 18 Aug 2018: [Transcript of @sophiebits' Q&A on Reactiflux](https://www.reactiflux.com/transcripts/sophie-alpert-2/) - covering Suspense, offscreen rendering, and misc React Native questions

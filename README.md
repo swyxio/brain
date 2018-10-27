@@ -2,7 +2,7 @@
 
 _Prerelease React versions_
 
-- Release 16.6.0-alpha.8af6728: https://github.com/facebook/react/pull/13799
+- Release 16.7.0-alpha.0 (@next)
 
 _Demo/Starter Kits_
 

@@ -19,23 +19,23 @@ React Suspense is a generic way for components to suspend rendering while they l
   - `maxDuration` is exceeded and the **fallback** UI is shown.
   - OR: all sibling and child suspenders within a `<Suspense>` boundary have resolved. In other words, they "render together or not at all".
 
-Cache implementations are independent of React Suspense; 
-the React team maintains a reference implementation called `react-cache` 
+Cache implementations are independent of React Suspense;
+the React team maintains a reference implementation called `react-cache`
 that also supports key-based invalidation and preloading but they are not strictly necessary for React Suspense to work.
 
 Caches should be idempotent and should **throw promises** to resolve data fetches.
 
-## `<Suspense>` Example 
+## `<Suspense>` Example
 
-*Current API: `React.unstable_Suspense`*
+_Current API: `React.Suspense`_
 
 `<Suspense>` sets a "catchment area" for all suspenders thrown by its children.
 
 ```js
 // inside render...
-  <Suspense maxDuration={1000} fallback={<Spinner size="medium" />}>
-    <ChildComponent id={id} />
-  </Suspense>
+<Suspense maxDuration={1000} fallback={<Spinner size="medium" />}>
+  <ChildComponent id={id} />
+</Suspense>
 ```
 
 `<Suspense>` works without `ConcurrentMode`, but will act as though `maxDuration` is always 0 (i.e. it will always show the fallback UI even if momentarily, just like in normal React)
@@ -44,11 +44,11 @@ Please see our `react-cache` section for how to write suspenders.
 
 Also see the React Suspense Fixture: [CodeSandBox](https://codesandbox.io/s/w0n9ok3mqw)
 
---- 
+---
 
 > Next: [React Cache](/apis/react-cache.md)
 
---- 
+---
 
 **Recommended Sources for further info:**
 

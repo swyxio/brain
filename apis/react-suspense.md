@@ -25,6 +25,12 @@ that also supports key-based invalidation and preloading but they are not strict
 
 Caches should be idempotent and should **throw promises** to resolve data fetches.
 
+## maxDuration is not actual Duration
+
+This is not final but priorities have an associated duration that may supercede the duration you set. `ReactDOM.createRoot().render()` has normal priority (which means it is allowed to suspend for max 5 seconds). [Source](https://twitter.com/dan_abramov/status/1061344382375395329). 
+
+Actual duration works like `Math.min(how long it took, maxDuration of Suspense, duration associated with priority of update)`.
+
 ## `<Suspense>` Example
 
 _Current API: `React.Suspense`_

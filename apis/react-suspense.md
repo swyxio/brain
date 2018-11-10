@@ -27,7 +27,7 @@ Caches should be idempotent and should **throw promises** to resolve data fetche
 
 ## maxDuration is not actual Duration
 
-This is not final but priorities have an associated duration that may supercede the duration you set. `ReactDOM.createRoot().render()` has normal priority (which means it is allowed to suspend for max 5 seconds). [Source](https://twitter.com/dan_abramov/status/1061344382375395329). 
+This is not final but priorities have an associated duration that may supercede the duration you set. `ReactDOM.createRoot().render()` has normal priority (which means it is allowed to suspend for max 5 seconds). [Source](https://twitter.com/dan_abramov/status/1061344382375395329). Inside high priority "intentional" events it is 100ms in prod. [Source](https://twitter.com/dan_abramov/status/1055298410767675398?s=20)
 
 Actual duration works like `Math.min(how long it took, maxDuration of Suspense, duration associated with priority of update)`.
 

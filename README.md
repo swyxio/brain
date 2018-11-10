@@ -17,7 +17,17 @@ If you are looking for the old chronological list of sources, check `Timeline.md
 If you are looking for concise, curated writeups from me:
 
 - start with [`Intro.md`](/Intro.md)
-- then work through [`/apis`](/apis/time-slicing.md) and [`/community`](/community/talks.md).
+- then [`/apis`](/apis/):
+  - [Roots](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/roots.md)
+  - [Time Slicing](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/time-slicing.md)
+  - [React Suspense](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/react-suspense.md)
+  - [React Cache](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/react-cache.md)
+  - [hidden](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/hidden.md)
+  - [Misc APIs](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/misc-apis.md)
+- and [`/community`](/community/)
+  - [Demos](https://github.com/sw-yx/fresh-concurrent-react/blob/master/community/demos.md)
+  - [Libraries](https://github.com/sw-yx/fresh-concurrent-react/blob/master/community/libraries.md)
+  - [Talks](https://github.com/sw-yx/fresh-concurrent-react/blob/master/community/talks.md)
 
 ## Note
 

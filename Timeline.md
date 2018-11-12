@@ -64,6 +64,8 @@
 
 ## Concurrent React/React Fiber general info
 
+- 4 Nov 2018: Metaphor for how Concurrent React works - illustrator with two queues - [Twitter](https://twitter.com/dan_abramov/status/1059059596835340288)
+- 30 Oct 2018: Click event priorities are special cased - [Twitter](https://twitter.com/acdlite/status/1057330782224535552)
 - 24 Oct 2018: How maxDuration works with defaultDuration - [Twitter](https://twitter.com/dan_abramov/status/1055298410767675398?s=20), [more Twitter](https://twitter.com/dan_abramov/status/1061344382375395329)
 - 17 Oct 2018: Dan Abramov on what ReactDOM.createRoot does - [Twitter](https://twitter.com/dan_abramov/status/1052690486438313984)
 - 6 Oct 2018: Introduction of new lifecycle, `getDerivedStateFromError` and how it compares to `componentDidCatch` - [Reddit](https://www.reddit.com/r/reactjs/comments/9lp0k3/new_lifecycle_method_getderivedstatefromerror/), [PR](https://github.com/facebook/react/pull/13746)

@@ -7,9 +7,11 @@ menu: APIs
 
 `react-cache` is a reference React Suspense cache implementation maintained by the React team.
 It was previously known as `simple-cache-provider`.
-[The entire codebase](https://github.com/facebook/react/blob/master/packages/react-cache/src/ReactCache.js) is only about 400 lines of Flow-typed code.
+[The entire codebase](https://github.com/facebook/react/blob/master/packages/react-cache/src/ReactCache.js) is less than 200 lines of Flow-typed code. You can see usage examples in the [Suspense fixture](https://github.com/facebook/react/blob/master/fixtures/unstable-async/suspense/src/components/UserPage.js).
 
-**Note: There is a newer implementation of react cache that will be released in future with a slightly different API (including key based invalidation. [Check this PR](https://github.com/facebook/react/pull/13337) for a preview.**
+**Note: `react-cache` is under very active development - this document is more likely than the others to be out of date.** For example, `createCache` no longer exists. 
+
+This was last updated on Nov 13 2018.
 
 ## Important Concepts
 
@@ -17,27 +19,9 @@ It was previously known as `simple-cache-provider`.
 - **invalidating**
 - **preloading**
 
-## `createCache` Example
-
-_Current API: `reactCache.cache`_
-
-`createCache` creates a cache that works with `createResource`.
-You can create as many as you like if you are worried about key clashes, but most apps only need a singleton.
-
-```js
-// cache.js
-import { createCache } from 'react-cache';
-
-export let cache;
-function initCache() {
-  cache = createCache(initCache);
-}
-initCache();
-```
-
 ## `createResource` and `resource.read(key)` Example
 
-_Current API: `reactCache.createResource`_
+_Current API: `reactCache.unstable_createResource`_
 
 `createResource` creates a `resource` out of a callback returning a promise.
 
@@ -93,9 +77,11 @@ const Img = ({ src, alt, ...rest }) => (
 `resource.preload(key)` is like `resource.read(key)` except it does not throw and suspend rendering.
 Thus it has the effect of "warming" the cache in the background.
 
-## `resource.invalidate()`
 
-`resource.invalidate()` clears the cache. In future we should have fine-grained key-based invalidation.
+Other APIs:
+
+- `Resource.invalidate()` has been deprecated since it now uses LRU caching
+- `unstable_setGlobalCacheLimit` sets the LRU limit
 
 ---
 
@@ -106,3 +92,4 @@ Thus it has the effect of "warming" the cache in the background.
 **Recommended Sources for further info:**
 
 - v2.0.0 API change PR: [PR here](https://github.com/facebook/react/pull/13337)
+- [`react-cache` source](https://github.com/facebook/react/blob/master/packages/react-cache/src/ReactCache.js)

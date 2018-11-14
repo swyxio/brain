@@ -10,7 +10,7 @@
 
 - 25 Oct 2018: [React Suspense keynote and Jared Palmer at React Conf 2018](https://www.youtube.com/watch?v=WXYPpY_mElQ)
 - 23 Oct 2018: [React 16.6 release: React.lazy, .memo, and static contextType](https://reactjs.org/blog/2018/10/23/react-v-16-6.html)
-- 2 Oct 2018: [Summary of acdlite's talk at Framework Summit on React Roadmap](https://www.reddit.com/r/reactjs/comments/9ksj2l/acdlites_react_roadmap_presentedframework_summit/?) - Reddit recap, presumably more to follow later
+- 2 Oct 2018: [Summary of acdlite's talk at Framework Summit on React Roadmap](https://www.reddit.com/r/reactjs/comments/9ksj2l/acdlites_react_roadmap_presentedframework_summit/?) - Reddit recap, [Talk Video](https://www.youtube.com/watch?v=xrLIeSYRKIc&feature=youtu.be&a=)
 - 18 Aug 2018: [Transcript of @sophiebits' Q&A on Reactiflux](https://www.reactiflux.com/transcripts/sophie-alpert-2/) - covering Suspense, offscreen rendering, and misc React Native questions
 - 15 Aug 2018: [React.lazy PR](https://github.com/facebook/react/pull/13398) - Github (after adding [promises as component types](https://github.com/facebook/react/pull/13397)), [Usage example](https://twitter.com/kentcdodds/status/1047165818608410624))
 - 2 Aug 2018: [Time Slicing Umbrella Issue](https://github.com/facebook/react/issues/13306) - (Github)

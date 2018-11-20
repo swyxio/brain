@@ -8,7 +8,8 @@
 
 ## React Team Public Communication
 
-- 25 Oct 2018: [React Suspense keynote and Jared Palmer at React Conf 2018](https://www.youtube.com/watch?v=WXYPpY_mElQ)
+- 25 Oct 2018: [React Suspense keynote and Jared Palmer at React Conf 2018](https://www.youtube.com/watch?v=WXYPpY_mElQ) - [Github](https://github.com/jaredpalmer/react-conf-2018)
+, [Slides](https://github.com/jaredpalmer/react-conf-2018/blob/master/MovingToReactSuspense.key)
 - 23 Oct 2018: [React 16.6 release: React.lazy, .memo, and static contextType](https://reactjs.org/blog/2018/10/23/react-v-16-6.html)
 - 2 Oct 2018: [Summary of acdlite's talk at Framework Summit on React Roadmap](https://www.reddit.com/r/reactjs/comments/9ksj2l/acdlites_react_roadmap_presentedframework_summit/?) - Reddit recap, [Talk Video](https://www.youtube.com/watch?v=xrLIeSYRKIc&feature=youtu.be&a=)
 - 18 Aug 2018: [Transcript of @sophiebits' Q&A on Reactiflux](https://www.reactiflux.com/transcripts/sophie-alpert-2/) - covering Suspense, offscreen rendering, and misc React Native questions
@@ -25,6 +26,7 @@
 
 ## Code To Check Out
 
+- 25 Oct 2018: Jared Palmer Suspensify ReactConf Demo of Suspense - [Github](https://github.com/jaredpalmer/react-conf-2018)
 - 24 Oct 2018: testing Suspense's maxDuration - [Github](https://github.com/kentcdodds/suspense-max-duration-issue?fbclid=IwAR1ZYaFXCplCK0O2hcHQXu1kVCNuVJ_-oxgkeZiBD8Zxz_dnerHJzSNs7uQ) and [Twitter](https://twitter.com/kentcdodds/status/1055292963545264128)
 - 11 Oct 2018: v16.6 canary release - [React Suspense fixture](https://codesandbox.io/s/w0n9ok3mqw), [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) both on CodeSandBox
 - 8 Oct 2018: Kent C Dodds' Fundamental Suspense - [Tweet](https://twitter.com/kentcdodds/status/1049322616727564289), [Gist](https://gist.github.com/kentcdodds/2510249a3fc5c9dce82ccee80396fc6a)
@@ -64,6 +66,7 @@
 
 ## Concurrent React/React Fiber general info
 
+- 20 Nov 2018: Jared Palmer on Hooks and Suspense on React Podcast - [Podcast](https://reactpodcast.com/29)
 - 4 Nov 2018: Metaphor for how Concurrent React works - illustrator with two queues - [Twitter](https://twitter.com/dan_abramov/status/1059059596835340288)
 - 30 Oct 2018: Click event priorities are special cased - [Twitter](https://twitter.com/acdlite/status/1057330782224535552)
 - 24 Oct 2018: How maxDuration works with defaultDuration - [Twitter](https://twitter.com/dan_abramov/status/1055298410767675398?s=20), [more Twitter](https://twitter.com/dan_abramov/status/1061344382375395329)

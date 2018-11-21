@@ -8,6 +8,7 @@
 
 ## React Team Public Communication
 
+- 20 Nov 2018: [Context.write RFC](https://github.com/acdlite/rfcs/blob/context-write/text/0000-context-write.md) - necessary for Serverside Suspense
 - 25 Oct 2018: [React Suspense keynote and Jared Palmer at React Conf 2018](https://www.youtube.com/watch?v=WXYPpY_mElQ) - [Github](https://github.com/jaredpalmer/react-conf-2018)
 , [Slides](https://github.com/jaredpalmer/react-conf-2018/blob/master/MovingToReactSuspense.key)
 - 23 Oct 2018: [React 16.6 release: React.lazy, .memo, and static contextType](https://reactjs.org/blog/2018/10/23/react-v-16-6.html)

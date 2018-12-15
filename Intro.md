@@ -16,6 +16,19 @@ allowing for fast interactions to feel instant while slower interactions feel re
 Concurrent React includes features like **Time Slicing** and **React Suspense**.
 New libraries have also been introduced in relation to these features, like `scheduler` and `react-cache`.
 
+The canonical sources of information for Concurrent React is given in two talks by the React team:
+
+- React Conf 2018: Concurrent Rendering in React: https://www.youtube.com/watch?v=ByBPyMBTzM0&t=1305s
+- JSConf Iceland: Beyond React 16: https://www.youtube.com/watch?v=v6iR3Zk4oDY
+
+You can try the demos here:
+
+- Try the [React Suspense fixture](https://codesandbox.io/s/k3m2rq627o) or
+- the [Time Slicing fixture](https://codesandbox.io/s/xl3rjr9mjo) or
+- the [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) on CodeSandBox.
+
+There are also more talks available in the [Timeline](/Timeline.md).
+
 As of 15 Oct 2018 these features were available (with `unstable_` flag) under the `@canary` tag, or `v16.6.0-alpha.8af6728`:
 
 - [react](https://www.npmjs.com/package/react/v/16.6.0-alpha.8af6728)
@@ -23,7 +36,7 @@ As of 15 Oct 2018 these features were available (with `unstable_` flag) under th
 - [react-cache](https://www.npmjs.com/package/react-cache/v/16.6.0-alpha.8af6728)
 - [scheduler](https://www.npmjs.com/package/scheduler/v/0.10.0-alpha.8af6728)
 
-As of 25 Oct 2018 these features were available (without `unstable_` flag) under the `@next` tag, or `v16.7.0-alpha.0`:
+As of 25 Oct 2018 these features were available (**without** `unstable_` flag) under the `@next` tag, or `v16.7.0-alpha.0`:
 
 - [react](https://www.npmjs.com/package/react/v/16.7.0-alpha.0)
 - [react-dom](https://www.npmjs.com/package/react-dom/v/16.7.0-alpha.0)

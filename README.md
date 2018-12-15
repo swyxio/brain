@@ -1,18 +1,8 @@
-## How to Try Out ConcurrentMode today
+## ⚛️🍅 Fresh-Concurrent-React
 
-_Prerelease React versions_
+Welcome to `fresh-concurrent-react` - a great place to learn about Concurrent React!
 
-- Release 16.7.0-alpha.0 (@next)
-
-_Demo/Starter Kits_
-
-- Try the [React Suspense fixture](https://codesandbox.io/s/k3m2rq627o) or
-- the [Time Slicing fixture](https://codesandbox.io/s/xl3rjr9mjo) or
-- the [JSConf Iceland Movie Demo](https://codesandbox.io/s/r76q199xxn) on CodeSandBox.
-
-## Where to get info on ConcurrentMode?
-
-If you are looking for the old chronological list of sources, check `Timeline.md`.
+If you are looking for a chronological list of sources, check [`Timeline.md`](/Timeline.md).
 
 If you are looking for concise, curated writeups from me:
 

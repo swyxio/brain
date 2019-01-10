@@ -8,7 +8,9 @@
 
 ## React Team Public Communication
 
+- 27 Nov 2018: [React 16.x Roadmap](https://reactjs.org/blog/2018/11/27/react-16-roadmap.html) blogpost with Suspense timeline
 - 20 Nov 2018: [Context.write RFC](https://github.com/acdlite/rfcs/blob/context-write/text/0000-context-write.md) - necessary for Serverside Suspense
+- 13 Nov 2018: [React Conf Recap](https://reactjs.org/blog/2018/11/13/react-conf-recap.html) - with Suspense talks included
 - 25 Oct 2018: [React Suspense keynote and Jared Palmer at React Conf 2018](https://www.youtube.com/watch?v=WXYPpY_mElQ) - [Github](https://github.com/jaredpalmer/react-conf-2018)
   , [Slides](https://github.com/jaredpalmer/react-conf-2018/blob/master/MovingToReactSuspense.key)
 - 23 Oct 2018: [React 16.6 release: React.lazy, .memo, and static contextType](https://reactjs.org/blog/2018/10/23/react-v-16-6.html)
@@ -27,6 +29,7 @@
 
 ## Code To Check Out
 
+- 7 Jan 2019: React-aldrin by Fredrik Hoglund - Suspense based Server Renderer - [Github](https://github.com/Ephem/react-aldrin), [Twitter](https://twitter.com/EphemeralCircle/status/1082264727294758912)
 - 25 Oct 2018: Jared Palmer Suspensify ReactConf Demo of Suspense - [Github](https://github.com/jaredpalmer/react-conf-2018)
 - 24 Oct 2018: testing Suspense's maxDuration - [Github](https://github.com/kentcdodds/suspense-max-duration-issue?fbclid=IwAR1ZYaFXCplCK0O2hcHQXu1kVCNuVJ_-oxgkeZiBD8Zxz_dnerHJzSNs7uQ) and [Twitter](https://twitter.com/kentcdodds/status/1055292963545264128)
 - 11 Oct 2018: v16.6 canary release - [React Suspense fixture](https://codesandbox.io/s/w0n9ok3mqw), [JSConf Iceland Movie Demo](https://codesandbox.io/s/90xvln6xp) both on CodeSandBox
@@ -101,6 +104,7 @@
 
 ## React Suspense-specific
 
+- 7 Jan 2019: React-aldrin by Fredrik Hoglund - Suspense based Server Renderer - [Github](https://github.com/Ephem/react-aldrin), [Twitter](https://twitter.com/EphemeralCircle/status/1082264727294758912)
 - 23 Oct 2018: Post React 16.6 release: "The longer term vision for suspense is that every component import is dynamic" - [@danabramov](https://twitter.com/dan_abramov/status/1054940536161865729)
 - 11 Oct 2018: Suspense enabled; Placeholder renamed to Suspense - [PR](https://github.com/facebook/react/pull/13799)
 - 10 Oct 2018: New API for react-cache - [Github Summary by @jaredpalmer](https://github.com/facebook/react/pull/13337#issuecomment-425974864)
@@ -160,6 +164,7 @@
 
 ## Streaming SSR specific
 
+- 7 Jan 2019: React-aldrin by Fredrik Hoglund - Suspense based Server Renderer - [Github](https://github.com/Ephem/react-aldrin), [Twitter](https://twitter.com/EphemeralCircle/status/1082264727294758912)
 - 10 Oct 2018: [@EphemeralCircle's talk slides on Suspense SSR](https://async-ssr-presentation.fredrikhoglund.com)
 - 21 Aug 2018: [Jared palmer on single-pass SSR](https://twitter.com/jaredpalmer/status/1030895900527403009)
 - 2 May 2018: [@EphemeralCircle's Streaming SSR proof of concept (non React Suspense)](https://github.com/Ephem/streaming-ssr-progress-poc) link to [live version and discussion](https://twitter.com/EphemeralCircle/status/991617640945930241)

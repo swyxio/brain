@@ -31,6 +31,8 @@ This is not final but priorities have an associated duration that may supercede 
 
 Actual duration works like `Math.min(how long it took, maxDuration of Suspense, duration associated with priority of update)`.
 
+Update Jan 27 2019: [maxDuration is too hard to explain, will be dropped for something else](https://twitter.com/sebmarkbage/status/1089704030920556549)
+
 ## `<Suspense>` Example
 
 _Current API: `React.Suspense`_

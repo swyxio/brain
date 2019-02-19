@@ -70,6 +70,7 @@
 
 ## Concurrent React/React Fiber general info
 
+- 19 Feb 2019: "Concurrent Mode is about prioritizing updates, not components. Components still update together. But CM lets certain updates interrupt other updates. And prevents React from blocking browser paint" - [Twitter](https://twitter.com/dan_abramov/status/1097831099730968576?s=12)
 - 20 Nov 2018: Jared Palmer on Hooks and Suspense on React Podcast - [Podcast](https://reactpodcast.com/29)
 - 4 Nov 2018: Metaphor for how Concurrent React works - illustrator with two queues - [Twitter](https://twitter.com/dan_abramov/status/1059059596835340288)
 - 30 Oct 2018: Click event priorities are special cased - [Twitter](https://twitter.com/acdlite/status/1057330782224535552)
@@ -104,6 +105,7 @@
 
 ## React Suspense-specific
 
+- 18 Feb 2019: "I regret using Promises for Suspense." - [Twitter](https://twitter.com/sebmarkbage/status/1097704449437384704)
 - 7 Jan 2019: React-aldrin by Fredrik Hoglund - Suspense based Server Renderer - [Github](https://github.com/Ephem/react-aldrin), [Twitter](https://twitter.com/EphemeralCircle/status/1082264727294758912)
 - 23 Oct 2018: Post React 16.6 release: "The longer term vision for suspense is that every component import is dynamic" - [@danabramov](https://twitter.com/dan_abramov/status/1054940536161865729)
 - 11 Oct 2018: Suspense enabled; Placeholder renamed to Suspense - [PR](https://github.com/facebook/react/pull/13799)

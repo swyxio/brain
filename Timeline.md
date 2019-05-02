@@ -169,6 +169,7 @@
 
 ## Streaming SSR specific
 
+- 2 May 2019: React-lightyear - successor to React-aldrin - [Github](https://github.com/Ephem/react-lightyear)
 - 7 Jan 2019: React-aldrin by Fredrik Hoglund - Suspense based Server Renderer - [Github](https://github.com/Ephem/react-aldrin), [Twitter](https://twitter.com/EphemeralCircle/status/1082264727294758912)
 - 10 Oct 2018: [@EphemeralCircle's talk slides on Suspense SSR](https://async-ssr-presentation.fredrikhoglund.com)
 - 21 Aug 2018: [Jared palmer on single-pass SSR](https://twitter.com/jaredpalmer/status/1030895900527403009)
@@ -193,10 +194,10 @@
 
 ## History
 
-- 15 Dec 2016: [Why, What, and How of React Fiber](https://www.youtube.com/watch?v=crM1iRVGpGQ) google hangout with kent dodds, lin clark, dan abramov, brian vaughn and andrew clark demoing the sierpinski triangle
 - 22 Feb 2017: [React Fiber vs Stack Demo](https://github.com/claudiopro/react-fiber-vs-stack-demo/)
 - 16 Mar 2017: [Lin Clark's A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 - 16 Mar 2017: [React Performance End to End](https://www.youtube.com/watch?v=bvFpe5j9-zQ) Sebastian's presentation at ReactConf 2017
+- 15 Dec 2016: [Why, What, and How of React Fiber](https://www.youtube.com/watch?v=crM1iRVGpGQ) google hangout with kent dodds, lin clark, dan abramov, brian vaughn and andrew clark demoing the sierpinski triangle
 - 18 Jul 2016: [React Fiber architecture](https://github.com/acdlite/react-fiber-architecture) from Andrew Clark
 - 12 Apr 2016: [React-Basic](https://github.com/reactjs/react-basic) Sebastian's Conceptual notes on how React works
 - 2 Mar 2016: [First Github disccussion of what became the Fiber rewrite](https://github.com/facebook/react/issues/6170) with timeslicing/suspense/context/error boundaries named

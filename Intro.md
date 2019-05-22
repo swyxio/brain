@@ -29,19 +29,12 @@ You can try the demos here:
 
 There are also more talks available in the [Timeline](/Timeline.md).
 
-As of 15 Oct 2018 these features were available (with `unstable_` flag) under the `@canary` tag, or `v16.6.0-alpha.8af6728`:
+As of 22 May 2019 these features were available (with `unstable_` flag):
 
-- [react](https://www.npmjs.com/package/react/v/16.6.0-alpha.8af6728)
-- [react-dom](https://www.npmjs.com/package/react-dom/v/16.6.0-alpha.8af6728)
-- [react-cache](https://www.npmjs.com/package/react-cache/v/16.6.0-alpha.8af6728)
-- [scheduler](https://www.npmjs.com/package/scheduler/v/0.10.0-alpha.8af6728)
-
-As of 25 Oct 2018 these features were available (**without** `unstable_` flag) under the `@next` tag, or `v16.7.0-alpha.0`:
-
-- [react](https://www.npmjs.com/package/react/v/16.7.0-alpha.0)
-- [react-dom](https://www.npmjs.com/package/react-dom/v/16.7.0-alpha.0)
-- [react-cache](https://www.npmjs.com/package/react-cache/v/2.0.0-alpha.0)
-- [scheduler](https://www.npmjs.com/package/scheduler/v/0.11.0-alpha.0)
+- [react](https://www.npmjs.com/package/react)
+- [react-dom](https://www.npmjs.com/package/react-dom)
+- [react-cache](https://www.npmjs.com/package/react-cache) (note public version of `react-cache` has fallen out of sync with current version of react, use [react v16.6 alpha](https://www.npmjs.com/package/react-cache/v/16.6.0-alpha.8af6728) and [react-cache v16.6 alpha](https://www.npmjs.com/package/react-cache/v/16.6.0-alpha.8af6728) if need to)
+- [scheduler](https://www.npmjs.com/package/scheduler)
 
 This site is an attempt to sum up the state of knowledge with regards to Concurrent React.
 It is curated by [swyx](http://twitter.com/swyx) and is not to be taken as a replacement for any
@@ -55,28 +48,12 @@ It will be impossible to keep up with all the changes so examples may break when
 
 We will also write about APIs without the `unstable_` prefix, but it is very much implied.
 We will note the current API at the start and for the rest of the section drop the `unstable_` prefix.
+
 For example, see the next section on `<ConcurrentMode>`.
 
-## Getting Started with `<ConcurrentMode>`
+## `<ConcurrentMode>` deprecated
 
-_@canary API: `React.unstable_ConcurrentMode`_
-_@next API: `React.ConcurrentMode`_
-
-Concurrent React is not enabled by default in React 16.
-Instead, you'll have to opt-in to it in React 16.6 on up:
-
-```js
-const container = document.getElementById('root');
-ReactDOM.render(
-  <ConcurrentMode>
-    <App />
-  </ConcurrentMode>,
-  container
-);
-```
-
-This opt-in nature is very handy for incrementally converting an existing app to use Concurrent React features.
-**The other Concurrent React features will not work without this wrapper component as a parent.**
+> 💀 This section used to document `<ConcurrentMode>`, but it [has been deprecated](https://github.com/facebook/react/pull/15532) for [reasons](https://github.com/facebook/react/pull/15502/files).
 
 _Note: Your app must be `<StrictMode>` compliant first before you apply `ConcurrentMode` - [read more about StrictMode in the docs](https://reactjs.org/docs/strict-mode.html)_
 
@@ -85,7 +62,7 @@ _Note: Your app must be `<StrictMode>` compliant first before you apply `Concurr
 _@canary API: `ReactDOM.unstable_createRoot`_
 _@next API: `ReactDOM.createRoot`_
 
-If you use this instead of `ReactDOM.render`, `ReactDOM.createRoot` automatically opts into Concurrent mode for your whole app. For more info, see the separate Roots doc.
+If you use this instead of `ReactDOM.render`, `ReactDOM.createRoot` creates Concurrent root for your whole app (yes, you can have multiple roots). For more info, see the separate Roots doc.
 
 ```js
 const container = document.getElementById('root');

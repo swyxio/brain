@@ -59,8 +59,7 @@ _Note: Your app must be `<StrictMode>` compliant first before you apply `Concurr
 
 ## Alternatively; `ReactDOM.createRoot`
 
-_@canary API: `ReactDOM.unstable_createRoot`_
-_@next API: `ReactDOM.createRoot`_
+_API: `ReactDOM.unstable_createRoot`_
 
 If you use this instead of `ReactDOM.render`, `ReactDOM.createRoot` creates Concurrent root for your whole app (yes, you can have multiple roots). For more info, see the separate Roots doc.
 

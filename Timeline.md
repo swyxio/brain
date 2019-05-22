@@ -70,6 +70,7 @@
 
 ## Concurrent React/React Fiber general info
 
+- 28 Apr 2019: React Batched Mode - mentions deprecating `ConcurrentMode` altogether - [PR](https://github.com/facebook/react/pull/15502) - [done in this PR](https://github.com/facebook/react/pull/15532)
 - 13 Apr 2019: About React Suspense and Concurrent Mode - [@pomber on Dev.to](https://dev.to/pomber/about-react-suspense-and-concurrent-mode-21aj)
 - 11 Apr 2019: New Fiber Scheduler rewrite - [Github PR](https://github.com/facebook/react/pull/15387)
 - 19 Feb 2019: "Concurrent Mode is about prioritizing updates, not components. Components still update together. But CM lets certain updates interrupt other updates. And prevents React from blocking browser paint" - [Twitter](https://twitter.com/dan_abramov/status/1097831099730968576?s=12)

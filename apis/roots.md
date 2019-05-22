@@ -9,10 +9,9 @@ These are concurrent-ready attachment points for React onto the DOM.
 
 ## `ReactDOM.createRoot and Root.render`
 
-_@canary API: `ReactDOM.unstable_createRoot`_
-_@next API: `ReactDOM.createRoot`_
+API: `ReactDOM.unstable_createRoot`
 
-Instead of `ReactDOM.render`, `ReactDOM.createRoot` automatically opts into `<ConcurrentMode>`. It also doesn't assume the first render is synchronous (aka you can suspend even on the first render, which useful for prerendering via `root.createBatch()`).
+Instead of `ReactDOM.render`, `ReactDOM.createRoot` creates a Concurrent root for React. It also doesn't assume the first render is synchronous (aka you can suspend even on the first render, which useful for prerendering via `root.createBatch()`).
 
 Roots expose a number of methods, the main of which is `Root.render`:
 
@@ -39,8 +38,7 @@ work.commit();
 
 ## `ReactDOM.createLazyRoot`
 
-_@canary API: `ReactDOM.unstable_createLazyRoot`_
-_@next API: `ReactDOM.createLazyRoot`_
+_API: `ReactDOM.unstable_createLazyRoot`_
 
 Start rendering even without a container:
 

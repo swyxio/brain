@@ -13,7 +13,6 @@ If you are looking for concise, curated writeups from me:
   - [React Suspense](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/react-suspense.md)
   - [React Cache](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/react-cache.md)
   - [hidden](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/hidden.md)
-  - [Misc APIs](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/misc-apis.md)
 - and [`/community`](/community/)
   - [Demos](https://github.com/sw-yx/fresh-concurrent-react/blob/master/community/demos.md)
   - [Libraries](https://github.com/sw-yx/fresh-concurrent-react/blob/master/community/libraries.md)

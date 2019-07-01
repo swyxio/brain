@@ -29,6 +29,7 @@
 
 ## Code To Check Out
 
+- 30 Jun 2019: New SuspenseList Component - [Github](https://github.com/facebook/react/pull/15902), [forward and backward revealOrder](https://github.com/facebook/react/pull/15918), [swallowing tail](https://github.com/facebook/react/pull/15946)
 - 7 Jan 2019: React-aldrin by Fredrik Hoglund - Suspense based Server Renderer - [Github](https://github.com/Ephem/react-aldrin), [Twitter](https://twitter.com/EphemeralCircle/status/1082264727294758912)
 - 25 Oct 2018: Jared Palmer Suspensify ReactConf Demo of Suspense - [Github](https://github.com/jaredpalmer/react-conf-2018)
 - 24 Oct 2018: testing Suspense's maxDuration - [Github](https://github.com/kentcdodds/suspense-max-duration-issue?fbclid=IwAR1ZYaFXCplCK0O2hcHQXu1kVCNuVJ_-oxgkeZiBD8Zxz_dnerHJzSNs7uQ) and [Twitter](https://twitter.com/kentcdodds/status/1055292963545264128)

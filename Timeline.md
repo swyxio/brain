@@ -74,6 +74,7 @@
 - 28 Apr 2019: React Batched Mode - mentions deprecating `ConcurrentMode` altogether - [PR](https://github.com/facebook/react/pull/15502) - [done in this PR](https://github.com/facebook/react/pull/15532)
 - 13 Apr 2019: About React Suspense and Concurrent Mode - [@pomber on Dev.to](https://dev.to/pomber/about-react-suspense-and-concurrent-mode-21aj)
 - 11 Apr 2019: New Fiber Scheduler rewrite - [Github PR](https://github.com/facebook/react/pull/15387)
+- 10 Apr 2019: A hueristic replacement of React.Suspense maxDuration uses [Just Noticeable Difference](https://github.com/facebook/react/pull/15367) to calculate the timeout after [removing hard-coded 150ms](https://github.com/facebook/react/pull/15367/files#diff-a409dc1b2c8ece1cc1fa28fe42b481ceL1829)
 - 4 Apr 2019: React.Suspense maxDuration attribute has been removed from Flow - [Github](https://github.com/facebook/flow/pull/7613)
 - 2 Apr 2019: React.Suspense maxDuration prop has been removed from React - [Github](https://github.com/facebook/react/pull/15272)
 - 19 Feb 2019: "Concurrent Mode is about prioritizing updates, not components. Components still update together. But CM lets certain updates interrupt other updates. And prevents React from blocking browser paint" - [Twitter](https://twitter.com/dan_abramov/status/1097831099730968576?s=12)

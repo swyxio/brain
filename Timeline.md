@@ -30,8 +30,6 @@
 ## Code To Check Out
 
 - 30 Jun 2019: New SuspenseList Component - [Github](https://github.com/facebook/react/pull/15902), [forward and backward revealOrder](https://github.com/facebook/react/pull/15918), [swallowing tail](https://github.com/facebook/react/pull/15946)
-- 4 Apr 2019: React.Suspense maxDuration attribute has been removed from Flow - [Github](https://github.com/facebook/flow/pull/7613)
-- 2 Apr 2019: React.Suspense maxDuration prop has been removed from React - [Github](https://github.com/facebook/react/pull/15272)
 - 7 Jan 2019: React-aldrin by Fredrik Hoglund - Suspense based Server Renderer - [Github](https://github.com/Ephem/react-aldrin), [Twitter](https://twitter.com/EphemeralCircle/status/1082264727294758912)
 - 25 Oct 2018: Jared Palmer Suspensify ReactConf Demo of Suspense - [Github](https://github.com/jaredpalmer/react-conf-2018)
 - 24 Oct 2018: testing Suspense's maxDuration - [Github](https://github.com/kentcdodds/suspense-max-duration-issue?fbclid=IwAR1ZYaFXCplCK0O2hcHQXu1kVCNuVJ_-oxgkeZiBD8Zxz_dnerHJzSNs7uQ) and [Twitter](https://twitter.com/kentcdodds/status/1055292963545264128)
@@ -76,6 +74,8 @@
 - 28 Apr 2019: React Batched Mode - mentions deprecating `ConcurrentMode` altogether - [PR](https://github.com/facebook/react/pull/15502) - [done in this PR](https://github.com/facebook/react/pull/15532)
 - 13 Apr 2019: About React Suspense and Concurrent Mode - [@pomber on Dev.to](https://dev.to/pomber/about-react-suspense-and-concurrent-mode-21aj)
 - 11 Apr 2019: New Fiber Scheduler rewrite - [Github PR](https://github.com/facebook/react/pull/15387)
+- 4 Apr 2019: React.Suspense maxDuration attribute has been removed from Flow - [Github](https://github.com/facebook/flow/pull/7613)
+- 2 Apr 2019: React.Suspense maxDuration prop has been removed from React - [Github](https://github.com/facebook/react/pull/15272)
 - 19 Feb 2019: "Concurrent Mode is about prioritizing updates, not components. Components still update together. But CM lets certain updates interrupt other updates. And prevents React from blocking browser paint" - [Twitter](https://twitter.com/dan_abramov/status/1097831099730968576?s=12)
 - 20 Nov 2018: Jared Palmer on Hooks and Suspense on React Podcast - [Podcast](https://reactpodcast.com/29)
 - 4 Nov 2018: Metaphor for how Concurrent React works - illustrator with two queues - [Twitter](https://twitter.com/dan_abramov/status/1059059596835340288)

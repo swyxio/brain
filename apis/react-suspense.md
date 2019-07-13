@@ -25,8 +25,6 @@ that also supports key-based invalidation and preloading but they are not strict
 
 Caches should be idempotent and should **throw promises** to resolve data fetches.
 
-~~## maxDuration is NOT actual Duration~~
-
 - Update 10 Apr 2019: A hueristic replacement of maxDuration uses [Just Noticeable Difference](https://github.com/facebook/react/pull/15367) to calculate the timeout after [removing hard-coded 150ms](https://github.com/facebook/react/pull/15367/files#diff-a409dc1b2c8ece1cc1fa28fe42b481ceL1829)
 - Update 4 Apr 2019: maxDuration has been removed and [replaced with a heuristic and different mechanism instead](https://github.com/facebook/react/pull/15272)
 - Update 27 Jan 2019: [maxDuration is too hard to explain, will be dropped for something else](https://twitter.com/sebmarkbage/status/1089704030920556549)

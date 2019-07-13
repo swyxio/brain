@@ -16,8 +16,8 @@ React Suspense is a generic way for components to suspend rendering while they l
   - showing a **fallback** UI if the duration of the suspense exceeds a threshold
   - **resuming** render when the fetch is fulfilled and the cache read obtains a value
 - Render is only complete and committed to the DOM when either:
-  - a hueristic and different mechanism decides that a **fallback** UI is shown. React ships with [hard-coded built-in expiry limit of 150ms](https://github.com/facebook/react/pull/15272#issue-265972492).
-  - OR: all sibling and child suspenders within a `<Suspense>` boundary have resolved. In other words, they "render together or not at all".
+  - a hueristic ([Just Noticeable Difference](https://github.com/facebook/react/pull/15367)) decides that a **fallback** UI is shown
+  - OR: all sibling and child suspenders within a `<Suspense>` boundary have resolved. In other words, they "render together or not at all"
 
 Cache implementations are independent of React Suspense;
 the React team maintains a reference implementation called `react-cache`
@@ -27,7 +27,8 @@ Caches should be idempotent and should **throw promises** to resolve data fetche
 
 ~~## maxDuration is NOT actual Duration~~
 
-- Update 12 Jul 2019: maxDuration has been removed and [replaced with a heuristic and different mechanism instead](https://github.com/facebook/react/pull/15272)
+- Update 10 Apr 2019: A hueristic replacement of maxDuration uses [Just Noticeable Difference](https://github.com/facebook/react/pull/15367) to calculate the timeout after [removing hard-coded 150ms](https://github.com/facebook/react/pull/15367/files#diff-a409dc1b2c8ece1cc1fa28fe42b481ceL1829)
+- Update 4 Apr 2019: maxDuration has been removed and [replaced with a heuristic and different mechanism instead](https://github.com/facebook/react/pull/15272)
 - Update 27 Jan 2019: [maxDuration is too hard to explain, will be dropped for something else](https://twitter.com/sebmarkbage/status/1089704030920556549)
 
 ## `<Suspense>` Example

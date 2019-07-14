@@ -16,8 +16,8 @@ React Suspense is a generic way for components to suspend rendering while they l
   - showing a **fallback** UI if the duration of the suspense exceeds a threshold
   - **resuming** render when the fetch is fulfilled and the cache read obtains a value
 - Render is only complete and committed to the DOM when either:
-  - `maxDuration` is exceeded and the **fallback** UI is shown. React ships with built in maxDuration expiry limits (up to 5 seconds, iirc), and will use the smaller of the builtin limit or of whatever you specify (see below).
-  - OR: all sibling and child suspenders within a `<Suspense>` boundary have resolved. In other words, they "render together or not at all".
+  - a hueristic ([Just Noticeable Difference](https://github.com/facebook/react/pull/15367)) decides that a **fallback** UI is shown
+  - OR: all sibling and child suspenders within a `<Suspense>` boundary have resolved. In other words, they "render together or not at all"
 
 Cache implementations are independent of React Suspense;
 the React team maintains a reference implementation called `react-cache`
@@ -25,13 +25,9 @@ that also supports key-based invalidation and preloading but they are not strict
 
 Caches should be idempotent and should **throw promises** to resolve data fetches.
 
-## maxDuration is NOT actual Duration
-
-This is not final but priorities have an associated duration that may supercede the duration you set. `ReactDOM.createRoot().render()` has normal priority (which means it is allowed to suspend for max 5 seconds). [Source](https://twitter.com/dan_abramov/status/1061344382375395329). Inside high priority "intentional" events it is 100ms in prod. [Source](https://twitter.com/dan_abramov/status/1055298410767675398?s=20)
-
-Actual duration works like `Math.min(how long it took, maxDuration of Suspense, duration associated with priority of update)`.
-
-Update Jan 27 2019: [maxDuration is too hard to explain, will be dropped for something else](https://twitter.com/sebmarkbage/status/1089704030920556549)
+- Update 10 Apr 2019: A hueristic replacement of maxDuration uses [Just Noticeable Difference](https://github.com/facebook/react/pull/15367) to calculate the timeout after [removing hard-coded 150ms](https://github.com/facebook/react/pull/15367/files#diff-a409dc1b2c8ece1cc1fa28fe42b481ceL1829)
+- Update 4 Apr 2019: maxDuration has been removed and [replaced with a heuristic and different mechanism instead](https://github.com/facebook/react/pull/15272)
+- Update 27 Jan 2019: [maxDuration is too hard to explain, will be dropped for something else](https://twitter.com/sebmarkbage/status/1089704030920556549)
 
 ## `<Suspense>` Example
 
@@ -41,12 +37,12 @@ _Current API: `React.Suspense`_
 
 ```js
 // inside render...
-<Suspense maxDuration={1000} fallback={<Spinner size="medium" />}>
+<Suspense fallback={<Spinner size="medium" />}>
   <ChildComponent id={id} />
 </Suspense>
 ```
 
-`<Suspense>` works outside of a Concurrent root, but will act as though `maxDuration` is always 0 (i.e. it will always show the fallback UI even if momentarily, just like in normal React)
+`<Suspense>` works outside of a Concurrent root (in 16.6.0~16.8.6), and will always show the fallback UI even if momentarily.
 
 Please see our `react-cache` section for how to write suspenders.
 

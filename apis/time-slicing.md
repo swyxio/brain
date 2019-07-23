@@ -64,6 +64,7 @@ Also see the Time Slicing Fixture: [Live Demo](https://timeslicing-unstable-demo
 
 **Recommended Sources for further info:**
 
+- [Scheduling is the Future - aweary's talk on React scheduling and Just Noticeable Difference](https://www.youtube.com/watch?v=Iyrf52cwxQI)
 - [The Evolution of React and GraphQL at Facebook - F8 2017](https://developers.facebook.com/videos/f8-2017/the-evolution-of-react-and-graphql-at-facebook-and-beyond/)
 - JSConf Iceland 2018 - [Video](https://www.youtube.com/watch?v=nLF0n9SACd4) and [Source Code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/time-slicing)
 - [Time Slicing Umbrella Issue](https://github.com/facebook/react/issues/13306)

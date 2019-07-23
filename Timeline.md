@@ -71,6 +71,7 @@
 
 ## Concurrent React/React Fiber general info
 
+- 29 May 2019: Scheduling is the Future - aweary's talk on React scheduling and Just Noticeable Difference - [Youtube](https://www.youtube.com/watch?v=Iyrf52cwxQI)
 - 28 Apr 2019: React Batched Mode - mentions deprecating `ConcurrentMode` altogether - [PR](https://github.com/facebook/react/pull/15502) - [done in this PR](https://github.com/facebook/react/pull/15532)
 - 13 Apr 2019: About React Suspense and Concurrent Mode - [@pomber on Dev.to](https://dev.to/pomber/about-react-suspense-and-concurrent-mode-21aj)
 - 11 Apr 2019: New Fiber Scheduler rewrite - [Github PR](https://github.com/facebook/react/pull/15387)

@@ -8,6 +8,8 @@
 
 ## React Team Public Communication
 
+
+- 8 Aug 2019: [React v16.9.0 and the Roadmap Update](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html)
 - 27 Nov 2018: [React 16.x Roadmap](https://reactjs.org/blog/2018/11/27/react-16-roadmap.html) blogpost with Suspense timeline
 - 20 Nov 2018: [Context.write RFC](https://github.com/acdlite/rfcs/blob/context-write/text/0000-context-write.md) - necessary for Serverside Suspense
 - 13 Nov 2018: [React Conf Recap](https://reactjs.org/blog/2018/11/13/react-conf-recap.html) - with Suspense talks included
@@ -29,6 +31,7 @@
 
 ## Code To Check Out
 
+- 9 Aug 2019: [use-subscription v1.0](https://www.npmjs.com/package/use-subscription) - official React hook that safely manages subscriptions in concurrent mode.
 - 30 Jun 2019: New SuspenseList Component - [Github](https://github.com/facebook/react/pull/15902), [forward and backward revealOrder](https://github.com/facebook/react/pull/15918), [swallowing tail](https://github.com/facebook/react/pull/15946)
 - 7 Jan 2019: React-aldrin by Fredrik Hoglund - Suspense based Server Renderer - [Github](https://github.com/Ephem/react-aldrin), [Twitter](https://twitter.com/EphemeralCircle/status/1082264727294758912)
 - 25 Oct 2018: Jared Palmer Suspensify ReactConf Demo of Suspense - [Github](https://github.com/jaredpalmer/react-conf-2018)
@@ -71,6 +74,7 @@
 
 ## Concurrent React/React Fiber general info
 
+- 9 Aug 2019: [use-subscription v1.0](https://www.npmjs.com/package/use-subscription) - official React hook that safely manages subscriptions in concurrent mode.
 - 29 May 2019: Scheduling is the Future - aweary's talk on React scheduling and Just Noticeable Difference - [Youtube](https://www.youtube.com/watch?v=Iyrf52cwxQI)
 - 28 Apr 2019: React Batched Mode - mentions deprecating `ConcurrentMode` altogether - [PR](https://github.com/facebook/react/pull/15502) - [done in this PR](https://github.com/facebook/react/pull/15532)
 - 13 Apr 2019: About React Suspense and Concurrent Mode - [@pomber on Dev.to](https://dev.to/pomber/about-react-suspense-and-concurrent-mode-21aj)
@@ -181,22 +185,6 @@
 - 21 Aug 2018: [Jared palmer on single-pass SSR](https://twitter.com/jaredpalmer/status/1030895900527403009)
 - 2 May 2018: [@EphemeralCircle's Streaming SSR proof of concept (non React Suspense)](https://github.com/Ephem/streaming-ssr-progress-poc) link to [live version and discussion](https://twitter.com/EphemeralCircle/status/991617640945930241)
 - 29 Apr 2018: [@acdlite React Suspense SSR demo](https://github.com/acdlite/suspense-ssr-demo) code for Andrew's ZEIT day talk.
-
-## DevTools Profiler specific
-
-- 13 Sep 2018: [Official Profiler blogpost on the React Blog](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html) - [Demo here](https://react-devtools-profiler-demo.now.sh/) with [source](https://github.com/facebook/react-devtools/tree/master/test/example)
-- 12 Sep 2018: [Elijah Manor's walkthrough of the Profiler and Interaction Tracking](https://elijahmanor.com/react-devtools-profiler/)
-- 10 Sep 2018: [Gist: How to opt-in to profiling in production](https://gist.github.com/bvaughn/25e6233aeb1b4f0cdb8d8366e54a3977) - related [twitter](https://twitter.com/dan_abramov/status/1039169990317035521) on using with CRA
-- 6 Sep 2018: [Gist: Interaction Tracking with React](https://gist.github.com/bvaughn/8de925562903afd2e7a12554adcdda16) with related [Codesandbox](https://7mr45q5pqj.codesandbox.io/)
-- 6 Sep 2018: [React 16.5 Release](https://github.com/facebook/react/blob/master/CHANGELOG.md#1650-september-5-2018) - required for profiler to work
-- 23 Aug 2018: [Publicly released on Chrome web store](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - [Umbrella issue for remaining issues here](https://github.com/facebook/react-devtools/issues/1099)
-- 22 Aug 2018: [Public Beta Site for React DevTools pre-release build](https://react-devtools-profiler-prerelease.now.sh/) - [website](https://react-devtools-profiler-prerelease.now.sh/), [Twitter](https://twitter.com/brian_d_vaughn/status/1030966937470160896)
-- 28 Jul 2018: [Demo: DevTools Profiler with "interactions"](https://www.youtube.com/watch?v=vfm4018YBEY) and [minor twitter discussion](https://twitter.com/brian_d_vaughn/status/1023272704856576002)
-- 28 Jul 2018: [WIP fork of devtools with Profiler](https://github.com/bvaughn/react-devtools/tree/profiler-poc) - Github
-- 16 Jul 2018: [Profiler integrated with Interaction-Tracking](https://github.com/facebook/react/pull/13253) - Github PR
-- 11 Jul 2018: [Interaction Tracking POC](https://github.com/facebook/react/pull/13234) - Github PR
-- 20 Jun 2018: [Demo: DevTools Profiler](https://www.youtube.com/watch?v=-Ud_265QAwM) - youtube
-- 22 May 2018: [Profiler RFC](https://github.com/reactjs/rfcs/pull/51) - Github RFC, [text here](https://github.com/bvaughn/rfcs/blob/profiler/text/0000-profiler.md)
 
 ## History
 

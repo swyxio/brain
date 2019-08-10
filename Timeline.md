@@ -82,6 +82,7 @@
 - 10 Apr 2019: A hueristic replacement of React.Suspense maxDuration uses [Just Noticeable Difference](https://github.com/facebook/react/pull/15367) to calculate the timeout after [removing hard-coded 150ms](https://github.com/facebook/react/pull/15367/files#diff-a409dc1b2c8ece1cc1fa28fe42b481ceL1829)
 - 4 Apr 2019: React.Suspense maxDuration attribute has been removed from Flow - [Github](https://github.com/facebook/flow/pull/7613)
 - 2 Apr 2019: React.Suspense maxDuration prop has been removed from React - [Github](https://github.com/facebook/react/pull/15272)
+- 7 Mar 2019: Scheduling in React - [Philipp Spiess Blog](https://philippspiess.com/scheduling-in-react/)
 - 19 Feb 2019: "Concurrent Mode is about prioritizing updates, not components. Components still update together. But CM lets certain updates interrupt other updates. And prevents React from blocking browser paint" - [Twitter](https://twitter.com/dan_abramov/status/1097831099730968576?s=12)
 - 20 Nov 2018: Jared Palmer on Hooks and Suspense on React Podcast - [Podcast](https://reactpodcast.com/29)
 - 4 Nov 2018: Metaphor for how Concurrent React works - illustrator with two queues - [Twitter](https://twitter.com/dan_abramov/status/1059059596835340288)

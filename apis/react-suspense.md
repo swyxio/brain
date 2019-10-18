@@ -1,13 +1,17 @@
 ---
-name: React Suspense
+name: React Suspense (for data fetching)
 menu: APIs
 ---
 
-# React Suspense
+# React Suspense (for data fetching)
 
 React Suspense is a generic way for components to suspend rendering while they load data from a cache. React Suspense for code-splitting [has been released](https://reactjs.org/blog/2018/10/23/react-v-16-6.html), so this primarily deals with Suspense for data-loading.
 
 **Problems it solves**: When rendering is **I/O-bound**.
+
+## Not-yet-confirmed APIs
+
+- [useDeferredValue and useTransition](https://github.com/facebook/react/pull/17058/)
 
 ## Important Concepts
 
@@ -25,7 +29,7 @@ that also supports key-based invalidation and preloading but they are not strict
 
 Caches should be idempotent and should **throw promises** to resolve data fetches.
 
-- Update 10 Apr 2019: A hueristic replacement of maxDuration uses [Just Noticeable Difference](https://github.com/facebook/react/pull/15367) to calculate the timeout after [removing hard-coded 150ms](https://github.com/facebook/react/pull/15367/files#diff-a409dc1b2c8ece1cc1fa28fe42b481ceL1829)
+- Update 10 Apr 2019: A heuristic replacement of maxDuration uses [Just Noticeable Difference](https://github.com/facebook/react/pull/15367) to calculate the timeout after [removing hard-coded 150ms](https://github.com/facebook/react/pull/15367/files#diff-a409dc1b2c8ece1cc1fa28fe42b481ceL1829)
 - Update 4 Apr 2019: maxDuration has been removed and [replaced with a heuristic and different mechanism instead](https://github.com/facebook/react/pull/15272)
 - Update 27 Jan 2019: [maxDuration is too hard to explain, will be dropped for something else](https://twitter.com/sebmarkbage/status/1089704030920556549)
 

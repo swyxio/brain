@@ -52,6 +52,50 @@ Please see our `react-cache` section for how to write suspenders.
 
 Also see the React Suspense Fixture: [CodeSandBox](https://codesandbox.io/s/w0n9ok3mqw)
 
+## `<SuspenseList>` Example
+
+```js
+<SuspenseList revealOrder="together"/>
+<SuspenseList revealOrder="forwards"/>
+<SuspenseList revealOrder="backwards"/>
+
+// tail api
+// https://github.com/facebook/react/blob/4eeee358e12c1408a4b40830bb7bb6956cf26b47/packages/react-reconciler/src/__tests__/ReactSuspenseList-test.internal.js
+
+<SuspenseList revealOrder="forward" tail="hidden">
+  <Suspense fallback={<Text text="Loading A" />}>
+    <A />
+  </Suspense>
+  <Suspense fallback={<Text text="Loading B" />}>
+    <B />
+  </Suspense>
+  <Suspense fallback={<Text text="Loading C" />}>
+    <C />
+  </Suspense>
+</SuspenseList>
+
+
+<SuspenseList revealOrder="forwards" tail="collapsed">
+  <Suspense fallback={<Text text="Loading A" />}>
+    <A />
+  </Suspense>
+  <Suspense fallback={<Text text="Loading B" />}>
+    <B />
+  </Suspense>
+  <Suspense fallback={<Text text="Loading C" />}>
+    <C />
+  </Suspense>
+</SuspenseList>
+```
+
+control the reveal order of a list of suspense Items - refresh and see these demos and how they load:
+
+
+- SuspenseList Demos:
+  - https://eddie-cooro.github.io/suspense-list-forwards-demo/
+  - https://eddie-cooro.github.io/suspense-list-together-demo/
+
+
 ---
 
 > Next: [React Cache](/apis/react-cache.md)
@@ -64,3 +108,6 @@ Also see the React Suspense Fixture: [CodeSandBox](https://codesandbox.io/s/w0n9
 - Suspense! ReactFest 2018 - [Video](https://www.youtube.com/watch?v=6g3g0Q_XVb4)
 - [React Suspense Umbrella Issue](https://github.com/facebook/react/issues/13206)
 - React Suspense and SSR @ Zeit Day - [Video](https://www.youtube.com/watch?v=z-6JC0_cOns) and [Demo code](https://github.com/acdlite/suspense-ssr-demo)
+- SuspenseList Demos:
+  - https://eddie-cooro.github.io/suspense-list-forwards-demo/
+  - https://eddie-cooro.github.io/suspense-list-together-demo/

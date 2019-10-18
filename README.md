@@ -1,6 +1,6 @@
-## ⚛️🍅 Fresh-Concurrent-React
+## ⚛️ Concurrent-React-Notes
 
-Welcome to `fresh-concurrent-react` - a great place to learn about Concurrent React!
+Welcome to `concurrent-react-notes` - a great place to learn about Concurrent React!
 
 If you are looking for a chronological list of sources, check [`Timeline.md`](/Timeline.md).
 
@@ -26,4 +26,4 @@ This repo has no affiliation to the React team. For official communication from 
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [swyx](https://swyx.io) has waived all copyright and related or neighboring rights to this work. **[Fresh](https://github.com/sw-yx/fresh/blob/master/fresh.md)** 🍅 is a new spin on [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - community curated lists that never go out of style.
+To the extent possible under law, [swyx](https://swyx.io) has waived all copyright and related or neighboring rights to this work.

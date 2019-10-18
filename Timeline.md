@@ -1,10 +1,7 @@
-## Keep Us Fresh 🍅
 
-- Hit **WATCH** on this repo to stay up to date!
-- Submit new links via [Pull Request](https://github.com/sw-yx/fresh-concurrent-react/pulls)
-- This list follows [the Fresh 🍅 Manifesto](https://github.com/sw-yx/fresh/blob/master/fresh.md)
-- New Links must use this format:
-  - `DD MMM YYYY: [Link Name](link)`
+## No longer Fresh!
+
+> ⚠️ These are now merely reverse-chronoligical links on concurrent react - no longer actively updated as we expect an official release soon
 
 ## React Team Public Communication
 

@@ -25,7 +25,16 @@ root.render(<App />);
 
 API: `ReactDOM.unstable_createSyncRoot`
 
-This is what to use for creating old school synchronous/non Concurrent roots.
+Create a Batched Mode root. It does not support `createBatch`.
+
+
+```js
+const container = document.getElementById('root');
+const root = ReactDOM.createSyncRoot(container);
+root.render(<App />);
+```
+
+
 
 > ⚠️ Everything below here is EVEN MORE UNSTABLE/UNTESTED THAN IN THE REST OF THIS PAGE SO IT IS PRETTY DAMN UNRELIABLE YOU HAVE BEEN WARNED ⚠️
 
@@ -40,6 +49,23 @@ const root = ReactDOM.createRoot(containerEl);
 const work = root.prerender(<App />);
 // ... other async work ...
 work.commit();
+```
+
+## `Root.createBatch`
+
+Only for concurrent roots.
+
+```js
+const root = createRoot(containerEl);
+const batch = root.createBatch();
+log.app('batch.render()');
+batch.render(createElement(TestApp));
+batch.then(
+  wrap(() => {
+    log.app('batch.commit()');
+    batch.commit();
+  })
+);
 ```
 
 ## `ReactDOM.createLazyRoot`

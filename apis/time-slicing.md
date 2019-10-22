@@ -11,8 +11,7 @@ Time Slicing is a generic way to ensure that high-priority updates don’t get b
 
 ## Important Concepts
 
-DOM Updates have **high** and **low** priority.
-
+DOM Updates have a range of priority. Most things should be at Normal, then bump up and down accordingly with heuristics:
 
 - `UserBlockingPriority` e.g. for Updates involving user input (e.g. text inputs)
 - `ImmediatePriority`

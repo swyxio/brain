@@ -21,7 +21,9 @@ React Suspense is a generic way for components to suspend rendering while they l
   - **resuming** render when the fetch is fulfilled and the cache read obtains a value
 - Render is only complete and committed to the DOM when either:
   - a hueristic ([Just Noticeable Difference](https://github.com/facebook/react/pull/15367)) decides that a **fallback** UI is shown
-  - OR: all sibling and child suspenders within a `<Suspense>` boundary have resolved. In other words, they "render together or not at all"
+  - OR: all sibling and child suspenders within a `<Suspense>` boundary have resolved.
+
+In other words, they "render together or not at all"
 
 Cache implementations are independent of React Suspense;
 the React team maintains a reference implementation called `react-cache`

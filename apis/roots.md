@@ -56,7 +56,7 @@ work.commit();
 
 ---
 
-> Next: [Misc APIs](/apis/misc-apis.md)
+> Next: [Community Demos](/community/demos.md)
 
 ---
 

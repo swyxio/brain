@@ -13,8 +13,12 @@ Time Slicing is a generic way to ensure that high-priority updates don’t get b
 
 DOM Updates have **high** and **low** priority.
 
-- **High Priority**: Updates involving user input (e.g. text inputs)
-- **Low Priority**: Updates involving data loading or expensive calculation
+
+- `UserBlockingPriority` e.g. for Updates involving user input (e.g. text inputs)
+- `ImmediatePriority`
+- `NormalPriority`
+- `LowPriority`
+- `IdlePriority` e.g. for Updates involving data loading or expensive calculation
 
 _TODO: add screenshot showing sliced rendering._
 
@@ -55,6 +59,20 @@ flushSync(() => {
 ```
 
 Also see the Time Slicing Fixture: [Live Demo](https://timeslicing-unstable-demo.surge.sh/) and [Source Code](https://github.com/facebook/react/tree/master/fixtures/unstable-async/time-slicing)
+
+## Even more unstable scheduler APIs
+
+- `runWithPriority`
+- `cancelCallback`
+- `wrapCallback`
+- `getCurrentPriorityLevel`
+- `shouldYield`
+- `requestPaint`
+- `continueExecution`
+- `pauseExecution`
+- `getFirstCallbackNode`
+- `forceFrameRate`
+- `getCurrentTime`
 
 ---
 

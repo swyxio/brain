@@ -21,6 +21,12 @@ const root = ReactDOM.createRoot(container);
 root.render(<App />);
 ```
 
+## `ReactDOM.createSyncRoot`
+
+API: `ReactDOM.unstable_createSyncRoot`
+
+This is what to use for creating old school synchronous/non Concurrent roots.
+
 > ⚠️ Everything below here is EVEN MORE UNSTABLE/UNTESTED THAN IN THE REST OF THIS PAGE SO IT IS PRETTY DAMN UNRELIABLE YOU HAVE BEEN WARNED ⚠️
 
 ## `Root.prerender`

@@ -27,7 +27,11 @@ Cache implementations are independent of React Suspense;
 the React team maintains a reference implementation called `react-cache`
 that also supports key-based invalidation and preloading but they are not strictly necessary for React Suspense to work.
 
-Caches should be idempotent and should **throw promises** to resolve data fetches.
+Caches should be idempotent and should **throw promises** to resolve data fetches. React will suspend
+rendering while that promise is pending. In the event of a timeout, react renders the fallback. When
+the promise resolves, rendering resumes. If the promise rejects, the rejection can be handled by
+an error boundary (a component that implements
+[`componentDidCatch`](https://reactjs.org/docs/react-component.html#componentdidcatch)).
 
 - Update 10 Apr 2019: A heuristic replacement of maxDuration uses [Just Noticeable Difference](https://github.com/facebook/react/pull/15367) to calculate the timeout after [removing hard-coded 150ms](https://github.com/facebook/react/pull/15367/files#diff-a409dc1b2c8ece1cc1fa28fe42b481ceL1829)
 - Update 4 Apr 2019: maxDuration has been removed and [replaced with a heuristic and different mechanism instead](https://github.com/facebook/react/pull/15272)

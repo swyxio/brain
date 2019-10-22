@@ -62,7 +62,7 @@ Also see the React Suspense Fixture: [CodeSandBox](https://codesandbox.io/s/w0n9
 // tail api
 // https://github.com/facebook/react/blob/4eeee358e12c1408a4b40830bb7bb6956cf26b47/packages/react-reconciler/src/__tests__/ReactSuspenseList-test.internal.js
 
-<SuspenseList revealOrder="forward" tail="hidden">
+<SuspenseList revealOrder="forwards" tail="hidden">
   <Suspense fallback={<Text text="Loading A" />}>
     <A />
   </Suspense>

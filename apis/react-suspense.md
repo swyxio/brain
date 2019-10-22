@@ -26,7 +26,7 @@ React Suspense is a generic way for components to suspend rendering while they l
 In other words, they "render together or not at all"
 
 Cache implementations are independent of React Suspense;
-the React team maintains a reference implementation called `react-cache`
+the React team has published an unmaintained reference implementation called `react-cache`
 that also supports key-based invalidation and preloading but they are not strictly necessary for React Suspense to work.
 
 Caches should be idempotent and should **throw promises** to resolve data fetches.

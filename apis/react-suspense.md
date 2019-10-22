@@ -54,7 +54,7 @@ _Current API: `React.Suspense`_
 
 `<Suspense>` works outside of a Concurrent root (in 16.6.0~16.8.6), and will always show the fallback UI even if momentarily.
 
-Please see our `react-cache` section for how to write suspenders.
+Please see our [`react-cache` section](/apis/react-cache.md) for how to write suspenders.
 
 Also see the React Suspense Fixture: [CodeSandBox](https://codesandbox.io/s/w0n9ok3mqw)
 

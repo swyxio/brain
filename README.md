@@ -4,7 +4,9 @@ Welcome to `concurrent-react-notes` - a great place to learn about Concurrent Re
 
 If you are looking for a chronological list of sources, check [`Timeline.md`](/Timeline.md).
 
-If you are looking for concise, curated writeups from me:
+> ⚠️ The Experimental API was released at React Conf: https://reactjs.org/docs/concurrent-mode-intro.html. Please head there for up to date official info.
+
+⚠️ Everything below is now out of date:
 
 - start with [`Intro.md`](/Intro.md)
 - then [`/apis`](/apis/):

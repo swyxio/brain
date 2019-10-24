@@ -9,7 +9,7 @@ These are concurrent-ready attachment points for React onto the DOM.
 
 ## `ReactDOM.createRoot and Root.render`
 
-API: `ReactDOM.unstable_createRoot`
+API: `ReactDOM.createRoot`
 
 Instead of `ReactDOM.render`, `ReactDOM.createRoot` creates a Concurrent root for React. It also doesn't assume the first render is synchronous (aka you can suspend even on the first render, which useful for prerendering via `root.createBatch()`).
 
@@ -21,16 +21,16 @@ const root = ReactDOM.createRoot(container);
 root.render(<App />);
 ```
 
-## `ReactDOM.createSyncRoot`
+## `ReactDOM.createBlockingRoot`
 
-API: `ReactDOM.unstable_createSyncRoot`
+API: `ReactDOM.createBlockingRoot
 
 Create a Batched Mode root. It does not support `createBatch`.
 
 
 ```js
 const container = document.getElementById('root');
-const root = ReactDOM.createSyncRoot(container);
+const root = ReactDOM.createBlockingRoot(container);
 root.render(<App />);
 ```
 

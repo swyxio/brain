@@ -2,30 +2,21 @@
 
 Welcome to `concurrent-react-notes` - a great place to learn about Concurrent React!
 
-If you are looking for a chronological list of sources, check [`Timeline.md`](/Timeline.md).
+> If you are looking for notes from before the launch of Concurrent React at ReactConf 2019, see the [/legacy](/legacy/README.md) folder.
 
-> ⚠️ The Experimental API was released at React Conf: https://reactjs.org/docs/concurrent-mode-intro.html. Please head there for up to date official info.
+Everything here is information since launch, assuming you have seen the official introductory talks from the React team and [read the official docs](https://reactjs.org/docs/concurrent-mode-intro.html).
 
-⚠️ Everything below is now out of date:
+These are personal notes, so they _will_ have an editorial bias. But you are welcome to open issues, contribute, and discuss with me.
 
-- start with [`Intro.md`](/Intro.md)
-- then [`/apis`](/apis/):
-  - [Roots](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/roots.md)
-  - [Time Slicing](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/time-slicing.md)
-  - [React Suspense](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/react-suspense.md)
-  - [React Cache](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/react-cache.md)
-  - [hidden](https://github.com/sw-yx/fresh-concurrent-react/blob/master/apis/hidden.md)
-- and [`/community`](/community/)
-  - [Demos](https://github.com/sw-yx/fresh-concurrent-react/blob/master/community/demos.md)
-  - [Libraries](https://github.com/sw-yx/fresh-concurrent-react/blob/master/community/libraries.md)
-  - [Talks](https://github.com/sw-yx/fresh-concurrent-react/blob/master/community/talks.md)
+## Suspense
 
-## Note
+Here are the concerns solved by Suspense:
 
-This repo has no affiliation to the React team. For official communication from them, please visit [the React blog](https://reactjs.org/blog) and follow their Twitter updates [here](https://twitter.com/reactjs). **Our intent is NOT to be a substitute for official communication**, rather it is for early adopters sharing links to understand and try out things from the community.
+- Single declarative way to specify loading states decoupled from _what_ is loading (GraphQL, REST, JS bundle, images) and where in the tree
+- Graceful orchestration of those loading states (control over reveal order, avoiding flicker)
 
-### License
+([source](https://twitter.com/dan_abramov/status/1190275834961178624))
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+## Concurrent
 
-To the extent possible under law, [swyx](https://swyx.io) has waived all copyright and related or neighboring rights to this work.
+_to be completed_

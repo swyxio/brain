@@ -1,14 +1,4 @@
 {
-  "scripts": {
-    "docz:dev": "docz dev",
-    "docz:build": "docz build"
-  },
-  "devDependencies": {
-    "docz": "^0.12.5"
-  },
-  "dependencies": {
-    "docz-plugin-netlify": "^1.1.4"
-  },
   "name": "fresh-concurrent-react",
   "description": "a repo tracking public knowledge about upcoming react features",
   "version": "1.0.0",

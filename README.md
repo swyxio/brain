@@ -134,6 +134,12 @@ But it's ok that on Profile page, "Photos" section might still be loading.
 
 (source: [Dan](https://mobile.twitter.com/dan_abramov/status/1189730578050011136))
 
+### Progressive Hydration
+
+- Dan's Demos https://mobile.twitter.com/dan_abramov/status/1200111677833973760
+  - Simulate loading: https://codesandbox.io/s/floral-worker-xwbwv
+  - with event replaying and shared state
+
 ## Batched Mode
 
 “Batched” mode is like a limited version of concurrent mode that enables batching but none of the other features (time slicing, priorities, delayed Suspense, etc).

@@ -104,6 +104,12 @@ Suspense doesn't handle:
 
 (source: [David](https://mobile.twitter.com/DavidKPiano/status/1190267697327677445))
 
+## SuspenseList
+
+In SuspenseList a nested fragment is one row and all Suspense boundaries in it are treated as a single unit. This turns out to be a very useful abstraction over lists of things where each item composed of several Suspense boundaries (which will be more common with animations).
+
+(source: [Seb](https://twitter.com/sebmarkbage/status/1197730725555949568))
+
 ## useTransition
 
 useTransition() lets us skip/delay the "recessed" state. That's when we had to hide some _existing_ content and show a spinner instead. Delaying that is usually better.

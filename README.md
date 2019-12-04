@@ -152,6 +152,23 @@ But it's ok that on Profile page, "Photos" section might still be loading.
 
 (source: [Andrew](https://mobile.twitter.com/acdlite/status/1175084727348412419))
 
+## Writing a Cache
+
+"If you have a cache and feel like eviction criteria are ad-hoc and unclear, it can help to have an explicit object that represents the caching lifetime. As long as you hold onto that object, you can read from the cache. Losing the reference to it means eviction. This has implications for data fetching. The classic fetch-on-render pattern (like fetch in componentDidMount or effect) with local state is relatively easy to do because it *does* tie data lifetime to a well-defined thing. React state! It lives while component is mounted. One of the many problems with this data fetching approach is that the cache is too local. If two components use the same data, you have to fetch it twice. Or lift it up. Redux is an extreme version of that. By lifting a cache too high, it no longer has a well-defined lifetime! One way you could try to solve this is with manual invalidation methods. Maybe you clear the cache on (some?) route changes or invalidate particular parts of it when necessary. It’s pretty hard to do manually in a consistent way though. Usually leads to bugs. This is really the key flaw with our early Suspense demos from a year ago. The “fetch-on-render” pattern that mirrors “fetch in componentDidMount” could work if we’re fine caching forever. But if we want cache invalidation, we need something to “anchor” that invalidation to. In Relay, that “anchor” is called “query reference”. My understanding is that Relay does refcounting for them.
+
+In Suspense experimental docs, we use an explicit “resource” to represent the caching lifetime. But this is annoying in practice because you have to manage that object. What if that lifetime was managed automatically? For that to work, you need two ingredients:
+
+1. Some way to gather data dependencies from a screen
+2. A lifetime to which to tie the fetched data
+
+Relay does (1) for GraphQL. We’re working on something more generic for REST etc. But this thread is about (2). Tying it to the component hierarchy doesn’t work very well today because on route transitions, you still want to hold onto the data from the previous screens by default. Otherwise Back button becomes slow. So what do we tie the cache lifetime to?
+@sebmarkbage has an intriguing idea to solve (2) by integrating (1) closer with the routing system. Below the router level, we lose some information about user intent (did we move to a new page or navigate in history). But user expectations depend on user intent.
+
+That is all to say cache invalidation and expiration is a hard problem. But you can make it manageable if you anchor it to something with a well-defined timeline. Now you “just” need to decide what it is, and why that makes sense."
+
+
+(source: [Dan](https://twitter.com/dan_abramov/status/1202052703813357574))
+
 ## Meta
 
 - Reflections on the lead up to Suspense https://mobile.twitter.com/dan_abramov/status/1184987041676845056

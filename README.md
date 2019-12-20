@@ -8,6 +8,10 @@ Everything here is information since launch, assuming you have seen the official
 
 These are personal notes, so they _will_ have an editorial bias. But you are welcome to open issues, contribute, and discuss with me.
 
+## Demos
+
+- https://github.com/gaearon/suspense-experimental-github-demo
+
 ## Concurrent
 
 - React Podcast: Andrew Clark on Concurrent Mode ([podcast](https://reactpodcast.com/70))
@@ -103,6 +107,8 @@ Suspense doesn't handle:
 - Deterministically testing it all!
 
 (source: [David](https://mobile.twitter.com/DavidKPiano/status/1190267697327677445))
+
+### [Suspense Demo for Library Authors](https://github.com/gaearon/suspense-experimental-github-demo)
 
 ## SuspenseList
 

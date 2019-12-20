@@ -130,6 +130,12 @@ But it's ok that on Profile page, "Photos" section might still be loading.
 
 (source: [Dan](https://mobile.twitter.com/dan_abramov/status/1189561524718899200))
 
+So the way you can think of useTransition is it only delays it for as long as needed to prevent a bad loading state. And by bad, we essentially mean “hiding existing content”. That’s why it waits for existing Suspense boundaries. But it doesn’t wait for new boundaries because we want to show the other content (outside of them) as soon as possible.
+
+There are some cases when this is insufficient. Maybe some “new” loading state is also “bad” and you really want to avoid it. This is undocumented but passing unstable_avoidThisFallback={true} to Suspense marks it as undesirable even when newly mounted. In that case useTransition will prefer to stay on the previous page for longer than to show it.
+
+(source: [Dan](https://github.com/facebook/react/issues/17401#issuecomment-555961300))
+
 ## Relay
 
 - Joe Savona: Data Fetching With Suspense In Relay ([Youtube](https://www.youtube.com/watch?v=Tl0S7QkxFE4&list=PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh&index=15&t=0s))

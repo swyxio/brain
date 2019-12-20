@@ -11,6 +11,7 @@ These are personal notes, so they _will_ have an editorial bias. But you are wel
 ## Demos
 
 - https://github.com/gaearon/suspense-experimental-github-demo
+- [autocomplete dropdown example](https://mobile.twitter.com/sebastienlorber/status/1188742291818721280)
 
 ## Concurrent
 

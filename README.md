@@ -1,3 +1,5 @@
+# NOTE: THIS REPO IS NOW UNMAINTAINED. I don't expect to return to it again. If someone would like to take over, get in touch.
+
 ## ⚛️ Concurrent-React-Notes
 
 Welcome to `concurrent-react-notes` - a great place to learn about Concurrent React!

@@ -1,5 +1,12 @@
 # NOTE: THIS REPO IS NOW UNMAINTAINED. I don't expect to return to it again. If someone would like to take over, get in touch.
 
+## 2020 updates
+
+- **Switched batching model from Expiration Times to Lanes**: https://github.com/facebook/react/pull/18796. 
+- **preparing to use Chrome native scheduler**: https://github.com/facebook/react/pull/19121
+- **changing effect traversal for Suspense and Offscreen trees**: https://github.com/facebook/react/pull/19322
+- React 17 had [changes to event delegation](https://reactjs.org/blog/2020/08/10/react-v17-rc.html#changes-to-event-delegation) so as to enable React 18 and 17 trees to coexist in the same app
+
 ## ⚛️ Concurrent-React-Notes
 
 Welcome to `concurrent-react-notes` - a great place to learn about Concurrent React!

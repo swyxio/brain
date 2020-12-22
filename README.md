@@ -6,6 +6,11 @@
 - **preparing to use Chrome native scheduler**: https://github.com/facebook/react/pull/19121
 - **changing effect traversal for Suspense and Offscreen trees**: https://github.com/facebook/react/pull/19322
 - React 17 had [changes to event delegation](https://reactjs.org/blog/2020/08/10/react-v17-rc.html#changes-to-event-delegation) so as to enable React 18 and 17 trees to coexist in the same app
+- **React Server Components**
+  - [talk](https://www.youtube.com/watch?v=TQQPAU21ZUw&feature=emb_title) (annotated with [timestamps](https://twitter.com/swyx/status/1341122002866749440?s=20)
+  - [RFC](https://github.com/josephsavona/rfcs/blob/server-components/text/0000-server-components.md)
+  - [demo](https://github.com/reactjs/server-components-demo/)
+  - [swyx demo livestream](https://www.youtube.com/watch?v=La4agIEgoNg)
 
 ## ⚛️ Concurrent-React-Notes
 

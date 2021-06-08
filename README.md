@@ -1,5 +1,9 @@
 # NOTE: THIS REPO IS NOW UNMAINTAINED. I don't expect to return to it again. If someone would like to take over, get in touch.
 
+## 2021 updates
+
+Please follow https://github.com/reactwg/react-18/discussions from now on
+
 ## 2020 updates
 
 - **Switched batching model from Expiration Times to Lanes**: https://github.com/facebook/react/pull/18796. 

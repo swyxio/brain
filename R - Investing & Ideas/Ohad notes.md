@@ -1,0 +1,23 @@
+
+
+- QSBS
+	- tax free for $5m
+	- 5years
+	- < $50m assets
+	- QSBS
+	- buyt the stock early not the option
+	- advisor grant - early exercise
+	- SAFE
+- its unbelievable how multiple you can get from some investments
+	- get in
+- questionnaire is possible
+- technical but artistic
+	- signals from quality of execution to design
+	- get a feeling
+- dealflow
+	- friends
+	- gh tracking
+	- things you are curious about and scouring the internet
+	- a friend recommended to invest
+	- dont invest in building a name
+	- need to hunt, not filtering

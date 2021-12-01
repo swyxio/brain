@@ -1,7 +1,7 @@
----
-name: Introduction
-route: /
----
+	---
+	name: Introduction
+	route: /
+	---
 
 # Introduction: What is Concurrent React?
 
@@ -92,7 +92,7 @@ It doesn’t destroy the previous view while this is happening.
 
 ---
 
-> Next: [Time Slicing](apis/time-slicing.md)
+> Next: [Time Slicing](time-slicing.md)
 
 ---
 

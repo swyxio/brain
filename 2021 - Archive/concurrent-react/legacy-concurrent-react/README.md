@@ -1,3 +1,5 @@
+> this used to be the concurrent react repo and now is just a subfolder
+
 ## ⚛️ Concurrent-React-Notes
 
 Welcome to `concurrent-react-notes` - a great place to learn about Concurrent React!

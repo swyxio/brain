@@ -7,11 +7,8 @@
         "id": "ebb54bb1e39318c5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily/2021-12-01.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -47,14 +44,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "127f50b79715912c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
@@ -76,54 +65,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a13c7ee739d3ff7b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b10941204bbe827a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Daily/2021-12-01.md"
-              }
-            }
-          },
-          {
-            "id": "c87aaee06bc510ca",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "2cd87f2abed41760",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Daily/2021-12-01.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -137,15 +84,6 @@
   },
   "active": "ebb54bb1e39318c5",
   "lastOpenFiles": [
-    "Daily/2021-12-01.md",
-    "README.md",
-    "Untitled.md",
-    "todo rename.md",
-    "SCRATCHPAD.md",
-    "Things I Use.md",
-    "swyx public appearances buffer.md",
-    "A - Writing/blog patches.md",
-    "R - Investing & Ideas/project ideas.md",
-    "P - CodingCareer v2.md"
+    "test post.md"
   ]
 }

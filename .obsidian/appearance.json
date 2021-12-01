@@ -1,3 +1,5 @@
 {
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "translucency": true,
+  "cssTheme": "Night Owl"
 }

@@ -1,4 +1,10 @@
 
+## blog todos
+
+- divider between each item? color border for each bottom
+- weird behavior on the talks
+
+
 BLOG TODO: 
 
 next up

@@ -60,6 +60,8 @@ what 5 algorithms rule our lives?
 	- "most relevant"
 - TCP/IP
 - RSA algorithm? Diffie hellman
+- Ad DSP algorithms
+	- https://www.snowflake.com/podcast/bill-michels/
 
 
 authz as a service

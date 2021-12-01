@@ -5,7 +5,26 @@ this is my public obsidian store of resources and lists and stuff, available on:
 - Github: https://github.com/sw-yx/brain (PRs welcome)
 - Obsidian: https://publish.obsidian.md/swyx
 
-i used to make a bunch of separate lists but am now just consolidating them under one repo.
+These notes are "raw" - not a replacement for my personal output channels ([site](https://swyx.io), [newsletter](https://swyx.io/subscribe), [mixtape](https://swyx.io/mixtape), [youtube](https://youtube.com/swyxTV)), where I will continue to publish my more polished work.
+
+## Rollup of my Lists
+
+This repo also rolls up some of my older lists:
+
+- https://github.com/sw-yx/launch-cheatsheet
+- https://github.com/sw-yx/cli-cheatsheet
+- https://github.com/sw-yx/awesome-dev-podcasts
+- https://github.com/sw-yx/gpt3-list
+- https://github.com/sw-yx/automation
+- https://github.com/sw-yx/uuid-list
+- https://github.com/sw-yx/awesome-monaco-editor
+- https://github.com/sw-yx/tracking
+
+Search around for their modern incarnations :) I have let my two biggest lists remain independent:
+
+- https://github.com/sw-yx/spark-joy for design resources
+- https://github.com/typescript-cheatsheets/react for React + TypeScript
+- https://github.com/sw-yx/devtools-angels for devtools angel investors
 
 ## User Guide
 

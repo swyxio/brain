@@ -1,0 +1,4 @@
+- plugins that are useful
+- obsidian publish
+- why i like obsidian
+- obsidian resources

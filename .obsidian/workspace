@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb54bb1e39318c5",
+        "id": "415f94672d62ac91",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "algorithms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,28 +124,28 @@
               "state": {
                 "file": "Daily/2021-12-01.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ebb54bb1e39318c5",
+  "active": "415f94672d62ac91",
   "lastOpenFiles": [
     "Daily/2021-12-01.md",
     "README.md",
-    "Untitled.md",
-    "todo rename.md",
-    "SCRATCHPAD.md",
-    "Things I Use.md",
-    "swyx public appearances buffer.md",
-    "A - Writing/blog patches.md",
-    "R - Investing & Ideas/project ideas.md",
-    "P - CodingCareer v2.md"
+    "Developer Tracking.md",
+    "R - Dev Notes/Monaco Resources.md",
+    "R - Dev Notes/uuid list.md",
+    "R - Product/Automation Notes.md",
+    "R - Dev Notes/GPT3 List.md",
+    "R - Dev Notes/Dev Podcasts.md",
+    "R - Dev Notes/CLI Cheatsheet.md",
+    "R - Product/Launch Cheatsheet.md"
   ]
 }

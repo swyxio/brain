@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2021-12-01.md",
+            "file": "Weekly/2021-W49.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-12-01.md",
+                "file": "Weekly/2021-W49.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2021-12-01.md"
+                "file": "Weekly/2021-W49.md"
               }
             }
           },
@@ -122,14 +122,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2021-12-01.md",
+                "file": "Weekly/2021-W49.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,15 +137,15 @@
   },
   "active": "415f94672d62ac91",
   "lastOpenFiles": [
+    "Weekly/2021-W49.md",
     "Daily/2021-12-01.md",
+    "R - Dev Notes/uuid List.md",
+    "R - Dev Notes/Developer Industry Tracking.md",
     "README.md",
-    "Developer Tracking.md",
     "R - Dev Notes/Monaco Resources.md",
-    "R - Dev Notes/uuid list.md",
     "R - Product/Automation Notes.md",
     "R - Dev Notes/GPT3 List.md",
     "R - Dev Notes/Dev Podcasts.md",
-    "R - Dev Notes/CLI Cheatsheet.md",
-    "R - Product/Launch Cheatsheet.md"
+    "R - Dev Notes/CLI Cheatsheet.md"
   ]
 }

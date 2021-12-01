@@ -20,7 +20,7 @@ This repo also rolls up some of my older lists:
 - https://github.com/sw-yx/awesome-monaco-editor
 - https://github.com/sw-yx/tracking
 
-Search around for their modern incarnations :) I have let my two biggest lists remain independent:
+Search around for their modern incarnations :) I have let my two biggest lists and the investing list remain independent:
 
 - https://github.com/sw-yx/spark-joy for design resources
 - https://github.com/typescript-cheatsheets/react for React + TypeScript

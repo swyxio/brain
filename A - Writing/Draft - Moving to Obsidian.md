@@ -2,3 +2,4 @@
 - obsidian publish
 - why i like obsidian
 - obsidian resources
+- obsidian mobile app - so full featured it is ridiculous

@@ -1,0 +1,24 @@
+@keyframes loading {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.loading > svg {
+  animation: 2s linear infinite loading;
+  transform-origin: 50% 50%;
+  display: inline-block;
+}
+.center{
+  margin: auto;
+  width: 50%;
+}
+.tooltip.mod-left {
+  overflow-wrap: break-word;
+}
+.tooltip.mod-right {
+  overflow-wrap: break-word;
+}

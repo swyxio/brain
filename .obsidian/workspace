@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Writing/Draft - Fave Podcasts of 2021.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mixtape",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 476.5
   },
   "right": {
     "id": "dbe1703f25734e43",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "A - Writing/Draft - Fave Podcasts of 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+                "file": "A - Writing/Draft - Fave Podcasts of 2021.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "A - Writing/Draft - Fave Podcasts of 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "2c302a58094fc5ef",
   "lastOpenFiles": [
+    "A - Writing/Draft - Fave Podcasts of 2021.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Writing/Draft - Rich Dev Poor Dev.md",
+    "A - Writing/Draft - Permissionless Apprentice.md",
+    "A - Writing/Draft - CMS Heads Up.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - CodingCareer/codingcareer tweet ideas.md",
     "Weekly/2021-W49.md",
     "Daily/2021-12-01.md",
-    "R - Dev Notes/uuid List.md",
-    "R - Dev Notes/Developer Industry Tracking.md",
-    "README.md",
-    "R - Dev Notes/Monaco Resources.md",
-    "R - Product/Automation Notes.md"
+    "R - Dev Notes/uuid List.md"
   ]
 }

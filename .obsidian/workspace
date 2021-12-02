@@ -71,14 +71,6 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ecac13fe01bac740",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
         "id": "4731f421fac80038",
         "type": "leaf",
         "state": {

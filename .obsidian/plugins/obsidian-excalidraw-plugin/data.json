@@ -42,7 +42,7 @@
     "libraryItems": []
   },
   "patchCommentBlock": false,
-  "imageElementNotice": true,
+  "imageElementNotice": false,
   "runWYSIWYGpatch": false,
   "fixInfinitePreviewLoop": false,
   "mdSVGwidth": 500,

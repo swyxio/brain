@@ -33,10 +33,6 @@ https://www.youtube.com/watch?v=Dur918GqDIw&list=WL&index=18&t=244s pseudonymity
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 
 
-
-https://overcast.fm/+VqtcHpuz0 journalling 1hr mark  pop l
-
-
 https://overcast.fm/+rTsUkMHLE 40 mins mimetic desire
 
 https://overcast.fm/+a0BqyouQk 20 mins product market fit

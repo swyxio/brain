@@ -7,8 +7,11 @@
         "id": "2c302a58094fc5ef",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distract",
+                "query": "mixtape",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+              }
             }
           },
           {
@@ -117,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,10 +134,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "2c302a58094fc5ef",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - CodingCareer/codingcareer tweet ideas.md",
     "Weekly/2021-W49.md",
@@ -139,7 +148,6 @@
     "R - Dev Notes/Developer Industry Tracking.md",
     "README.md",
     "R - Dev Notes/Monaco Resources.md",
-    "R - Product/Automation Notes.md",
-    "R - Dev Notes/GPT3 List.md"
+    "R - Product/Automation Notes.md"
   ]
 }

@@ -31,7 +31,7 @@
 
 callout attention points incase pple arent paying attention
 
-distractable - stop getting distracted, make 3 pacts with yourself. distraction is avoidance. 
+distractable - stop getting distracted, make 3 pacts with yourself. distraction is avoidance. https://bagerbach.com/books/indistractable/#prevent-distraction-with-pacts
 
 todolists reinforce the identity that you don't get things done
 

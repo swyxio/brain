@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "415f94672d62ac91",
+        "id": "2c302a58094fc5ef",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A - CodingCareer/codingcareer tweet ideas.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "codingcareer",
+                "query": "distract",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - CodingCareer/codingcareer tweet ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A - CodingCareer/codingcareer tweet ideas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - CodingCareer/codingcareer tweet ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,8 +129,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "415f94672d62ac91",
+  "active": "2c302a58094fc5ef",
   "lastOpenFiles": [
+    "A - DX Circle/dx circle blog ideas.md",
     "A - CodingCareer/codingcareer tweet ideas.md",
     "Weekly/2021-W49.md",
     "Daily/2021-12-01.md",
@@ -146,7 +140,6 @@
     "README.md",
     "R - Dev Notes/Monaco Resources.md",
     "R - Product/Automation Notes.md",
-    "R - Dev Notes/GPT3 List.md",
-    "R - Dev Notes/Dev Podcasts.md"
+    "R - Dev Notes/GPT3 List.md"
   ]
 }

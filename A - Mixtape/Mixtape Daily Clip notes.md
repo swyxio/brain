@@ -8,6 +8,8 @@ https://overcast.fm/+HZUfgEat0 40 mins ilya grigorik react server components
 https://overcast.fm/+NyJ7YBrmo pete holmes bourne 1h
 
 
+
+
 https://overcast.fm/+ZHU0NDSpM 1h10min shipping zach braff
 
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins

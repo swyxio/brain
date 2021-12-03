@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Better Questions/podcaster questions.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source"
           }
         }
@@ -18,131 +18,113 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a4ddd0dce295ba34",
-    "type": "split",
+    "id": "8379f7a9783471f8",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "4bcf6ff16697c958",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3d5a8f76f419e29e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a34f80f0bfbb6dd5",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "better ",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "127f50b79715912c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "f51029b7f86290bf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3cf9bf4364048e46",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "eeb1698d6f1f50f5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2d93d70c14cee1cc",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "dbe1703f25734e43",
-    "type": "split",
+    "id": "f5e4931a8eb9db43",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "162b7d5de7482d47",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c8b57979ea94e8de",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Better Questions/podcaster questions.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a13c7ee739d3ff7b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b10941204bbe827a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Better Questions/podcaster questions.md"
-              }
-            }
-          },
-          {
-            "id": "c87aaee06bc510ca",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "2cd87f2abed41760",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Better Questions/podcaster questions.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
+        "id": "4731f421fac80038",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "db89d590cbaebe0f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "462a88ac3df8735a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+          }
+        }
+      },
+      {
+        "id": "8183527a76228477",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "2c302a58094fc5ef",
   "lastOpenFiles": [
-    "R - Better Questions/podcaster questions.md",
-    "R - Better Questions/manager questions.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Mixtape/Michele Hansen Interview Questions.md",
+    "R - Better Questions/podcaster questions.md",
     "A - Writing/Draft - Fave Podcasts of 2021.md",
     "A - Writing/Draft - Rich Dev Poor Dev.md",
     "A - Writing/Draft - Permissionless Apprentice.md",

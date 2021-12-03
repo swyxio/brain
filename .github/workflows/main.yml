@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - master
 
 jobs:
   post_tweet_job:

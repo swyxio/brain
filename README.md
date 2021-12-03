@@ -9,7 +9,7 @@ These notes are "raw" - not a replacement for my personal output channels ([site
 
 ## Subsribe to Diffs
 
-Follow https://twitter.com/swyxio to opt in to the firehose :).
+Follow https://twitter.com/swyxio to opt in to the firehose :)
 
 ## Rollup of my Lists
 

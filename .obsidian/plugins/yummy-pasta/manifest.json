@@ -1,0 +1,10 @@
+{
+	"id": "paste-that-shizz",
+	"name": "Paste That Shizz",
+	"version": "0.0.1pre1",
+	"minAppVersion": "0.9.12",
+	"description": "Adds a paste command for when pasting is hard",
+	"author": "shabegom",
+	"authorUrl": "https://shbgm.ca",
+	"isDesktopOnly": false
+}

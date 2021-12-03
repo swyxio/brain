@@ -49,6 +49,8 @@ Web frameworks mkt share
 - https://httparchive.org/ crawls 5m URLs every month, runs lighthouse, opensource/completely public
    - they have an almanac https://almanac.httparchive.org/en/2020/
 
+some nice data here apart form the hype. svelte still tiny. https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190
+
 ## GitHub stars
 
 Star charts over time

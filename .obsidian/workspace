@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Dev Notes/Developer Industry Tracking.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Dev Notes/Developer Industry Tracking.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Dev Notes/Developer Industry Tracking.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+            "file": "R - Dev Notes/Developer Industry Tracking.md"
           }
         }
       },
@@ -122,6 +122,7 @@
   },
   "active": "2c302a58094fc5ef",
   "lastOpenFiles": [
+    "R - Dev Notes/Developer Industry Tracking.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Michele Hansen Interview Questions.md",
     "R - Better Questions/podcaster questions.md",
@@ -130,7 +131,6 @@
     "A - Writing/Draft - Permissionless Apprentice.md",
     "A - Writing/Draft - CMS Heads Up.md",
     "A - DX Circle/dx circle blog ideas.md",
-    "A - CodingCareer/codingcareer tweet ideas.md",
-    "Weekly/2021-W49.md"
+    "A - CodingCareer/codingcareer tweet ideas.md"
   ]
 }

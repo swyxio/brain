@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Better Questions/podcaster questions.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mixtape",
+                "query": "better ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "R - Better Questions/podcaster questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+                "file": "R - Better Questions/podcaster questions.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "R - Better Questions/podcaster questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,15 +140,15 @@
   },
   "active": "2c302a58094fc5ef",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Better Questions/podcaster questions.md",
+    "R - Better Questions/manager questions.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/Draft - Fave Podcasts of 2021.md",
     "A - Writing/Draft - Rich Dev Poor Dev.md",
     "A - Writing/Draft - Permissionless Apprentice.md",
     "A - Writing/Draft - CMS Heads Up.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - CodingCareer/codingcareer tweet ideas.md",
-    "Weekly/2021-W49.md",
-    "Daily/2021-12-01.md"
+    "Weekly/2021-W49.md"
   ]
 }

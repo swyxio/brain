@@ -1,4 +1,13 @@
-interviewing as podcaster https://www.holloway.com/g/stop-asking-questions/sections/20-simple-techniques-for-better-conversations?utm_source=share_section_link
+interviewing as podcaster https://assets.holloway.com/editorial/images/stop-asking-questions/saq-convos-graphic-med-top-v1.png
+
+- Start
+	- "What's a win for you?"
+	- I'll mention your project in intro, but lets build credibility first
+	- Pre-ask the Shocking/Challenging questions - tip them off before
+- High level
+	- 
+- Tactics
+- During
 
 ## question styles
 

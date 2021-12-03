@@ -11,6 +11,6 @@ jobs:
     name: Post tweet to Twitter
     steps:
     - name: Tweets link to every commit
-      uses: sw-yx/github-to-tweet@main
+      uses: sw-yx/github-to-tweet-v2@main
       with:
         TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}

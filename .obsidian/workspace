@@ -4,124 +4,134 @@
     "type": "split",
     "children": [
       {
-        "id": "2c302a58094fc5ef",
+        "id": "d3a954a0c5b022bb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "R - Dev Notes/Developer Industry Tracking.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8379f7a9783471f8",
-    "type": "mobile-drawer",
+    "id": "6ea728553a536c5d",
+    "type": "split",
     "children": [
       {
-        "id": "f51029b7f86290bf",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "3cf9bf4364048e46",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "848d0d080f4b15e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff9572052510fcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "269678cdc2fa6db1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dx cir",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e59f1d3f04237233",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "eeb1698d6f1f50f5",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "2d93d70c14cee1cc",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "f5e4931a8eb9db43",
-    "type": "mobile-drawer",
+    "id": "17a8243f2605271b",
+    "type": "split",
     "children": [
       {
-        "id": "4731f421fac80038",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "R - Dev Notes/Developer Industry Tracking.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "921c96cf88fd91c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0e611554eca4524",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3aa883cf0fd6610",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "317f611c93ef5be6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3ec97a311419fff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ce7799b545607c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "db89d590cbaebe0f",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "R - Dev Notes/Developer Industry Tracking.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "462a88ac3df8735a",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "R - Dev Notes/Developer Industry Tracking.md"
-          }
-        }
-      },
-      {
-        "id": "8183527a76228477",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2c302a58094fc5ef",
+  "active": "d3a954a0c5b022bb",
   "lastOpenFiles": [
+    "A - DX Circle/dx circle blog ideas.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Michele Hansen Interview Questions.md",
@@ -130,7 +140,6 @@
     "A - Writing/Draft - Rich Dev Poor Dev.md",
     "A - Writing/Draft - Permissionless Apprentice.md",
     "A - Writing/Draft - CMS Heads Up.md",
-    "A - DX Circle/dx circle blog ideas.md",
     "A - CodingCareer/codingcareer tweet ideas.md"
   ]
 }

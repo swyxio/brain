@@ -5,5 +5,30 @@
   "showFrontmatter": true,
   "foldHeading": true,
   "foldIndent": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "mobileToolbarCommands": [
+    "editor:paste",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar",
+    "editor:toggle-fold",
+    "editor:fold-all",
+    "editor:unfold-all"
+  ]
 }

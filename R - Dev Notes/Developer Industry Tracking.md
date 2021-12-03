@@ -51,6 +51,7 @@ Web frameworks mkt share
 
 some nice data here apart form the hype. svelte still tiny. https://gist.github.com/tkrotoff/b1caa4c3a185629299ec234d2314e190
 
+
 ## GitHub stars
 
 Star charts over time

@@ -4,6 +4,9 @@
 
 the oxide computer pitch https://overcast.fm/+zbJUwDBmU spectre and meltdown at 17mins
 https://overcast.fm/+HZUfgEat0 40 mins ilya grigorik react server components 
+https://overcast.fm/+fPIQYKa8E async await explanation n25mins
+https://overcast.fm/+OKRRRHOko zillow and peohphet 30mins 
+netlify discusdion https://overcast.fm/+B1yI4Kmqg
 
 https://overcast.fm/+NyJ7YBrmo pete holmes bourne 1h
 
@@ -32,7 +35,6 @@ https://overcast.fm/+O1SUmvVtI 14mins cuttlefish colorblind
 https://www.youtube.com/watch?v=Dur918GqDIw&list=WL&index=18&t=244s pseudonymity 
 
 
-https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 
 
 https://overcast.fm/+rTsUkMHLE 40 mins mimetic desire
@@ -41,17 +43,8 @@ https://overcast.fm/+a0BqyouQk 20 mins product market fit
 
 https://overcast.fm/+mBhnVek-0 15 nick reese on seo
 
-# YEGGE CORNER
-yegge on salary https://youtu.be/AKBYbZ1tyyc
-https://overcast.fm/+0TxbP_0Gk what billionaires talk about - CEOs
-https://overcast.fm/+0TxYQEOhk google works does well 15mins ish tech stuff 
-https://overcast.fm/+0TxbyakyQ 28mins old school gates
-yegge reminder https://youtu.be/vKmQW_Nkfk8
 
 
-
-
-https://overcast.fm/+olfObXhKU 45 mins wriing getting started
 
 https://overcast.fm/+b1V2u0abg 40 mins university advice
 
@@ -59,7 +52,6 @@ https://overcast.fm/+b1V2u0abg 40 mins university advice
 https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
 https://overcast.fm/+OxeYJmQDA 9 mins not a how to - walter isaacson
 
-https://overcast.fm/+OKRRRHOko zillow and peohphet 30mins 
 
 
 
@@ -76,13 +68,10 @@ https://www.youtube.com/watch?v=pqeJFYwnkjE debt metaphor
 
 tofu mofu bofu metrics https://overcast.fm/+JyHt1c7I 20 mins in
 
-netlify discusdion https://overcast.fm/+B1yI4Kmqg
 
 
 https://overcast.fm/+Ylhm80Z-4 12 mins constitution dao problems. intro https://overcast.fm/+XcSvlJhAs 2mins
 
-
-https://overcast.fm/+ZYLE2wLGk second youtube channel
 
 https://overcast.fm/+YNeQU9S5I 8mins loot
 https://overcast.fm/+YNeQU9S5I 25 min what is loot
@@ -101,6 +90,16 @@ https://overcast.fm/+G72_S1rVA praxeology 2 mins rory Sutherland 17 mins
 https://overcast.fm/+eZyDpkhOo 50 mins metrics on academic honesty
 
 https://overcast.fm/+rTsVMkQyQ 13 mins how brianne kimmel started as a nobody
+
+
+# YEGGE CORNER
+yegge on salary https://youtu.be/AKBYbZ1tyyc
+https://overcast.fm/+0TxbP_0Gk what billionaires talk about - CEOs
+https://overcast.fm/+0TxYQEOhk google works does well 15mins ish tech stuff 
+https://overcast.fm/+0TxbyakyQ 28mins old school gates
+yegge reminder https://youtu.be/vKmQW_Nkfk8
+
+
 
 ## writing 
 - https://www.3books.co/chapters/22 chef vs cook tim urban 1hr mark

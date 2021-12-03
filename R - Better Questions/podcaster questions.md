@@ -5,9 +5,25 @@ interviewing as podcaster https://assets.holloway.com/editorial/images/stop-aski
 	- I'll mention your project in intro, but lets build credibility first
 	- Pre-ask the Shocking/Challenging questions - tip them off before
 - High level
-	- 
+	- Stop Asking Questions - lead a productive conversation
+	- Share why you're interested - give people reason to help you
+	- Reciprocate - be open about yourself proactively
+	- Use Icon stories - show them how their idols did it, let them draw comparison
+	- Share higher purpose - join mission they can buy into
+	- End on High Note - give people home run question they can knock out of the park at the end
 - Tactics
+	- "Wow it sounds like everything is going perfect for you"
+	- "Because?" -> turn from what to why
+	- "Sorry to interrupt but i want to talk more indepth about"
+	- Stop asking superlatives - not "whats the most important X", but "who is one X"
+	- Use double barreled questions - "Do you feel comfortable saying if you divorced your husband?"
+	- The dramatic lowball - "you make 1m right?" - let them correct you
+	- Seek out stories - tell me about a time when you...
+	- Ask tough questions by putting it in person's mouth - "what do you say to someone who's listening to us and thinking..."
 - During
+	- Look for shoved facts - dive into them
+	- Recover with emergency questions - "I have to pause and ask: what's your motivation?"
+	- Let them talk: Prefer to be heard than to be helped.
 
 ## question styles
 

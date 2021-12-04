@@ -7,8 +7,11 @@
         "id": "d3a954a0c5b022bb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A - Mixtape/Mixtape Fridays.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md"
+              }
             }
           }
         ]
@@ -131,6 +138,7 @@
   },
   "active": "d3a954a0c5b022bb",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Fridays.md",
     "A - DX Circle/dx circle blog ideas.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
@@ -139,7 +147,6 @@
     "A - Writing/Draft - Fave Podcasts of 2021.md",
     "A - Writing/Draft - Rich Dev Poor Dev.md",
     "A - Writing/Draft - Permissionless Apprentice.md",
-    "A - Writing/Draft - CMS Heads Up.md",
-    "A - CodingCareer/codingcareer tweet ideas.md"
+    "A - Writing/Draft - CMS Heads Up.md"
   ]
 }

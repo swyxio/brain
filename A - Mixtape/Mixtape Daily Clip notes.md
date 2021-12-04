@@ -14,6 +14,10 @@ https://overcast.fm/+NyJ7YBrmo pete holmes bourne 1h
 https://overcast.fm/+SustHMll0 11 mins how turky living
 
 
+https://overcast.fm/+pN8f_ULnQ 17 mins
+
+https://overcast.fm/+OOu8ERt88 community led growth
+
 https://overcast.fm/+ZHU0NDSpM 1h10min shipping zach braff
 
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins

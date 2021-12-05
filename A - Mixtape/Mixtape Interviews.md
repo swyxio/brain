@@ -1,14 +1,12 @@
 ## prelude script
 
-The following is my conversation with Lee Robinson, Head of Developer Relations at Vercel which recently launched Next.js 12, the most popular framework in the most popular programming language in the world.
+The following is my conversation with Adam Argyle, CSS Developer Advocate for Google Chrome.
 
-The conversation can be broken into two parts. The first covering the new features in Next.js, primarily Next.js Middleware and Edge Handlers with zero Cold Starts thanks to Cloudflare Workers, the Next.js Live realtime collaboration feature, and how they are rewriting everything in Rust. The last third covers our respective views on Developer Relations, both doing the job and hiring for it.
+The conversation covers a quite a few topics that are relevant in the webdev and web design industries: UI complexity cliffs, DX vs UX, Self Disruption, and what Web Design Tooling could be.
 
-Along the way we touch on Cloudflare vs Vercel, Remix vs Next.js, Static export vs Dynamic rendering, Webpack vs SWC, OpenTelemetry and Observability, WASM and awesome people we know in the industry.
+Along the way we touch on what OpenUI is, Adam's Deferred Inputs proposal, the 4 Jobs of Developer Experience, Thoughtleading for Good from Emily Freeman, Ilya Grigorik, and Dion Almaier, and Adobe vs Figma vs Webflow.
 
-This conversation should be viewed together with my previous discussions with Ward and Abhi of the Gatsby team. Together, Next.js and Gatsby represent two converging perspectives in React performance and developer experience.
-
-I hope you enjoy these long form conversations I'm trying to produce with amazing developers. I don't have a name for it and I don't know what the plan is, I just know that I really enjoy it and the feedback has been really great. I'm still figuring out the production process and trying to balance it with my other commitments, so any tips are welcome. If you liked this, share it with a friend. If you have requests for other guests, tag them on social media. I'd like to basically make this a space where passionate builders and doers can talk about their craft and where things are going.
+I hope you enjoy these long form conversations I'm trying to produce with amazing developers. I haven't been as regular as I would like but I am investing into YouTube in 2022 and am keen on producing more high quality conversations. If you liked this, share it with a friend. If you have requests for other guests, tag them on social media. I'd like to basically make this a space where passionate builders and doers can talk about their craft and where things are going.
 
 
 ## Interview idea list

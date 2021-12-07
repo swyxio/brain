@@ -84,7 +84,7 @@ tofu mofu bofu metrics https://overcast.fm/+JyHt1c7I 20 mins in
 
 https://overcast.fm/+Ylhm80Z-4 12 mins constitution dao problems. intro https://overcast.fm/+XcSvlJhAs 2mins
 https://overcast.fm/+pN8f_ULnQ 17 mins ken griffin side of constitutiondao
-
+https://overcast.fm/+QLdt2a4yQ 45 mins condao leader
 
 https://overcast.fm/+YNeQU9S5I 8mins loot
 https://overcast.fm/+YNeQU9S5I 25 min what is loot

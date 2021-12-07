@@ -5,26 +5,27 @@
 the oxide computer pitch https://overcast.fm/+zbJUwDBmU spectre and meltdown at 17mins
 https://overcast.fm/+HZUfgEat0 40 mins ilya grigorik react server components 
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
+
 https://overcast.fm/+OKRRRHOko zillow and peohphet 30mins 
+
 netlify discusdion https://overcast.fm/+B1yI4Kmqg
 https://overcast.fm/+t_0aOlahI 23 mins remix rationale
 
 https://overcast.fm/+NyJ7YBrmo pete holmes bourne 1h
 
-https://overcast.fm/+SustHMll0 11 mins how turky living
+https://overcast.fm/+SustHMll0 11 mins how turkey living with hyperinflation
 
 what is gtd (https://overcast.fm/+PsDOlCBJo) 5-20 mins explains the system
 
 https://overcast.fm/+PsDPrb3OA duhigg power of habit 5-20 mins
 
-
+https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
 https://overcast.fm/+NBVuuQUhM 9mins mr beast
 
 
 https://overcast.fm/+BlzFmmbag 7 mins cold start
 
-https://overcast.fm/+pN8f_ULnQ 17 mins
 
 https://overcast.fm/+OOu8ERt88 community led growth
 
@@ -68,11 +69,7 @@ https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
 https://overcast.fm/+OxeYJmQDA 9 mins not a how to - walter isaacson
 
 
-
-
 https://overcast.fm/+HZUeNoxeQ 30 mins
-
-origin of tech debt metaphor 
 
 
 https://overcast.fm/+JmiMDFuCc 45mins audience building puwptd
@@ -83,9 +80,10 @@ https://www.youtube.com/watch?v=pqeJFYwnkjE debt metaphor
 
 tofu mofu bofu metrics https://overcast.fm/+JyHt1c7I 20 mins in
 
-
+## crypto corner
 
 https://overcast.fm/+Ylhm80Z-4 12 mins constitution dao problems. intro https://overcast.fm/+XcSvlJhAs 2mins
+https://overcast.fm/+pN8f_ULnQ 17 mins ken griffin side of constitutiondao
 
 
 https://overcast.fm/+YNeQU9S5I 8mins loot
@@ -107,7 +105,7 @@ https://overcast.fm/+eZyDpkhOo 50 mins metrics on academic honesty
 https://overcast.fm/+rTsVMkQyQ 13 mins how brianne kimmel started as a nobody
 
 
-# YEGGE CORNER
+## YEGGE CORNER
 yegge on salary https://youtu.be/AKBYbZ1tyyc
 https://overcast.fm/+0TxbP_0Gk what billionaires talk about - CEOs
 https://overcast.fm/+0TxYQEOhk google works does well 15mins ish tech stuff 

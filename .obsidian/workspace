@@ -7,9 +7,25 @@
         "id": "bbed573c2d89e769",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source"
+          }
+        },
+        "group": "32af2f3a12f07329"
+      },
+      {
+        "id": "947ec4e3644dbe25",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "preview"
+          }
+        },
+        "group": "32af2f3a12f07329"
       }
     ],
     "direction": "vertical"
@@ -53,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+              }
             }
           }
         ]
@@ -132,15 +151,15 @@
   },
   "active": "bbed573c2d89e769",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Interviews.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - DX Circle/dx circle blog ideas.md",
     "R - Dev Notes/Developer Industry Tracking.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Michele Hansen Interview Questions.md",
     "R - Better Questions/podcaster questions.md",
     "A - Writing/Draft - Fave Podcasts of 2021.md",
-    "A - Writing/Draft - Rich Dev Poor Dev.md",
-    "A - Writing/Draft - Permissionless Apprentice.md"
+    "A - Writing/Draft - Rich Dev Poor Dev.md"
   ]
 }

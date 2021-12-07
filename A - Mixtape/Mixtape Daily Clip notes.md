@@ -13,6 +13,13 @@ https://overcast.fm/+NyJ7YBrmo pete holmes bourne 1h
 
 https://overcast.fm/+SustHMll0 11 mins how turky living
 
+what is gtd (https://overcast.fm/+PsDOlCBJo) 5-20 mins explains the system
+
+https://overcast.fm/+PsDPrb3OA duhigg power of habit 5-20 mins
+
+
+
+https://overcast.fm/+NBVuuQUhM 9mins mr beast
 
 https://overcast.fm/+pN8f_ULnQ 17 mins
 

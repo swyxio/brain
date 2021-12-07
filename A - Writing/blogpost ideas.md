@@ -9,6 +9,10 @@ superuser programs
 - cloudflare
 
 
+moving to obsidian
+moving to postclassmail
+
+
 
 company youtube strategy
 - b2c https://www.youtube.com/watch?v=MIOpohrjuXk

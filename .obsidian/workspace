@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e581cc259469df9c",
+        "id": "bbed573c2d89e769",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A - Mixtape/Mixtape Interviews.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "17a8243f2605271b",
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Interviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A - Mixtape/Mixtape Interviews.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,7 +130,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e581cc259469df9c",
+  "active": "bbed573c2d89e769",
   "lastOpenFiles": [
     "A - Mixtape/Mixtape Interviews.md",
     "A - Mixtape/Mixtape Fridays.md",

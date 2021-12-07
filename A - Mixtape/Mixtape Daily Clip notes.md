@@ -21,6 +21,9 @@ https://overcast.fm/+PsDPrb3OA duhigg power of habit 5-20 mins
 
 https://overcast.fm/+NBVuuQUhM 9mins mr beast
 
+
+https://overcast.fm/+BlzFmmbag 7 mins cold start
+
 https://overcast.fm/+pN8f_ULnQ 17 mins
 
 https://overcast.fm/+OOu8ERt88 community led growth

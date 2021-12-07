@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "Weekly/2021-W50.md",
             "mode": "source"
           }
-        },
-        "group": "32af2f3a12f07329"
-      },
-      {
-        "id": "947ec4e3644dbe25",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "mode": "preview"
-          }
-        },
-        "group": "32af2f3a12f07329"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "17a8243f2605271b",
@@ -98,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "Weekly/2021-W50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "Weekly/2021-W50.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+                "file": "Weekly/2021-W50.md"
               }
             }
           }
@@ -146,11 +132,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "bbed573c2d89e769",
   "lastOpenFiles": [
+    "Weekly/2021-W50.md",
+    "Weekly/2021-W49.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Interviews.md",
@@ -158,8 +145,6 @@
     "A - DX Circle/dx circle blog ideas.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "A - Mixtape/Michele Hansen Interview Questions.md",
-    "R - Better Questions/podcaster questions.md",
-    "A - Writing/Draft - Fave Podcasts of 2021.md",
-    "A - Writing/Draft - Rich Dev Poor Dev.md"
+    "R - Better Questions/podcaster questions.md"
   ]
 }

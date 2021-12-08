@@ -5,11 +5,7 @@
 the oxide computer pitch https://overcast.fm/+zbJUwDBmU spectre and meltdown at 17mins
 https://overcast.fm/+HZUfgEat0 40 mins ilya grigorik react server components 
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
-
-https://overcast.fm/+OKRRRHOko zillow and peohphet 30mins 
-
 netlify discusdion https://overcast.fm/+B1yI4Kmqg
-https://overcast.fm/+t_0aOlahI 23 mins remix rationale
 
 https://overcast.fm/+NyJ7YBrmo pete holmes bourne 1h
 

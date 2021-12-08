@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5378065de49b7215",
+        "id": "56c423e70b59f8d7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Writing/blogpost ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Writing/blogpost ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A - Writing/blogpost ideas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -135,10 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5378065de49b7215",
+  "active": "56c423e70b59f8d7",
   "lastOpenFiles": [
-    "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Interviews.md",
     "Weekly/2021-W50.md",
     "Weekly/2021-W49.md",

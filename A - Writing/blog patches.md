@@ -4,6 +4,7 @@
 
 - https://www.ribbonfarm.com/2012/02/02/how-to-name-things/
 - https://en.wikipedia.org/wiki/PGP_word_list
+- https://github.com/usmanbashir/haikunator
 
 ## Learn in Public List
 

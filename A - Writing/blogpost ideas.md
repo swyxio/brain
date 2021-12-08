@@ -518,6 +518,7 @@ frontend finally investible?
 - xstate/stately
 - gatsby
 - chroma/storybook
+- excalidraw https://twitter.com/steveruizok/status/1468630454601408518
 
 
 relationships vs transactions https://m.youtube.com/watch?v=-Dot-Uf1dkE

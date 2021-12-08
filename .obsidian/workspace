@@ -1,136 +1,145 @@
 {
   "main": {
-    "id": "47008060bf3c7d71",
+    "id": "17b6604453f3ed21",
     "type": "split",
     "children": [
       {
-        "id": "76999b60149fdc37",
+        "id": "71fb109742beb264",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A - Writing/blog patches.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a2546e6e7db26d41",
-    "type": "mobile-drawer",
+    "id": "b8a3f21fb9926f29",
+    "type": "split",
     "children": [
       {
-        "id": "e07d6f89b6190fd9",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "99a308db09e81721",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "twyx",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "5416025084c38ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccbd9e644ff9c893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "614cc652c5bc1612",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "frontend",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c781e50b66d9704",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "698d07c45fcba20d",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "29e6815aa3246bdb",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "f1bbbc85a4b7646d",
-    "type": "mobile-drawer",
+    "id": "857b0dbd7db0e514",
+    "type": "split",
     "children": [
       {
-        "id": "83b1706dc16368b1",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "a464680cc0678f8e",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Writing/blog patches.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "bc1354ac48045bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf4d6020fabf589",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ec0ba9c3cb88948",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "699ecb3e5dfcdd7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f948972e146790a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff6b7367441bc38b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "81d9023c491ffd2c",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Writing/blog patches.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "8864342938fc966d",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Writing/blog patches.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "76999b60149fdc37",
+  "active": "71fb109742beb264",
   "lastOpenFiles": [
-    "A - Writing/blog patches.md",
-    "SCRATCHPAD.md",
-    "R - Investing & Ideas/Twyx App.md",
-    "R - Creator Resources/Marketing Examples.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/blogpost ideas.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Interviews.md",
     "Weekly/2021-W50.md",
     "Weekly/2021-W49.md",
-    "A - Mixtape/Mixtape Weekends.md"
+    "A - Mixtape/Mixtape Weekends.md",
+    "A - Mixtape/Mixtape Fridays.md",
+    "A - DX Circle/dx circle blog ideas.md",
+    "R - Dev Notes/Developer Industry Tracking.md",
+    "A - Mixtape/Michele Hansen Interview Questions.md"
   ]
 }

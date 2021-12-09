@@ -8,6 +8,8 @@ netlify discusdion https://overcast.fm/+B1yI4Kmqg
 
 https://overcast.fm/+NyJ7YBrmo pete holmes bourne 1h
 
+https://nav.al/failure groups never admit failure
+
 https://overcast.fm/+SustHMll0 11 mins how turkey living with hyperinflation
 
 what is gtd (https://overcast.fm/+PsDOlCBJo) 5-20 mins explains the system

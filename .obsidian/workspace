@@ -7,8 +7,11 @@
         "id": "18d743b6d7ee1d82",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frontend",
+                "query": "mix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+              }
             }
           }
         ]
@@ -131,14 +138,14 @@
   },
   "active": "18d743b6d7ee1d82",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Mixtape/Mixtape Fridays.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "A - Writing/blogpost ideas.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Interviews.md",
     "Weekly/2021-W50.md",
     "Weekly/2021-W49.md",
     "A - Mixtape/Mixtape Weekends.md",
-    "A - Mixtape/Mixtape Fridays.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Mixtape/Michele Hansen Interview Questions.md"
   ]

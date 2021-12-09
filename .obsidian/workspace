@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "17b6604453f3ed21",
+    "id": "119d5c3c14dd2cfc",
     "type": "split",
     "children": [
       {
-        "id": "d77417825f3e7375",
+        "id": "64db09d2f2116a05",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Weekly/2021-W50.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -53,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Weekly/2021-W50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Weekly/2021-W50.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Weekly/2021-W50.md"
+              }
             }
           }
         ]
@@ -129,15 +135,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d77417825f3e7375",
+  "active": "64db09d2f2116a05",
   "lastOpenFiles": [
+    "Weekly/2021-W50.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Fridays.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Interviews.md",
-    "Weekly/2021-W50.md",
     "Weekly/2021-W49.md",
     "A - Mixtape/Mixtape Weekends.md",
     "A - DX Circle/dx circle blog ideas.md"

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "71fb109742beb264",
+        "id": "18d743b6d7ee1d82",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -129,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71fb109742beb264",
+  "active": "18d743b6d7ee1d82",
   "lastOpenFiles": [
+    "R - Dev Notes/Developer Industry Tracking.md",
     "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Interviews.md",
@@ -139,7 +140,6 @@
     "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - DX Circle/dx circle blog ideas.md",
-    "R - Dev Notes/Developer Industry Tracking.md",
     "A - Mixtape/Michele Hansen Interview Questions.md"
   ]
 }

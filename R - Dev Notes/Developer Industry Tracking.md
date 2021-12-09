@@ -131,6 +131,7 @@ Misc specific
 
 i have no idea where to put these
 
+- cloudflare web statistics https://radar.cloudflare.com/?date_filter=last_30_days
 - thoughtworks tech radar in JSON format https://www.thoughtworks.com/internal/api/radar/blips
 - https://slashdata.co/free-resources
 - web framework benchmarks https://www.techempower.com/benchmarks/#section=data-r19&hw=ph&test=composite

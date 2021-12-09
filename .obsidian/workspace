@@ -4,124 +4,134 @@
     "type": "split",
     "children": [
       {
-        "id": "18d743b6d7ee1d82",
+        "id": "d77417825f3e7375",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ec25fd33ddc62fd9",
-    "type": "mobile-drawer",
+    "id": "b8a3f21fb9926f29",
+    "type": "split",
     "children": [
       {
-        "id": "cd23e06c1ac1d66d",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "52fa62ac464d253b",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "5416025084c38ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccbd9e644ff9c893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "614cc652c5bc1612",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mix",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c781e50b66d9704",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "ce0a5c173c09644a",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "7ede97328e387070",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "d01acce2de638ea3",
-    "type": "mobile-drawer",
+    "id": "857b0dbd7db0e514",
+    "type": "split",
     "children": [
       {
-        "id": "346f62b8806fe1ce",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "f12b6521b9669b96",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "bc1354ac48045bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf4d6020fabf589",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ec0ba9c3cb88948",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "699ecb3e5dfcdd7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f948972e146790a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff6b7367441bc38b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "6c331bd69d0f7e39",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "c6ad79f0bd4ad89f",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "18d743b6d7ee1d82",
+  "active": "d77417825f3e7375",
   "lastOpenFiles": [
+    "APPEARANCES.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Fridays.md",
     "R - Dev Notes/Developer Industry Tracking.md",
@@ -130,7 +140,6 @@
     "Weekly/2021-W50.md",
     "Weekly/2021-W49.md",
     "A - Mixtape/Mixtape Weekends.md",
-    "A - DX Circle/dx circle blog ideas.md",
-    "A - Mixtape/Michele Hansen Interview Questions.md"
+    "A - DX Circle/dx circle blog ideas.md"
   ]
 }

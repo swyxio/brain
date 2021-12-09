@@ -66,6 +66,7 @@ make sure os of you https://youtu.be/IzK4IxHv3W0
 - FITC web unleashed https://www.youtube.com/watch?v=S8GQL4qBJB4
 - https://thenewstack.io/what-it-takes-to-become-a-senior-engineer/
 - https://youtu.be/ddKDPikKbNk silas sao dx talk
+- https://www.youtube.com/watch?v=b1FXpOExLQw&feature=youtu.be italian coders
 
 ## for coding career handbook
 

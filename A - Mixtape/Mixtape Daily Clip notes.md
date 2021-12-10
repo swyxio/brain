@@ -73,7 +73,7 @@ https://overcast.fm/+JmiMDFuCc 45mins audience building puwptd
 
 https://www.youtube.com/watch?v=pqeJFYwnkjE debt metaphor
 
-
+https://overcast.fm/+LwAbK-MZM how to get into porn 30mins
 
 tofu mofu bofu metrics https://overcast.fm/+JyHt1c7I 20 mins in
 

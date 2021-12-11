@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Mixtape/Mixtape Fridays.md",
             "mode": "source"
           }
         }
@@ -18,119 +18,134 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0afc974df2149e90",
-    "type": "mobile-drawer",
+    "id": "b8a3f21fb9926f29",
+    "type": "split",
     "children": [
       {
-        "id": "fd14c044055a5c17",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "f85ebb566f5a226f",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "5416025084c38ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccbd9e644ff9c893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "614cc652c5bc1612",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mix",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c781e50b66d9704",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "5ab2ca6b43c4cdfd",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "10ff1edec12951b0",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "9976a2a29e5123c6",
-    "type": "mobile-drawer",
+    "id": "857b0dbd7db0e514",
+    "type": "split",
     "children": [
       {
-        "id": "3c42f81ab2d2cd78",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "09fa998e4f32898d",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "bc1354ac48045bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf4d6020fabf589",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ec0ba9c3cb88948",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "699ecb3e5dfcdd7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f948972e146790a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff6b7367441bc38b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "a45ef5059c06cf40",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "13b53b859693f59c",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "64db09d2f2116a05",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Fridays.md",
+    "A - Mixtape/Mixtape Weekends.md",
     "Weekly/2021-W50.md",
     "APPEARANCES.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Interviews.md",
     "Weekly/2021-W49.md",
-    "A - Mixtape/Mixtape Weekends.md",
     "A - DX Circle/dx circle blog ideas.md"
   ]
 }

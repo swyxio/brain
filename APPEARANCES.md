@@ -1,5 +1,6 @@
 ## Talks and podcasts
 
+- engineers sg react clone talk https://www.youtube.com/watch?v=il43iId9JQA
 - reactrally2020 https://www.youtube.com/watch?v=Dz4q_bNDqfo
 - https://www.digitalocean.com/community/tutorials/nodejs-solve-cors-once-and-for-all-netlify-dev
 - concurrent react from scratch - https://www.youtube.com/watch?v=fKlt5GFQnVc https://www.youtube.com/watch?v=yeyiA9U8Ep8 https://www.youtube.com/watch?v=dFO4m7Y-yhs https://egghead.io/lessons/react-concurrent-react-from-scratch

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "APPEARANCES.md",
+            "file": "A - Mixtape/Mixtape Weekends.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mix",
+                "query": "character",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APPEARANCES.md",
+                "file": "A - Mixtape/Mixtape Weekends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APPEARANCES.md",
+                "file": "A - Mixtape/Mixtape Weekends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APPEARANCES.md"
+                "file": "A - Mixtape/Mixtape Weekends.md"
               }
             }
           }
@@ -137,15 +138,15 @@
   },
   "active": "7d5531c66183a77c",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Weekends.md",
+    "R - Better Questions/general questions.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Fridays.md",
-    "A - Mixtape/Mixtape Weekends.md",
     "Weekly/2021-W50.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Interviews.md",
-    "Weekly/2021-W49.md",
-    "A - DX Circle/dx circle blog ideas.md"
+    "Weekly/2021-W49.md"
   ]
 }

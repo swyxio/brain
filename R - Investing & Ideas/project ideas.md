@@ -8,8 +8,12 @@ Personal data warehouse
 - individual level 
 - submissions to multiple experts programs - n^2 problem
 
+neutral OSS telemetry provider
+- trusted for privacy
+- free for many OSS
 
-github search 
+
+github search chrome extension
 - https://docs.github.com/en/search-github/searching-on-github/searching-code#search-by-file-location
 
 headline generator

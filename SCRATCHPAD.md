@@ -4,7 +4,28 @@ created: 2021-12-01 01:35
 
 Completely ungroomed dumping ground
 
+- https://www.notion.so/temporalio/Ryland-s-Temporal-manifesto-f523e64e0a8e40d8a9da638ef91b7c06
+- https://news.ycombinator.com/item?id=29299986
+- https://blog.cloudflare.com/developer-expert-program/
+- https://www.ejorgenson.com/blog/50-first-levers?utm_source=brainpint&utm_medium=email&utm_campaign=positive_accidents&utm_term=2021-12-01
+- https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5
 - follow <https://panelbear.com/blog/tech-stack/>
+- https://esteetey.dev/be-a-dev-detective-with-sourcegraph
+- https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh
+- https://github.blog/2021-12-09-introducing-stack-graphs/
+- https://every.to/almanack/oatly-the-new-coke-821556
+- https://calvinfo.substack.com/p/yc-ultras-nyc-fusion
+- https://nickwignall.com/self-awareness/
+- https://sahilbloom.substack.com/p/the-cold-email-guide?utm_source=brainpint&utm_medium=email&utm_campaign=positive_accidents&utm_term=2021-12-01
+- https://www.demandcurve.com/playbooks/product-hunt
+- https://www.demandcurve.com/playbooks/influencer-creator-marketing
+- https://www.demandcurve.com/playbooks/2021-marketing-tools-beginners-guide
+- https://www.demandcurve.com/playbooks/above-the-fold
+- https://commoncog.com/blog/playing-to-play-playing-to-win/
+- https://amaca.substack.com/p/how-i-got-wealthy-without-working?utm_source=convertkit&utm_medium=email&utm_campaign=Travelling+Back+in+Time%20-%207085386
+- https://lethain.com/platform-product-fit/
+- https://peterattiamd.com/my-nutritional-framework/
+- https://xconomy.com/national/2013/10/01/microsoft-research-memo-analysis/
 
 ## long term todo
 

@@ -14,6 +14,15 @@ moving to postclassmail
 
 
 
+postmortem on the nft collapse of 2022
+- people talking more can than doing
+- governance is a mess
+- hiten “we’re in the facebook apps phase”
+- residual income causes hurdles
+- l1 contention
+- wayback machine
+
+
 company youtube strategy
 - b2c https://www.youtube.com/watch?v=MIOpohrjuXk
 

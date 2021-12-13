@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b8a3f21fb9926f29",
+    "id": "bc4db316c11a5085",
     "type": "split",
     "children": [
       {
-        "id": "5416025084c38ccf",
+        "id": "757112dd8e1cf5ce",
         "type": "tabs",
         "children": [
           {
-            "id": "ccbd9e644ff9c893",
+            "id": "41aaaecc92e45a25",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "614cc652c5bc1612",
+            "id": "ed9e3d01bba490dd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "character",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,30 +49,29 @@
             }
           },
           {
-            "id": "1c781e50b66d9704",
+            "id": "ffc0949dacde01b1",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "857b0dbd7db0e514",
+    "id": "b7355d8bd7fc0d61",
     "type": "split",
     "children": [
       {
-        "id": "bc1354ac48045bb8",
+        "id": "6bd909b4452d7c98",
         "type": "tabs",
         "children": [
           {
-            "id": "9cf4d6020fabf589",
+            "id": "4e0d0cf5624d63af",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,7 +79,7 @@
             }
           },
           {
-            "id": "9ec0ba9c3cb88948",
+            "id": "47a9294b077077fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +96,7 @@
             }
           },
           {
-            "id": "699ecb3e5dfcdd7f",
+            "id": "08efcfa3840e5dd4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +108,7 @@
             }
           },
           {
-            "id": "f948972e146790a0",
+            "id": "51cd675ccd8e15cb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +119,7 @@
             }
           },
           {
-            "id": "ff6b7367441bc38b",
+            "id": "d9326e125dc1908d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -139,14 +138,14 @@
   "active": "7d5531c66183a77c",
   "lastOpenFiles": [
     "A - Mixtape/Mixtape Weekends.md",
+    "Draft - The Corporate YouTube Code.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Writing/blogpost ideas.md",
     "R - Better Questions/general questions.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Fridays.md",
     "Weekly/2021-W50.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Dev Notes/Developer Industry Tracking.md",
-    "A - Writing/blogpost ideas.md",
-    "A - Mixtape/Mixtape Interviews.md",
-    "Weekly/2021-W49.md"
+    "A - Mixtape/Mixtape Interviews.md"
   ]
 }

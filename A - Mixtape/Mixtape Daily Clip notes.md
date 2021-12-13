@@ -7,6 +7,7 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 netlify discusdion https://overcast.fm/+B1yI4Kmqg
 
 https://overcast.fm/+NyJ7YBrmo pete holmes bourne 1h
+https://youtu.be/Dnbmku3lFmg 20 mins wheel of time adaptation
 
 https://nav.al/failure groups never admit failure
 
@@ -19,6 +20,9 @@ https://overcast.fm/+PsDPrb3OA duhigg power of habit 5-20 mins
 https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
 https://overcast.fm/+NBVuuQUhM 9mins mr beast
+
+
+
 
 
 https://overcast.fm/+BlzFmmbag 7 mins cold start
@@ -157,6 +161,12 @@ https://corecursive.com/063-apple-2001/
 18 mins shipping ipod
 29 mins tech debt quit story
 45 mins knowing the stack
+
+
+## levels
+https://overcast.fm/+os2YsOhgA 30-45mins levels story
+https://overcast.fm/+os2YU2gSU 10mins changed foods to 16mins
+
 
 # swyx shoutout
 

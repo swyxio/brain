@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Dev Notes/Telemetry and Observability.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bc4db316c11a5085",
+    "id": "5d4ac9a6eca7ed34",
     "type": "split",
     "children": [
       {
-        "id": "757112dd8e1cf5ce",
+        "id": "6fac29e19254efc2",
         "type": "tabs",
         "children": [
           {
-            "id": "41aaaecc92e45a25",
+            "id": "53c44b60e475a60b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "ed9e3d01bba490dd",
+            "id": "7fbd4eec2efc972e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "ffc0949dacde01b1",
+            "id": "74520eb83956982c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -63,15 +63,15 @@
     "width": 300
   },
   "right": {
-    "id": "b7355d8bd7fc0d61",
+    "id": "449ab8eb9019b9f6",
     "type": "split",
     "children": [
       {
-        "id": "6bd909b4452d7c98",
+        "id": "90b7a658d26b9369",
         "type": "tabs",
         "children": [
           {
-            "id": "4e0d0cf5624d63af",
+            "id": "63b8d72f9602dea7",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -79,12 +79,12 @@
             }
           },
           {
-            "id": "47a9294b077077fb",
+            "id": "75f816e25acf1c55",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Dev Notes/Telemetry and Observability.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,19 +96,19 @@
             }
           },
           {
-            "id": "08efcfa3840e5dd4",
+            "id": "4c11fcd80e0a016e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Dev Notes/Telemetry and Observability.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "51cd675ccd8e15cb",
+            "id": "b6c7461aab652503",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,12 +119,12 @@
             }
           },
           {
-            "id": "d9326e125dc1908d",
+            "id": "3a137dd21d9d4c08",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Dev Notes/Telemetry and Observability.md"
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "7d5531c66183a77c",
   "lastOpenFiles": [
-    "R - Dev Notes/Telemetry and Observability.md",
-    "R - Dev Notes/Monaco Resources.md",
-    "R - Investing & Ideas/project ideas.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Weekends.md",
     "Draft - The Corporate YouTube Code.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/blogpost ideas.md",
     "R - Better Questions/general questions.md",
     "APPEARANCES.md",
-    "A - Mixtape/Mixtape Fridays.md"
+    "A - Mixtape/Mixtape Fridays.md",
+    "Weekly/2021-W50.md",
+    "R - Dev Notes/Developer Industry Tracking.md",
+    "A - Mixtape/Mixtape Interviews.md"
   ]
 }

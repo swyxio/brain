@@ -19,8 +19,11 @@ https://overcast.fm/+PsDPrb3OA duhigg power of habit 5-20 mins
 
 https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
-https://overcast.fm/+NBVuuQUhM 9mins mr beast
 
+## youtuber
+
+https://overcast.fm/+NBVuuQUhM 9mins mr beast
+https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 
 
 

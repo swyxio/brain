@@ -14,6 +14,8 @@ robert zhu case against anti graphql https://youtu.be/djKPtyXhaNE
 - thunder nerds https://twitter.com/thundernerds/status/1444725115766415364?s=20
 
 
+sourcegraph https://overcast.fm/+cV8rmO7c0
+
 my temporal talk https://twitter.com/swyx/status/1445466345194209290?s=21
 
 - uibreakfast https://uibreakfast.com/223-how-to-market-yourself-with-shawn-swyx-wang/

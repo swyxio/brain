@@ -20,6 +20,10 @@ https://overcast.fm/+PsDPrb3OA duhigg power of habit 5-20 mins
 https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
 
+https://overcast.fm/+UwBo3_SRA stackoverflow founding story
+
+https://overcast.fm/+L9fh51YxI earn it 40 mins - audience comes don someone else
+
 ## youtuber
 
 https://overcast.fm/+NBVuuQUhM 9mins mr beast
@@ -89,6 +93,7 @@ tofu mofu bofu metrics https://overcast.fm/+JyHt1c7I 20 mins in
 https://overcast.fm/+Ylhm80Z-4 12 mins constitution dao problems. intro https://overcast.fm/+XcSvlJhAs 2mins
 https://overcast.fm/+pN8f_ULnQ 17 mins ken griffin side of constitutiondao
 https://overcast.fm/+QLdt2a4yQ 45 mins condao leader
+https://overcast.fm/+coh0IHQ8Q 25 mins eth lost the plot - 43min endgame of eth
 
 https://overcast.fm/+YNeQU9S5I 8mins loot
 https://overcast.fm/+YNeQU9S5I 25 min what is loot

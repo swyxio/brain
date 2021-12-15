@@ -6,6 +6,10 @@
  - https://nesslabs.com/journaling-prompts
  - "What have you learned is actually a lot easier than you once thought it was?" https://twitter.com/caitlinschiller/status/989859749226262529?s=20
 
+## billionaire questions 
+
+whats one thing you want buy you cant buy
+
 ## alternatives to how are you
 
 kat vellos https://weshouldgettogether.com/blog/how-are-you-alternatives

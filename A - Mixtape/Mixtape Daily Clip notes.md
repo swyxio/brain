@@ -19,9 +19,6 @@ https://overcast.fm/+PsDPrb3OA duhigg power of habit 5-20 mins
 
 https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
-
-https://overcast.fm/+UwBo3_SRA stackoverflow founding story
-
 https://overcast.fm/+L9fh51YxI earn it 40 mins - audience comes don someone else
 
 ## youtuber
@@ -188,4 +185,5 @@ radical transparency lampshading https://podcasts.apple.com/us/podcast/everyone-
 get spencer rascoff interview on satya nadella. user focus not competitor focus
 spencer rascoff on spacs https://overcast.fm/+RWpv4tXUg 1h 35mins
 https://mebfaber.com/2021/05/14/e311-radio-show/ 7 minutes found money found money startups
+https://overcast.fm/+UwBo3_SRA stackoverflow founding story
 

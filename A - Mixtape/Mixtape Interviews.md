@@ -25,6 +25,9 @@ veni kunche
 
 randall kanna
 
+nicole https://twitter.com/stubbornella/status/1471213109767405568?s=21
+- https://css-tricks.com/the-ui-fund/
+
 the listennotes guy
 
 tanner linsley https://twitter.com/tannerlinsley/status/1460274803139510278?s=20

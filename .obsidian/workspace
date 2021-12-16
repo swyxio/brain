@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "mixtape",
+            "query": "alumni",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -64,7 +64,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "cb4a35d24c91adfe",
@@ -131,14 +131,14 @@
   "active": "7d5531c66183a77c",
   "lastOpenFiles": [
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Mixtape/Mixtape Interviews.md",
+    "A - Mixtape/Mixtape Weekends.md",
+    "Excalidraw/Drawing 2021-12-15 17.27.00.excalidraw.md",
     "R - Better Questions/general questions.md",
     "Excalidraw/Drawing 2021-12-14 21.01.53.excalidraw.md",
     "R - Better Questions/icebreaker questions.md",
     "SCRATCHPAD.md",
     "README.md",
-    "A - Writing/Draft - Moving to Obsidian.md",
-    "A - Mixtape/Mixtape Weekends.md",
-    "A - Writing/Draft - The Corporate YouTube Code.md",
-    "A - Writing/blogpost ideas.md"
+    "A - Writing/Draft - Moving to Obsidian.md"
   ]
 }

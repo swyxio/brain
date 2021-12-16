@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "alumni",
+            "query": "audience",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -64,7 +64,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "cb4a35d24c91adfe",
@@ -131,6 +131,7 @@
   "active": "7d5531c66183a77c",
   "lastOpenFiles": [
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Product/Launch Cheatsheet.md",
     "A - Mixtape/Mixtape Interviews.md",
     "A - Mixtape/Mixtape Weekends.md",
     "Excalidraw/Drawing 2021-12-15 17.27.00.excalidraw.md",
@@ -138,7 +139,6 @@
     "Excalidraw/Drawing 2021-12-14 21.01.53.excalidraw.md",
     "R - Better Questions/icebreaker questions.md",
     "SCRATCHPAD.md",
-    "README.md",
-    "A - Writing/Draft - Moving to Obsidian.md"
+    "README.md"
   ]
 }

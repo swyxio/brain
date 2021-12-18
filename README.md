@@ -23,6 +23,7 @@ This repo also rolls up some of my older lists:
 - https://github.com/sw-yx/uuid-list
 - https://github.com/sw-yx/awesome-monaco-editor
 - https://github.com/sw-yx/tracking
+- https://github.com/sw-yx/email-tools-list
 
 Search around for their modern incarnations :) I have let my two biggest lists and the investing list remain independent:
 

@@ -8,6 +8,7 @@ netlify discusdion https://overcast.fm/+B1yI4Kmqg
 
 https://overcast.fm/+NyJ7YBrmo pete holmes bourne 1h
 https://youtu.be/Dnbmku3lFmg 20 mins wheel of time adaptation
+https://overcast.fm/+vpWZ6rHT0 kim k from 2mins on
 
 https://nav.al/failure groups never admit failure
 
@@ -93,8 +94,7 @@ tofu mofu bofu metrics https://overcast.fm/+JyHt1c7I 20 mins in
 https://overcast.fm/+Ylhm80Z-4 12 mins constitution dao problems. intro https://overcast.fm/+XcSvlJhAs 2mins
 https://overcast.fm/+pN8f_ULnQ 17 mins ken griffin side of constitutiondao
 https://overcast.fm/+QLdt2a4yQ 45 mins condao leader
-https://overcast.fm/+coh0IHQ8Q 25 mins eth lost the plot - 43min endgame of eth
-https://overcast.fm/+i42IdXrM 13mins exchange kings
+https://overcast.fm/+FaxkphON4 32 mins SBF talking about loss covering until 45mins
 
 https://overcast.fm/+YNeQU9S5I 8mins loot
 https://overcast.fm/+YNeQU9S5I 25 min what is loot

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - DX Circle/Category Creation.md",
+            "file": "c.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - DX Circle/Category Creation.md",
+                "file": "c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - DX Circle/Category Creation.md",
+                "file": "c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - DX Circle/Category Creation.md"
+                "file": "c.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "25404c12c737af9b",
   "lastOpenFiles": [
+    "c.md",
     "A - DX Circle/Category Creation.md",
     "R - Creator Resources/Email tools list.md",
     "README.md",
@@ -146,7 +147,6 @@
     "R - Dev Notes/Fallacies of Distributed Computing.md",
     "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "SCRATCHPAD.md",
-    "A - Writing/Draft - Moving to Obsidian.md"
+    "SCRATCHPAD.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Dev Notes/Fallacies of Distributed Computing.md",
             "mode": "source"
           }
         }
@@ -18,127 +18,134 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3acbaebb0beb05e8",
-    "type": "mobile-drawer",
+    "id": "45b1845a29a61c42",
+    "type": "split",
     "children": [
       {
-        "id": "6c15cd99d1a96a32",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "540f4633711b0bfd",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "audience",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "6b5de4a15489c1a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "483abdba861e251b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe4f01ce8360180e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9bb389a4ff9b2cd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "51ccecaa79b72a9f",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "1108e733375938a6",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "cb4a35d24c91adfe",
-    "type": "mobile-drawer",
+    "id": "dc69a6ac5458373b",
+    "type": "split",
     "children": [
       {
-        "id": "62490c487b7a7bc5",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "664a849d8a3738ea",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "5a8bd961bd5a5118",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f59c98e419c4960",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R - Dev Notes/Fallacies of Distributed Computing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e5f5d07c3017bd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R - Dev Notes/Fallacies of Distributed Computing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aeeae6240ca06afa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "849b1d3c7b9c5a43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R - Dev Notes/Fallacies of Distributed Computing.md"
+              }
+            }
+          },
+          {
+            "id": "56bd89af03725d6c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "08a6bc7e7e1a2212",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "e24111170648b32a",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
-          }
-        }
-      },
-      {
-        "id": "8c7e40d242efc939",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 4
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "7d5531c66183a77c",
   "lastOpenFiles": [
+    "R - Dev Notes/Fallacies of Distributed Computing.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Product/Launch Cheatsheet.md",
-    "A - Mixtape/Mixtape Interviews.md",
-    "A - Mixtape/Mixtape Weekends.md",
-    "Excalidraw/Drawing 2021-12-15 17.27.00.excalidraw.md",
-    "R - Better Questions/general questions.md",
-    "Excalidraw/Drawing 2021-12-14 21.01.53.excalidraw.md",
-    "R - Better Questions/icebreaker questions.md",
     "SCRATCHPAD.md",
-    "README.md"
+    "README.md",
+    "A - Writing/Draft - Moving to Obsidian.md",
+    "A - Mixtape/Mixtape Weekends.md",
+    "A - Writing/Draft - The Corporate YouTube Code.md",
+    "A - Writing/blogpost ideas.md",
+    "R - Better Questions/general questions.md",
+    "APPEARANCES.md"
   ]
 }

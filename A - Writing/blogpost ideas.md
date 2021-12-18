@@ -13,6 +13,8 @@ moving to obsidian
 moving to postclassmail
 
 
+how to pick your startup
+
 
 postmortem on the nft collapse of 2022
 - people talking more can than doing

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7d5531c66183a77c",
+        "id": "c367985e689da221",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc69a6ac5458373b",
@@ -135,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d5531c66183a77c",
+  "active": "c367985e689da221",
   "lastOpenFiles": [
     "R - Dev Notes/Fallacies of Distributed Computing.md",
+    "Untitled 1.md",
+    "A - Writing/blogpost ideas.md",
+    "Untitled.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "SCRATCHPAD.md",
     "README.md",
     "A - Writing/Draft - Moving to Obsidian.md",
     "A - Mixtape/Mixtape Weekends.md",
-    "A - Writing/Draft - The Corporate YouTube Code.md",
-    "A - Writing/blogpost ideas.md",
-    "R - Better Questions/general questions.md",
-    "APPEARANCES.md"
+    "A - Writing/Draft - The Corporate YouTube Code.md"
   ]
 }

@@ -22,6 +22,10 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
 https://overcast.fm/+L9fh51YxI earn it 40 mins - audience comes don someone else
 
+https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
+
+
+
 ## youtuber
 
 https://overcast.fm/+NBVuuQUhM 9mins mr beast

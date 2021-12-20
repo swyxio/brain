@@ -80,3 +80,5 @@ The [fallacies](https://en.wikipedia.org/wiki/Fallacy "Fallacy") are:
 "Good open standards, both for software interfaces and for data formats, are more important than for software itself to be open source."
 
 _profound_ insight from Peter Deutsch, on @jeffdoolittle's @seradio episode <https://www.se-radio.net/2021/07/episode-470-l-peter-deutsch-on-the-fallacies-of-distributed-computing/> (44-46 mins)
+
+tweeted it https://twitter.com/swyx/status/1472746901711855617

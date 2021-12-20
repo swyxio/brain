@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cb50d0714568741b",
+        "id": "2ffebf05e99edb9f",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -129,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb50d0714568741b",
+  "active": "2ffebf05e99edb9f",
   "lastOpenFiles": [
     "R - Dev Notes/Fallacies of Distributed Computing.md",
     "R - Dev Notes/Open Source Funding.md",

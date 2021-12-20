@@ -1,128 +1,137 @@
 {
   "main": {
-    "id": "c265b79d0913ba53",
+    "id": "340822807246d70d",
     "type": "split",
     "children": [
       {
-        "id": "89a2a9871acd6d52",
+        "id": "cb50d0714568741b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "113134e6918fe098",
-    "type": "mobile-drawer",
+    "id": "45b1845a29a61c42",
+    "type": "split",
     "children": [
       {
-        "id": "16426b8a37c9f4e4",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "d7de62a0a96588b0",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "6b5de4a15489c1a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "483abdba861e251b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe4f01ce8360180e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9bb389a4ff9b2cd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "e1c979afb5435c95",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "69ce08b3584a2154",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "6574a64da664a14d",
-    "type": "mobile-drawer",
+    "id": "dc69a6ac5458373b",
+    "type": "split",
     "children": [
       {
-        "id": "52c6d094c0b53d5f",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "6e5503522ba70fe9",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "5a8bd961bd5a5118",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f59c98e419c4960",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e5f5d07c3017bd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aeeae6240ca06afa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "849b1d3c7b9c5a43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "56bd89af03725d6c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "efcae44848718635",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "1c4ee98d40b9ec3e",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "89a2a9871acd6d52",
+  "active": "cb50d0714568741b",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Dev Notes/Fallacies of Distributed Computing.md",
     "R - Dev Notes/Open Source Funding.md",
     "c.md",
     "A - DX Circle/Category Creation.md",
@@ -130,7 +139,7 @@
     "README.md",
     "Untitled.md",
     "Untitled 1.md",
-    "R - Dev Notes/Fallacies of Distributed Computing.md",
-    "A - Writing/blogpost ideas.md"
+    "A - Writing/blogpost ideas.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md"
   ]
 }

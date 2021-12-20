@@ -26,6 +26,7 @@ Completely ungroomed dumping ground
 - https://lethain.com/platform-product-fit/
 - https://peterattiamd.com/my-nutritional-framework/
 - https://xconomy.com/national/2013/10/01/microsoft-research-memo-analysis/
+- https://danielyxie.github.io/bitburner/
 
 ## long term todo
 

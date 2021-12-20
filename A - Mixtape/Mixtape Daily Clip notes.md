@@ -24,7 +24,7 @@ https://overcast.fm/+L9fh51YxI earn it 40 mins - audience comes don someone else
 
 https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 
-
+https://overcast.fm/+PBDNBfzT4 the experience machine thought experiment 13 mins
 
 ## youtuber
 

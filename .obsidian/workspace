@@ -1,136 +1,128 @@
 {
   "main": {
-    "id": "340822807246d70d",
+    "id": "7d2cfd093a0307e5",
     "type": "split",
     "children": [
       {
-        "id": "2ffebf05e99edb9f",
+        "id": "b44b82cd27bf6954",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "45b1845a29a61c42",
-    "type": "split",
+    "id": "1a2db2c3918ad6fe",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "6b5de4a15489c1a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "483abdba861e251b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe4f01ce8360180e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "b9bb389a4ff9b2cd",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "1c536eb4ce970399",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3089b39d02ae5039",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "e0c058878d4679a0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0679b691706df4e7",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "dc69a6ac5458373b",
-    "type": "split",
+    "id": "f6e78d776159fd8e",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "5a8bd961bd5a5118",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3f59c98e419c4960",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "3e5f5d07c3017bd5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "aeeae6240ca06afa",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "849b1d3c7b9c5a43",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "56bd89af03725d6c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
+        "id": "865cbb0b44663750",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "7b394cfeb78e3014",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "f845fc4a5c9306b7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d8b972c95242744b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "2ffebf05e99edb9f",
+  "active": "b44b82cd27bf6954",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Dev Notes/Fallacies of Distributed Computing.md",
     "R - Dev Notes/Open Source Funding.md",
     "c.md",
@@ -139,7 +131,6 @@
     "README.md",
     "Untitled.md",
     "Untitled 1.md",
-    "A - Writing/blogpost ideas.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md"
+    "A - Writing/blogpost ideas.md"
   ]
 }

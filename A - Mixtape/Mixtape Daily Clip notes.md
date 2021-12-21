@@ -20,7 +20,6 @@ https://overcast.fm/+PsDPrb3OA duhigg power of habit 5-20 mins
 
 https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
-https://overcast.fm/+L9fh51YxI earn it 40 mins - audience comes don someone else
 
 https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 
@@ -34,17 +33,24 @@ https://overcast.fm/+NBVuuQUhM 9mins mr beast
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 
 
+## audience building
 
-
+https://overcast.fm/+L9fh51YxI earn it 40 mins - audience comes don someone else
 https://overcast.fm/+BlzFmmbag 7 mins cold start
+https://overcast.fm/+JmiMDFuCc 45mins audience building puwptd
+audience building is overrated
+-  https://twitter.com/robwalling/status/1306591312498405376?s=21
+- https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21
 
-
-https://overcast.fm/+OOu8ERt88 community led growth
 
 https://overcast.fm/+ZHU0NDSpM 1h10min shipping zach braff
 
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins
 
+
+
+
+https://overcast.fm/+OOu8ERt88 community led growth
 
 https://overcast.fm/+ncILF33Gs lex fridman podcast 2h43 mins
 
@@ -53,11 +59,12 @@ https://overcast.fm/+maz1Gg lin manuel story
 https://overcast.fm/+YsrbaSq74 coinbase 1h10mins
 
 
-https://overcast.fm/+O1SUmvVtI 14mins cuttlefish colorblind
+https://overcast.fm/+O1SUmvVtI 
+14mins cuttlefish colorblind
+1h 30min colorblind camouflage 
 30min squid mating
 44 min giant squid mating
 59min octopus 1h5min moving rock camo
-1h 30min colorblind camouflage 
 
 
 https://www.youtube.com/watch?v=Dur918GqDIw&list=WL&index=18&t=244s pseudonymity 
@@ -84,10 +91,6 @@ https://overcast.fm/+OxeYJmQDA 9 mins not a how to - walter isaacson
 https://overcast.fm/+HZUeNoxeQ 30 mins
 
 
-https://overcast.fm/+JmiMDFuCc 45mins audience building puwptd
-audience building is overrated
--  https://twitter.com/robwalling/status/1306591312498405376?s=21
-- https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21
 
 https://www.youtube.com/watch?v=pqeJFYwnkjE debt metaphor
 
@@ -102,15 +105,6 @@ https://overcast.fm/+pN8f_ULnQ 17 mins ken griffin side of constitutiondao
 https://overcast.fm/+QLdt2a4yQ 45 mins condao leader
 https://overcast.fm/+FaxkphON4 32 mins SBF talking about loss covering until 45mins
 
-https://overcast.fm/+YNeQU9S5I 8mins loot
-https://overcast.fm/+YNeQU9S5I 25 min what is loot
-https://overcast.fm/+Lzu3yDXyE bored apes
-https://overcast.fm/+FhW-ynXUE 55. mins tether discussion
-https://overcast.fm/+Jy_w5_2iA nifty gateway 
-https://overcast.fm/+eZyAwm28w eth mev 50 mins
-https://overcast.fm/+JmiPv_PrI bitclout first 8 mins
-https://www.youtube.com/watch?v=jwadHC5ha-E bankless ens dao
-https://overcast.fm/+eZyD3MfIg cruptonomicon
 
 calling in https://www.youtube.com/watch?v=xw_720iQDss
 
@@ -119,14 +113,6 @@ https://overcast.fm/+G72_S1rVA praxeology 2 mins rory Sutherland 17 mins
 https://overcast.fm/+eZyDpkhOo 50 mins metrics on academic honesty
 
 https://overcast.fm/+rTsVMkQyQ 13 mins how brianne kimmel started as a nobody
-
-
-## YEGGE CORNER
-yegge on salary https://youtu.be/AKBYbZ1tyyc
-https://overcast.fm/+0TxbP_0Gk what billionaires talk about - CEOs
-https://overcast.fm/+0TxYQEOhk google works does well 15mins ish tech stuff 
-https://overcast.fm/+0TxbyakyQ 28mins old school gates
-yegge reminder https://youtu.be/vKmQW_Nkfk8
 
 
 
@@ -148,10 +134,6 @@ https://overcast.fm/+YPCOeqEeo 10 mins turtle trader
 
 
 
-https://delian.substack.com/p/operators-ep-27-nilam-ganenthiran how instacart handled covid
-https://podcasts.apple.com/us/podcast/id1507293907?i=1000471392336 bchesky rescue of airbnb
-https://overcast.fm/+L0d0r2BYc 20 mins airbnb during covid
-https://overcast.fm/+noYBB9bCQ airbnb story
 
 
 magnification of small diffs https://overcast.fm/+L0YUUvpko
@@ -161,8 +143,6 @@ https://www.3books.co/chapters/22 tim urban love vs like - 1hr 44 mins
 
 https://player.fm/series/hanselminutes-with-scott-hanselman/design-systems-with-jina-anne what is a design system
 
-
-https://overcast.fm/+rTsXwmeUA 1h 5mins impatience with action patience with results
 
 
 https://a16z-live.simplecast.com/episodes/one-on-one-with-a-and-z-8 pmarca on agi 30 mins
@@ -197,3 +177,25 @@ spencer rascoff on spacs https://overcast.fm/+RWpv4tXUg 1h 35mins
 https://mebfaber.com/2021/05/14/e311-radio-show/ 7 minutes found money found money startups
 https://overcast.fm/+UwBo3_SRA stackoverflow founding story
 
+- yegge corner
+	- yegge on salary https://youtu.be/AKBYbZ1tyyc
+	- https://overcast.fm/+0TxbP_0Gk what billionaires talk about - CEOs
+	- https://overcast.fm/+0TxYQEOhk google works does well 15mins ish tech stuff 
+	- https://overcast.fm/+0TxbyakyQ 28mins old school gates
+	- yegge reminder https://youtu.be/vKmQW_Nkfk8
+
+- covid stories
+	- https://delian.substack.com/p/operators-ep-27-nilam-ganenthiran how instacart handled covid
+	- https://podcasts.apple.com/us/podcast/id1507293907?i=1000471392336 bchesky rescue of airbnb
+	- https://overcast.fm/+L0d0r2BYc 20 mins airbnb during covid
+	- https://overcast.fm/+noYBB9bCQ airbnb story
+- crypto corner
+	- https://overcast.fm/+YNeQU9S5I 8mins loot
+	- https://overcast.fm/+YNeQU9S5I 25 min what is loot
+	- https://overcast.fm/+Lzu3yDXyE bored apes
+	- https://overcast.fm/+FhW-ynXUE 55. mins tether discussion
+	- https://overcast.fm/+Jy_w5_2iA nifty gateway 
+	- https://overcast.fm/+eZyAwm28w eth mev 50 mins
+	- https://overcast.fm/+JmiPv_PrI bitclout first 8 mins
+	- https://www.youtube.com/watch?v=jwadHC5ha-E bankless ens dao
+	- https://overcast.fm/+eZyD3MfIg cruptonomicon

@@ -5,4 +5,7 @@ internet just a fad
 
 flight
 - many wont fly for a million years - NYT 1903 https://twitter.com/999BPM/status/1472956266783948800?s=20
-- 
+
+
+ballmer on iphone
+- https://twitter.com/TikTokInvestors/status/1366182914489204743

@@ -7,8 +7,11 @@
         "id": "91da3c1104df2729",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "R - Goodreads/Bad Historical Takes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "R - Goodreads/Bad Historical Takes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "R - Goodreads/Bad Historical Takes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "R - Goodreads/Bad Historical Takes.md"
+              }
             }
           }
         ]
@@ -130,15 +137,15 @@
   },
   "active": "91da3c1104df2729",
   "lastOpenFiles": [
+    "R - Goodreads/Bad Historical Takes.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "A - Newsletter/newsletter reader shoutout.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Fridays.md",
     "SCRATCHPAD.md",
     "README.md",
     "A - Writing/Draft - Moving to Obsidian.md",
-    "A - Mixtape/Mixtape Weekends.md",
-    "A - Writing/Draft - The Corporate YouTube Code.md",
-    "A - Writing/blogpost ideas.md",
-    "R - Better Questions/general questions.md"
+    "A - Mixtape/Mixtape Weekends.md"
   ]
 }

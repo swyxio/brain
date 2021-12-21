@@ -8,6 +8,7 @@ https://twitter.com/danciupuliga/status/1435995667516821505
 
 https://twitter.com/kentcdodds/status/1440684812885315597?s=20
 
+https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable
 
 ## Shoutout
 

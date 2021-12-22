@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Product/Launch Cheatsheet.md",
+            "file": "R - Goodreads/Optical Illusions.md",
             "mode": "source"
           }
         }
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Product/Launch Cheatsheet.md",
+                "file": "R - Goodreads/Optical Illusions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Product/Launch Cheatsheet.md",
+                "file": "R - Goodreads/Optical Illusions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Product/Launch Cheatsheet.md"
+                "file": "R - Goodreads/Optical Illusions.md"
               }
             }
           }
@@ -138,11 +137,11 @@
   },
   "active": "91da3c1104df2729",
   "lastOpenFiles": [
+    "R - Goodreads/Optical Illusions.md",
     "R - Product/Launch Cheatsheet.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Goodreads/Bad Historical Takes.md",
     "Untitled 1.md",
-    "Untitled.md",
     "A - Newsletter/newsletter reader shoutout.md",
     "A - Mixtape/Mixtape Fridays.md",
     "SCRATCHPAD.md",

@@ -4,6 +4,8 @@ created: 2021-12-01 01:35
 
 Completely ungroomed dumping ground
 
+todo: rollup https://github.com/sw-yx/technical-artists/blob/master/README.md
+
 - https://www.notion.so/temporalio/Ryland-s-Temporal-manifesto-f523e64e0a8e40d8a9da638ef91b7c06
 - https://news.ycombinator.com/item?id=29299986
 - https://blog.cloudflare.com/developer-expert-program/

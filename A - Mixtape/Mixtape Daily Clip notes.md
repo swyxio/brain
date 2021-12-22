@@ -6,7 +6,7 @@ the oxide computer pitch https://overcast.fm/+zbJUwDBmU spectre and meltdown at 
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 netlify discusdion https://overcast.fm/+B1yI4Kmqg
 
-https://overcast.fm/+NyJ7YBrmo pete holmes bourne 1h
+
 https://youtu.be/Dnbmku3lFmg 20 mins wheel of time adaptation
 https://overcast.fm/+vpWZ6rHT0 kim k from 2mins on
 

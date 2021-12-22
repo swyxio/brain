@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "d15a0dafdf25e440",
+    "id": "16058e6e2b732bfe",
     "type": "split",
     "children": [
       {
-        "id": "c750f5abafd05c44",
+        "id": "91da3c1104df2729",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SCRATCHPAD.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source"
           }
         }
@@ -18,119 +18,134 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b98873829b2c3a1c",
-    "type": "mobile-drawer",
+    "id": "6a452db726bce901",
+    "type": "split",
     "children": [
       {
-        "id": "34449550e2658930",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "0afbf652dbb852df",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "1574811f218048c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e54ece65f8b26082",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aaf5489e8c759557",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "launch",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2ef7d664a7bc294",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "dff545610d5e3fea",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "ae428ba11c4af43e",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "c213c8f856726b47",
-    "type": "mobile-drawer",
+    "id": "977f053bf2dc8c08",
+    "type": "split",
     "children": [
       {
-        "id": "afaf59d38a2565ae",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "4688ac8fb9c99bbd",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "SCRATCHPAD.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "22230eb2d8c4ccbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0021d4103e5b510e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4672edda6c5ec81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bd668e60c9002ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "538babaabad40973",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a9e097780fcb6f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "b6f9f1c361ef07c0",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "SCRATCHPAD.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "d8f23741518f623f",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "SCRATCHPAD.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c750f5abafd05c44",
+  "active": "91da3c1104df2729",
   "lastOpenFiles": [
-    "SCRATCHPAD.md",
-    "README.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Goodreads/Optical Illusions.md",
     "R - Product/Launch Cheatsheet.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Goodreads/Bad Historical Takes.md",
     "Untitled 1.md",
     "A - Newsletter/newsletter reader shoutout.md",
     "A - Mixtape/Mixtape Fridays.md",
+    "SCRATCHPAD.md",
+    "README.md",
     "A - Writing/Draft - Moving to Obsidian.md"
   ]
 }

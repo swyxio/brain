@@ -59,14 +59,6 @@ https://overcast.fm/+maz1Gg lin manuel story
 https://overcast.fm/+YsrbaSq74 coinbase 1h10mins
 
 
-https://overcast.fm/+O1SUmvVtI 
-14mins cuttlefish colorblind
-1h 30min colorblind camouflage 
-30min squid mating
-44 min giant squid mating
-59min octopus 1h5min moving rock camo
-
-
 https://www.youtube.com/watch?v=Dur918GqDIw&list=WL&index=18&t=244s pseudonymity 
 
 

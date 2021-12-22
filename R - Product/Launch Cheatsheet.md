@@ -432,6 +432,9 @@ Landing page checklist:
 - `scroll-behavior: smooth;`
 - Include a support email within error messages
 - in page demo? https://twitter.com/robhope/status/1290621775227822082
+	- Demo video/gif
+		- https://blog.superhuman.com/how-to-create-remarkable-product-gifs/
+		- 
 - show value isntantly https://www.weskao.com/blog/how-to-instantly-show-your-value
 - 10 tips from rob hope https://blog.emailoctopus.com/10-powerful-conversion-tips-for-a-better-newsletter-landing-page/
 - harry dry's list https://marketingexamples.com/conversion/landing-page-guide

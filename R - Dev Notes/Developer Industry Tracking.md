@@ -115,6 +115,10 @@ JS specific
 - npm survey https://www.businesswire.com/news/home/20190423005225/en/npm-Inc.-Survey-What%E2%80%99s-New-in-JavaScript-2019
 - "state of frontend" https://tsh.io/state-of-frontend/
 
+
+Webdev specific
+- https://css-tricks.com/2021-roundup-of-web-research/
+
 Misc specific
 
 - https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html

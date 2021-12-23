@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Dev Notes/Developer Industry Tracking.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "launch",
+                "query": "tracking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "R - Dev Notes/Developer Industry Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "R - Dev Notes/Developer Industry Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+                "file": "R - Dev Notes/Developer Industry Tracking.md"
               }
             }
           }
@@ -137,15 +138,15 @@
   },
   "active": "91da3c1104df2729",
   "lastOpenFiles": [
+    "R - Dev Notes/Developer Industry Tracking.md",
+    "R - Reviews/Movies.md",
+    "P - CodingCareer v2.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Goodreads/Optical Illusions.md",
     "R - Product/Launch Cheatsheet.md",
     "R - Goodreads/Bad Historical Takes.md",
     "Untitled 1.md",
     "A - Newsletter/newsletter reader shoutout.md",
-    "A - Mixtape/Mixtape Fridays.md",
-    "SCRATCHPAD.md",
-    "README.md",
-    "A - Writing/Draft - Moving to Obsidian.md"
+    "A - Mixtape/Mixtape Fridays.md"
   ]
 }

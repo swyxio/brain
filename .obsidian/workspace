@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Better Questions/personal life direction questions.md",
+            "file": "A - Writing/blogpost ideas.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "blogpost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Better Questions/personal life direction questions.md",
+                "file": "A - Writing/blogpost ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Better Questions/personal life direction questions.md",
+                "file": "A - Writing/blogpost ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Better Questions/personal life direction questions.md"
+                "file": "A - Writing/blogpost ideas.md"
               }
             }
           }
@@ -137,15 +138,15 @@
   },
   "active": "91da3c1104df2729",
   "lastOpenFiles": [
+    "A - Writing/blogpost ideas.md",
+    "Angel Investing.md",
+    "c.md",
     "R - Better Questions/personal life direction questions.md",
     "R - Goodreads/Historical Takes.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "R - Reviews/Movies.md",
     "P - CodingCareer v2.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Goodreads/Optical Illusions.md",
-    "R - Product/Launch Cheatsheet.md",
-    "Untitled 1.md",
-    "A - Newsletter/newsletter reader shoutout.md"
+    "R - Goodreads/Optical Illusions.md"
   ]
 }

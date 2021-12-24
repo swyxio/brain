@@ -5,6 +5,7 @@
 the oxide computer pitch https://overcast.fm/+zbJUwDBmU spectre and meltdown at 17mins
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 netlify discusdion https://overcast.fm/+B1yI4Kmqg
+how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project - 18mins
 
 
 https://youtu.be/Dnbmku3lFmg 20 mins wheel of time adaptation

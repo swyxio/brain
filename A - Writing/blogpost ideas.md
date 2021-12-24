@@ -1,5 +1,9 @@
 # blogpost ideas
 
+the importance of interfaces
+- open standards > open source https://twitter.com/swyx/status/1472746901711855617
+- Simplifying interfaces are one of the critical elements in creating a successful product and to scaling inside a complex ecosystem. https://martinfowler.com/articles/cant-buy-integration.html
+
 time to 1m developers
 - https://twitter.com/yonasbe/status/1438540938452738063?s=20
 - netlify

@@ -27,4 +27,8 @@ habits
 James clear questions
 - what do I really want
 - what would a healthy person do?
--
+
+
+## reflection questions
+
+https://rattibha.com/thread/1474017374697316352?lang=en

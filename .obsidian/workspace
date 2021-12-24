@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Dev Notes/Developer Industry Tracking.md",
+            "file": "R - Better Questions/personal life direction questions.md",
             "mode": "source"
           }
         }
@@ -18,135 +18,119 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a452db726bce901",
-    "type": "split",
+    "id": "5ff9f49908011b05",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1574811f218048c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e54ece65f8b26082",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "aaf5489e8c759557",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tracking",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "b2ef7d664a7bc294",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "3aee7e53b2fd40d6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3a3be8725c434abc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "b009d48a60e79973",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0640415cba5a2bdc",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "977f053bf2dc8c08",
-    "type": "split",
+    "id": "b34bc444cd1b540f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "22230eb2d8c4ccbd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0021d4103e5b510e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "e4672edda6c5ec81",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Dev Notes/Developer Industry Tracking.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6bd668e60c9002ed",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Dev Notes/Developer Industry Tracking.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "538babaabad40973",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "6a9e097780fcb6f2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Dev Notes/Developer Industry Tracking.md"
-              }
-            }
+        "id": "a6a655f9558f6fd1",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "e936a17a29a2472b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "R - Better Questions/personal life direction questions.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "2ab8880baa96622c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "R - Better Questions/personal life direction questions.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "97417f89ffc71841",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "R - Better Questions/personal life direction questions.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "91da3c1104df2729",
   "lastOpenFiles": [
+    "R - Better Questions/personal life direction questions.md",
+    "R - Goodreads/Historical Takes.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "R - Reviews/Movies.md",
     "P - CodingCareer v2.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Goodreads/Optical Illusions.md",
     "R - Product/Launch Cheatsheet.md",
-    "R - Goodreads/Bad Historical Takes.md",
     "Untitled 1.md",
-    "A - Newsletter/newsletter reader shoutout.md",
-    "A - Mixtape/Mixtape Fridays.md"
+    "A - Newsletter/newsletter reader shoutout.md"
   ]
 }

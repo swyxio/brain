@@ -1,3 +1,8 @@
+## prescience
+
+Hal Finney NFTs in 1993 https://twitter.com/NTmoney/status/1468738424043573249?s=20
+
+## bad takes
 
 internet just a fad
 - https://twitter.com/ballmatthew/status/1472675649265545233?s=20

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "91da3c1104df2729",
+        "id": "64149316bb5653a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "R - Goodreads/Write Useful Books.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blogpost",
+                "query": "launch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Writing/blogpost ideas.md",
+                "file": "R - Goodreads/Write Useful Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Writing/blogpost ideas.md",
+                "file": "R - Goodreads/Write Useful Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,28 +124,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Writing/blogpost ideas.md"
+                "file": "R - Goodreads/Write Useful Books.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "91da3c1104df2729",
+  "active": "64149316bb5653a8",
   "lastOpenFiles": [
+    "R - Goodreads/Write Useful Books.md",
+    "R - Product/Launch Cheatsheet.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/blogpost ideas.md",
     "Angel Investing.md",
     "c.md",
     "R - Better Questions/personal life direction questions.md",
     "R - Goodreads/Historical Takes.md",
     "R - Dev Notes/Developer Industry Tracking.md",
-    "R - Reviews/Movies.md",
-    "P - CodingCareer v2.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Goodreads/Optical Illusions.md"
+    "R - Reviews/Movies.md"
   ]
 }

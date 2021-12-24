@@ -44,6 +44,8 @@ audience building is overrated
 - https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21
 
 
+the mom test https://overcast.fm/+PYhqQOEjw 8 mins
+
 https://overcast.fm/+ZHU0NDSpM 1h10min shipping zach braff
 
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins

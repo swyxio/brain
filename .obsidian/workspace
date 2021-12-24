@@ -18,107 +18,122 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5ff9f49908011b05",
-    "type": "mobile-drawer",
+    "id": "6875a6d7cc124fa2",
+    "type": "split",
     "children": [
       {
-        "id": "3aee7e53b2fd40d6",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "3a3be8725c434abc",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "63c7a3099b1c24fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f82ada4f2be1372",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d701c28f2fff127b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47428c1785030f09",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "b009d48a60e79973",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "0640415cba5a2bdc",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "b34bc444cd1b540f",
-    "type": "mobile-drawer",
+    "id": "33b385957998d78f",
+    "type": "split",
     "children": [
       {
-        "id": "a6a655f9558f6fd1",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "e936a17a29a2472b",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "R - Better Questions/personal life direction questions.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "4e1855bef47b4437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a7b8ef7f5ed0626",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "466f282c703f5670",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R - Better Questions/personal life direction questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d66bf589e6a082d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R - Better Questions/personal life direction questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dca7a0182625032",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4532a7aaae30725e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R - Better Questions/personal life direction questions.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "2ab8880baa96622c",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "R - Better Questions/personal life direction questions.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "97417f89ffc71841",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "R - Better Questions/personal life direction questions.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "91da3c1104df2729",
   "lastOpenFiles": [

@@ -42,7 +42,7 @@ https://overcast.fm/+JmiMDFuCc 45mins audience building puwptd
 audience building is overrated
 -  https://twitter.com/robwalling/status/1306591312498405376?s=21
 - https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21
-
+https://overcast.fm/+a0BrUmNqs 1h20mins what is gravitas
 
 the mom test https://overcast.fm/+PYhqQOEjw 8 mins
 

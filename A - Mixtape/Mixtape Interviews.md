@@ -20,6 +20,7 @@ planetscale https://twitter.com/kwuchu/status/1441113333000597509?s=21
 laurie voss
 
 mcguire bannon - webflow guy
+- 26 mins background https://overcast.fm/+wGq3eNwfg
 
 veni kunche
 

@@ -1,6 +1,15 @@
 
 https://whattotweet.com/#
 
+
+learning directly proportional to skin in the game
+- learning just in case - ngmi - sloth
+- learning to keep up with peers - envy
+- learning to make more money - greed
+- learning to seem smart - pride
+- learning for love - lust
+- learning of spite/ to prove someone wrong - wrath
+
 - lessons from ts sdk
 	- sweat the naming
 	- sweat the composability

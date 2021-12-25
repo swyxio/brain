@@ -13,6 +13,11 @@ superuser programs
 - cloudflare
 
 
+devtools uncanny valley
+- either small api surface area
+- or extremely opinionated all in one
+- in between require too much work for the value or are not flexible enough
+
 moving to obsidian
 moving to postclassmail
 

@@ -30,5 +30,7 @@
     "editor:toggle-fold",
     "editor:fold-all",
     "editor:unfold-all"
-  ]
+  ],
+  "legacyEditor": false,
+  "livePreview": true
 }

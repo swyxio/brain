@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Dev Notes/Turborepo.md",
-            "mode": "source"
+            "file": "A - Newsletter/newsletter fun picks.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -60,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "33b385957998d78f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Dev Notes/Turborepo.md",
+                "file": "A - Newsletter/newsletter fun picks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Dev Notes/Turborepo.md",
+                "file": "A - Newsletter/newsletter fun picks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Dev Notes/Turborepo.md"
+                "file": "A - Newsletter/newsletter fun picks.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "c3b8bd173fa87830",
   "lastOpenFiles": [
+    "A - Newsletter/newsletter fun picks.md",
     "R - Dev Notes/Turborepo.md",
     "R - Creator Resources/speaking tips.md",
     "T.md",
@@ -147,7 +148,6 @@
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/blogpost ideas.md",
     "Angel Investing.md",
-    "c.md",
-    "R - Better Questions/personal life direction questions.md"
+    "c.md"
   ]
 }

@@ -1,4 +1,7 @@
 
+
+blob opera https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30.
+
 bridge https://www.youtube.com/watch?v=pwglOlD7e0M
 
 regex https://regexlearn.com/learn

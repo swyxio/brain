@@ -1,0 +1,49 @@
+https://www.youtube.com/watch?v=YX5yoApjI3M
+
+- Story
+	- started with tsdx - zero config - had issue with monorepo support
+	- tried to extra lerna into a monorepo tool. 
+	- implementing task running
+	- researched how fb and google did it - a lot of their techniques hadnt made their way into the larger js ecosystem
+	- take zero config and add as many of these advanced techniques as possible
+	- make sure that it scales
+- demo
+	- npx create-turbo@latest turbo-demo
+	- scaffolds a monorepo with apps (docs, web) and packages (design system, configs (eslint, tsconfig))
+	- yarn turbo run build - builds both apps
+	- second build is 100ms
+	- fingerprints each build, and restores from cache, and replays the logs
+	- never recompute work that has never been done before
+	- 50-85% reduction in build/deployment times using turbo
+	- execute multiple tasks at the same time: `yarn turbo run build test lint`
+	- package.json - "turbo" pipeline - define topological relationships
+- Graph
+	- visualize graph `yarn turbo run build --graph`
+- Profile build in chrome
+	- `yarn turbo run build --force --profile`
+- why monorepos
+	- make cross cutting changes
+	- search works
+	- single source of truth for your project
+	- react, jest, pnpm, yarn, nextjs
+- Remote caching
+	- available even if you dont use vercel
+	- caches builds by coworkers
+	- Make was made in 1979 and only remembers the last build
+	- "dropbox for dist directories"
+	- what if different artefacts across operating systems? -> hashes are different
+- difference vs nx
+	- wanted something more lighter weight
+	- ease of incremental migration - moving from lerna, yarn/pnpm workspaces
+	- less invasive
+	- didnt require bunch of plugins - battery pack included
+- misc
+	- if you take nothing away from this, use pnpm, shave minutes off build times
+- Roadmap
+	- telemetry
+	- sharding parallel tasks in other processes
+	- presets - turbo season 2
+		- "our goal is to kill config"
+		- turbo season 1 - get task running done first
+	- more intelligent watch mode
+	- public/private caches. security model is like npm

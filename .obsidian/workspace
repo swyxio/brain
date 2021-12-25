@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "85312ea7610dbc74",
+    "id": "16058e6e2b732bfe",
     "type": "split",
     "children": [
       {
-        "id": "806a9ae4adfe235b",
+        "id": "c3b8bd173fa87830",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "R - Dev Notes/Turborepo.md",
             "mode": "source"
           }
         }
@@ -18,119 +18,136 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a30055204e44821f",
-    "type": "mobile-drawer",
+    "id": "6875a6d7cc124fa2",
+    "type": "split",
     "children": [
       {
-        "id": "50c1c812351e0b8a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "cc1ab20712e0e09c",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "maguire",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "63c7a3099b1c24fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f82ada4f2be1372",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d701c28f2fff127b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "launch",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47428c1785030f09",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "fac3df89e9ea04cb",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "6feda49b9fa8778a",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "ca023872d619b8a3",
-    "type": "mobile-drawer",
+    "id": "33b385957998d78f",
+    "type": "split",
     "children": [
       {
-        "id": "6529be00a61ecf1a",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "eb643d7cfb85887c",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "4e1855bef47b4437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a7b8ef7f5ed0626",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "466f282c703f5670",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R - Dev Notes/Turborepo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d66bf589e6a082d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R - Dev Notes/Turborepo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dca7a0182625032",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4532a7aaae30725e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R - Dev Notes/Turborepo.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "bb1044d72202b0a7",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "692c02fb00bf6768",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md"
-          }
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "806a9ae4adfe235b",
+  "active": "c3b8bd173fa87830",
   "lastOpenFiles": [
-    "A - Writing/blogpost ideas.md",
-    "A - Writing/tweet ideas.md",
+    "R - Dev Notes/Turborepo.md",
+    "R - Creator Resources/speaking tips.md",
+    "T.md",
+    "R - Goodreads/Write Useful Books.md",
+    "R - Product/Launch Cheatsheet.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "Weekly/2021-W51.md",
-    "Weekly/2021-W52.md",
-    "A - DX Circle/Education University.md",
-    "A - Mixtape/Mixtape Interviews.md",
-    "R - Goodreads/The Mom Test.md",
+    "A - Writing/blogpost ideas.md",
     "Angel Investing.md",
-    "c.md"
+    "c.md",
+    "R - Better Questions/personal life direction questions.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Newsletter/newsletter fun picks.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6875a6d7cc124fa2",
+    "id": "16b808cbcdecb29a",
     "type": "split",
     "children": [
       {
-        "id": "63c7a3099b1c24fc",
+        "id": "a370e0ae61cddd71",
         "type": "tabs",
         "children": [
           {
-            "id": "4f82ada4f2be1372",
+            "id": "f15b4187fb75f339",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "d701c28f2fff127b",
+            "id": "22c5a0f2c84d4024",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "launch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "47428c1785030f09",
+            "id": "c860ba1c7eef146f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "33b385957998d78f",
+    "id": "6b8a60d058038afa",
     "type": "split",
     "children": [
       {
-        "id": "4e1855bef47b4437",
+        "id": "48b187c43cf8752e",
         "type": "tabs",
         "children": [
           {
-            "id": "2a7b8ef7f5ed0626",
+            "id": "7b741283afddd34b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "466f282c703f5670",
+            "id": "4a2647076ac02ae6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Newsletter/newsletter fun picks.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "0d66bf589e6a082d",
+            "id": "27856f276ac5b428",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Newsletter/newsletter fun picks.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5dca7a0182625032",
+            "id": "63e49e8317e44ead",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,16 @@
             }
           },
           {
-            "id": "4532a7aaae30725e",
+            "id": "c20f81722c88e0c0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Newsletter/newsletter fun picks.md"
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,15 +138,15 @@
   },
   "active": "c3b8bd173fa87830",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Mixtape/Mixtape Fridays.md",
     "A - Newsletter/newsletter fun picks.md",
     "R - Dev Notes/Turborepo.md",
     "R - Creator Resources/speaking tips.md",
     "T.md",
     "R - Goodreads/Write Useful Books.md",
     "R - Product/Launch Cheatsheet.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/blogpost ideas.md",
-    "Angel Investing.md",
-    "c.md"
+    "Angel Investing.md"
   ]
 }

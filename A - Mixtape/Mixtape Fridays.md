@@ -8,6 +8,9 @@ conan live https://overcast.fm/+zneb7lxko 1h33mins
 the story of the rick roll maybe 15 mins in the guy doing the first https://overcast.fm/+HhScfwKWY
 
 
+https://overcast.fm/+zcTzS90zs john legend 7mins https://overcast.fm/+zcTwBaOFI ariana 2mins
+
+
 https://youtu.be/zN78KsgtSDY KHS
 https://youtu.be/iOGsqVTy9qM voceros
 - https://youtu.be/qNqgWvHa3LQ 8mins wasnt me

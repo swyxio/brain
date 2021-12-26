@@ -4,6 +4,12 @@ the importance of interfaces
 - open standards > open source https://twitter.com/swyx/status/1472746901711855617
 - Simplifying interfaces are one of the critical elements in creating a successful product and to scaling inside a complex ecosystem. https://martinfowler.com/articles/cant-buy-integration.html
 
+wardley map for content
+- x axis - longform -> shorter -> short
+	- 10 hr book -> 3-6hr workshop -> 30-60min podcast/talk -> 5-10min video/blogpost -> 2min tweet -> 30-60sec short -> 5-10sec clip -> 3 second tweet -> 1 second image
+		- inspo - kevin systrom on formats https://www.youtube.com/watch?v=3pvpNKUPbIY 55mins in
+- y axis - specificity? going from general audience to extremely niche
+
 time to 1m developers
 - https://twitter.com/yonasbe/status/1438540938452738063?s=20
 - netlify

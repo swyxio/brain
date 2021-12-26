@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c3b8bd173fa87830",
+        "id": "fe9963ab96398f96",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Writing/blogpost ideas.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "A - Writing/blogpost ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "A - Writing/blogpost ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+                "file": "A - Writing/blogpost ideas.md"
               }
             }
           }
@@ -136,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c3b8bd173fa87830",
+  "active": "fe9963ab96398f96",
   "lastOpenFiles": [
+    "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Newsletter/newsletter fun picks.md",
@@ -146,7 +147,6 @@
     "T.md",
     "R - Goodreads/Write Useful Books.md",
     "R - Product/Launch Cheatsheet.md",
-    "A - Writing/blogpost ideas.md",
     "Angel Investing.md"
   ]
 }

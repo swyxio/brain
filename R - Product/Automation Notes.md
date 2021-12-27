@@ -34,6 +34,7 @@
 - [Google Earth stills over time bot](https://github.com/doersino/earthacrosstime)
 - [AWS markov chain bot](https://github.com/pndurette/aws_prodbot) - js version https://github.com/swang/markovchain
 - [Ace Attorney bot](https://github.com/LuisMayo/ace-attorney-twitter-bot)
+- Unregistered domains https://github.com/sethdandridge/itsavailable
 
 twint https://nixintel.info/osint/the-attrition-of-information-in-osint-why-acting-quickly-matters-and-how-to-recover-when-you-dont/
 

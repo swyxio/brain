@@ -23,6 +23,7 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
 
 https://overcast.fm/+eZyA0p5FQ end of software 20mins - peter wang
+https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda and pip and python 2-3 move
 
 https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 

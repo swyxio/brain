@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "https://overcast.fm/+eZyA0p5FQ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -64,7 +64,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "3c2dbc17959f1987",
@@ -123,6 +123,7 @@
   "active": "fe9963ab96398f96",
   "lastOpenFiles": [
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Product/Automation Notes.md",
     "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Newsletter/newsletter fun picks.md",
@@ -130,7 +131,6 @@
     "R - Creator Resources/speaking tips.md",
     "T.md",
     "R - Goodreads/Write Useful Books.md",
-    "R - Product/Launch Cheatsheet.md",
-    "Angel Investing.md"
+    "R - Product/Launch Cheatsheet.md"
   ]
 }

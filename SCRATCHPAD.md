@@ -6,6 +6,19 @@ Completely ungroomed dumping ground
 
 todo: rollup https://github.com/sw-yx/technical-artists/blob/master/README.md
 
+
+todo spark joy CSS Filter Demos
+If you do choose to work with filters, there are a number of sites that demo great
+capabilities with CSS filter effects. Here are just a few:
+• HTML5 Demos (http://bit.ly/21SARYv), the source of the preceding images
+. CSS Filter Playground by Bennett Feely (http://bennettfeely.com/filters/
+• CSSReflex(http://www.cssreflex.com/css-generators/filter/
+• My personal favorite, CSSGram (http://una.im/CSSgram) by Una Kravets, which
+mixes filters to make some great Instagram-like effects
+Keep in mind that animating filters can be very costly. I tend to avoid animating
+them, or use a setTimeout that will apply the attribute or CSS strictly for the time I
+need it, and then remove it.
+
 - https://www.notion.so/temporalio/Ryland-s-Temporal-manifesto-f523e64e0a8e40d8a9da638ef91b7c06
 - https://news.ycombinator.com/item?id=29299986
 - https://blog.cloudflare.com/developer-expert-program/

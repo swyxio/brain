@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Investing & Ideas/Email app.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "3c2dbc17959f1987",
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Investing & Ideas/Email app.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Investing & Ideas/Email app.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+            "file": "R - Investing & Ideas/Email app.md"
           }
         }
       }
@@ -122,15 +122,15 @@
   },
   "active": "fe9963ab96398f96",
   "lastOpenFiles": [
+    "R - Investing & Ideas/Email app.md",
+    "R - Dev Notes/Turborepo.md",
+    "SCRATCHPAD.md",
+    "R - Company Running/CEO - leadership.md",
+    "Untitled.md",
+    "APPEARANCES.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Product/Automation Notes.md",
     "A - Writing/blogpost ideas.md",
-    "A - Mixtape/Mixtape Fridays.md",
-    "A - Newsletter/newsletter fun picks.md",
-    "R - Dev Notes/Turborepo.md",
-    "R - Creator Resources/speaking tips.md",
-    "T.md",
-    "R - Goodreads/Write Useful Books.md",
-    "R - Product/Launch Cheatsheet.md"
+    "A - Mixtape/Mixtape Fridays.md"
   ]
 }

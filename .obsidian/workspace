@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
-            "mode": "source",
-            "source": false
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source"
           }
         }
       }
@@ -19,127 +18,112 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "16b808cbcdecb29a",
-    "type": "split",
+    "id": "0cf4e42013ae03a7",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "a370e0ae61cddd71",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f15b4187fb75f339",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "22c5a0f2c84d4024",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "c860ba1c7eef146f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "2ca9dd536eb0a003",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "c7663bf6fa659cf2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "597cc0edc9a60afa",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "930fcb56491ddc85",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "6b8a60d058038afa",
-    "type": "split",
+    "id": "3c2dbc17959f1987",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "48b187c43cf8752e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7b741283afddd34b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a2647076ac02ae6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "A - Writing/blogpost ideas.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "27856f276ac5b428",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "A - Writing/blogpost ideas.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "63e49e8317e44ead",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "c20f81722c88e0c0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "A - Writing/blogpost ideas.md"
-              }
-            }
+        "id": "739d42899ae725e3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "445defcd5125cfb0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "c457fa55dd8131c7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "62d8e294ddfcb86f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "fe9963ab96398f96",
   "lastOpenFiles": [
-    "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Newsletter/newsletter fun picks.md",
     "R - Dev Notes/Turborepo.md",

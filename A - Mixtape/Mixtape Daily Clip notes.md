@@ -22,6 +22,8 @@ https://overcast.fm/+PsDPrb3OA duhigg power of habit 5-20 mins
 https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
 
+https://overcast.fm/+eZyA0p5FQ end of software 20mins - peter wang
+
 https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 
 https://overcast.fm/+PBDNBfzT4 the experience machine thought experiment 13 mins

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Investing & Ideas/Email app.md",
+            "file": "R - Creator Resources/Idea refinement.md",
             "mode": "source"
           }
         }
@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "https://overcast.fm/+eZyA0p5FQ",
+            "query": "write useful books",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "R - Investing & Ideas/Email app.md",
+            "file": "R - Creator Resources/Idea refinement.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "R - Investing & Ideas/Email app.md",
+            "file": "R - Creator Resources/Idea refinement.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "R - Investing & Ideas/Email app.md"
+            "file": "R - Creator Resources/Idea refinement.md"
           }
         }
       }
@@ -122,15 +122,15 @@
   },
   "active": "fe9963ab96398f96",
   "lastOpenFiles": [
+    "R - Creator Resources/Idea refinement.md",
+    "R - Goodreads/Write Useful Books.md",
+    "A - Writing/blogpost ideas.md",
     "R - Investing & Ideas/Email app.md",
     "R - Dev Notes/Turborepo.md",
     "SCRATCHPAD.md",
     "R - Company Running/CEO - leadership.md",
     "Untitled.md",
     "APPEARANCES.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Product/Automation Notes.md",
-    "A - Writing/blogpost ideas.md",
-    "A - Mixtape/Mixtape Fridays.md"
+    "A - Mixtape/Mixtape Daily Clip notes.md"
   ]
 }

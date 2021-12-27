@@ -1,4 +1,9 @@
 
+## The Mom Test
+
+https://sandro.volpee.de/the-mom-test-summary-validate-ideas
+
+
 
 ## Project Plan
 

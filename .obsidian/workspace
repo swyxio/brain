@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "16058e6e2b732bfe",
+    "id": "0a723d491498ccdf",
     "type": "split",
     "children": [
       {
-        "id": "52fb1814ad3ab8bb",
+        "id": "d6f56ce11804a776",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "16b808cbcdecb29a",
+    "id": "325d453fac18f2e7",
     "type": "split",
     "children": [
       {
-        "id": "a370e0ae61cddd71",
+        "id": "1301537177bf7fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "f15b4187fb75f339",
+            "id": "d61311ad38dc33ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,12 +31,12 @@
             }
           },
           {
-            "id": "22c5a0f2c84d4024",
+            "id": "3693aa510ff1b89e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "turborepo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "c860ba1c7eef146f",
+            "id": "a768b7e88dea0606",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,15 +60,15 @@
     "width": 300
   },
   "right": {
-    "id": "6b8a60d058038afa",
+    "id": "cf852feca12da0a7",
     "type": "split",
     "children": [
       {
-        "id": "48b187c43cf8752e",
+        "id": "03251d1c1e1a4f92",
         "type": "tabs",
         "children": [
           {
-            "id": "7b741283afddd34b",
+            "id": "f71840647f0dbe91",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "4a2647076ac02ae6",
+            "id": "f99b4ea74b76b4d6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "27856f276ac5b428",
+            "id": "4aed1059a31cf6df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "63e49e8317e44ead",
+            "id": "8b1aae1df12bb364",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "c20f81722c88e0c0",
+            "id": "a282092dc4957074",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "52fb1814ad3ab8bb",
+  "active": "d6f56ce11804a776",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Dev Notes/Open Source Funding.md",
+    "R - Dev Notes/Open Source Funding 2.md",
     "R - Better Questions/startup investing questions.md",
     "R - Dev Notes/Turborepo.md",
     "Weekly/2021-W52.md",
     "A - Writing/blogpost ideas.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Newsletter/newsletter fun picks.md",
-    "R - Creator Resources/speaking tips.md",
-    "T.md",
-    "R - Goodreads/Write Useful Books.md"
+    "R - Creator Resources/speaking tips.md"
   ]
 }

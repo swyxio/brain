@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f56ce11804a776",
+        "id": "7547700a1d1ac374",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Creator Resources/Personal Sites.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Creator Resources/Personal Sites.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Creator Resources/Personal Sites.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Creator Resources/Personal Sites.md"
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
               }
             }
           }
@@ -136,10 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6f56ce11804a776",
+  "active": "7547700a1d1ac374",
   "lastOpenFiles": [
-    "R - Creator Resources/Personal Sites.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Creator Resources/Personal Sites.md",
     "R - Dev Notes/Open Source Funding.md",
     "R - Dev Notes/Open Source Funding 2.md",
     "R - Better Questions/startup investing questions.md",

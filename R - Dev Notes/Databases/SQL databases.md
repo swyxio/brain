@@ -8,3 +8,11 @@ Why planetscale not postgres
 - https://twitter.com/rbranson/status/1461031251691773953
 - Both Postgres and MySQL not addressing needs like schema evolution, data migrations, understanding cost and performance factors, operational overhead, scalability, compliance, integration, and geographically diverse deployments.
 - Vitess focus on MySQL helps ship stuff like database import functionality
+
+
+
+## postgres ecosystem
+
+- timeseries
+	- timescaledb
+	- influx?

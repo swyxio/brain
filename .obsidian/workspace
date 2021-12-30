@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "2a0c6bf17ea79dcf",
+    "id": "0a723d491498ccdf",
     "type": "split",
     "children": [
       {
-        "id": "e18fbee042550ced",
+        "id": "7547700a1d1ac374",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "R - Dev Notes/Databases/SQL databases.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "413d65172deea4ae",
+    "id": "325d453fac18f2e7",
     "type": "split",
     "children": [
       {
-        "id": "3b4d2748aadc953a",
+        "id": "1301537177bf7fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "f0c9fc218d91f689",
+            "id": "d61311ad38dc33ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "2ed93a695a4f0134",
+            "id": "3693aa510ff1b89e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +49,7 @@
             }
           },
           {
-            "id": "c4ce49ae6567ae90",
+            "id": "a768b7e88dea0606",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -57,18 +60,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 482.5,
+    "collapsed": true
   },
   "right": {
-    "id": "38a2e556d816194c",
+    "id": "cf852feca12da0a7",
     "type": "split",
     "children": [
       {
-        "id": "a21e917db8648dd7",
+        "id": "03251d1c1e1a4f92",
         "type": "tabs",
         "children": [
           {
-            "id": "4e2c5386c3592afa",
+            "id": "f71840647f0dbe91",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -76,11 +80,12 @@
             }
           },
           {
-            "id": "16a3d6c6ba574eb0",
+            "id": "f99b4ea74b76b4d6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "R - Dev Notes/Databases/SQL databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "decbd3a05e0d009f",
+            "id": "4aed1059a31cf6df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "R - Dev Notes/Databases/SQL databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "94cc7cf6940f26fc",
+            "id": "8b1aae1df12bb364",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "d122876d11711076",
+            "id": "a282092dc4957074",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "R - Dev Notes/Databases/SQL databases.md"
+              }
             }
           }
         ]
@@ -128,10 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e18fbee042550ced",
+  "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "R - Dev Notes/Databases/SQL databases.md",
+    "Untitled.md",
+    "T.md",
+    "R - Dev Notes/Temporal/Argo.md",
+    "R - Creator Resources/Ship30for30.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "A - Writing/blogpost ideas.md",
-    "R - Creator Resources/Personal Sites.md"
+    "R - Creator Resources/Personal Sites.md",
+    "R - Dev Notes/Open Source Funding.md",
+    "R - Dev Notes/Open Source Funding 2.md",
+    "R - Better Questions/startup investing questions.md"
   ]
 }

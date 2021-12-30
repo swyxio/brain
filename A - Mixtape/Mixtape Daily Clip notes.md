@@ -56,7 +56,7 @@ https://overcast.fm/+a0BrUmNqs 1h20mins what is gravitas
 
 the mom test https://overcast.fm/+PYhqQOEjw 8 mins
 
-https://overcast.fm/+ZHU0NDSpM 1h10min shipping zach braff
+
 
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins
 

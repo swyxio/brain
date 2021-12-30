@@ -1,3 +1,6 @@
+## comparisons
+- https://docs.yugabyte.com/latest/comparisons/
+
 
 ## Mysql vs Postgres
 https://twitter.com/mscccc/status/1476246801174966272?s=20
@@ -15,4 +18,8 @@ Why planetscale not postgres
 
 - timeseries
 	- timescaledb
+		- https://news.ycombinator.com/item?id=29096541
 	- influx?
+	- why time series special category? https://www.xaprb.com/blog/2014/06/08/time-series-database-requirements/
+- OLAP
+	- Clickhouse

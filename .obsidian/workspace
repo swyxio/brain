@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Dev Notes/Databases/SQL databases.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "R - Dev Notes/Databases/SQL databases.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "R - Dev Notes/Databases/SQL databases.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "R - Dev Notes/Databases/SQL databases.md"
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
           }
         }
       }
@@ -122,12 +122,12 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Dev Notes/Databases/SQL databases.md",
     "Untitled.md",
     "T.md",
     "R - Dev Notes/Temporal/Argo.md",
     "R - Creator Resources/Ship30for30.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Dev Notes/Open Source Funding.md",
     "R - Dev Notes/Open Source Funding 2.md",

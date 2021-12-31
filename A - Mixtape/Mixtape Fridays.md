@@ -19,13 +19,8 @@ https://youtu.be/iOGsqVTy9qM voceros
 - ed sheeran - no diggity https://www.youtube.com/watch?v=ZpiNUKpGI88&list=PLH8IAbt5kqZOFeFAda17MaUe2wrZi9xku&index=31 
 	- love yourself https://youtu.be/iC_yRxEsbJM
 - madilyn bailey https://youtu.be/-SgyhUdJ_TY
-- into the unknown https://youtu.be/4zs0U8Z6yI8 octave leaps
 - sky good grief and the thing i sent to jeanie 
-- https://youtu.be/iwfQKua9B18
+- https://youtu.be/iwfQKua9B18 stacys mom
 - https://youtu.be/aUOpj29BrbI never enough
 - https://youtu.be/2bx9vTF8x2s guitar fingerstyle
-- voctave https://youtu.be/iYFFKuuaF3k
 
-
-hilary hahn https://youtu.be/eOjO4ekcJQA
-https://youtu.be/0Cg_0jepxow 34mins lo

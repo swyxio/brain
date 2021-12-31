@@ -1,6 +1,7 @@
 ## to publish
 
 - mjwhansen interview
+- stevekrouse chat
 
 ## prelude script
 

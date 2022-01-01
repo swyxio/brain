@@ -2,7 +2,11 @@
 
 https://overcast.fm/+rTsXrj2F0 45mins questions to reveal info
 
+https://overcast.fm/+cV8odp50c 10mins game theory story
+
 ## general dump
+
+https://overcast.fm/+IOVdeY 15 mins william hung
 
 https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
 https://overcast.fm/+vpWZ6rHT0 kim k from 2mins on

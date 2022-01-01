@@ -1,0 +1,1725 @@
+[The Startup Checklist](https://www.notion.so/The-Startup-Checklist-89ae7a59975b4064b4a9fff146f2ce4c)
+
+_100 bullet points from Jason Calacanis and the team at LAUNCH that will help get your startup off the ground._
+
+**Table of Contents:**
+
+## Episode 1 - [Do You Have What it Takes to be a Founder?](https://youtu.be/o23291K-uHw?t=1910)
+
+-   **1) Are you solving a problem that has personal relevance?**
+    -   Will you still care about your product, your company, and your customers after getting beaten down for a year straight?
+    -   Is the north star mission important enough to you that you will put potentially put everything else in your life second for it?
+        -   Examples of north star missions:
+            -   Robinhood's mission is democratizing finance
+            -   Calm's mission is normalizing self-care and meditation
+            -   Eight Sleep's mission is improving quality and tracking of sleep
+    -   Is the problem worth solving to YOU?
+        -   Not everyone is going to start a company that reduces carbon emissions across the globe like Tesla
+        -   It's okay if you're building a B2B sales tool, as long as it matters deeply to you!
+        -   But if you're just in it to get rich or get famous, it's probably not going to work out!
+-   **2) Can you build a great product?**
+    -   Do you have these skills:
+        -   Developer (knowing how to build something)
+        -   Product manager (knowing what to build, and how to get there)
+        -   UX/UI designer (knowing what experience the user wants, and how to make it great)
+    -   If not, you can learn these types of skills for free on the internet → there are no excuses
+    -   Or you can try out no-code/low-code solutions, and see if you can get to a "Minimum Viable Product" or MVP without using hard code
+    -   We run a ton of low-code stuff at LAUNCH!
+        -   We use Notion, Zapier, Typeform, Bubble, Squarespace, etc.
+-   **3) Can you recruit elite talent to join your team?**
+    -   Can you recruit one or multiple co-founders that balance out your skillset?
+        -   Example: if you are non-technical but great at sales and vision you probably want to find a technical co-founder that's can handle product
+    -   If you can't build a product, can you convince people to work for you that can?
+    -   Is your opportunity large enough that you can convince world-class engineers, designers, salespeople, etc. to come work for you?
+    -   Some things that attract high-end talent:
+        -   Equity: That's how you can compete with big tech salaries
+        -   Large opportunities: Uber, Airbnb, Stripe, Shopify
+        -   Meaningful work: Tesla (EVs), Blokable (Housing), etc.
+-   **4) Do you understand your ideal customer?**
+    -   The first step in delighting your ideal customer is knowing who they are
+        -   Being able to identify the makeup of your most engaged cohort of customers could be the difference between finding product-market fit and running out of money
+        -   How is your customer solving the problem today?
+            -   What do you offer that is superior?
+            -   Why will they make the switch?
+        -   Things to look for: demographics, average time spent on site/in app, how you acquired them, are they likely to recommend your product to a friend?
+    -   Do you have domain expertise in your industry?
+        -   This is a controversial issues among investors:
+            -   Some investors look for domain expertise in a first-time founder
+            -   However, other investors ([like Keith Rabois](https://youtu.be/LDjIrrq9-4U?t=1213)) actually believe domain expertise is overrated and could be negatively correlated with outlier success
+            -   Keith thinks that the greatest innovations typically come from outsiders, since industry insiders are usually entrenched in a limited way of doing things
+            -   Jason calls this "fresh eyes on a problem"
+    -   Also: your ideal customer might wind up NOT being who you thought they'd be - if that's the case, are you flexible enough to pivot and still succeed?
+-   **5) How much personal runway do you have?**
+    -   People underestimate how long it takes to either A) raise money or B) get profitable
+    -   Ask yourself: What is your personal burn rate? Can you optimize it to extend personal runway long enough?
+    -   How you can hack this:
+        -   Build a side project on nights and weekends before leaving your day job
+        -   If you aren't technical, try no-code solutions to see if you can create a minimum viable product
+        -   If you can get to any amount of revenue while still in "side hustle phase" - that's amazing!
+        -   Then you can start doing calculations like "When I hit X dollars in profit, that will be ~70% of my salary and I can quit my job and make up the difference"
+-   **6) How much are you willing to sacrifice? How resilient are you?**
+    -   Before you quit your job to start a company, do a self-assessment on your personal resiliency
+        -   Here are ten tips for building emotional resiliency ([via CNBC / Kristin Harper](https://www.cnbc.com/2020/08/24/are-you-more-emotional-resilient-than-average-person-this-test-tells-what-skills-you-have.html)):
+            -   1.  Practice mindfulness (mindfulness helps with building self-awareness, which is key to emotional resilience, according to the CNBC article)
+            -   2.  Breathe slowly and deeply
+            -   3.  Build a robust emotional vocabulary (distinguish between different emotions in yourself and others so you are less likely to react without thinking)
+            -   4.  Reflect on situations (take responsibility and articulate what you learned and how that will make you wiser in the future)
+            -   5.  Reframe your mindset (view setbacks as challenges instead of threats)
+            -   6.  Search for meaning (reframe suffering to create greater meaning for yourself and your team)
+            -   7.  Forgive (break psychological ties that tie you to your past)
+            -   8.  Engage your support network (the CNBC article notes that "research shows extroverted individuals tend to be more resilient because they’re more likely to reach out to others when they need help" so introverts should be extra mindful of this)
+            -   9.  Express gratitude (gratitude can redirect negative emotions)
+            -   10.  Take control of your outcomes (YOU control your destiny)
+-   **7) Do you have a bias towards action?**
+    -   Complacent people do not make great founders
+    -   If you enjoy a casual working environment, don't like working long hours, prefer not to work nights and weekends... than being a founder is NOT for you
+    -   As a founder, you will be forced to put out fires from Sunday morning to Saturday night, and everything in between
+-   **8) Do you need a boss?**
+    -   Some people need oversight, direction and someone else telling them what to do
+    -   Those people can still be good employees, and can knock off tasks and help your business once you start hitting scale
+    -   However many successful founders were NOT great employees, and in fact many were tough to manage
+    -   If you're somebody who takes comfort in having someone above you who could take responsibility and give you a direction, you might not be fit to be a founder
+-   **9) Do you make excuses?**
+    -   There are a lot of people who think they have what it takes
+    -   But they tend to be hesitant in getting started - often coming up with excuses:
+        -   They are willing to start companies _if_ you give them money
+        -   They will start companies _if_ they find a developer to work for free
+        -   They are willing to start companies, but only _if_ they can make the same money they made at Google
+    -   These are NOT signals of a great founder
+    -   Great founders start building now, no excuses!
+-   **10) Can you build the startup flywheel?**
+    -   Product, Customers, Team
+    -   Can you:
+        -   Build a great product?
+            -   Is it well designed, or is the product clunky and ugly? Do you have a product at all?
+        -   Delight your customers?
+            -   Do you even know who their customers are?
+            -   Do you know the pain point they're solving?
+        -   Build a great team?
+            -   Can you recruit and hire a team?
+    -   If the founder can't do these simple things then this is probably not a founder that is going to win
+
+## Episode 2 - [Choosing a Business Model](https://youtu.be/eh7gsLWJ4Ow?t=1508)
+
+-   **11) Pick a business model that easily aligns with your product or service and customers**
+    -   Your business model will depend on the type of product or service you're offering
+    -   Today we're going to go through the most popular business models for tech startups, which models investors love and which ones they avoid
+    -   Examples:
+        -   Imagine if Uber charged a monthly subscription for unlimited rides instead of a marketplace solution... would they have still succeeded?
+        -   Companies that sell business software should NOT sell it as a one-off, you should always sell it as a subscription so you can have recurring revenue and reduce your churn
+-   **12) Keep it simple: FOCUS on a single business model**
+    -   One mistake founders make (besides picking the wrong model) is trying to do too much
+    -   When founders get unfocused, that's very dangerous for a startup
+    -   Businesses with multiple streams of revenue can get clunky with less chance of outlier success than focused business models from the start
+        -   Example of single business models (at the start):
+            -   Uber → marketplace, takes a percentage of every ride
+            -   Calm → subscription for meditation
+            -   Slack → subscription for messaging app
+            -   Spotify → subscription for music
+    -   Pro-tip: Here is one way in which you can use to different business models to prop up your startup in the early days:
+        -   You can use service-based revenues to build out your SaaS business
+        -   We see this all the time with early-stage startups, and it's a great way to get quick capital to grow your recurring revenue business
+        -   HOWEVER... make sure you differentiate "service-based" from "subscription-based" when you're talking to investors!
+            -   Competent investors will always ask about the "quality of revenue"
+-   **13) Do you understand why investors love SaaS (Software-as-a-Service)?**
+    -   Because it allows startups to increase revenue on a recurring basis, while keep fixed costs relatively consistent
+    -   What is SaaS? It's when a business charges a monthly or yearly price per seat for business software
+    -   This business model creates "recurring revenue" for a startup, which investors love because you start every new payment cycle with almost 100% of your revenue from the last cycle
+    -   If you sell on a "bottom-up" basis (meaning you sell into an organization from the lower level employees, not top-down from the VP level) your product can spread through a company like wildfire
+        -   Example: Slack, Notion
+        -   With bottom-up SaaS, you also can have a "cross-pollination" effect, where employees that get addicted to your product move to other companies and then infect THOSE companies with your product
+-   **14) Do you understand why investors love the Fintech model (SaaS + Transactions)?**
+    -   This model combines the best parts of SaaS and transaction-based revenues
+    -   What is the Fintech model? It's when companies charge a SaaS fee AND take a percentage of each transaction (if your product enables transactions)
+    -   This is a popular business model with Fintech companies like Stripe, Shopify, and Plaid
+    -   Why? Because 100% of revenue coming from transactions is **not** as ideal as having as a recurring SaaS component
+        -   These companies typically charge a relatively affordable monthly or yearly SaaS fee and takes a small percentage of each transaction
+            -   For example: In Q2 2021 Shopify had $334M in subscription revenue and $785M in transaction-based revenue (they call it "merchant solutions revenue")
+            -   Shopify had about a 30/70 split between SaaS and transaction-based revenue
+            -   Shopify's standard plan costs $79/month, and they charge 2.9% per transaction for merchants using Shopify's payments processor
+-   **15) Do you understand why consumer subscriptions are coveted by investors?**
+    -   Subscriptions make a vertical with historically high churn rates much more investable by creating pricing lock-in and recurring revenue
+    -   Consumer subscription are when companies charge a monthly or yearly fee for a consumer software
+    -   Examples: Spotify, Calm, Fitbod
+    -   Interesting insight: Calm used to sell their app for a "one-off" price of $10 back in the early days
+        -   When they started to charge $5/month (or $60/year) instead of just $10 for life, they actually saw a jump in downloads and paying customers
+        -   Why? Because people love subscriptions, even though it makes no logical sense!
+        -   The brain thinks "Hey, I can cancel this whenever I want." even though you'll likely paying 10x-100x the original purchase price over time!
+-   **16) Do you understand why marketplaces are coveted by investors?**
+    -   Marketplaces are hard to get started, but even harder to stop when they hit scale
+    -   Marketplace businesses take a percentage of each transaction
+    -   Marketplaces are two-sided, and the two sides traditionally consist of "buyers" and "sellers"
+        -   These buyers and sellers can appear in many forms, depending on the vertical:
+            -   Amazon has third-party sellers and buyers (obviously)
+            -   Uber has drivers and riders
+            -   Airbnb has hosts and guests
+            -   Rover has dog sitters and dog owners
+            -   Hipcamp has private land owners and campers
+    -   Marketplaces rely on the total amount of all transactions on the platform - typically called GMV (or Gross Merchandise Volume)
+        -   The GMV in a marketplace determines the revenue that company will make, since companies typically take between 5-20% of the total transaction cost
+        -   This differs by vertical as well:
+            -   Uber and Airbnb refer to this metric as "Gross Bookings"
+                -   In Q2 2021, Uber had $21.9B worth, and revenue was $3.9B (about 18% of Gross Bookings)
+                -   In Q2 2021, Airbnb had $13.4B worth, and revenue was $1.3B (about 10% of Gross Bookings)
+    -   Marketplaces eventually become "self-sustaining" once they hit scale!
+        -   Craigslist, Amazon, eBay, etc.
+-   **17) At the most basic level, why do investors love these four business models?**
+    -   The four models: SaaS, SaaS + Transactions, Consumer subscriptions, Marketplaces
+    -   Because they allow startups to capitalize on the scale-ability and high margins of selling software
+    -   The power of software: Instagram sold to Facebook for $1B with only 12 employees
+    -   What advantage does this provide the founder?
+        -   Founders can keep fixed costs relatively similar while growing revenue rapidly due to simple and scaleable business models
+        -   Which means they can pour the profits back into building their business
+    -   Business models of Jason's outlier success:
+        -   Calm (Consumer subscription), Uber (Marketplace), Superhuman (SaaS), Thumbtack (Marketplace), Grin (SaaS), LeadIQ (SaaS), Fitbod (Consumer subscription)
+-   **18) Which business models do most venture capitalists stay away from?**
+    -   Typically these are not "venture scale" businesses, meaning they can't get to $100M in revenue in under 10 years
+    -   Direct to Consumer or anything CPG (Consumer Packaged Goods)
+        -   Lower margins and scales slower than software
+        -   For DTC, you need at least one of these differentiators:
+            -   1.  Elite product/brand (Ex: Eight Sleep, Warby Parker, Dollar Shave Club, Away Luggage)
+            -   2.  Elite acquisition strategy (Mastery of TikTok/Instagram/Facebook advertising, or organic)
+    -   Hardware
+        -   Famous saying: "Hardware is hard"
+        -   Historically low margin, and scales much slower than software
+        -   Race to the bottom
+        -   Pro tip: If your hardware item has a software component, you can sell HaaS, or Hardware-as-a-Service, which is much more appetizing to investors
+            -   Ex: Density, Cafe X
+    -   Advertising
+        -   Making money through ads on your platform
+        -   This business model only works if you hit massive scale, which is why investors are typically skeptical
+        -   Example: Google, Facebook, Amazon, Yelp, Twitter, Snapchat
+        -   Advertising budgets are also dependent on the economy, as major advertisers cut their ad budgets FIRST after there is a down turn
+    -   Service-based
+        -   Not venture scale, usually bad businesses for everyone except the founder
+-   **19) How soon do you need to identify a business model after starting your company?**
+    -   Most great companies know how they will make money from the start
+    -   However, your business model can change as new opportunities appear. Some of the greatest modern tech companies have changed their business model.
+        -   Example: Netflix
+            -   Netflix had TWO business model changes
+            -   First, they went from mailing physical DVDs for a monthly fee to selling streaming software (their margins and user base increased dramatically)
+            -   Second, Netflix used to "rent and distribute" 100% of their digital content when their streaming platform first launched
+                -   They would sign deals with companies that owned the rights to content and pay to list that content on Netflix
+            -   In January 2013, Netflix CEO Reed Hastings released a memo to employees and investors announcing a commitment to producing original content
+            -   From the memo: "We don’t and can’t compete on breadth with Comcast, Sky, Amazon, Apple, Microsoft, Sony, or Google. For us to be hugely successful we have to be a focused passion brand. Starbucks, not 7-Eleven. Southwest, not United. HBO, not Dish."
+            -   Netflix's first piece of original content, House of Cards, launched one month later in February 2013
+            -   In Q1 2013 (the same quarter that Hastings released his memo) Netflix had $1B in revenue and only $3M in net income
+            -   Eight years and three months later, in Q2 2021 (their most recent quarter) Netflix had $7.3B in revenue and $1.3B in net income
+                -   So in the 8 years since Hastings letter, Netflix has ~7x'ed their revenue and grown their profit ~433x, largely due to their focus on producing original content!
+-   **20) Pricing: How much should you charge?**
+    -   Charge too little and people don't think your product is good enough to buy
+    -   Charge too little and you don't cover expenses
+    -   Charge too much and people won't give it a shot
+    -   Charge too much and potential customers might get "sticker shock" - which is why some SaaS companies don't list their prices publicly
+    -   Compare to competition
+        -   What are similar startups charging?
+        -   How do you compare? Are you the affordable solution, or are you the premium offering?
+    -   Know your metrics
+        -   At what number of customers and what price can you be profitable at your current burn rate?
+        -   If you need 500 customers at $20/month to be breakeven, that seems very doable!
+        -   If you need 3000 customers are $100/month, that might be a little harder, and you might want to lower your burn rate
+
+## Episode 3 - **[Finding and Delighting Customers](https://youtu.be/dz_PbwEgjGg?t=2081)**
+
+-   **21) Do you know who you're building for?**
+    
+    -   How can a founder distinguish their "ideal" users vs their "first" users
+        -   First users: could be your friend from college, a neighbor, your grandma, etc.
+        -   Ideal users: who your product ultimately solves the problem for, and who is willing to use it the most OR pay you the most money
+    -   Here is an easy trick to identify early potential ideal customers:
+        -   Segment your users into cohorts based on an engagement metric like time on site, rides taken (Uber), workouts registered (Peloton), etc.
+        -   Focus on the top 10% of engaged users
+            -   Ask yourself:
+                -   What do these users look like?
+                -   What are their occupations?
+                -   Where are they located?
+                -   Why are they engaging with my product?
+                -   How much time are they spending on the platform?
+        -   Use this info to create a blueprint for a potential customer
+            -   Ex: Small business that needs help with web design, but doesn't need to hire a full time software engineer
+            -   This example would be a blueprint for an ideal customer of a marketplace of freelancers
+    -   **Remember: Winning founders understand their customers deeply**
+        -   Superhuman has an innovative approach to focusing only on potential customers that fit their ICP:
+            -   CEO Rahul Vohra only on-boards email "power users" due to his product's relatively high price point (~$360/year for an email client)
+            -   Rahul knows if he onboards a customer who is not the right fit, that customer will likely have a bad experience, churn quickly, and the entire cycle of acquiring that customer will be a waste of time
+                -   Superhuman actually REJECTS potential customers if they are not a good fit
+            -   Instead, Rahul chooses to only spend time onboarding and acquiring customers they know will love and utilize their product
+-   **22) Can you explain your startup in one simple sentence?**
+    
+    -   Call this "Jason's OSS Rule" - One Simple Sentence
+    -   Any great company can explain what they do in one simple sentence
+    -   At its core - what does your company do?
+        -   No buzz words; just a clean, clear, and crisp sentence that anyone could understand
+    -   Investors see convoluted, buzz word-y company descriptions often
+        -   Here are some examples with popular companies:
+            -   Slack example:
+                -   Bad job: "We're a future of work startup leveraging software and integrations to improve workplace communications for the long-term."
+                -   Good job: "We sell chat software to startups."
+            -   Coinbase example:
+                -   Bad job: "We're leveraging the blockchain and decentralized technologies to allow any investor to get exposure into the world of cryptocurrency."
+                -   Good job: "We help people invest in crypto."
+            -   Uber example:
+                -   Bad job: "We use AI and machine learning to connect riders and drivers, disrupting the worlds of transportation and mobility as we know it."
+                -   Good job: "We help you get rides faster and cheaper."
+    -   Something to keep in mind: Does all your branding align with your simple sentence?
+        -   Is the messaging consistent across your website, Twitter, TikTok, etc.?
+    -   Can every employee explain what you do in one simple sentence?
+        -   Does your sales team speak clearly?
+    -   **Remember: Winning founders can explain their product simply**
+        -   Einstein famously said: "Everything should be made as simple as possible, but not simpler"
+        -   Winning founders can do this in their explanation as well as with product development
+    -   If you can't say what your company does simply, your customers won't understand your value
+-   **23) Do you know where to find more customers?**
+    
+    -   Once you have your first 5 customers, you should immediately look for 10, then 50...
+        -   Too often founders find their first group of customers and quit looking
+        -   They often get lost building new features or assume the customers will keep coming
+    -   **Winning founders are obsessed with acquiring new customers**
+    -   If you found a way to acquire customers that works - keep doing it!
+        -   If you find oil, keep digging!
+    -   So, how do founders go about finding users?
+    -   **What are a few customer acquisition strategies in the early days?**
+        -   Hangout where your users are
+            -   If you're selling developer tools to software engineers on a bottom-up basis...
+                -   Post on hacker news and subreddits to try and get early users and feedback
+            -   Attend live events (like meetups) and talk to the users themselves
+        -   Build in public
+            -   Create a sense of community around your product
+            -   Being open and transparent on Twitter is becoming more popular
+            -   It is a great way to find users with word of mouth
+            -   You can also build publicly on Indie Hackers and engage that community
+        -   Leveraging your network
+            -   Are you solving a problem that your network suffers from?
+            -   Do you have ideal customers you can easily reach out to?
+        -   Alex Tew, co-founder Calm used a strategy to attract users by building an interesting viral site called [donothingfor2minutes.com](http://www.donothingfor2minutes.com/) - and it's still live today!
+            -   The virality of the non-product drives traffic back to the product
+            -   He did this with Calm by creating a simple website that asked if you could sit still for 2 minutes
+                -   If you moved the mouse or touched keyboard it would say "Fail"
+                -   People shared their scores, and he collected ~100k emails of engaged users (in a few days) before ever launching Calm
+        -   There is also the waitlist strategy
+            -   Obviously, you need serious demand in order to create a waitlist in the first place
+            -   Companies like Superhuman have perfected the waitlist
+            -   You should create a waitlist if:
+                -   You want to gauge the level of interest
+                -   You want to limit the amount of customers you're on boarding
+                -   You want to build up hype and demand for your product
+            -   Once you have a few hundred users on the waitlist, you can utilize growth hacks like:
+                -   Enticing users to move up the waitlist by referring other people to sign up, which creates a virtuous cycle
+-   **24) Do you have founder-product fit?**
+    
+    -   Ask yourself "Are you using your own product?"
+        -   Are your employees using your product?
+        -   Do you truly understand the problem you are solving for the end user?
+    -   There are several benefits to "eating your own dog food"
+        -   1.  You can quickly help your team find bugs before impacting customers
+        -   2.  It strengthens your relationship with the customer
+            
+            -   Everyone at your company understands the customer experience
+            -   You'll build credibility by knowing all the work flows and pain points
+        -   3.  It keeps your company on the same page
+            
+            -   Engineering gets to hear feedback from users (even if they are internal)
+            -   Marketing knows how the product works to better strengthen campaigns
+            -   Sales better understands the problems the product solves when talking to customers
+            -   Executives stay involved in the day to day functionality of the product
+    -   Fitbod is a great example of this:
+        -   Fitbod's co-founders Allen and Jesse originally built their product for themselves
+        -   Or, in other words, they were their own ideal customers
+            -   In this case: hardcore fitness enthusiasts with disposable income that wanted a data-driven approach to exercise
+    -   Do you know your one key feature and how that feature is being used?
+    -   What is the main way that you use your own product?
+        -   Fitbod's key feature was their workout recommendation engine
+            -   This was a machine learning model that would put together your next workout
+                -   It was based on your preferences, past workout fatigue, available equipment, and more
+    -   When you know who your ideal customer is, what your key feature is, and you use the product yourself regularly
+        -   You can build marketing campaigns and sales strategies around these markers
+-   **25) Do you know how people are using your product?**
+    
+    -   We've established that you and your employees are using your product...
+        -   But are your customers using it in the same way?
+    -   This goes back to the first point today - do you know who you are building for?
+        -   **Remember, winning founders understand their customers deeply**
+    -   Are the features you think are most important the same ones that your customers think are most important?
+    -   STEEZY uses their customer support tickets to inform their product roadmap
+    -   Are customers having to work around clunky UI/UX that is making their lives harder in your app?
+    -   If you are dog-fooding your own app you'll identify issues sooner and prioritize a fix
+    -   Being able to proactively tell a customer something like:
+        -   "In our latest release, you can now save your most common view - you don't have to click this sequence of buttons anymore - it should save you 5 minutes every time you log in"
+        -   This builds trust that you understand their problem and your own product
+        -   And solving a problem your customer may or may not have known they had goes a long way
+    -   Look at the data whenever possible to understand your customers
+        -   Understand who logs in and when
+        -   What pages are they on longest?
+        -   What actions are they taking?
+        -   Where do they get stuck or lost and log out?
+    -   Study patterns across users
+        -   Grouping your users into cohorts to track trends is helpful
+        -   You can segment users based on when they signed up, the industry they are in, or any way that might be valuable to slice your user base for insights
+    -   Quantitative data like this is extremely valuable
+        -   But so is qualitative data... which leads us to:
+-   **26) Do you know how to conduct customer interviews?**
+    
+    -   Are you talking to your customers regularly?
+    -   Are you solving their problem?
+    -   **Winning founders solve big problems for their customers**
+    -   Use every interaction with your customers as a way to gather this data
+        -   You do not need to provide a formal "interview" to gain valuable insights
+    -   A simple email to check in and see if they have any needs, thoughts, or questions can provide a lot of great information
+        -   When you release a new feature let your customers know about it and be excited FOR THEM...
+            -   "I think you'll love this new feature, it is going to make your life easier by doing XYZ - would love to know what you think! What did we miss, what works for you?"
+            -   You'll quickly get feedback without people even feeling the need to commit to an interview
+    -   Building relationships and checking in with customers before you "need" anything also builds good faith and confidence
+        -   Offering additional value and
+        -   Providing great customer experience by being available is a way to stand out from competitors
+    -   And when you want to conduct interviews, people are more willing to participate if you have a relationship
+        -   So, how to find the right customers to interview?
+            -   Use the segmented customer engagement data we talked about before
+            -   Take the different cohorts and select a random sample of customers
+                -   This should range from your most engaged cohort to your least engaged
+            -   Reach out via email or phone
+                -   If necessary, offer them a gift card, or something relatively meaningful for their time
+        -   You want to hear from a wide variety of users
+            -   But make sure to weigh your "super users" input more heavily
+    -   What kind of questions should you ask?
+        -   Sample questions:
+            -   What do you think about the product?
+                -   What would you change about it?
+            -   What does our product allow you to do that you couldn't before?
+            -   How would you feel if you couldn't use our product anymore?
+            -   What should we stop doing?
+            -   Would you recommend our product to a friend or colleague?
+                -   Have you? Why or why not?
+        -   **Listen** to their answers and ask follow up questions that keep them talking
+            -   "Can you say more about that..."
+            -   "Can you explain what you mean by that..."
+            -   "Would you elaborate on why..."
+        -   Do not interrupt your customer's feedback!
+    -   You can also conduct listening labs
+        -   Where you have the customer test out the app and think out loud while they explore
+        -   You can ask them questions like
+            -   "What are you looking for..."
+            -   "Did that do what you expected it to do when you clicked on it... why?"
+            -   "What do you need to do next..."
+    -   You can also take interviews in another direction and create a Net Promoter Score survey...
+-   **27) Do you understand Net Promoter Score?**
+    
+    -   Net Promoter Score (NPS) is a way to measure customer experience
+    -   **Winning founders are obsessed with metrics**
+        -   Measuring, tracking, and making decisions based on data is important
+    -   Instead of the open ended discussion questions you can ask users to answer on a scale
+        -   This makes it easier to compare answers and group results
+    -   Customers rate their experience with your company on a scale from 1-10
+        -   Something like, on a scale of 1-10 how likely are you to recommend our product...
+    -   **Here is how it's explained at [NetPromoter.com](https://www.netpromoter.com/know/)**
+        -   **Promoters** (score 9-10)
+            -   They are loyal enthusiasts who will keep buying and refer others, fueling growth
+        -   **Passives** (score 7-8)
+            -   They are satisfied but unenthusiastic customers who are vulnerable to competitive offerings
+        -   **Detractors** (score 0-6)
+            -   They are unhappy customers who can damage your brand and impede growth through negative word-of-mouth
+    -   You find your NPS score by taking your percentage of promoters minus your percentage of detractors
+        -   This means your NPS score can range from -100 to 100
+        -   You can use NPS results to anticipate churn or drive customer outreaching
+    -   NPS for major brands (via [customer.guru](http://customer.guru)):
+        -   Apple: 47
+        -   Facebook: -21
+        -   Starbucks: 77
+    -   Delighting customers is the ultimate goal
+    -   You need to be able discover answers to questions like:
+        -   What problem are you solving for them?
+            -   Do they feel you are solving it adequately?
+        -   What sets your product apart?
+            -   Which features do they love?
+            -   Which do they want removed?
+        -   Do you make their job or life easier, faster, or better?
+            -   Why do they use your product?
+            -   What do they wish was better?
+        -   Do the customers recommend your product to others?
+            -   Why or why not?
+    -   A savvy way to increase NPS through a growth hack is with referral programs
+    -   Robinhood had one of the best referral programs ever
+        -   You might know it as the "Free stock" program
+        -   Every time you'd refer a user to sign up, both you and the new user would get a free stock on the platform!
+        -   This created a huge surge of sign ups in the early days
+        -   No other brokerage had ever done anything like that before
+    -   Delighting customers is a vital part of the Startup Flywheel
+        -   Collecting customer feedback is a great way to gauge how you are doing
+-   **28) Should you start with a free or paid product?**
+    
+    -   This is a very common question
+    -   And it depends on your business model
+        -   Are you going to be a free app that generates all your revenue via ads?
+            -   Think, Google, Facebook, etc
+        -   Are you SaaS, consumer, or a marketing place that needs people to pay you to survive?
+    -   It also depends on how much runway you have from the start
+    -   It is best to turn on revenue as soon as possible
+    -   Is growing customer base or growing revenue more important?
+        -   Ideally you're growing both!
+        -   Free users, without skin in the game often provide high frequency, low value feedback
+            -   Free users speak with their words and their engagement
+        -   Customers who are paying, have skin in the game and are invested in your product
+            -   Customers speak with their words, wallets, and engagement
+    -   What signals should you look for that tell you it's the right time to turn on revenue?
+        -   You've figured out the pain point your company solves
+        -   And are seeing early signs of product-market fit
+        -   You've run successful free or paid pilots with happy users
+        -   During customer interviews they indicate that they would pay to continue using your product
+        -   You have a waitlist that includes a price users will pay for your product
+    -   How do you shift from a free to a paid product?
+        -   There are ways to roll this out
+        -   You could offer a freemium version of your product
+            -   Allow the free users to have access to part of your product
+            -   If they want full access they'll can start paying
+        -   You can offer early users a discount to continue using your product
+        -   You could grandfather legacy users in at an original price point
+        -   You can just flip the switch, turn on paid and know that you might have a high churn month but you've identified your ideal customers as those who stuck around
+    -   Anytime you have free users you should work on ways to convert them to a paid plan
+        -   Let them know what they are missing, and how it would be better if they paid a monthly fee
+-   **29) Do you understand the technology adoption curve**
+    
+    -   There are 5 stages to think about in technology adoption
+        
+        -   Innovators, early adopters, early majority, late majority, laggards
+            
+            ![tech adoption.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55b5c640-aa50-49e6-bbc6-348598df288b/tech_adoption.png)
+            
+    -   Anytime you are creating new technology you need to win over all five of the individuals
+        
+    -   The technology adoption curve was introduced by E.M. Rogers in 1962
+        
+        -   And made popular in the book Crossing the Chasm by Geoffrey Moore
+    
+    1.  Innovators
+        -   They take risks with new technology
+        -   Typically support a transformation within the company around new tools
+    2.  Early Adopters
+        -   Look to understand the technology fully before the support it vocally
+        -   They like to be at the forefront but care about their reputation
+        -   This is typically your group of beta testers
+    3.  Early Majority
+        -   This group makes decisions based on data
+        -   They support technology but want to see the proof first
+    4.  Late Majority
+        -   Require even more proof than the early majority
+        -   Don't like risk and not that interested in change
+    5.  Laggards
+        -   Skeptical of new technology
+        -   Give up when a new tool doesn't work and revert to their old way of doing it
+    
+    -   Identify the innovators and early adaptors and market accordingly to those users!
+-   **30) When should you fire a customer?**
+    
+    -   Do you know when to cut bait with disengaged users?
+    -   Can your ideal customer shift as your product evolves?
+    -   These users are giving you bad data also - if they're disengaged, you should NOT be building your product for them
+    -   Should change your product to increase engagement?
+        -   Are you prepared to tell paying customers, we're not for you?
+    -   How do you manage the current relationships as you shift?
+    -   How do you communicate that you are firing a customer?
+        -   Is it better to fire them?
+        -   Or let them continue using your product - knowing they might become upset and churn anyway?
+    -   Remember, the people paying the least money are usually the most needy and have the most complaints
+    -   Remember the Superhuman example we covered earlier:
+        -   Superhuman actually "fires" potential customers during the on-boarding process!
+        -   Meaning, if a user doesn't fit the specific qualities of an ideal user, they won't even bring them on as a customer in the first place
+        -   Superhuman is able to preemptively "fire" their customer because they understand their ideal customer profile SO deeply
+
+## Episode 4 - [Building a Great Product](https://youtu.be/D-aF6t8EyPA)
+
+-   **31) Do you know what problem(s) your product solves?**
+    -   The answer to this question can guide your product roadmap
+    -   Another way to phrase this is "Why does your product exist?"
+    -   Examples:
+        -   Superhuman exists to make email faster
+        -   Uber exists to connects riders with drivers for faster and cheaper rides
+        -   Shopify exists to make entrepreneurship easy on the Internet
+    -   How important is that problem to your customers?
+    -   How are they currently solving it?
+        -   Ex: Gmail? Yellow cabs? Excel?
+    -   How is your solution better than the current solution?
+        -   When building a technology company, the answer should always be some combination of faster, cheaper and better
+        -   Uber helps people get rides faster and cheaper (which is better!)
+        -   Superhuman makes email faster and better (but not cheaper)
+    -   **Remember: Winning founders know this is a race for credibility - do you deliver what you say you will?**
+-   **32) Can you build an MVP?**
+    -   MVP stands for minimum viable product
+    -   An MVP is the most basic version of a product that you can launch
+    -   Don't be precious about your MVP
+    -   Remember what friend of the podcast Reid Hoffman says: "If you're not embarrassed by the first version of your product, you've launched too late"
+    -   Some things to keep in mind before building your MVP:
+        -   Are you a builder?
+            -   Can you code?
+                -   If not, are you familiar with Bubble, Webflow or other tools?
+            -   Do you have UI/UX experience?
+                -   If not, do you KNOW what good user experience is?
+            -   Do you have a growth/sales background?
+                -   If not, do you know how to build a growth model
+                -   Do you know how to create a go-to market plan?
+        -   How minimum is minimum?
+            -   You need be able to solve a customer's problem
+        -   How viable is viable?
+            -   Will customers actually pay you for it?
+        -   Is a landing page enough?
+            -   It depends on how complex the problem you're solving is
+            -   I've seen people create an MVP with a landing page and typeform
+            -   But you will want more functionality in most cases to see real traction
+        -   How far can no-code take you? If you can get to an MVP using no-code, that means you can get traction
+        -   And if you can get traction, that means you can get meetings with investors
+-   **33) Is your product simple to use?**
+    -   Can a user quickly understand how to navigate and use your product?
+        
+    -   Does your product highlight your main feature?
+        
+    -   You want your product to be incredibly simple from the home screen
+        
+    -   Don't make it difficult for users to navigate your product, that could result in more churn!
+        
+    -   Calm
+        
+        ![calm.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf0d6687-85e0-47e2-a83a-5d38090788ef/calm.jpg)
+        
+    -   Zero Fasting
+        
+        ![zero.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c9a2327-d189-45e1-9a8c-8855a322db41/zero.jpg)
+        
+    -   You should make it incredibly easy and delightful to be a user of your product
+        
+    -   Again, the harder your product is to use the less likely a customer is to use it
+        
+-   **34) Does your product have world-class design?**
+    -   Achieving "world-class design" may sound like a high bar, but it's more doable now than ever before
+        -   No-code / low-code platforms like Bubble, Webflow, and Squarespace all have great templates that you can use as a starting point
+        -   There are also sites like [dribbble](https://dribbble.com/) where product designers share their work
+        -   You can draw inspiration from any of these places
+    -   There are some web 1.0 companies that have had mediocre design grandfathered in
+        -   Example: Craigslist, Amazon
+        -   These platforms have hit such massive scale that they can't really change anything on the UI side
+        -   If Amazon overhauled their e-commerce interface, they would get millions of complaints in minutes
+    -   But, first impressions still play an important role
+    -   Also, users are savvier than ever and will pick up on janky design instantly
+    -   If the product is clunky, slow, and hard to navigate you'll have trouble getting users to engage
+    -   Think of how simple and easy it is to use your favorite products
+        -   Robinhood used a great interface and no-fee trading to upend the entire stock brokerage industry
+    -   Designer co-founders have a great track record in building massive consumer-facing companies
+        -   Examples:
+            -   Airbnb (Joe Gebbia) - $100B market cap
+            -   Canva (Cameron Adams) - $40B valuation in most recent round
+            -   Instagram (Mike Krieger) - Sold to FB for $1B in 2012
+            -   Pinterest (Evan Sharp) - $30B market cap currently
+            -   YouTube (Chad Hurley) - Sold to Google for $1.6B in 2006
+    -   And world-class design doesn't just apply to consumer-facing companies
+        -   Remember, Stewart Butterfield (a designer) built Slack and started the "Consumerization of SaaS" movement
+-   **35) Does your product have "One Killer Feature"**
+    -   In other words: the key feature that your product is known for
+        -   Examples:
+            -   Snapchat's ephemeral messaging and stories
+            -   Facebook's news feed
+            -   Instagram's filters
+            -   Spotify's entire catalogue of music for one low monthly fee
+            -   Robinhood's no-fee trading
+    -   A major mistake that first-time founders make is focusing on **new** features over ones that are already working
+    -   Remember, new doesn't always equal better
+    -   Prioritize perfecting your killer feature before you start expanding your product
+    -   Founders get into a mindset that if they add a new feature then traction will improve
+        -   No! Identify your key feature - get users, listen to them, delight them
+        -   Double down on what is working!
+-   **36) Does your product have a "hook"?**
+    -   Great book on this topic - [Hooked by Nir Eyal](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
+    -   Nir describes the product hook cycle in four stages:
+        -   **Trigger**
+            -   Something that gets a user to take the first action
+            -   What makes you open an app in the first place?
+            -   On his website, Nir Eyal uses the example of a user getting "hooked" into browsing on Pinterest
+            -   In this scenario, the trigger would be a link back to Pinterest on another social media site like Facebook or Instagram
+        -   **Action**
+            -   User takes an action that will eventually get them a reward
+            -   For example, click the link, open the app, register for the product, etc
+            -   It is key to have as little friction as possible here
+            -   In the Pinterest example, the link to the Pinterest app for a product they are interested in
+        -   **Variable reward**
+            -   Key word here is "variable" - so user does not lose interest
+            -   Users are forming a habit and if they always know the reward, then they will get bored
+            -   In the Pinterest example, the user is "rewarded" by similar images and products to the item that brought them over, and now they can discover new products
+        -   **Investment**
+            -   Requires the user to contribute back into the product
+            -   Part of what makes IKEA so successful is that the user feels pride in what they built
+            -   Finishing the Pinterest example, the user "pins" items that interest them, which gives Pinterest better data on what to show
+    -   **Fitbod example from LAUNCH's portfolio:**
+        -   Co-Founder and Head of Growth Jesse Venticinque described his products "hook" on [Season 2 Episode 5 of Scaling Your Startup](https://www.notion.so/Scaling-Your-Startup-Product-S2E5-with-Superhuman-s-Rahul-Vohra-FitBod-s-Jesse-Venticinque-E1-fccd9c2ee09749319649b56545cccf45)
+        -   Here is Fitbod's product hook cycle:
+        -   **Fitbod's Trigger:** User has a psychological need to know how to exercise effectively, and Fitbod automatically generates a new workout for users
+        -   **Fitbod's** **Action:** User launches Fitbod to start their workout
+        -   **Fitbod's** **Reward:** Fitbod sets incremental and achievable goals that leave users feeling achieved after a workout
+        -   **Fitbod's** **Investment:** Users spend time entering data on Fitbod for better personalization
+            -   More data improves Fitbod's workout recommendation engine
+            -   Which then increases switching costs and reduces potential churn
+        -   After your workout ends, Fitbod immediately generates your next workout, which restarts the cycle (that's the "hook"!)
+-   **37) Do you have a viral loop?**
+    -   You can also think of this as: is one user incentivized to create more users?
+    -   Remember, on episode three we talked about Robinhood's free stock referral program
+        -   If you invited a user to sign up you get a free stock and they get a free stock
+        -   The trigger and action are clear
+            -   The reward is variable - you don't know what stock you'll get... could be Apple, could be a penny stock
+    -   Here is why this was the best viral loop of all time
+        -   Via Robinhood's S-1:
+            -   Over 50% of users are first-time investors
+        -   So over half of Robinhood's 17.7M MAUs (at the time of their IPO earlier this year) were first-time investors
+        -   Ask yourself: What would be the hardest part about getting a first-time retail investor engaged in your brokerage?
+            -   Likely answer: Linking a bank account, depositing funds, and actually making their first investment
+            -   So to fix this, Robinhood said "Here's a free stock" now YOU have skin in the game and are instantly engaged!
+        -   And the results of the free stock referral were staggering:
+            -   Via their S-1, over 80% of users were acquired organically or referred
+    -   Can you leverage your product to create a viral loop as great as Robinhood's?
+        -   Dropbox did it with free storage: Dropbox Basic users got 500MB of extra storage for every user they referred, up to 16GB!
+    -   The app "Words with Friends" is another example:
+        -   A user can easily challenge a friend to play Scrabble
+        -   If that user doesn't have the app, WWF generates a download link to send them
+        -   Now that they are in they can invite their friends to the platform
+-   **38) Do you have a strategy to retain users?**
+    -   User retention is a big topic, let's start with a simple example:
+    -   LinkedIn has an amazing user retention strategy
+    -   After you have gone a few days without opening the app, they will send you an email reminder to log back in
+        -   This is NOT a non-personalized, generic, "we miss you" email
+        -   They actually say "80 people are viewing your profile" to pique your interest
+        -   Then, when you go to the site, they let you know who was viewing your profile
+    -   Twitter does something similar
+        -   If you don't log in for a few days, you'll get a push notification:
+            -   Don't miss tweets from **_your most engaged with accounts_**
+            -   So if Twitter knows Jason engages with Knicks and VC content the most, they'll say "Bill Gurley and Knicks Film School are tweeting - don't miss it!"
+    -   These are all in-app ways to retain users, BUT customer success teams are becoming more popular as well
+        -   We'll touch on this more on a future episode called "Building Your Team"
+        -   Many people like a human touch
+-   **39) Do you know which product-focused metrics to track?**
+    -   Remember - these metrics are "product-specific" so we're not going to include burn rate, runway, etc this time. We'll cover those on a future episode!
+    -   So here are the four product-focused metrics that matter:
+    -   **1) Active User Growth**
+        -   If your product is providing value, you're going to start growing users quickly
+        -   Are you tracking your daily, weekly, and monthly active users?
+            -   DAU - Daily Active User
+            -   WAU - Weekly Active User
+            -   MAU - Monthly Active User
+        -   Can you **define** an active user?
+            -   Remember, sometimes founders can get cute with how they qualify an active user
+                -   Nextdoor disclosed in their SPAC investor presentation that they count anyone who opens an email as a daily/weekly/monthly active user
+                -   This is not good hygiene - an active user is someone who opens your app and uses it
+            -   Founders should model their reporting after Twitter - who only reports on "Monetizable Active Users" - if a user can't be monetized (by being shown ads), they will NOT count them
+        -   Measuring and growing active users is crucial for startup success
+    -   **2) Revenue (or MRR/ARR if you're selling software on a subscription basis)**
+        -   If you're growing users and you have revenue turned on, you should also be growing revenue!
+        -   MRR = Monthly Recurring Revenue
+        -   ARR = Annual Recurring Revenue (MRR x 12)
+            -   Note - Founders can get a little cute with ARR sometimes, especially if you had a recent jump in revenue
+            -   Jason always asks founders for their last three months of revenue to see the raw numbers
+        -   Revenue growth is the engine that drives your business
+    -   **3) CAC: Customer acquisition cost**
+        -   How much does the average customer cost you to acquire
+        -   My bestie David Sacks' CAC formula: Divide sales and marketing expenses in the prior month by the number of new paid customers in the current month
+            -   the one month lag is to reflect the time it takes for sales and marketing to materialize
+        -   Remember - Amazing viral loops and word of mouth will acquire you users for FREE
+    -   **4) LTV: Lifetime value of an average user**
+        -   How much value are you getting out of an average user?
+        -   This is the total revenue brought in from a customer in a certain cohort
+        -   You can divide your LTV by CAC to get an accurate picture of how much profit you're making (or how much money you're losing) from an average customer
+        -   Remember, churn has a huge impact on LTV
+            -   The more value your product provides, the less frequently your customers will churn
+            -   Less churn = larger LTV
+    -   David Sacks put out a playbook last week called "The [SaaS Metrics that Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)"
+        -   Goes into great detail and breaks down high level metrics
+-   **40) Do you know when to sunset a feature?**
+    -   How much time should you give a new feature to breathe?
+    -   What if it goes mostly unused?
+    -   Consider [sunk cost fallacy](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/sunk-cost-fallacy/)
+    -   Ex: Uber Pool
+        -   Uber Pool was launched in 2014
+        -   Pool was a new type of ride where passengers could get cheaper rides by carpooling with others on a similar route
+        -   Pool was supposed to be better for the environment, cheaper (so more people could use Uber), and more efficient for drivers (multiple riders along one route)
+        -   Pool never was able to turn a profit since it was lower margin than regular rides
+        -   Uber sunset the feature in 2020 during the middle of the pandemic due to safety reasons
+            -   It's been theorized that Uber was going to sunset Uber Pool anyway, and the pandemic just sped up that process
+    -   It took Uber six years to sunset Pool
+
+## Episode 5 - [Building a Great Team](https://youtu.be/LrQiIXVlJiE)
+
+-   **41) Do you need a co-founder?**
+    -   If you are a first-time founder - YES!
+    -   Starting a company can be stressful and lonely
+        -   having a co-founder is helpful
+        -   it's good to have a partner to divide and conquer, **especially** when you are fundraising, which is a full-time job.
+    -   Plus, VCs will want to see you have a co-founder
+    -   Why? Because if you quit someone else is still there to work on the idea
+        -   Many startups don't work out
+        -   Placing a bet on a solo founder adds risk to an already risky situation
+        -   Investors like to see complementary founding teams (ex: technical founder + sales-oriented founder)
+    -   If you have already started a successful company and have the credibility, it isn't as important to have a co-founder
+    -   How to pick a co-founder?
+        -   Identify the skills you have and the skills you need to build a successful company
+        -   You want a co-founder that has a complimentary skill set to your own
+            -   If you have a sales background - you want to find a builder
+            -   If you are a builder you might need someone who is a marketer
+        -   Have you worked with them before?
+            -   Do you know how they work day to day?
+            -   How do they handle stress when things go wrong?
+            -   Do you trust them?
+    -   Where to find a co-founder?
+        -   Start with your network and people you know
+            -   Have you worked with anyone on projects that went well?
+        -   Do you know anyone that has the skills and background you're looking for?
+        -   Attend events, conferences, and network
+    -   Finding a co-founder is essentially your first sell
+        -   If you can't find one person to join you that is not a good early sign
+-   **42) Do you know when to make your first hire?**
+    -   When can you justify paying someone to do the job(s) you are currently doing as co-founders?
+        -   Ask yourself - how much would it cost to have someone else do this?
+        -   Will the quality stay consistent without my constant input?
+        -   What else could I be working on as a founder with this time?
+    -   **JMC**: Is there a benchmark level of revenue you should hit before hiring an employee?
+    -   **JMC:** What percentage of spend is typically set aside for salaries?
+    -   **JMC**: What amount of burn is smart to take on for employee salaries?
+    -   **JMC:** Should founders make their first hire before raising money funding?
+-   **43) Do you know which positions to hire for first?**
+    -   What are the priorities for your startup when building out your team?
+        -   A deep AI, machine learning application may require different hires than a fashion marketplaces
+    -   Do you know what qualities or skills are important in early hires?
+        -   General rule of thumb:
+            -   If you have less than 10 employees
+                -   Hire GENERALISTS
+            -   Once you have more than 10 employees
+                -   Hire SPECIALISTS
+    -   Are there specific roles every startup needs to hire sooner than later?
+        -   Developer (sooner)
+        -   Finance/accounting (can outsource early if needed)
+        -   PR (don't need it in early days, then outsource if needed)
+        -   HR (outsource at first, can hire when company scales to ~50 employees)
+        -   Lawyer (outsource)
+    -   **'Bar Raiser' hiring process at Amazon**
+        -   Every person hired should be better than 50 percent of those currently in similar roles.
+        -   [Amazon concept for hiring](https://blog.aboutamazon.eu/working-at-amazon/what-is-a-bar-raiser-at-amazon) - from "Working Backwards"
+    -   What to ask in an interview:
+        -   You want to ask questions that help you understand how the the individual works & if they'll fit your team.
+    -   For example,
+        -   What is a new skill you've learned in the last year?
+        -   Do you think it's more important to be talented or hardworking?
+        -   Teach me something in two minutes (The Chamath question)
+            -   Highlights their passion, ability to be concise, ability to convey information, etc
+        -   How do you handle having multiple assignments at once?
+-   **44) Should you build a distributed team?**
+    -   When hiring in today's landscape, is offering remote positions a requirement?
+        -   Finding talent is going to be a challenge
+        -   Startups can give themselves an advantage by offering flexible working situations
+            -   This can help small competitors outrun larger companies who have sunk cost in real estate
+        -   And if you aren't offering flexible options, you may put yourself at a disadvantage
+    -   How can you build culture and accountability with a remote team?
+        -   What we do at LAUNCH with a remote team:
+            -   [SOD-EOD reports](https://calacanis.com/2019/01/08/lean-management-the-power-of-the-eod-report/)
+            -   Slack huddles
+            -   Weekly team calls
+            -   Quarterly team retreats (planned)
+    -   **JMC:** Can a co-founder (or early employee) be located in another country?
+        -   [H-1B visa eligibility](https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations)
+-   **45) Do you know what to outsource to freelancers?**
+    -   What kinds of projects can you outsource as an early-stage startup?
+        -   If it is strategic - keep it in house
+        -   If it is administrative or repeatable - outsource
+    -   How outsourcing looks to investors:
+        -   Outsourcing product development / engineering (BAD)
+        -   Outsourcing sales (BAD - sales should be founder-led in the early days!)
+        -   Outsourcing HR (GOOD!)
+        -   Outsourcing other administrative work (GOOD!)
+    -   Remember: Product, customers, team
+        -   Worry about perfecting these three things...
+        -   and find ways to outsource things that do NOT impact the startup flywheel
+    -   Utilize SaaS instead of contractors where you can
+        -   Ask yourself, is there a SaaS tool that can simplify a process?
+        -   For example,
+            -   HR tools or software
+            -   Helps to create a repeatable and consistent process
+    -   What are the pros to outsourcing?
+        -   Free you up to do other tasks
+        -   Focus on the parts of building a startup you're best at
+        -   Freelancers typically are efficient with their time
+    -   What are the cons to outsourcing?
+        -   There is risk they don't understand your vision
+            -   This can lead to loss of time and money
+        -   Not a priority - your project is likely one of several the individual/company is working on
+        -   Communication
+            -   Constant communication eats up time - the top thing you were trying to save by outsourcing
+            -   Lack of communication can lead to unnecessary errors and delays
+-   **46) How much do you pay early employees?**
+    -   "Don't make compensation a conversation"
+    -   Have a plan early
+        -   Know at what stage of growth each key hire needs to be made
+            -   VP of sales when you hit X amount of revenue
+            -   VP of marketing when you hit X amount of revenue
+            -   Head of PR when you hit X
+    -   Do your homework
+        -   Know what is fair value for each major role
+        -   What goals does your startup need to hit to be able to afford top talent?
+    -   Get creative with hiring
+    -   With remote work - you can get MORE QUALIFIED employees more affordably
+    -   How do you balance experience & high compensation vs. affordable & high potential?
+        -   You probably can't afford the best developers on salary alone
+            -   But you can sell them on your vision and offer equity
+        -   You can also find mid/junior developers with potential that you can groom
+            -   Many startups will have a senior dev that helps to upskill more junior level individuals early on
+-   **47) Do you know much equity to give to early hires?**
+    -   What percent makes sense to reserve when the time comes?
+        -   It can vary but some back of envelope numbers may look like:
+        -   _(Numbers below are from [TechCrunch](https://techcrunch.com/2020/01/09/deciding-how-much-equity-to-give-your-key-employees/) & [Carta](https://carta.com/blog/how-much-should-i-pay-my-first-employees-compensation-strategy-for-founders/) blogs)_
+            -   A third co-founder might get ~10%
+            -   A VP that joins to lead sales or marketing may get ~1-2%
+            -   Senior engineers who are building your product can get as much as ~0.7%-1%
+                -   Mid-level engineer ~0.45%
+                -   Junior engineer ~0.15%
+                -   Junior business hire ~0.05%
+    -   Equity is limited - so be smart with it
+        -   One major mistake of founders is giving away too much of their company early
+        -   This will mess up the cap table - making it hard for others to invest later on
+    -   Establish and communicate ownership with your team
+    -   Set an employee stock option plan (ESOP)
+        -   If you want to go super deep into employee stock options and liquidation preferences:
+            -   check out [thisweekinstartups.com/basics](http://thisweekinstartups.com/basics) and click on the stock options episode with Wilson Sonsini's Becki DeGraw!
+            -   One MAJOR take away from that episode:
+                -   We talked about selecting the 83(b) provision which is CRUCIAL for founder and employee stock options
+                -   this is because it gives you the option to pay taxes on the total fair market value of your stock options AT THE TIME OF GRANTING
+                -   if you don't elect this option, you'll owe taxes on your stock after every new round of fundraising!
+    -   Implement Vesting schedules
+        -   4 year commitment with a 1 year cliff is common
+            -   This means you need to work at a startup for 1 year before any ownership is given
+                -   At that point you get 25% of your total
+                -   Then 1/48th (48 months over the 4 years) for each month after your first year
+    -   Build an org chart & adapt as you grow
+-   **48) Do you know when to start thinking about culture?**
+    -   Culture starts at the beginning
+        -   A culture will emerge regardless — so you need to set and guide it intentionally
+        -   Value hard work & reward your high performers
+        -   When your team is small everyone needs to carry their weight!
+    -   One way to do this is allow multiple members of the team to interview new hires
+        -   This goes back to Amazon's Bar Raiser
+            -   It is good to have a 3rd party (non-member of the internal team) sit in on interviews
+                -   For example, a member of the ops team helps interview for a podcast role
+                -   This helps give an unbiased view of the candidate
+                -   And helps ensure cultural consistency across the organization
+                -   And this actually happens at LAUNCH:
+                    -   Nick had Ashley and Jacqui meet with producer Rachel and producer Justin before extending offers!
+    -   [SOD-EOD Report](https://calacanis.com/2019/01/08/lean-management-the-power-of-the-eod-report/)
+    -   As founder, lead by example and set the tone early
+        -   Do not wastefully spend
+            -   You don't need the expensive downtown office
+            -   You don't need swag
+                -   No one is going to buy your product because of a t-shirt they saw at a conference
+        -   If you want your team to take days off you have to take days off
+        -   Your team will follow your lead
+    -   Instill a culture of accountability
+        -   Have the team hold each other accountable for their work
+    -   Don't allow unsatisfactory work slide
+        -   Address it head on
+        -   You may learn about blockers that make everyone else more efficient
+        -   Remove cultural killers
+            -   At a startup with 3, 5, 10 people you can't afford to have dead weight
+            -   You have to fire people who aren't contributing
+-   **49) Do you know when to fire an employee?**
+    -   "The one that got you here aren't necessarily the ones to get you there"
+    -   Create a performance improvement plan (PiP)
+    -   Document everything
+    -   Be graceful and professional
+    -   Communicate the decision with the team
+    -   Make sure you understand employment laws of the state of your employee
+-   **50) Are advisors valuable?**
+    -   Advisors are NOT full time employees but might offer ideas or answer questions a few hours each month
+    -   Can you find experienced individuals who believe in what you are building?
+    -   Will they offer you valuable insights?
+    -   They are typically paid with equity
+        -   A few basis points is common
+            -   Say 0.1% to 0.3% equity for an advisor
+            -   See Founder Institute's [FAST Agreement](https://fi.co/fast) - Founder / Advisor Standard Template
+        -   Are the insights they provide worth a stake in the company?
+    -   The hope is that at least one of your advisors can provide enough value to justify having a few on board
+
+## Episode 6 - [Market & Branding](https://youtu.be/ClJwz3Lwvps?t=685)
+
+-   **51) Market: Are you creating a new market or servicing an existing one?**
+    -   Let's use two consumer subscription companies as examples for this:
+        -   Spotify and Calm
+            -   The market for **Spotify** was clear - everyone loves music
+                -   Consumers would LOVE all the music in the world catalogued and instantly accessible for a small monthly fee
+            -   The issue with Spotify was figuring out the rights issues that plagued music startups in the past
+            -   Spotify KNEW their market existed (everyone loves music), they just had to figure out how to not make the same mistakes as Napster
+            -   For **Calm**, their market **did not exist**
+            -   They helped create their own market by launching a great product at the perfect time
+                -   just as the general population became more aware of self-care
+        -   Calm did not know for sure that there was a pot of gold at the end of the rainbow
+            -   but their product was so good it helped create the market they now exist in
+        -   GREAT PRODUCTS CREATE MARKETS:
+            -   Uber
+            -   Airbnb
+            -   Calm
+-   **52) Market: Understand the difference between "Lazy TAM" and "Bottom-Up TAM"**
+    -   Early-stage investors typically don't need to see a TAM slide
+    -   "Lazy TAM" is a term I coined after having hundreds of founders show me an uncorrelated Gartner number on their TAM slide
+        -   Let's use an example:
+        -   Imagine a startup was pitching me...
+        -   They are an IT setup marketplace that's used by startups and SMBs
+        -   Worldwide IT spending is expected to reach $4.4T in 2022, according to [Gartner](https://www.gartner.com/en/newsroom/press-releases/2021-07-14-gartner-forecasts-worldwide-it-spending-to-grow-9-percent-2021)
+        -   If they used this $4.4T number in their TAM slide, that would make no sense!
+    -   Founders: Do NOT do this, it makes you instantly lose credibility
+    -   The great early-stage investors don't care about an insanely huge market size
+    -   We care about the flywheel:
+        -   Great product
+        -   Great team
+        -   Obsessed customers
+    -   BUT - if you do want to impress an investor with a TAM slide
+    -   Bottom-up TAM is another term I coined
+    -   Why? I want founders to start with REALITY and build UPWARDS from there
+    -   This is the right way to calculate your TAM in the early stages
+    -   If you do this coherently, you will increase credibility with investors
+    -   Made up startup example:
+        -   Acme Corp sells SaaS software to dentist offices
+            -   They charge $1000/month per office
+        -   **First, let's do a LAZY TAM example:**
+            -   According to an ADA ([American Dental Association](https://www.ada.org/~/media/ADA/Science%20and%20Research/HPI/Files/HPIbrief_0620_1.pdf?la=en#:~:text=Under%20Scenario%201%20(October%202020,and%2080.0%20percent%20in%202021.)) report from June 2020, the total projected dental spending for 2021 was between $123.9B and $154B
+            -   Lazy TAM would be taking the average of these two numbers ($139B) and pitching that as your yearly market size
+            -   "We can capture 10% of this market, and if we were at scale in 2021 our yearly revenue would have been $13.9B"
+            -   This calculation would completely miss the mark, and lose you credibility with investors
+        -   **BOTTOM-UP TAM example:**
+            -   Remember, you're only selling to dentist offices, so find that number first
+            -   In 2020 there were 201K working dentists in the US, [according to the ADA](https://www.ada.org/en/science-research/health-policy-institute/dental-statistics/workforce#:~:text=How%20many%20dentists%20are%20there,some%20fashion)%20in%20the%20U.S.)
+            -   But there are only 187K total dental offices in the US in 2021, [according to market research firm IBISWorld]([https://www.ibisworld.com/united-states/market-research-reports/dentists-industry/#:~:text=In 2021%2C IBISWorld estimates that,establishments in the United States.)'s](https://www.ibisworld.com/united-states/market-research-reports/dentists-industry/#:~:text=In%202021%2C%20IBISWorld%20estimates%20that,establishments%20in%20the%20United%20States.)'s) projections
+                -   This makes sense, as some offices have multiple dentists
+            -   Out of the 187K dental offices, what % can you convert to customers?
+            -   Let's say you think you can capture 10% of the market in ten years
+                -   That's $1000/month x 18.7K = $18.7M/month OR $224M/year in revenue
+                -   $224M in revenue is a GREAT business!
+                -   And if you walk investors through your TAM bottom-up style, you will look really prepared and considered
+        -   Make sure to emphasize that you're only going after the customer segment that fits into your business, not the ENTIRE market
+            -   Ex: The Acme Corp selling into dental offices does not care the total dental revenue of toothbrushes, oral hygiene products, etc.
+        -   You can also put a "looking ahead slide" where you talk about potential markets you can expand into in the future
+            -   Expanding into different markets has made great companies go supernova
+                -   Ex: Amazon building AWS
+                    -   through the first 9 months of 2021, AWS accounted for ~70% of Amazon's profits ($13B out of $19B)
+                    -   And AWS had only 13% of Amazon's total revenue ($44B out of $332B)
+                -   Another Ex: Uber first expanded from black cars into Uber X's, then expanded into delivery
+                    -   The first expansion (offering Uber X) basically created the gig economy on a global scale and kicked Uber's business into hyperdrive
+                    -   The second expansion (delivery) made Uber's business anti-fragile and kept them growing throughout the pandemic as rides shut down for a few months
+-   **53) Market: Have investors had success in your market before?**
+    -   Also called the "Scar tissue issue"
+    -   OR - is the market opportunity appealing to investors?
+        -   Can dozens (or hundreds) of VENTURE SCALE businesses be built in your market?
+        -   Being in enterprise SaaS is MUCH more investable than owning a bunch of laundromats or restaurants
+        -   Why? The path to creating a $1B company is EASIER in enterprise SaaS
+    -   Venture scale means "can your startup can get to $100M in revenue or a $1B valuation in under 10 years"
+    -   When Calm first started out, they were not viewed as a "venture-scale business"
+        -   Investors were skeptical that Calm's market size was larger than people who were currently into meditating (which would NOT have been a venture scale business)
+        -   Once Calm added Sleep stories, mental recovery for athletes, and other products, the market expanded
+    -   Ask yourself: Can you get to $100M in revenue in 10 years in your market?
+    -   In a February 2017 blog, Elad Gil ([Angel S5 E3](https://youtu.be/gj3OBzDULUs)) described a trick to assess if your market was a good one to be in:
+        -   Elad calls this "The 2% and $1 Billion Rule"
+            -   QUOTE: "In general, you want to be in markets where multiple companies could afford to buy you for $1 billion, or where 2% of their market cap is at least in the hundreds of millions of dollars."
+            -   Ex: If you're a startup that's building tools to help creators monetize, you could be acquired by...
+                -   Google: ~$2T market cap
+                -   Facebook: $950B market cap
+                -   Snapchat: $88B market cap
+                -   Twitter: $43B market cap
+        -   Ask yourself: "what are the market caps of the biggest companies in my space"?
+            -   Ex: Consumer internet: Google is ~$2T, Facebook is $950B
+            -   Ex: Enterprise software: Microsoft $2.5T, Adobe $315B, Salesforce $300B
+        -   If the market caps are huge, this will help you in three ways according to Elad:
+            -   1 - These market caps reflect market opportunity since they're based on total revenue, growth rate, and margin
+            -   2 - Large incumbents are competitors BUT they're also potential acquirers (they will create exit opportunities)
+            -   3 - High market cap and cash rich companies tend to be great strategic investors at the later stages for a company
+-   **54) Market: Do you know your competitors?**
+    -   If an investor asks about competition:
+        -   You should be able to name your top 3-5 competitors and how much money they have raised
+        -   And you should also be able to explain how and why what you're offering is better for customers
+            -   If you were building a video game platform and your #1 competitor was Roblox, you could say:
+                -   "Roblox takes a 30% fee and they're focused on kids, we take a 15% fee and we pay creators MORE than anyone else"
+        -   It's also a bonus if you know ballpark revenue numbers
+        -   This information is typically pretty easy to find through Crunchbase or Pitchbook
+    -   Here is a scenario that happens often when founders are pitching me:
+        -   I ask them: "Who are your main competitors"
+        -   And they say: "We don't have any competitors"
+        -   You ALWAYS have competition!
+        -   Even if nobody is going after the same customer segment, there will still be other companies in your vertical
+        -   Even Uber - who basically created a new industry with the gig economy - had competitors: they were originally competing against yellow cabs
+    -   If you know the ins and outs of your competition, you will come across VERY credible to investors
+    -   And when you're trying to raise money, increasing credibility key!
+-   **55) Market: What are the barriers to entry in your market?**
+    -   For most tech industries, the barriers to entry are pretty low - examples:
+        -   E-commerce
+        -   Enterprise software
+        -   Consumer software
+        -   Marketplaces
+    -   Most of the regulations are common sense stuff - no lewd content, no securities fraud, don't lie to investors or customers, etc.
+    -   In crypto, there are almost zero headwinds (until you get caught)
+        -   Ex: Tether has been operating a stablecoin for years that's now worth ~$70B without every undergoing a real audit or disclosing the makeup of their commercial paper
+    -   In enterprise software, some headwinds start to exist around security and compliance once you get to scale (signing contracts worth six figures and up)
+    -   In healthcare, housing, and education, there are massive barriers to entry:
+        -   federal regulations for healthcare
+        -   zoning and building permits for housing
+        -   local regulations for education
+    -   All of these barriers take TIME and MONEY to pass
+    -   That's why VCs are skeptical about those businesses
+    -   Music was also viewed as a really tricky market, until Spotify figured it out (and the prize was huge: they are a >$50B company)
+    -   Another headwind: Is your market limited by factors out of your control
+        -   Ex: Oculus developers can only build software for the hardware they are given
+            -   AND their games will only go as far as the market for VR headsets takes them
+    -   But keep in mind:
+        -   The bigger the barriers to entry, the deeper the moat
+-   **56) Branding: Is your company name easy to say and spell?**
+    -   Does your company name pass the "bad telephone test"?
+    -   If not, you might be doomed from the start
+    -   This especially matters for consumer-facing companies
+    -   Remember the classic Bezos story from Brad Stone's book ["The Everything Store: Jeff Bezos and the Age of Amazon"](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon-ebook/dp/B00BWQW73E):
+        -   Jeff Bezos originally wanted to name his company "Cadabra"
+            -   To convey how magical online shopping was
+        -   But Bezos's lawyer convinced him that the name sounded too similar to "Cadaver" after he couldn't understand the name over the phone
+        -   Bezos took his advice and named his company Amazon
+    -   How many great consumer-facing companies do you know that have really complex, weird names? Not a lot!
+    -   Look at how great and simple these names are:
+        -   Uber
+        -   Calm
+        -   Airbnb
+        -   Netflix
+        -   Spotify
+        -   Google
+        -   Amazon
+        -   Pinterest
+        -   Robinhood
+        -   Soundcloud
+    -   Now let's look at some great enterprise names:
+        -   Zoom
+        -   Slack
+        -   Shopify
+        -   Salesforce
+-   **57) Branding: Do you have a great domain name?**
+    -   Great domain names build trust and prove to investors that you are able to negotiate something of value
+    -   If they can negotiate a six or seven figure domain name away from the owner, that's a big tell that the founder can be successful
+    -   [Calm.com](http://Calm.com) impressed Jason immediately
+    -   If you can't get the domain name, there are a few easy things you can do:
+        -   [GetCalm.com](http://GetCalm.com)
+        -   [TryCalm.com](http://TryCalm.com)
+        -   [BeCalm.com](http://BeCalm.com)
+        -   [GoCalm.com](http://GoCalm.com)
+    -   This goes for social handles as well!
+-   **58) Branding: Logos: When and how?**
+    -   What comes first - the MVP or the logo?
+        
+    -   Logos are hard to get right
+        
+    -   You shouldn't shoot for a 10/10 immediately
+        
+    -   You can be comfortable with a 7-8/10
+        
+    -   Classic example of bad early design but great product: Uber!
+        
+        ![ubercab.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7f1da64-354a-4a68-9693-7d9c9b919e3d/ubercab.jpeg)
+        
+    -   The product was so good that the terrible design didn't matter
+        
+-   **59) Branding: Is your website beautifully designed and clear?**
+    -   Terrible websites destroy your credibility with investors
+    -   If you're selling to enterprise customers, your website's landing page will be the first place many people interact with your company and brand
+    -   If your website is ugly, clunky, and hard to navigate...
+        -   You are leaving a really bad first impression on potential customers/investors!
+    -   LAUNCH Example:
+        -   Mahreen (who runs Remote Demo Day) had a founder tell her that a bunch of high profile VCs were interested in investing so LAUNCH needed to move fast to invest
+        -   Mahreen checked out their website and product...
+        -   and it looked like it was from 1999
+        -   the founder immediately lost some credibility
+-   **60) Branding: Do you have a concise company mission?**
+    -   What is the goal of your company?
+    -   Why do you get up for work everyday?
+    -   This should be a simple sentence that describes your mission
+    -   Examples:
+        -   Robinhood: Democratize finance
+        -   LAUNCH: Support founders and inspire innovation
+        -   Jetson (the E-VTOL startup we covered earlier this week): Make anyone a pilot
+        -   Airbnb: "Create a world where anyone can belong anywhere"
+        -   Uber: "Create opportunity by setting the world in motion"
+        -   Amazon: "We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience"
+
+## Episode 7 - **[Optimizing Operations](https://youtu.be/hDil4cuL2zc?t=1758)**
+
+-   **61) Do you have a low-burn culture?**
+    -   As a founder you set the tone for your company in all things
+        -   Especially in how you spend money
+    -   When you're able to save money, put it back into your product
+        -   No excessive spending - act like a startup
+            -   When using tools
+                -   Use free versions of tools until you outgrow them
+                    -   Why pay for a solution that Google sheets provides for free?
+                -   Negotiate contracts for all vendors
+            -   When looking for office space
+                -   With covid & distributed teams -
+                    -   There is no need for expensive office space
+                -   Getting a fancy space sets the tone completely **wrong** for your startup and the people you hire
+            -   When you travel - do so responsibly
+                -   If your team travel have one person in charge
+                -   Instruct them to get the best deal for your company
+            -   Don't waste money on swag
+    -   On [Episode 934](https://www.youtube.com/watch?v=qux4kywXog8) we spent an hour on the importance of maintaining a low-burn culture as part of Scaling your Startup series
+-   **62) Can you calculate your burn rate and runway?**
+    -   Burn rate:
+        
+        -   First, you need to know your revenue
+        -   Are you charging for your product?
+        -   If you're not making any revenue, your burn is whatever you spent last month
+    -   So how do you calculate your burn rate?
+        
+    -   Revenue - Spend = Burn
+        
+    -   Most startups are not profitable
+        
+        -   This is normal, it takes investment to grow a business
+    -   In startups, we call it "burn" to give the appearance that we're on a rocket ship...
+        
+        -   but in reality, "burning" cash really just means you're losing money
+    -   If your burn varies widely from month to month, you can take the last three months average and use that to calculate it
+        
+    -   Bonus: Do you know your burn multiple?
+        
+        -   VCs sometimes use the Burn Multiple to help understand product-market fit
+            
+        -   Burn Multiple measures how much a startup is burning in order to generate each incremental dollar of ARR
+            
+        -   Formula is Net Burn / Net New ARR
+            
+        -   David Sacks & Craft use the following as a rule of thumb:
+            
+            ![burn mult.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01da1430-2d02-4f6b-a486-ed9a3da773a5/burn_mult.png)
+            
+    -   Runway:
+        
+        -   Runway means how many months you can continue to operate before you run out of money at your current pace of spending?
+        -   If you are profitable, your runway is infinite 🙂
+    -   To know your runway, you need to know two things:
+        
+        -   how much money you lose every month?
+        -   how much cash do you have in the bank?
+    -   As a rule of thumb, we prefer founders to have 18 months of runway in the bank after fundraising
+        
+        -   Do you have at least 18 months of runway?
+        -   You want to have some time between rounds to focus on growth and product
+        -   We suggest planning at least 6 months for fundraising
+    -   Keeping track of your runway will help you manage spending
+        
+    -   If you can measure it, you can manage it
+        
+-   **63) Do you have a forward looking org chart plan?**
+    -   Early on as a founder you are doing everything
+        -   You are the org chart!
+        -   As we discussed in episode five (where we covered Building a Great Team) you want to hire generalists early on
+            -   So it might not be vital to have a formal org chart in the early days
+            -   But it is important to know who is responsible for what tasks as you scale out your business
+    -   Then as your team grows an org chart begins to provide structure
+        -   And if you can model a forward-looking structure for your startup, you can scale your startup!
+        -   Ex: How many Salespeople will you need to hit $X amount of revenue? What other roles will you need to fill to maintain the company as your selling more?
+    -   For example, at LAUNCH we have clear teams and people assigned to them
+        -   Production Team (Nick, Charles, Justin, Rachel)
+        -   Syndicate Team (Ashley, Heidi, Amber)
+        -   Investment Team (Jacqui, Presh, Mahreen)
+        -   Now we can model out how to scale up these teams
+    -   We are also working on implementing a Single Threaded Leader (STL) on new projects
+        -   This was made popular by Amazon
+            -   described as:
+                -   "STL is 100% dedicated and accountable to a new initiative"
+                -   "This could be inventing a new product, launching a new line of business, or executing a digital transformation."
+    -   Having an org chart helps track where your heavy workloads are and can drive hiring decisions
+-   **64) Are you tracking and properly categorizing expenses?**
+    -   It is always important to know how much you are spending
+        
+        -   And on what!
+    -   Founders that are not properly categorizing expenses call fall into serious trouble if it goes unchecked
+        
+        -   It might sound boring and silly — but we occasionally see this issue with early-stage founders
+        
+        Also - have a separate bank account. Do NOT use your personal
+        
+    -   In our 12-week [Founder.University](http://Founder.University) course we encourage founders to create an "Application Tracker" in the initial weeks
+        
+        -   Essentially, it's a spreadsheet where founders track info on any tool, resource, application, etc that they are testing or paying for
+        -   In this spreadsheet they also:
+            -   assign an owner of each tool
+            -   track when the free trial expires
+            -   and how much it costs
+        -   This provides a nice visual of where founders are spending money
+            -   These small expenses can add up quickly
+        -   The team can then review at any time which tools or expenses are still needed and which are unnecessary
+-   **65) Are you doing a monthly P&L and balance sheets?**
+    -   What the difference?
+        -   According to Investopedia:
+            -   The balance sheet reports the assets, liabilities and shareholder equity at a specific point in time
+            -   while a P&L (profit & loss) statement summarizes a company's revenues, costs, and expenses during a specific period of time
+    -   Typically these are reviewed every quarter at a minimum
+    -   P&L and Balance Sheet together is an instant "snapshot of your business"
+    -   Always have these on hand when you're talking with investors
+    -   If you type in "P&L template" or "balance sheet template" on Google there are tons of great templates and tools available
+    -   Sometimes founders will outsource this work
+        -   That is fine but you should review it at least monthly
+        -   Check their work diligently
+        -   As a founder you need to understand your P&L balance sheets
+        -   This can help you forecast any possible scenarios (whether it be growth or going backwards)
+-   **66) Make a growth plan and resource it properly.**
+    -   When you want to raise money from investors, you should have a clear growth plan
+    -   Basically: map out how you will spend your targeted raise down to the dollar
+    -   Growing or Zombie mode
+    -   Examples we go through at LAUNCH:
+        -   Give three different growth models: 5% MoM, 10% MoM, 20% MoM (best cast, worst case, medium case)
+        -   Then, map out how you will hit these numbers based on the data you already have
+        -   If you're a SaaS business: how many new salespeople will it take to hit 20% MoM growth?
+        -   Or, how many months does it take an average salesperson to pay for themselves?
+        -   If you know these numbers, you can model out your growth for years to come
+-   **67) Make sure you're using accrual-based accounting—not cash-based.**
+    -   Startups should ALWAYS use accrual-based accounting
+        -   Public companies are REQUIRED to use accrual-based accounting, rather than cash-based
+        -   Accrual-based is GAAP - or a Generally Accepted Accounting Principle
+    -   Will investors avoid your company if you used cash-based accounting?
+    -   Essentially, accrual-based accounting is when you record revenues and expenses when they are earned, regardless of when the money is actually received or paid
+    -   For SaaS businesses - this means an annual contract is recognized over 12 months, not up front
+    -   You need to know when and how your revenue being recognized
+-   **68) Are you "default alive." and why that's so meaningful?**
+    -   Default alive was coined by [Paul Graham in a 2015 essay](http://www.paulgraham.com/aord.html)
+    -   Default alive means you can make it to break even or profitability with your current runway
+        -   Meaning that you don't need to raise any more money to be profitable
+        -   This puts you in the drivers seat as a founder
+            -   You only need to raise money if you want to
+        -   In September 2019 I coined the term "[Pegasus](https://calacanis.com/2019/09/09/the-pegasus-startup-flying-over-vcs-on-the-wings-of-profits/) Startup" in a blog post
+        -   Here is the QUOTE:
+            -   "A Pegasus startup is one that is so profitable that it is able to use its profits to soar so high, that it skips multiple rounds of funding."
+        -   Current Pegasus companies in my portfolio:
+            -   Calm
+            -   Fitbod
+    -   Default dead means:
+        -   Default dead means you need at least another round of funding before you can be profitable
+        -   Or - if you never raise money again, you will eventually die
+        -   In this case, your mindset should be "How can we save the company?"
+-   **69) Establish a frugal—but not cheap—culture.**
+    -   Cheap examples
+        -   Losing a stellar employee because you haven't given them a raise in years
+        -   Being super tight with giving early employees equity (Taso Du Val from TopTal)
+        -   Being late on paying salaries
+        -   Haggling on price on unnecessary things
+    -   Frugal
+        -   Know every dollar coming in and out of your company
+        -   If you are NOT wildly profitable, you should NOT waste any money on:
+            -   fancy office space
+            -   daily catered lunches
+            -   snacks
+        -   Crazier example of reckless spending:
+            -   Adam Neumann bought a $60M private jet while WeWork was on pace to lose $1.9B in 2018
+-   **70) Read "The Lean Startup"**
+    -   The Lean Startup was originally published in 2011
+        
+    -   The author Eric Ries was on the podcast:
+        
+        -   [E199](https://thisweekinstartups.com/eric-ries-of-the-lean-startups-199/)
+        -   [E1041](https://thisweekinstartups.com/e1041-the-lean-startups-eric-ries-gives-tactical-advice-for-founders-during-an-economic-downturn-obligations-of-leadership-extending-runway-handling-layoffs-with-grace-finding-new-revenue-oppor/)
+    -   Some great short QUOTES from the book:
+        
+        -   "Startup success can be engineered by following the right process, which means it can be learned, which means it can be taught."
+        -   "…lean manufacturing, design thinking, customer development, and agile development"
+        -   “Success is not delivering a feature; success is learning how to solve the customer’s problem.”
+    -   **The book also mentions "The Five Whys" a method developed by Toyota to get to the core of any issue:**
+        
+        Ries applies the "Five Whys" to a startup:
+        
+        Example QUOTE from an Eric Ries [article](https://hbr.org/2010/04/the-five-whys-for-startups) in the Harvard Business Review:
+        
+        1.  A new release broke a key feature for customers. Why? Because a particular server failed.
+        2.  Why did the server fail? Because an obscure subsystem was used in the wrong way.
+        3.  Why was it used in the wrong way? The engineer who used it didn’t know how to use it properly.
+        4.  Why didn’t he know? Because he was never trained.
+        5.  Why wasn’t he trained? Because his manager doesn’t believe in training new engineers, because they are “too busy.”
+    -   Ries argues that to build a great company, you should start with the customers in the form of interviews and research discovery.
+        
+    -   Building an MVP and then testing and iterating quickly results in less waste and a better product-market fit.
+        
+
+## Episode 8 - **[Preparing to Fundraise](https://youtu.be/Dr1Gh4uo2qQ?t=970)**
+
+-   **71) Is your company a Delaware C-Corp?**
+    -   If you are not a Delaware C-Corp that's an immediate non-starter for venture funding
+    -   Why a Delaware C-Corp?
+        -   Delaware law is favorable to shareholders
+        -   It means the company must do what is best for the shareholders
+        -   It is also what everyone is most familiar with
+            -   Investors are comfortable because it is what they know
+            -   Process is straight forward
+        -   There is limited liability
+        -   There are some tax benefits
+    -   If you're an international company looking to raise from US VCs, but you don't have a US entity, what should you do?
+-   **72) Do you have a clean cap table?**
+    -   A messy cap table is a HUGE red flag for investors, and can stop someone from investing
+    -   Having a messy cap table in the early-stage is the biggest red flag we see at LAUNCH
+    -   How much the founders should own at each stage:
+        -   Pre-series A: the founders should collectively own 50-65%
+        -   Series A: they get cut to 40-50%
+        -   Series B: 30-40%
+        -   Series C: 20-30%
+        -   IPO/Exit: 10-20% ownership
+    -   Do NOT give away a large percentage of your company to a dev shop or consulting firm in the early days
+    -   Investors will want to see that you've been capital efficient
+        -   If you've raised a lot of money and are still pre-revenue or pre-product, that will raise red flags with investors
+-   **73) Do you understand dilution?**
+    -   What is dilution?
+        -   Definition: the reduction in equity as new shares are issued
+        -   Simple terms: the more of the company you sell, the less of it you own
+        -   Again - it is SO important to not get too diluted too early
+    -   Common shares and preferred shares
+        -   Common shares are what founders, employees, and advisors get
+        -   Preferred shares are what investors get
+            -   Preferred shares means that the investors get their money out FIRST, before the founders or employees
+            -   It also includes information rights, board rights, and more
+    -   Understanding pre- and post-money valuations:
+        -   Pre-Money
+            -   Pre-money is the valuation BEFORE the new capital has been accounted for
+        -   Post-Money
+            -   Post-money is the valuation after the new capital has been added to it
+        -   Ex:
+            -   Company A raises $100M at a $900M valuation
+                -   Their pre-money valuation is $900M
+                -   Their post-money valuation is $1B
+-   **74) Eliminate any other "surprise red flags" from diligence (aside from cap table)**
+    -   Here are some major "surprise red flags" that investors see:
+        -   Outstanding lawsuits
+        -   Disgruntled former employees (that could potentially sue down the road)
+        -   Are you paying rent out of the business instead of paying yourself a salary
+        -   Cash-based accounting (covered this on E6)
+        -   Not being intellectually honest about the business
+-   **75) Build a data room**
+    -   What is a data room?
+        -   A place where important documents are saved and easily accessible for the due diligence process
+        -   Essentially just a Google Drive with the following contents...
+    -   Items you should include in your data room:
+        -   Financials: P&L and balance sheet
+        -   Founders legal names and email
+        -   Board minutes
+        -   Bank statements
+        -   Incorporation documents
+        -   Documents from any previous raises: Convertible Notes / SAFEs
+        -   Cap Table
+    -   Other items that are helpful to include (but not necessary):
+        -   App reviews
+        -   Cohort data (retention/churn data)
+        -   Number of full-time employees
+        -   Number of part-time employees
+        -   How much money you have raised to date
+            -   And from whom
+            -   Do any of them have side letters?
+        -   What is the name of your lawyer?
+            -   What firm are they from?
+        -   Having a tight data room RAISES credibility!
+-   **76) Understand startup funding documents**
+    -   **Convertible Securities**
+        -   Investments that CONVERT at an event that is specified in the investment documents.
+        -   EX: When $1M or more is raised in a priced round, the investment converts to equity at the predetermined valuation or cap.
+    -   **SAFE:**
+        -   Simple Agreement for Future Equity
+        -   They were introduced by YC in 2013
+        -   Not meant to be paid back, typically has a cap and a discount
+        -   Generally the least expensive way to raise money from a legal perspective
+        -   Remember TopTal - They never raised another round of funding after their SAFE - so investors never got money back
+    -   **Convertible Note:**
+        -   A debt instrument or "loan" that isn't meant to be paid back but can be at the investors request.
+        -   Has an interest rate, typically has a cap and discount
+        -   Long form document that has more protections for investors (more investor friendly)**
+    -   **Here is a CAVEAT w/ convertible securities:**
+        -   Founders should set a minimum investment amount: $50k is a good target
+        -   Then, don't raise at too many caps/discounts
+        -   Why? Because it's tough to know your true ownership as a founder and it can make the conversion at a priced round chaotic and more expensive
+    -   **Priced Round:**
+        -   A priced round is an offering and sale of newly-created stock in your company at an agreed-upon per share price
+        -   Typical cost for a priced seed round using standard documents is $12k-$20k
+            -   Could be more depending on how much clean up is need from multiple SAFE/Note rounds
+-   **77) Have a plan that gets you to 18 to 24 months of runway**
+    -   18-24 months is the sweet spot
+        -   Raising too little will force you to start fundraising again too fast
+            -   Fundraising is a full-time job
+        -   Raising too much (giving yourself 3-5 years of runway) will hurt you
+            -   Your early-stage valuation will dilute you too much at a larger dollar amount
+    -   Remember: You're optimizing for finding PMF, not for an IPO
+    -   In point 66 I talked about building a growth model, here is where that comes in handy again:
+        -   Build a financial model for high growth, average growth, low growth
+            -   High growth/24 months of runway = is the upper limit for your target raise
+-   **78) Do you know how to value your startup?**
+    -   Your valuation is mostly determined by the market
+    -   BUT, here is how you can think about it:
+        -   If you land a lead investor, they will set the terms.
+        -   If you go the party round route, though, you will need to set your own terms.
+        -   It's a crazy market (November 2021); valuations are 50%-100%+ higher than what they were last year.
+            -   Previous formula was roughly 10x ARR = valuation.
+                -   So, a company generating $1M of revenue is worth $10M
+            -   In this market, valuation calculator is out the window.
+                -   David Sacks recently said 100x ARR has become the standard for enterprise SaaS startups
+                -   So that $1M revenue company is now worth $100M instead of $10M
+            -   There will be higher valuations for trendy verticals and serial entrepreneurs with past success
+-   **79) Start governance early**
+    -   Hold board meetings even if it's just two founders and an advisor
+    -   Add "Board minutes" to your data room - even if it's just you and your co-founder, or you and an advisor
+    -   Meet quarterly and talk about the business
+        -   Strategy, headwinds, any major
+    -   You don't need to meet for 3 hours, but taking the time to do this will be a positive signal for downstream investors
+-   **80) Know that fundraising is a full-time job**
+    -   Do you have team members who can pick up the slack while you fundraise?
+    -   Goes back to the Startup Flywheel
+        -   Hiring a great team is vital
+    -   Solo founders will have a hard time being successful at this
+    -   Founders should block off 6 months to fundraise
+
+## Episode 9 - **[Fundraising Process](https://youtu.be/BBE_heyd2iE?t=1009)**
+
+-   **81) Be able to pitch your startup effectively and concisely**
+    -   Jason's Rules for Pitching
+        
+        1.  Get to the product in 15 seconds
+        2.  Examples matter (of people using the product)
+        3.  Synchronicity (be talking about what’s on the screen)
+        4.  One slide - one message (keep it simple)
+        5.  Show don’t tell (performance data, customers, process steps > lots of text & vague descriptions)
+    -   Remember from checklist item #22:
+        
+        -   "OSS" - One simple sentence explaining your startup
+            -   No jargon, no marketing-speak
+            -   just say what your company does in the most basic way
+    -   Get the team involved
+        
+        -   The founder should not make this deck alone
+        -   Include any employees that has important insights in this
+            -   Sales provides input on sales slides
+            -   Engineering provides input on product slides
+    -   This is a lot of what we do at the LAUNCH Accelerator -
+        
+        -   We help founders perfect their three-minute pitch to investors
+        -   We train them on how to answer investor questions
+-   **82) Do you know how to find investors?**
+    -   NOT just the firm — but the specific investor
+    -   Some investors/firms are stage-specific, some are vertical-specific, and some are geo-specific
+        -   You don't want to try and pitch a growth-stage firm if you're raising a Seed round, for example
+        -   Others are agnostic to stage, vertical, and geo
+    -   Learn HOW they invest
+        -   Some investors only lead, some investors only follow, and some do both!
+        -   Of the followers-only, some will follow only if there is a lead, and some will be okay in a party round.
+            -   It might not be clear until you start to have conversations with them.
+    -   Tips for finding the right investors:
+        -   Who has invested in companies in your space? (Note: avoid investors of direct competitors.) Crunchbase and NFX Signal are good resources.
+        -   Once you identify firms, check out the firm team page and LinkedIn for each investor's focus and previous investments.
+        -   Research their background (past winners, were they an entrepreneur?)
+        -   Follow them on social media (retweet them, add them to lists, engage)
+        -   Learn what they care about, read their blogs
+        -   Tailor your outreach accordingly; explain why are you targeting that specific investor
+        -   No "spray and pray."
+    -   When you find an investor that fits your stage and vertical:
+        -   Research when they raised their last fund
+        -   If they've recently announced a new fund - they are LOOKING to deploy capital
+        -   PitchBook lists "Dry Powder" for VC firms - which is an approximation of how much capital they have to invest
+-   **83) Do you know how to build a fundraising pipeline?**
+    -   Now that you know how to find investors, how many of them do you need to pitch to get a term sheet?
+    -   Here is what a typical fundraising funnel could look like:
+        -   Large list: 150 investors
+        -   Curated list: 125 investors
+        -   First meetings on Zoom: ~50
+        -   Second meetings: ~25
+        -   Go into diligence: 10
+        -   Term sheets: 1-3
+    -   So those 150 top of funnel investors could net you 1-3 term sheets
+    -   This varies greatly from startup to startup
+    -   This Week in Startups: Scaling Your Startup has a ton more info
+        -   E1210 "[Fundraising](https://www.notion.so/Scaling-Your-Startup-Fundraising-S2E4-with-Density-s-Andrew-Farah-SoleSavy-s-Dejan-Pralica-E1-16b46dc910f04c65ab96a7c62a5e60d9)" - Season 2 with Andrew Farah of Density and Dejan (pronounced "Dee-on") Pralica of SoleSavy has great fundraising strategies from the founder perspective: [thisweekinstartups.com/scale](http://thisweekinstartups.com/scale)
+-   **84) Do you know Jason's "Perfect cold email" template?**
+    -   Short and to the point
+    -   Examples matter
+    -   Should include a short, personalized intro (1-2 sentences)
+    -   And then these numbers:
+        -   How many customers/users
+        -   How you make money
+            -   Last 3 three months of revenue
+        -   Quick product demo (Loom)
+        -   Charts are good — show don't tell
+        -   The more wordy, the less likely it is to be read
+-   **85) Do you know the "Loom, Zoom, Room" Rule?**
+    -   This is the standard for remote investing
+    -   It’s super simple:
+        -   First, send investors a product demo where you record yourself sharing your screen and walking through your product
+            -   A company called **Loom** does this automatically
+        -   Next comes the **Zoom** meetings (~30 minutes is ideal on Zoom for a first meeting)
+        -   Finally, you can meet in an actual **Room** to close the deal (or for a second meeting if they are local)
+-   **86) Nailing your first meeting**
+    -   Prep:
+        -   Best practice is to have two decks (5-min and 15-min) ready
+            -   If using the short version, include an appendix to go into more detail if asked
+                -   include financial models and in-depth analyses (on competition, cohort and market)
+            -   You can send this as a follow up if you don't get to it in the meeting
+        -   Ask the investor: would you prefer to see a product demo and the short deck, or go through the longer deck?
+        -   Have positive, exciting, and contagious energy
+        -   Prepare questions
+            -   Practice answering investors' actual questions, accurately and concisely.
+            -   We practice this in our Accelerator.
+                -   e.g., If an investor asks what was your revenue last month, don't launch into an explanation on the vision.
+                -   Own your early traction, even if modest!
+        -   Before the meeting ends: make sure to have clear action items/next steps
+            -   Ask, "What would it take for you to invest in this round?"
+            -   After the meeting, follow up immediately to thank the investor and address whatever concerns they expressed in answering the above question (about what it would take to invest).
+-   **87) Can you nail the “post-meeting follow up email"?**
+    -   Be positive
+    -   Add things that you think could have been clearer
+    -   Create a sense of urgency
+        -   Best reply (if true): "I have a term sheet"
+    -   NEVER lie
+    -   Follow up (nicely) if you don't hear back
+        -   Include an exciting update since the last email
+-   **88) Do you know how to diligence potential investors?**
+    -   This is different than "researching" investors
+    -   You should figure out how valuable they are as partners
+    -   Investors WILL go deep on diligence on your company
+        -   And you can do that too
+        -   Speak to founders in their portfolio
+            -   What was their experience? Was the VC firm helpful, or were they a net negative?
+            -   You don't want to add a bad investor to your cap table!
+        -   Some investors just write the check and are hands off
+        -   Others are really helpful in various ways
+            -   Some investors have legal expertise, some enterprise sales, some operational, etc
+        -   And some are actually a net negative to your company
+-   **89) Send a great investor update**
+    -   Once a month you should send an update
+        -   Or more!: Twice/month or weekly if you are trying to convert an investor, with an "exciting update" drip campaign!
+        -   Include the "not yet" investors on your updates; the ones who expressed interest but it might be too early for them.
+        -   Convince them over time!
+    -   You can have two separate updates:
+        -   One you send you current investors
+        -   And one you send to potential investors that you're trying to close
+            -   (and to whom you might not want to disclose certain information)
+    -   Here is what we look for in our portfolio founder updates at LAUNCH:
+        -   Charts:
+            -   Show month over month growth
+            -   Revenue
+            -   Spend (Expenses)
+            -   Burn/Profit
+            -   Cash on Hand
+            -   Runway
+            -   Team Size
+        -   Product Data
+            -   Updates
+            -   Key Findings
+        -   Highlights/lowlights
+        -   If you need help or advice — ask!
+-   **90) Understand SEC rules around fundraising**
+    -   When you're raising 506(b) (most common) you can't talk about it publicly
+    -   With 506(c) you can raise in public BUT you have to confirm investors are accredited by reviewing accreditation documents (w2s or letters from lawyer/accountant are most common)
+    -   506(c) usually costs more money because it takes way more time
+        -   and folks usually hire a service to verify accreditation
+    -   Only accept $ from those who truly understand the risk
+        -   meaning: accredited investors
+        -   if you take $50K from your family, what happens if you lose it? Will it ruin your relationship?
+    -   If you take money from a non-accredited investor:
+        -   This can mess up fundraising down the road
+    -   Basically,
+        -   Only take money from accredited investors
+        -   Don't talk about fundraising publicly!
+
+## Episode 10 - [Things We Missed](https://youtu.be/Iw28Ol0a4V4?t=1285)
+
+-   **91) Understand lean management (SOD/EOD)**
+    -   I wrote a blog post in January 2019 titled: [Lean Management: The Power of the EOD Report](https://calacanis.com/2019/01/08/lean-management-the-power-of-the-eod-report/)
+    -   The Start of Day / End of Day / End of Week reports are incredibly powerful
+    -   These are even MORE important when you're managing remote employees
+    -   Basically, at the start of the day my team at LAUNCH lists their top 3-5 goals for the day, that's their SOD
+    -   At the end of the day, they list what they got done
+    -   Then, at the end of the week, they list the 3-5 major things they completed this week
+    -   This should NOT take more than ~5 minutes at the start and end of your day
+    -   If employees argue you about doing this — that's a red flag
+    -   Another tip: Work on your hardest problem first
+        -   Don't leave the hardest stuff for the end of the day!
+-   **92) Hire people smarter than you**
+    -   It's a privilege to be the dumbest / least experienced person in the room
+    -   You want to hire people that can do things you can't do
+    -   And do things you CAN do but better
+-   **93) Understand how to spend your capital efficiently**
+    -   Your total spend should be broken down into different segments
+    -   Here is how great founders typically allocate their capital:
+        -   Salaries: 20%-50% of spend (depending on how high your margins are)
+        -   Office space: Under 10% of spend (especially in COVID)
+            -   This is especially crucial in the days of remote work, where you don't need expensive office space
+            -   The less you spend on office space, the more you can spend on talent
+        -   Marketing: 2-5% of spend
+        -   COGS (Cost of Goods Sold): 20-60% of spend (depending on your business)
+            -   COGS is the cost of delivering the product to the customer
+            -   hardware has high COGS: cost of components/manufacturing, packaging, shipping, warehousing, import/export, personnel costs for sales, implementation, and customer service
+            -   software typically has low COGS: hosting, servers, personnel costs for sales and customer service
+    -   Other spend:
+        -   Professional fees (legal and accounting)
+        -   R&D
+        -   Travel and meals
+        -   Equipment (hardware, desks)
+        -   Subscriptions (software)
+        -   Taxes and licenses
+-   **94) Know the value of "little big things"**
+    -   Little big things are seemingly small UI or UX features that make a huge difference for users
+        
+    -   This was made popular by the blog [littlebigthings.co](http://littlebigthings.co)
+        
+    -   Airbnb CEO Brian Chesky absolutely understands little big things
+        
+    -   A few weeks ago, Airbnb announced they would be adding Wifi verification to host profiles!
+        
+    -   Basically, you can now test and verify the internet speed of an airbnb location before booking it!
+        
+        [airbnb_wifi_169.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d6cf890-c46d-40f9-a5e0-3402cb91d826/airbnb_wifi_169.mp4)
+        
+    -   This is such a small detail, but will make a huge difference for so many people!
+        
+    -   Especially considering that in Q3, about 20% of bookings were long-term stays, and remote workers need good internet!
+        
+-   **95) Be able to do back of the envelope math**
+    -   If a founders gives me numbers that are ridiculously stupid...
+    -   I assume there is something wrong with how they are thinking about the business
+    -   Party trick for understanding a quick runway calculation:
+        -   I ask:
+            -   How much revenue per month
+            -   How many full-time employees
+            -   How much have you raised so far
+        -   Then, I calculate their
+    -   Always know your two week payroll cost AND your last three months of revenue offhand
+    -   It raises credibility!
+    -   Also remember the rule of 72
+-   **96) Read the "Mount Rushmore of Management Books"**
+    -   We already talked about "The Lean Startup" in bullet point #70
+    -   You should also read these three books, which round out the Mount Rushmore of Management Books:
+        -   **Checklist Manifesto**
+            -   By Atul Gawande
+            -   Why?
+                -   The value of checklists
+                -   Pilots used to crash planes, surgeons used to mess up surgeries, until they implemented checklists
+        -   **Working Backwards: Insights, Stories, and Secrets from Inside Amazon**
+            -   By Colin Bryar and Bill Carr
+            -   Why?
+                -   Written culture, single-threaded leaders, managing inputs
+        -   **No Rules Rules: Netflix and the Culture of Reinvention**
+            -   By Erin Meyer and Reed Hastings
+            -   Why?
+                -   Freedom and responsibility
+-   **97) Go through your entire product workflow every week**
+    -   I had Des Traynor on episode 543 back in 2015
+    -   On that episode, he said all founders should go through their entire product workflow at least 1x per week
+    -   This means:
+        -   sign up as a new user
+        -   go through the on-boarding process
+        -   understand what it looks and feels like to sign up and start using your product
+    -   Things to focus on:
+        -   How can you make it easier: less clicks, less time, less friction
+-   **98) Avoid "shiny object syndrome"**
+    -   You don't need to change your business to web3 because it's popular on Twitter
+    -   You don't need to enable NFTs or the blockchain (if you're not a crypto company)
+    -   AVOID Founder ADHD at all costs
+    -   If you find oil, KEEP DRILLING
+    -   Do not lose focus, lots of founders lose focus and the business suffers for it!
+-   **99) Align your team with monthly updates**
+    -   Like an investor update, you should also be updating your team on how the business is going
+    -   And you should have team members contribute to this every month
+    -   This keeps everyone on the same page
+    -   And it forces different team members to take responsibility and deeply understand what they're working on
+-   **100) NEVER lie (In general, but ESPECIALLY when you're raising money)**
+    -   This should be a no brainer, but it's so important
+    -   When you are fundraising, you are selling securities
+    -   so always being 100% truthful is important
+    -   If you lie, or misrepresent the truth, you are committing securities fraud
+        -   in this case, knowingly omitting information is also lying
+    -   Never, ever, ever lie (in general, but ESPECIALLY when you're raising money)

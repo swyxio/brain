@@ -25,6 +25,10 @@
 ## competing against DIY
 
 
+## abramov distance
+
+distance 0,0,0 and optimizing for change
+
 ## affordances and guessable apis
 
 ## misc

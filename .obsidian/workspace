@@ -7,8 +7,12 @@
         "id": "0eefd0b596a36dc7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "R - Company Running/Marketing.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "R - Company Running/Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "R - Company Running/Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "R - Company Running/Marketing.md"
+              }
             }
           }
         ]
@@ -130,10 +138,10 @@
   },
   "active": "0eefd0b596a36dc7",
   "lastOpenFiles": [
+    "R - Company Running/Marketing.md",
     "R - Investing & Ideas/Email app.md",
     "A - Mixtape/Mixtape Interviews.md",
     "R - Creator Resources/Youtube.md",
-    "R - Company Running/Marketing.md",
     "A - Writing/tweet ideas.md",
     "R - Goodreads/Paradigm busting.md",
     "R - Goodreads/Getting Things Done.md",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Creator Resources/Personal Sites.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Creator Resources/Personal Sites.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Creator Resources/Personal Sites.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+            "file": "R - Creator Resources/Personal Sites.md"
           }
         }
       }
@@ -122,13 +122,13 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "R - Creator Resources/Personal Sites.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Dev Notes/Databases/SQL databases.md",
     "Untitled.md",
     "T.md",
     "R - Dev Notes/Temporal/Argo.md",
     "R - Creator Resources/Ship30for30.md",
-    "R - Creator Resources/Personal Sites.md",
     "R - Dev Notes/Open Source Funding.md",
     "R - Dev Notes/Open Source Funding 2.md",
     "R - Better Questions/startup investing questions.md"

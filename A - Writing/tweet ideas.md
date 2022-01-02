@@ -2,6 +2,11 @@
 https://whattotweet.com/#
 
 
+bungled ideas
+- vine vs tiktok https://twitter.com/AlecStapp/status/1477456895728230404
+- Zoom vs skype
+
+
 learning directly proportional to skin in the game
 - learning just in case - ngmi - sloth
 - learning to keep up with peers - envy

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Goodreads/Getting Things Done.md",
+            "file": "R - Company Running/Marketing.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5,
-    "collapsed": true
+    "width": 482.5
   },
   "right": {
     "id": "cf852feca12da0a7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Goodreads/Getting Things Done.md",
+                "file": "R - Company Running/Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Goodreads/Getting Things Done.md",
+                "file": "R - Company Running/Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Goodreads/Getting Things Done.md"
+                "file": "R - Company Running/Marketing.md"
               }
             }
           }
@@ -139,15 +138,15 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "R - Company Running/Marketing.md",
+    "A - Writing/tweet ideas.md",
+    "R - Goodreads/Paradigm busting.md",
     "R - Goodreads/Getting Things Done.md",
     "R - Dev Notes/Databases/SQL databases.md",
     "Untitled.md",
     "T.md",
     "R - Dev Notes/Temporal/Argo.md",
     "R - Creator Resources/Ship30for30.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Creator Resources/Personal Sites.md",
-    "R - Dev Notes/Open Source Funding.md",
-    "R - Dev Notes/Open Source Funding 2.md"
+    "A - Mixtape/Mixtape Daily Clip notes.md"
   ]
 }

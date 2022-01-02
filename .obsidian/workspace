@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "402c8c6fff032b87",
+        "id": "0eefd0b596a36dc7",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -128,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "402c8c6fff032b87",
+  "active": "0eefd0b596a36dc7",
   "lastOpenFiles": [
+    "R - Investing & Ideas/Email app.md",
+    "A - Mixtape/Mixtape Interviews.md",
     "R - Creator Resources/Youtube.md",
     "R - Company Running/Marketing.md",
     "A - Writing/tweet ideas.md",
@@ -137,8 +139,6 @@
     "R - Goodreads/Getting Things Done.md",
     "R - Dev Notes/Databases/SQL databases.md",
     "Untitled.md",
-    "T.md",
-    "R - Dev Notes/Temporal/Argo.md",
-    "R - Creator Resources/Ship30for30.md"
+    "T.md"
   ]
 }

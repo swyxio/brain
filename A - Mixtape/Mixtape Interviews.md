@@ -2,6 +2,7 @@
 
 - mjwhansen interview
 - stevekrouse chat
+- nx guys
 
 ## prelude script
 

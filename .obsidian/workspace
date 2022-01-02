@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7547700a1d1ac374",
+        "id": "402c8c6fff032b87",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "R - Company Running/Marketing.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Company Running/Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Company Running/Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "R - Company Running/Marketing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7547700a1d1ac374",
+  "active": "402c8c6fff032b87",
   "lastOpenFiles": [
+    "R - Creator Resources/Youtube.md",
     "R - Company Running/Marketing.md",
     "A - Writing/tweet ideas.md",
     "R - Goodreads/Paradigm busting.md",
@@ -146,7 +139,6 @@
     "Untitled.md",
     "T.md",
     "R - Dev Notes/Temporal/Argo.md",
-    "R - Creator Resources/Ship30for30.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md"
+    "R - Creator Resources/Ship30for30.md"
   ]
 }

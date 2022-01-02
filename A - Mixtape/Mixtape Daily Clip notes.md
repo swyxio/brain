@@ -22,6 +22,10 @@ https://overcast.fm/+YsrbSkH4U 55 mins paw patrol
 https://overcast.fm/+eZyDKqtgI elon thinking process 25 mins
 
 
+https://overcast.fm/+a0BqUPDr0 danco
+- tech strategy summary about 30 mins in
+- investing spectrum about 1h in
+
 
 https://overcast.fm/+OOu8ERt88 community led growth
 

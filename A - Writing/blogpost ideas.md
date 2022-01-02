@@ -1,5 +1,12 @@
 # blogpost ideas
 
+why app changelogs don't change
+- hard to coordinate
+- bucket rollouts
+- joke tweet
+- https://twitter.com/swyx/status/1345803928391204864
+
+
 the importance of interfaces
 - open standards > open source https://twitter.com/swyx/status/1472746901711855617
 - Simplifying interfaces are one of the critical elements in creating a successful product and to scaling inside a complex ecosystem. https://martinfowler.com/articles/cant-buy-integration.html

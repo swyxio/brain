@@ -36,6 +36,7 @@
 	- https://www.ggunn.com/
 	- https://paulstamatiou.com/
 	- https://stuffandnonsense.co.uk/
+	- https://experiencehaus.com/
 - Designer-developer
 	- https://ibuildmyideas.com jordan singer
 	- https://www.cassie.codes/
@@ -72,6 +73,7 @@ dont imitate but still notable
 - https://www.allthingsdistributed.com/?
 - https://www.gatesnotes.com/Books/Why-We-Sleep
 - https://www.weekendavisen.dk/2020-15/kultur/fellinis-fantastiske-landskaber
+- vitalik.ca
 
 ## lists
 - https://godly.website/

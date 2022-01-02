@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Company Running/Marketing.md",
+            "file": "R - Creator Resources/Personal Sites.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "personal sites",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Company Running/Marketing.md",
+                "file": "R - Creator Resources/Personal Sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Company Running/Marketing.md",
+                "file": "R - Creator Resources/Personal Sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Company Running/Marketing.md"
+                "file": "R - Creator Resources/Personal Sites.md"
               }
             }
           }
@@ -138,15 +139,15 @@
   },
   "active": "0eefd0b596a36dc7",
   "lastOpenFiles": [
+    "R - Creator Resources/Personal Sites.md",
+    "A - Writing/blogpost ideas.md",
+    "A - DX Circle/dx circle blog ideas.md",
+    "A - Writing/Best Podcasts of 2022.md",
+    "A - Writing/blog patches.md",
     "R - Company Running/Marketing.md",
     "R - Investing & Ideas/Email app.md",
     "A - Mixtape/Mixtape Interviews.md",
     "R - Creator Resources/Youtube.md",
-    "A - Writing/tweet ideas.md",
-    "R - Goodreads/Paradigm busting.md",
-    "R - Goodreads/Getting Things Done.md",
-    "R - Dev Notes/Databases/SQL databases.md",
-    "Untitled.md",
-    "T.md"
+    "A - Writing/tweet ideas.md"
   ]
 }

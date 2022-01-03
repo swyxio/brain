@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Creator Resources/Personal Sites.md",
-            "mode": "source",
-            "source": false
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source"
           }
         }
       }
@@ -19,126 +18,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "325d453fac18f2e7",
-    "type": "split",
+    "id": "381efb65497cf4e1",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1301537177bf7fc8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d61311ad38dc33ac",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "3693aa510ff1b89e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "personal sites",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "a768b7e88dea0606",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "61eba42b101aca31",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "13b1b0fc01827ef3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "61b8a66f27084a7c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d2a615a3d0ed8084",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 482.5
+    "currentTab": 0
   },
   "right": {
-    "id": "cf852feca12da0a7",
-    "type": "split",
+    "id": "82f418f2bfbb2298",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "03251d1c1e1a4f92",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f71840647f0dbe91",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f99b4ea74b76b4d6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Creator Resources/Personal Sites.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4aed1059a31cf6df",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Creator Resources/Personal Sites.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8b1aae1df12bb364",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "a282092dc4957074",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Creator Resources/Personal Sites.md"
-              }
-            }
+        "id": "f11adc9dea1ea1e7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "60c8c6608a4f3f14",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "cce36c21775d26a5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e1f672a7e8ef7dfb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "0eefd0b596a36dc7",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Creator Resources/Personal Sites.md",
     "A - Writing/blogpost ideas.md",
     "A - DX Circle/dx circle blog ideas.md",
@@ -147,7 +131,6 @@
     "R - Company Running/Marketing.md",
     "R - Investing & Ideas/Email app.md",
     "A - Mixtape/Mixtape Interviews.md",
-    "R - Creator Resources/Youtube.md",
-    "A - Writing/tweet ideas.md"
+    "R - Creator Resources/Youtube.md"
   ]
 }

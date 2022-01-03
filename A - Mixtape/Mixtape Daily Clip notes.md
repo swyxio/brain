@@ -45,6 +45,7 @@ netlify discusdion https://overcast.fm/+B1yI4Kmqg
 https://overcast.fm/+eZyA0p5FQ end of software 20mins - peter wang
 https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda and pip and python 2-3 move
 
+3mins browser user agent https://overcast.fm/+LfVNDuulU
 
 ## youtuber
 

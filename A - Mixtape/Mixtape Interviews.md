@@ -3,6 +3,8 @@
 - mjwhansen interview
 - stevekrouse chat
 - nx guys
+- lily chen?
+- ian jennings?
 
 ## prelude script
 

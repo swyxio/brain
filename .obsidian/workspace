@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "A - Mixtape/Mixtape Interviews.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Writing/blogpost ideas.md",
+                "file": "A - Mixtape/Mixtape Interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Writing/blogpost ideas.md",
+                "file": "A - Mixtape/Mixtape Interviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Writing/blogpost ideas.md"
+                "file": "A - Mixtape/Mixtape Interviews.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "0eefd0b596a36dc7",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Interviews.md",
     "A - Writing/blogpost ideas.md",
     "R - Creator Resources/Personal Sites.md",
     "A - DX Circle/dx circle blog ideas.md",
@@ -145,7 +146,6 @@
     "A - Writing/blog patches.md",
     "R - Company Running/Marketing.md",
     "R - Investing & Ideas/Email app.md",
-    "A - Mixtape/Mixtape Interviews.md",
     "R - Creator Resources/Youtube.md",
     "A - Writing/tweet ideas.md"
   ]

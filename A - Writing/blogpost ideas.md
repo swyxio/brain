@@ -7,6 +7,11 @@ why app changelogs don't change
 - https://twitter.com/swyx/status/1345803928391204864
 
 
+new money effect in tech
+- l1's vs rollups in crypto
+- promos in google - big tech
+
+
 the importance of interfaces
 - open standards > open source https://twitter.com/swyx/status/1472746901711855617
 - Simplifying interfaces are one of the critical elements in creating a successful product and to scaling inside a complex ecosystem. https://martinfowler.com/articles/cant-buy-integration.html

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Interviews.md",
+            "file": "R - Company Running/Marketing.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Interviews.md",
+                "file": "R - Company Running/Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Interviews.md",
+                "file": "R - Company Running/Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Interviews.md"
+                "file": "R - Company Running/Marketing.md"
               }
             }
           }
@@ -138,13 +138,13 @@
   },
   "active": "0eefd0b596a36dc7",
   "lastOpenFiles": [
+    "R - Company Running/Marketing.md",
     "A - Mixtape/Mixtape Interviews.md",
     "A - Writing/blogpost ideas.md",
     "R - Creator Resources/Personal Sites.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/Best Podcasts of 2022.md",
     "A - Writing/blog patches.md",
-    "R - Company Running/Marketing.md",
     "R - Investing & Ideas/Email app.md",
     "R - Creator Resources/Youtube.md",
     "A - Writing/tweet ideas.md"

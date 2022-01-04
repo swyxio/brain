@@ -80,7 +80,6 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
 ## Life
 
-what is gtd (https://overcast.fm/+PsDOlCBJo) 5-20 mins explains the system
 
 https://overcast.fm/+PsDPrb3OA duhigg power of habit 5-20 mins
 - magnification of small diffs https://overcast.fm/+L0YUUvpko

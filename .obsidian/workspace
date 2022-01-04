@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Company Running/Marketing.md",
-            "mode": "source",
-            "source": false
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source"
           }
         }
       }
@@ -19,125 +18,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "325d453fac18f2e7",
-    "type": "split",
+    "id": "141c54a2b4c77d38",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1301537177bf7fc8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d61311ad38dc33ac",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "3693aa510ff1b89e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "personal sites",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "a768b7e88dea0606",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "54689a9587a91aad",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "51000fd4534d5ec5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "c1a4695b0d8af6b1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9b8d26c655cd20ac",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 482.5
+    "currentTab": 0
   },
   "right": {
-    "id": "cf852feca12da0a7",
-    "type": "split",
+    "id": "a40996deb28f3c2a",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "03251d1c1e1a4f92",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f71840647f0dbe91",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f99b4ea74b76b4d6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Company Running/Marketing.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4aed1059a31cf6df",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Company Running/Marketing.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8b1aae1df12bb364",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "a282092dc4957074",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Company Running/Marketing.md"
-              }
-            }
+        "id": "a2a55e135759d17a",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a7402162efb70c5a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "ff38ac9e610238d4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5599750fe7bcc1fc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "0eefd0b596a36dc7",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Company Running/Marketing.md",
     "A - Mixtape/Mixtape Interviews.md",
     "A - Writing/blogpost ideas.md",
@@ -146,7 +131,6 @@
     "A - Writing/Best Podcasts of 2022.md",
     "A - Writing/blog patches.md",
     "R - Investing & Ideas/Email app.md",
-    "R - Creator Resources/Youtube.md",
-    "A - Writing/tweet ideas.md"
+    "R - Creator Resources/Youtube.md"
   ]
 }

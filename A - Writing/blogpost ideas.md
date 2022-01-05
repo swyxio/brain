@@ -1,5 +1,12 @@
 # blogpost ideas
 
+tenth doctor beliefs in tech
+- no code review
+- git submodules
+- deploy under 15 minutes
+- dont build in public
+- crossed: cdn first?
+
 why app changelogs don't change
 - hard to coordinate
 - bucket rollouts

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Writing/blogpost ideas.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Writing/blogpost ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Writing/blogpost ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+            "file": "A - Writing/blogpost ideas.md"
           }
         }
       }
@@ -122,6 +122,8 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "A - Writing/blogpost ideas.md",
+    "A - Writing/tweet ideas.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Reviews/Movies.md",
     "R - Creator Resources/Personal Sites.md",
@@ -129,8 +131,6 @@
     "R - Dev Notes/Databases/SQL databases.md",
     "Untitled.md",
     "T.md",
-    "R - Dev Notes/Temporal/Argo.md",
-    "R - Creator Resources/Ship30for30.md",
-    "R - Dev Notes/Open Source Funding.md"
+    "R - Dev Notes/Temporal/Argo.md"
   ]
 }

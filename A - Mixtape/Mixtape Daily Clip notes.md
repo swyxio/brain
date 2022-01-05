@@ -4,7 +4,7 @@ https://overcast.fm/+rTsXrj2F0 45mins questions to reveal info
 
 https://overcast.fm/+cV8odp50c 10mins game theory story
 
-https://overcast.fm/+GQnRRofHI 16 mins how to start a baseball team
+https://overcast.fm/+GQnRRofHI 16 mins how to start a baseball team to 31 mins
 
 ## general dump
 

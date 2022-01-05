@@ -4,26 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "a847694ee5089679",
+        "id": "7547700a1d1ac374",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "R - Creator Resources/Personal Sites.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cf08d6947f2940a7",
+    "id": "325d453fac18f2e7",
     "type": "split",
     "children": [
       {
-        "id": "e8a4ccdba8680973",
+        "id": "1301537177bf7fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "16f9681b298900d7",
+            "id": "d61311ad38dc33ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,12 +34,12 @@
             }
           },
           {
-            "id": "34c371cd592f8e12",
+            "id": "3693aa510ff1b89e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "personal sites",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -46,29 +49,31 @@
             }
           },
           {
-            "id": "5b5cf211c82ff417",
+            "id": "a768b7e88dea0606",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 482.5,
+    "collapsed": true
   },
   "right": {
-    "id": "c5268a9d4497cde3",
+    "id": "cf852feca12da0a7",
     "type": "split",
     "children": [
       {
-        "id": "e425fec65c4542cc",
+        "id": "03251d1c1e1a4f92",
         "type": "tabs",
         "children": [
           {
-            "id": "7d09870a024bc89e",
+            "id": "f71840647f0dbe91",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -76,11 +81,12 @@
             }
           },
           {
-            "id": "f37533ae06155d20",
+            "id": "f99b4ea74b76b4d6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "R - Creator Resources/Personal Sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +98,19 @@
             }
           },
           {
-            "id": "4a146505fe8486f1",
+            "id": "4aed1059a31cf6df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "R - Creator Resources/Personal Sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "95121042080d4f83",
+            "id": "8b1aae1df12bb364",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +121,13 @@
             }
           },
           {
-            "id": "7be1cf7a0e34d530",
+            "id": "a282092dc4957074",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "R - Creator Resources/Personal Sites.md"
+              }
             }
           }
         ]
@@ -128,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a847694ee5089679",
+  "active": "7547700a1d1ac374",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Company Running/Marketing.md",
-    "A - Mixtape/Mixtape Interviews.md",
-    "A - Writing/blogpost ideas.md",
     "R - Creator Resources/Personal Sites.md",
-    "A - DX Circle/dx circle blog ideas.md",
-    "A - Writing/Best Podcasts of 2022.md",
-    "A - Writing/blog patches.md",
-    "R - Investing & Ideas/Email app.md",
-    "R - Creator Resources/Youtube.md"
+    "R - Goodreads/Getting Things Done.md",
+    "R - Dev Notes/Databases/SQL databases.md",
+    "Untitled.md",
+    "T.md",
+    "R - Dev Notes/Temporal/Argo.md",
+    "R - Creator Resources/Ship30for30.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Dev Notes/Open Source Funding.md",
+    "R - Dev Notes/Open Source Funding 2.md"
   ]
 }

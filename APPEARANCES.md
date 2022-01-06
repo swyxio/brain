@@ -39,7 +39,7 @@ make sure os of you https://youtu.be/IzK4IxHv3W0
 - jsnation teaser https://www.youtube.com/watch?v=Nan1hqQ90_4
 - high school hackathon https://youtu.be/2iacVfTQA7k
 - webdirections closing keynote
-- source graph podcast when comes out 
+- sourcegraph podcast - https://about.sourcegraph.com/podcast/swyx/
 - scribe https://scrimba.com/articles/swyx-coding-career-handbook/
 - https://dev.to/gitnation/shawn-wang-on-his-involvement-in-open-source-i-look-for-projects-that-will-die-if-i-don-t-get-involved-5fn3
 - pod rocket 2

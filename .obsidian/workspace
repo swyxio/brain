@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2bd9ad5e083b9d2",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Writing/blogpost ideas.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Writing/blogpost ideas.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Writing/blogpost ideas.md"
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
               }
             }
           }
@@ -138,9 +139,9 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/blogpost ideas.md",
     "A - Writing/tweet ideas.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Reviews/Movies.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Goodreads/Getting Things Done.md",

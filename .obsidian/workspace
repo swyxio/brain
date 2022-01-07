@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "APPEARANCES.md",
+            "file": "R - Goodreads/Historical Takes.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d6967d9e9a8e08d0",
+    "id": "37b7856567246c0b",
     "type": "split",
     "children": [
       {
-        "id": "3a03e41efcfdbb69",
+        "id": "43103adfe8c368ea",
         "type": "tabs",
         "children": [
           {
-            "id": "d0eb6e6881131ae1",
+            "id": "947a708d66937337",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "7a67803120a38f42",
+            "id": "ab571a703f47f356",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "a8b13fab5a724e55",
+            "id": "c3840a6c47680576",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "b2bd9ad5e083b9d2",
+    "id": "600a16a735603c41",
     "type": "split",
     "children": [
       {
-        "id": "fc7afec3e33b6f54",
+        "id": "c8e94d8296a64ebd",
         "type": "tabs",
         "children": [
           {
-            "id": "8a17c87ca860d10b",
+            "id": "b2af9e4e9edd6f79",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "5fe388ce7b88f9f0",
+            "id": "9b6fd7b1bae0a14c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APPEARANCES.md",
+                "file": "R - Goodreads/Historical Takes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "1c909fd6ae5d9dfb",
+            "id": "fed37b024d21f6e5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APPEARANCES.md",
+                "file": "R - Goodreads/Historical Takes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "72e9a73d206144d6",
+            "id": "10a2aef18f5785e7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "8fc02bd7b9554c3a",
+            "id": "ea53ae611464c88d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "APPEARANCES.md"
+                "file": "R - Goodreads/Historical Takes.md"
               }
             }
           }
@@ -138,8 +138,7 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
-    "APPEARANCES.md",
-    "SCRATCHPAD.md",
+    "R - Goodreads/Historical Takes.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
@@ -147,6 +146,7 @@
     "R - Reviews/Movies.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Goodreads/Getting Things Done.md",
-    "R - Dev Notes/Databases/SQL databases.md"
+    "R - Dev Notes/Databases/SQL databases.md",
+    "Untitled.md"
   ]
 }

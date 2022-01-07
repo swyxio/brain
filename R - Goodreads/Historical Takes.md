@@ -14,3 +14,7 @@ flight
 
 ballmer on iphone
 - https://twitter.com/TikTokInvestors/status/1366182914489204743
+
+
+ai
+- In 1970, Marvin Minsky, recipient of the Turing Award (“the Nobel Prize of Computing”), predicted that within “three to eight years we will have a machine with the general intelligence of an average human being.”  https://mindmatters.ai/2022/01/will-chatbots-replace-the-art-of-human-conversation/

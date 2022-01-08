@@ -22,5 +22,4 @@ https://youtu.be/iOGsqVTy9qM voceros
 - sky good grief and the thing i sent to jeanie 
 - https://youtu.be/iwfQKua9B18 stacys mom
 - https://youtu.be/aUOpj29BrbI never enough
-- https://youtu.be/2bx9vTF8x2s guitar fingerstyle
 

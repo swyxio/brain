@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Product/Game Design notes.md",
+            "file": "A - Mixtape/Mixtape Fridays.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "4ebc6c635ab88386",
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "R - Product/Game Design notes.md",
+            "file": "A - Mixtape/Mixtape Fridays.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "R - Product/Game Design notes.md",
+            "file": "A - Mixtape/Mixtape Fridays.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "R - Product/Game Design notes.md"
+            "file": "A - Mixtape/Mixtape Fridays.md"
           }
         }
       }
@@ -122,8 +122,8 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
-    "R - Product/Game Design notes.md",
     "A - Mixtape/Mixtape Fridays.md",
+    "R - Product/Game Design notes.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Goodreads/Historical Takes.md",
     "A - DX Circle/dx circle blog ideas.md",

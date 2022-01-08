@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md",
-            "mode": "source",
-            "source": false
+            "file": "R - Product/Game Design notes.md",
+            "mode": "source"
           }
         }
       }
@@ -19,125 +18,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "37b7856567246c0b",
-    "type": "split",
+    "id": "418d96aae9262a8e",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "43103adfe8c368ea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "947a708d66937337",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "ab571a703f47f356",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "c3840a6c47680576",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "ad704efdf87f4c5c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7278c7e199d307e0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "game design",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "0b1183fabc1dceb8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1081d521126588da",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 1
   },
   "right": {
-    "id": "600a16a735603c41",
-    "type": "split",
+    "id": "4ebc6c635ab88386",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "c8e94d8296a64ebd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b2af9e4e9edd6f79",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "9b6fd7b1bae0a14c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "fed37b024d21f6e5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "10a2aef18f5785e7",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ea53ae611464c88d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md"
-              }
-            }
+        "id": "76c453ed207353d7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "5c80b317c719532b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "R - Product/Game Design notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "d684cc1f3b82140b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "R - Product/Game Design notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "02bc647f364a018a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "R - Product/Game Design notes.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "R - Product/Game Design notes.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Goodreads/Historical Takes.md",
@@ -146,7 +131,6 @@
     "A - Writing/tweet ideas.md",
     "R - Reviews/Movies.md",
     "R - Creator Resources/Personal Sites.md",
-    "R - Goodreads/Getting Things Done.md",
-    "R - Dev Notes/Databases/SQL databases.md"
+    "R - Goodreads/Getting Things Done.md"
   ]
 }

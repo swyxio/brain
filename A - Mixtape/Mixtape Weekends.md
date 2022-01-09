@@ -2,8 +2,7 @@
 
 hightech high school https://www.youtube.com/watch?v=2iacVfTQA7k
 
-mongodb podcast
-my changelog episode
+
 
 
 dev journey https://www.listennotes.com/podcasts/software/152-shawn-wang-from-the-fine-px_1sYDV9yT/

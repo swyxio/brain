@@ -1,4 +1,16 @@
 
+## theory of value in devtools
+
+cf sarah cataranzo convo
+
+- alx rampell - "operating systems thesis" - system of truth
+- value creation via economic leverage
+- people replacement
+- broken politics
+- 3 layer cake - infra, platform, app 
+- wardley map
+- aggregation theory
+
 ## what if dev marketing worked like tv commercials
 - as seen  on TV
 - how does it work?

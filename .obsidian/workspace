@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "APPEARANCES.md",
+            "file": "A - DX Circle/dx circle blog ideas.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APPEARANCES.md",
+                "file": "A - DX Circle/dx circle blog ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APPEARANCES.md",
+                "file": "A - DX Circle/dx circle blog ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APPEARANCES.md"
+                "file": "A - DX Circle/dx circle blog ideas.md"
               }
             }
           }
@@ -138,12 +138,12 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "A - DX Circle/dx circle blog ideas.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Goodreads/Historical Takes.md",
-    "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/blogpost ideas.md",
     "A - Writing/tweet ideas.md",
     "R - Reviews/Movies.md",

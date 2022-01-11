@@ -27,3 +27,7 @@ jokes
  gimmick 
 
 Ui design for devs https://designcode.io/ui-design-for-developers
+
+## particle wave duality
+
+sonal choksi on ih podcast - stock and flow concept toward the end 

@@ -6,6 +6,8 @@ https://overcast.fm/+cV8odp50c 10mins game theory story
 
 https://overcast.fm/+GQnRRofHI 16 mins how to start a baseball team to 31 mins
 
+https://overcast.fm/+JmiNoOW9g 40mins mccleskey curve sonal choksi
+
 ## general dump
 
 https://overcast.fm/+IOVdeY 15 mins william hung
@@ -110,6 +112,7 @@ tofu mofu bofu metrics https://overcast.fm/+JyHt1c7I 20 mins in
 
 https://overcast.fm/+mBhnVek-0 15 nick reese on seo
 
+https://overcast.fm/+R_DhngSBM beef marketing 25-30mins andrew gazdecki
 
 https://overcast.fm/+L7thOvHlg 5min sam parr marketing
 

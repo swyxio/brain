@@ -10,8 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "A - DX Circle/dx circle blog ideas.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       }
@@ -19,134 +18,119 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "37b7856567246c0b",
-    "type": "split",
+    "id": "5ee98a9c4c80bac0",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "43103adfe8c368ea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "947a708d66937337",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "ab571a703f47f356",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "c3840a6c47680576",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "e6313c896ffd92b1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "6f9fcacb3513aad5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "a476b0c9c23335b2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3587888536ee4ef1",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "600a16a735603c41",
-    "type": "split",
+    "id": "37abcf717c181597",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "c8e94d8296a64ebd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b2af9e4e9edd6f79",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "9b6fd7b1bae0a14c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "fed37b024d21f6e5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "10a2aef18f5785e7",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ea53ae611464c88d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md"
-              }
-            }
+        "id": "8432cb7c352aa91c",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "1fd93e42ff10fe8b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - DX Circle/dx circle blog ideas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "150d4786d1511719",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - DX Circle/dx circle blog ideas.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a04b8f95430c4168",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - DX Circle/dx circle blog ideas.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
     "A - DX Circle/dx circle blog ideas.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Writing/blog patches.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Fridays.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Goodreads/Historical Takes.md",
     "A - Writing/blogpost ideas.md",
     "A - Writing/tweet ideas.md",
-    "R - Reviews/Movies.md",
-    "R - Creator Resources/Personal Sites.md"
+    "R - Reviews/Movies.md"
   ]
 }

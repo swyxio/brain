@@ -36,6 +36,10 @@ cf sarah cataranzo convo
 
 ## competing against DIY
 
+## 4 hour devrel
+
+https://twitter.com/theandreboso/status/1480495875520667648?s=21
+
 
 ## abramov distance
 

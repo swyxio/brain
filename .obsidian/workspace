@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7547700a1d1ac374",
+        "id": "ad1e0bd027d8b1c1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A - DX Circle/dx circle blog ideas.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tracking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +53,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7547700a1d1ac374",
+  "active": "ad1e0bd027d8b1c1",
   "lastOpenFiles": [
+    "R - Dev Notes/Developer Industry Tracking.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/blog patches.md",
@@ -146,7 +140,6 @@
     "A - Mixtape/Mixtape Fridays.md",
     "R - Goodreads/Historical Takes.md",
     "A - Writing/blogpost ideas.md",
-    "A - Writing/tweet ideas.md",
-    "R - Reviews/Movies.md"
+    "A - Writing/tweet ideas.md"
   ]
 }

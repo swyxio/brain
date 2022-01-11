@@ -131,6 +131,10 @@ Misc specific
 ![](https://postgresql.fund/img/dbengines_popularity_ranking-linear-900.png) 
 
 
+## Web3
+
+https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d
+
 ### Misc Misc
 
 i have no idea where to put these
@@ -153,3 +157,4 @@ i have no idea where to put these
 
 
 [![Stargazers over time](https://starchart.cc/sw-yx/tracking.svg)](https://starchart.cc/sw-yx/tracking)
+

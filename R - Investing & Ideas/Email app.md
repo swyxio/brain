@@ -9,3 +9,6 @@ I think what's interesting for [cal.com](http://cal.com/) is that it could get 
   
 
 The challenge versus Mailchimp/ConvertKit, etc. is that there are multiple big businesses in this space already so you need a significant distribution advantage versus many of them. [Ghost](https://github.com/tryghost) (or [ListMonk](https://listmonk.app/)) competes with these people a little and I think is a good business but not sure if they will hit venture scale as you mentioned. They are also kind of vanilla SaaS businesses so enterprises can adopt them whether or not OSS given the lack of "infrastructure integration" (which tends to be where enterprises get very scared.)
+
+
+https://twitter.com/louisnicholls_/status/1481381434568986629?s=20 "still on mailchimp"

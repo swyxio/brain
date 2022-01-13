@@ -2,8 +2,6 @@
 
 https://overcast.fm/+rTsXrj2F0 45mins questions to reveal info
 
-https://overcast.fm/+cV8odp50c 10mins game theory story
-
 
 https://overcast.fm/+JmiNoOW9g 40mins mccleskey curve sonal choksi
 

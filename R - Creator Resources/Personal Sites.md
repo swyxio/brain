@@ -18,6 +18,7 @@
 - Professional writers
 	- https://nesslabs.com/
 	- https://www.nateliason.com/
+	- https://archive.withcompound.com/
 - Professional media
 	- https://theathletic.com/ and https://www.theplayerstribune.com/
 	- https://bloomberg.com

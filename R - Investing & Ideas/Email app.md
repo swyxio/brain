@@ -12,3 +12,7 @@ The challenge versus Mailchimp/ConvertKit, etc. is that there are multiple big b
 
 
 https://twitter.com/louisnicholls_/status/1481381434568986629?s=20 "still on mailchimp"
+
+from chris sev
+- https://mailcoach.app/
+- https://www.mailerlite.com/pricing

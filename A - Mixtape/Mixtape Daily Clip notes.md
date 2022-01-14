@@ -10,9 +10,9 @@ https://overcast.fm/+JmiNoOW9g 40mins mccleskey curve sonal choksi
 https://overcast.fm/+IOVdeY 15 mins william hung
 
 https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
+https://nav.al/failure groups never admit failure
 https://overcast.fm/+vpWZ6rHT0 kim k from 2mins on
 
-https://nav.al/failure groups never admit failure
 https://overcast.fm/+PBDNBfzT4 the experience machine thought experiment 13 mins
 
 

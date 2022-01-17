@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Goodreads/Paradigm busting.md",
-            "mode": "source"
+            "file": "APPEARANCES.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,112 +19,126 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "47330e77f807f957",
-    "type": "mobile-drawer",
+    "id": "e6751e94b9636803",
+    "type": "split",
     "children": [
       {
-        "id": "f9d22c75fab4308f",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "5b68716153cd1864",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "paradigm",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "019d6e78b80375d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99d7e2ac28ee8d7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d8ae0dcd134350f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54c0cd302d668b76",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "f0fc6b3b392bdc6b",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "f4546f48c4c6f7fa",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "5e0e656539d548bb",
-    "type": "mobile-drawer",
+    "id": "6cff6ad5e3e7862e",
+    "type": "split",
     "children": [
       {
-        "id": "6ed85497d8f452e7",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "222deb4de5814ef4",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "R - Goodreads/Paradigm busting.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "cbbe8e7ff54624d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db6dc98ce13c9a66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb00028f3a4a77e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "APPEARANCES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebfed728aa98a7d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "APPEARANCES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf3e61e0d1f9d6f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb814d3bdf15250f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APPEARANCES.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "2fe5371fe503cc68",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "R - Goodreads/Paradigm busting.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "fa0d50da73b030a1",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "R - Goodreads/Paradigm busting.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "ea4f02d7d76fe801",
   "lastOpenFiles": [
-    "R - Goodreads/Paradigm busting.md",
-    "A - Writing/Draft - Rich Dev Poor Dev.md",
+    "APPEARANCES.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Michele Hansen Interview Questions.md",
@@ -131,6 +146,7 @@
     "R - Investing & Ideas/Email app.md",
     "A - DX Circle/dx circle blog ideas.md",
     "R - Dev Notes/Developer Industry Tracking.md",
-    "A - Writing/blog patches.md"
+    "A - Writing/blog patches.md",
+    "A - Mixtape/Mixtape Weekends.md"
   ]
 }

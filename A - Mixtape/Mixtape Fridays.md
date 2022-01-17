@@ -2,7 +2,7 @@
 
 matthew dicks 20 mins https://overcast.fm/+kfErcA
 
-paul simon https://overcast.fm/+NG9Jor3jE  23 mins songwriting
+
 
 conan live https://overcast.fm/+zneb7lxko 1h33mins
 the story of the rick roll maybe 15 mins in the guy doing the first https://overcast.fm/+HhScfwKWY

@@ -2,6 +2,7 @@
 
 https://overcast.fm/+rTsXrj2F0 45mins questions to reveal info
 
+4 stages if the ownership economy https://overcast.fm/+YNeSoJsXs 36mins
 
 https://web.archive.org/web/20210312232914/https://paulskallas.substack.com/p/03-lindy-talk-w-marc-andreessen ooda loop 10mins contrasts with lindy idea https://www.protocol.com/policy/marc-andreessen-a16z-lindy
 

@@ -33,7 +33,7 @@
 - https://twitter.com/leepngo/status/1404408306215628801?s=21 educative podcast
 - comm founder chat on my own cast
 - datatalks https://twitter.com/Al_Grigor/status/1393219745088946178?s=20 https://www.youtube.com/watch?v=tkBCPqWKCL8 https://datatalks.club/podcast/s03e07-market-yourself.html
-- bourginon dev journey https://www.listennotes.com/podcasts/software/152-shawn-wang-from-the-fine-px_1sYDV9yT/
+- bourginon dev journey https://www.listennotes.com/podcasts/software/152-shawn-wang-from-the-fine-px_1sYDV9yT/ https://devjourney.info/Guests/152-ShawnWang.html
 make sure os of you https://youtu.be/IzK4IxHv3W0
 - jsnation live opening keynote https://youtu.be/7sowEZQa3Tc?t=5740 third age of js
 - jsnation teaser https://www.youtube.com/watch?v=Nan1hqQ90_4

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Creator Resources/Personal Sites.md",
+            "file": "APPEARANCES.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Creator Resources/Personal Sites.md",
+                "file": "APPEARANCES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Creator Resources/Personal Sites.md",
+                "file": "APPEARANCES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Creator Resources/Personal Sites.md"
+                "file": "APPEARANCES.md"
               }
             }
           }
@@ -139,9 +139,9 @@
   },
   "active": "ea4f02d7d76fe801",
   "lastOpenFiles": [
+    "APPEARANCES.md",
     "R - Creator Resources/Personal Sites.md",
     "A - Mixtape/Mixtape Weekends.md",
-    "APPEARANCES.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Michele Hansen Interview Questions.md",

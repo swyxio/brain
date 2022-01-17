@@ -2,12 +2,6 @@
 
 hightech high school https://www.youtube.com/watch?v=2iacVfTQA7k
 
-
-
-
-dev journey https://www.listennotes.com/podcasts/software/152-shawn-wang-from-the-fine-px_1sYDV9yT/
-
-
 robert zhu case against anti graphql https://youtu.be/djKPtyXhaNE
 
 - thunder nerds https://twitter.com/thundernerds/status/1444725115766415364?s=20
@@ -21,3 +15,5 @@ my temporal talk https://twitter.com/swyx/status/1445466345194209290?s=21
 
 
 4hr work week https://overcast.fm/+KebvparPM
+
+jsparty https://changelog.com/jsparty/208

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "APPEARANCES.md",
+            "file": "R - Creator Resources/Personal Sites.md",
             "mode": "source",
             "source": false
           }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APPEARANCES.md",
+                "file": "R - Creator Resources/Personal Sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APPEARANCES.md",
+                "file": "R - Creator Resources/Personal Sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APPEARANCES.md"
+                "file": "R - Creator Resources/Personal Sites.md"
               }
             }
           }
@@ -138,15 +139,15 @@
   },
   "active": "ea4f02d7d76fe801",
   "lastOpenFiles": [
+    "R - Creator Resources/Personal Sites.md",
+    "A - Mixtape/Mixtape Weekends.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Michele Hansen Interview Questions.md",
-    "R - Creator Resources/Personal Sites.md",
     "R - Investing & Ideas/Email app.md",
     "A - DX Circle/dx circle blog ideas.md",
     "R - Dev Notes/Developer Industry Tracking.md",
-    "A - Writing/blog patches.md",
-    "A - Mixtape/Mixtape Weekends.md"
+    "A - Writing/blog patches.md"
   ]
 }

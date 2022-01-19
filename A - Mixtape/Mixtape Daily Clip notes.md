@@ -8,6 +8,7 @@ https://web.archive.org/web/20210312232914/https://paulskallas.substack.com/p/03
 
 https://overcast.fm/+JmiNoOW9g 40mins mccleskey curve sonal choksi
 
+
 ## general dump
 
 https://overcast.fm/+IOVdeY 15 mins william hung
@@ -50,6 +51,7 @@ https://overcast.fm/+eZyA0p5FQ end of software 20mins - peter wang
 https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda and pip and python 2-3 move
 
 3mins browser user agent https://overcast.fm/+LfVNDuulU
+ [https://about.sourcegraph.com/podcast/sugu-sougoumarane/](https://about.sourcegraph.com/podcast/sugu-sougoumarane/) 55mins dx of mysql
 
 ## youtuber
 

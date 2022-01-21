@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ea4f02d7d76fe801",
+        "id": "7547700a1d1ac374",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "R - Company Running/CEO - leadership.md",
             "mode": "source"
           }
         }
@@ -18,119 +18,134 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0a3f433e90fe83d1",
-    "type": "mobile-drawer",
+    "id": "325d453fac18f2e7",
+    "type": "split",
     "children": [
       {
-        "id": "870ca6e633552903",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "2dc59477f4d0778a",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "1301537177bf7fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61311ad38dc33ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3693aa510ff1b89e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "movie",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a768b7e88dea0606",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "0f8c713fab3e049a",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "f2d0bca7bdac735f",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 482.5
   },
   "right": {
-    "id": "ffdc44ee66f01f2a",
-    "type": "mobile-drawer",
+    "id": "cf852feca12da0a7",
+    "type": "split",
     "children": [
       {
-        "id": "5fe5e446df4ef020",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "c89dd6bb47d1f5af",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "03251d1c1e1a4f92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71840647f0dbe91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f99b4ea74b76b4d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R - Company Running/CEO - leadership.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4aed1059a31cf6df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R - Company Running/CEO - leadership.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b1aae1df12bb364",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a282092dc4957074",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R - Company Running/CEO - leadership.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "7c8edaf687ae6664",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "aff65d5172192555",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "ea4f02d7d76fe801",
+  "active": "7547700a1d1ac374",
   "lastOpenFiles": [
-    "A - Writing/blogpost ideas.md",
-    "R - Goodreads/Paradigm busting.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Better Questions/Sales questions.md",
-    "Untitled.md",
+    "R - Company Running/CEO - leadership.md",
+    "R - Reviews/Movies.md",
     "R - Creator Resources/Personal Sites.md",
-    "APPEARANCES.md",
-    "A - Mixtape/Mixtape Weekends.md",
-    "A - Mixtape/Mixtape Fridays.md",
-    "A - Mixtape/Michele Hansen Interview Questions.md"
+    "R - Goodreads/Getting Things Done.md",
+    "R - Dev Notes/Databases/SQL databases.md",
+    "Untitled.md",
+    "T.md",
+    "R - Dev Notes/Temporal/Argo.md",
+    "R - Creator Resources/Ship30for30.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md"
   ]
 }

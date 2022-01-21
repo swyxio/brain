@@ -7,6 +7,10 @@ tenth doctor beliefs in tech
 - dont build in public
 - crossed: cdn first?
 
+unzippening of society
+- https://twitter.com/cubicleapril/status/1484272113976590341?s=21
+
+
 why app changelogs don't change
 - hard to coordinate
 - bucket rollouts

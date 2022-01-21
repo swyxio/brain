@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Goodreads/Paradigm busting.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "parad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "R - Goodreads/Paradigm busting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "R - Goodreads/Paradigm busting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+                "file": "R - Goodreads/Paradigm busting.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "ea4f02d7d76fe801",
   "lastOpenFiles": [
+    "R - Goodreads/Paradigm busting.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Better Questions/Sales questions.md",
     "Untitled.md",
@@ -147,7 +148,6 @@
     "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Michele Hansen Interview Questions.md",
-    "R - Investing & Ideas/Email app.md",
-    "A - DX Circle/dx circle blog ideas.md"
+    "R - Investing & Ideas/Email app.md"
   ]
 }

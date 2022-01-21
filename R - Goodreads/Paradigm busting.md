@@ -3,3 +3,4 @@
 - above/below api https://swyx.io/api-economy
 - zero to one
 - pseudonymous economy/silicon valley big exit
+- software 2.0 https://karpathy.medium.com/software-2-0-a64152b37c35

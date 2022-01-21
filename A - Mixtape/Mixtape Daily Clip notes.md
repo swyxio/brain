@@ -44,7 +44,7 @@ https://overcast.fm/+YsrbaSq74 coinbase 1h10mins
 ## technical
 
 
-the oxide computer pitch https://overcast.fm/+zbJUwDBmU spectre and meltdown at 17mins
+
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 netlify discusdion https://overcast.fm/+B1yI4Kmqg
 https://overcast.fm/+eZyA0p5FQ end of software 20mins - peter wang

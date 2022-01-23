@@ -13,6 +13,9 @@ neutral OSS telemetry provider
 - free for many OSS
 
 
+roth ira startup
+- https://twitter.com/jsyversen/status/1485095375933427716?s=21
+
 github search chrome extension
 - https://docs.github.com/en/search-github/searching-on-github/searching-code#search-by-file-location
 

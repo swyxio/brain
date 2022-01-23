@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md",
-            "mode": "source",
-            "source": false
+            "file": "R - Investing & Ideas/project ideas.md",
+            "mode": "source"
           }
         }
       }
@@ -19,134 +18,119 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6d346351871c2bb2",
-    "type": "split",
+    "id": "2a63d28b992e41f3",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b47205c37238920c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3be3685c794284cb",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "8898a857e2b643a0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "parad",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "6bd26f15010685bc",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "918f9a97099cbff1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "20e90ae566620b63",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "idea",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "c6fa9961063420e4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "440f3e195b1f6c53",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 1
   },
   "right": {
-    "id": "ae8029f055687a54",
-    "type": "split",
+    "id": "82e6a96db9e7db0c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "c3e0358f727f9456",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0768b5195665d2e0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4d10f314559048fc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "462a5aa13dcaf7cc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "06317b584e629fa3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ab6b66f2b640f286",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md"
-              }
-            }
+        "id": "8f51b7b5b03bfc71",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "0e4fd6141bd547b8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "R - Investing & Ideas/project ideas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "c824c3807f4837e0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "R - Investing & Ideas/project ideas.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "05f634915ec85221",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "R - Investing & Ideas/project ideas.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "ea4f02d7d76fe801",
   "lastOpenFiles": [
+    "R - Investing & Ideas/project ideas.md",
+    "A - Writing/Draft - How To Thought Lead.md",
+    "A - DX Circle/Category Creation.md",
+    "R - Company Running/Calacanis Startup Checklist.md",
     "A - Mixtape/Mixtape Fridays.md",
     "R - Goodreads/Paradigm busting.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Better Questions/Sales questions.md",
     "Untitled.md",
-    "R - Creator Resources/Personal Sites.md",
-    "APPEARANCES.md",
-    "A - Mixtape/Mixtape Weekends.md",
-    "A - Mixtape/Michele Hansen Interview Questions.md",
-    "R - Investing & Ideas/Email app.md"
+    "R - Creator Resources/Personal Sites.md"
   ]
 }

@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Investing & Ideas/project ideas.md",
-            "mode": "source",
-            "source": false
+            "file": "A - Writing/blogpost ideas.md",
+            "mode": "source"
           }
         }
       }
@@ -19,125 +18,112 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d56f5b62e3c544a4",
-    "type": "split",
+    "id": "2fd7418ae44d278d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "230662ec902fed1c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "285cf43bc0ebfb16",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "1570c6db16fa0db6",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "5fc364aec81e4e12",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "c3def12eaae24f68",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "cde278d684d1fd85",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "virtualiz",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "295c1b2037880a9e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7ef75ecfb03d4a29",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 1
   },
   "right": {
-    "id": "93b31017cc8a3bad",
-    "type": "split",
+    "id": "243139c5b3863ec9",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "584d637e1f93bf02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "75e43c22213db7fd",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "36e119583fe3367c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Investing & Ideas/project ideas.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8a815c299f962956",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Investing & Ideas/project ideas.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "77ea76e4935b513c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "682e67559c89ed8d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Investing & Ideas/project ideas.md"
-              }
-            }
+        "id": "6190e7eca89358b4",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "6dc34607a65ffd4c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Writing/blogpost ideas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "d4ce9fda4aa5d478",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Writing/blogpost ideas.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ea1ebbfe53c4eceb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Writing/blogpost ideas.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "ea4f02d7d76fe801",
   "lastOpenFiles": [
+    "A - Writing/blogpost ideas.md",
+    "R - Dev Notes/CLI Cheatsheet.md",
     "R - Investing & Ideas/project ideas.md",
     "A - Writing/Draft - How To Thought Lead.md",
     "A - DX Circle/Category Creation.md",
@@ -145,8 +131,6 @@
     "A - Mixtape/Mixtape Fridays.md",
     "R - Goodreads/Paradigm busting.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Better Questions/Sales questions.md",
-    "Untitled.md",
-    "R - Creator Resources/Personal Sites.md"
+    "R - Better Questions/Sales questions.md"
   ]
 }

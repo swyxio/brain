@@ -355,6 +355,10 @@ the money is in real estate, the wealth is in retail
 			- temporal
 - virtualize all the things and you get benefits
 
+
+unreasonable effectiveness of virtualizing everything
+- [](https://overcast.fm/+LX7hrxlnM)
+
 # stages of software engineering
 # general theory of software systems
 # software from first principles

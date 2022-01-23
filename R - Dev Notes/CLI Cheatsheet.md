@@ -182,6 +182,7 @@ You may also want to poll for conditions to be true to execute async processes:
 - <https://npm.im/ora> (recommended)
 - <https://www.npmjs.com/package/cli-ux#cliaction>
 - <http://npm.im/log-update> Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
+- https://charm.sh/ has some animations
 - <https://www.npmjs.com/package/cli-spinners>
 - <https://npm.im/listr> for progress lists
 - <https://www.npmjs.com/package/progress-estimator> remembers previous execution times, estimates them next time

@@ -5,6 +5,7 @@
  - if you had a food truck what would it serve?
  - https://nesslabs.com/journaling-prompts
  - "What have you learned is actually a lot easier than you once thought it was?" https://twitter.com/caitlinschiller/status/989859749226262529?s=20
+ - whats one boring fact about you? [](https://overcast.fm/+dYrjhPwLw) 57mins
 
 ## billionaire questions 
 

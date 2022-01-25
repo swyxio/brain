@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "R - Better Questions/icebreaker questions.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "243139c5b3863ec9",
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "R - Better Questions/icebreaker questions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "R - Better Questions/icebreaker questions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Writing/blogpost ideas.md"
+            "file": "R - Better Questions/icebreaker questions.md"
           }
         }
       }
@@ -122,6 +122,8 @@
   },
   "active": "ea4f02d7d76fe801",
   "lastOpenFiles": [
+    "R - Better Questions/icebreaker questions.md",
+    "R - Better Questions/community questions.md",
     "A - Writing/blogpost ideas.md",
     "R - Dev Notes/CLI Cheatsheet.md",
     "R - Investing & Ideas/project ideas.md",
@@ -129,8 +131,6 @@
     "A - DX Circle/Category Creation.md",
     "R - Company Running/Calacanis Startup Checklist.md",
     "A - Mixtape/Mixtape Fridays.md",
-    "R - Goodreads/Paradigm busting.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Better Questions/Sales questions.md"
+    "R - Goodreads/Paradigm busting.md"
   ]
 }

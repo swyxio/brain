@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Better Questions/icebreaker questions.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Better Questions/icebreaker questions.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Better Questions/icebreaker questions.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Better Questions/icebreaker questions.md"
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "ea4f02d7d76fe801",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Better Questions/icebreaker questions.md",
     "R - Better Questions/community questions.md",
     "A - Writing/blogpost ideas.md",
@@ -146,7 +147,6 @@
     "A - Writing/Draft - How To Thought Lead.md",
     "A - DX Circle/Category Creation.md",
     "R - Company Running/Calacanis Startup Checklist.md",
-    "A - Mixtape/Mixtape Fridays.md",
-    "R - Goodreads/Paradigm busting.md"
+    "A - Mixtape/Mixtape Fridays.md"
   ]
 }

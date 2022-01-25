@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "R - Better Questions/icebreaker questions.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,107 +19,122 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2fd7418ae44d278d",
-    "type": "mobile-drawer",
+    "id": "7ad7e1fcee1f43d6",
+    "type": "split",
     "children": [
       {
-        "id": "c3def12eaae24f68",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "cde278d684d1fd85",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "virtualiz",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "67e9b5d2fdfca9a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8dc011f29c3cf8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b7fa61f148c805c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2734024d2a3fe9ac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "295c1b2037880a9e",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "7ef75ecfb03d4a29",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "243139c5b3863ec9",
-    "type": "mobile-drawer",
+    "id": "51cfc8d4f31ddac5",
+    "type": "split",
     "children": [
       {
-        "id": "6190e7eca89358b4",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "6dc34607a65ffd4c",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "R - Better Questions/icebreaker questions.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "ab06b52a11f39372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dd145fc1468a297",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9feeefb074edfa4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R - Better Questions/icebreaker questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1463dd8742fd1f69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R - Better Questions/icebreaker questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f71bbb8c8556e32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "710595936bca2576",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R - Better Questions/icebreaker questions.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "d4ce9fda4aa5d478",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "R - Better Questions/icebreaker questions.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "ea1ebbfe53c4eceb",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "R - Better Questions/icebreaker questions.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "ea4f02d7d76fe801",
   "lastOpenFiles": [

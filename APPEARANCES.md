@@ -1,76 +1,20 @@
 ## Talks and podcasts
-
-- engineers sg react clone talk https://www.youtube.com/watch?v=il43iId9JQA
-- reactrally2020 https://www.youtube.com/watch?v=Dz4q_bNDqfo
-- https://www.digitalocean.com/community/tutorials/nodejs-solve-cors-once-and-for-all-netlify-dev
-- concurrent react from scratch - https://www.youtube.com/watch?v=fKlt5GFQnVc https://www.youtube.com/watch?v=yeyiA9U8Ep8 https://www.youtube.com/watch?v=dFO4m7Y-yhs https://egghead.io/lessons/react-concurrent-react-from-scratch
-- LIP devtea https://developertea.com/episodes/237e13a1-41a2-4a6b-879c-6d049aefaf18 
-- fsjam podcast https://fsjam.org/episodes/episode-12-amplify-and-datastore-with-shawn-swyx-wang 
-- reactathon https://www.youtube.com/watch?t=17107&v=KgTW0xfyr9A&feature=youtu.be
-- prerecording talks https://www.youtube.com/watch?v=Tz1Fotm-hnk
-- reinvent talk https://virtual.awsevents.com/media/0_ug8vjnlv
-- aws jamstack talk https://www.youtube.com/watch?v=nlifa0c-PFU&list=PL2yQDdvlhXf-Wip6y0rFIqdFsP8N1ulZd&index=6
-- ecoders podcast https://share.transistor.fm/s/1cfa55cb 
-- digital gardens chat https://youtu.be/Afq3Y2I2WqM
-- scribe livestream https://twitter.com/scrimba/status/1364579629634363396?s=21 https://www.youtube.com/watch?v=t6A0jVDRymw&feature=youtu.be
-- jsworld conf - whenever they put out a video
-- video version of reactpodcast livestream chat
-- mlh fellowship https://www.youtube.com/watch?v=Z2X-RsCVRas
-- logrocket podcast - https://podrocket.logrocket.com/
-- brittney postma codingcat.dev https://codingcat.dev/podcast/1-15-whats-up-with-svelte
-- developerlove https://www.heavybit.com/library/podcasts/developer-love/ep-15-learning-in-public-with-shawn-swyx-wang/
+https://www.digitalocean.com/community/tutorials/nodejs-solve-cors-once-and-for-all-netlify-dev
 - flylessdev chat - i have recording they havent put up
-- cityjs conf chat 
-- third age of js at cityjs https://www.youtube.com/watch?v=UKDjW0uRZGo https://www.youtube.com/watch?v=oRnli8zrEBM&feature=youtu.be
-- github octo https://twitter.com/githubOCTO/status/1372568532190306304 they have recording https://www.youtube.com/watch?v=lN9FphNMJbY
-- jamstack jscamp https://www.youtube.com/watch?v=WVayQ66AGa4
-- lorengraphql video when its out https://share.transistor.fm/s/aebece15 https://www.youtube.com/watch?v=K4jzDASCPFM
-- react summit https://video.gitnation.org/programs/vod-d02-t02-07-shawn-swyx-wangmp4-9fc4bb https://youtu.be/yLgq-Foc1EE 
-- maksim grifter conversation https://twitter.com/ivanov_dev/status/1384553300914180097?s=20 https://www.youtube.com/watch?v=sL_uefhT51g
-- jim fisk jamstack boston community builder youtube https://www.youtube.com/watch?v=ecSq1Sl6h7M
-- modern web podcast https://modernweb.podbean.com/e/s08e09-modern-web-podcast-sides-projects-with-shawn-wang/ https://www.youtube.com/watch?v=3DjrhpxuDOk
-- educative podcast https://www.youtube.com/watch?v=9maORXuCBHk
-- https://twitter.com/leepngo/status/1404408306215628801?s=21 educative podcast
-- comm founder chat on my own cast
-- datatalks https://twitter.com/Al_Grigor/status/1393219745088946178?s=20 https://www.youtube.com/watch?v=tkBCPqWKCL8 https://datatalks.club/podcast/s03e07-market-yourself.html
-- bourginon dev journey https://www.listennotes.com/podcasts/software/152-shawn-wang-from-the-fine-px_1sYDV9yT/ https://devjourney.info/Guests/152-ShawnWang.html
-make sure os of you https://youtu.be/IzK4IxHv3W0
-- jsnation live opening keynote https://youtu.be/7sowEZQa3Tc?t=5740 third age of js
-- jsnation teaser https://www.youtube.com/watch?v=Nan1hqQ90_4
-- high school hackathon https://youtu.be/2iacVfTQA7k
-- webdirections closing keynote
-- sourcegraph podcast - https://about.sourcegraph.com/podcast/swyx/
+
 - scribe https://scrimba.com/articles/swyx-coding-career-handbook/
+
+
 - https://dev.to/gitnation/shawn-wang-on-his-involvement-in-open-source-i-look-for-projects-that-will-die-if-i-don-t-get-involved-5fn3
-- pod rocket 2
-- infobip - https://youtu.be/lU-zEoGqjc8
-	- https://twitter.com/tlakomy/status/1435256423315877889?s=20
-	- https://twitter.com/m4d_z/status/1435253892523171843?s=20
-	- https://twitter.com/giltayar/status/1435258266729205762?s=20
-	- https://twitter.com/CompuIves/status/1435258964242059268?s=20
-	- https://twitter.com/kenny_io/status/1435313957099745282?s=20
-	- https://twitter.com/jen_ayy_/status/1435568073700958210?s=21
-	- https://twitter.com/kenny_io/status/1435639380991954946?s=21
-	- https://twitter.com/giltayar/status/1435876021681758208?s=21
-	- https://twitter.com/dabit3/status/1436932234263597058?s=21
-- devtools fm podcast
-- sunil paicast
-- devtools.fm
-- workingcode podcast https://twitter.com/bennadel/status/1440657316441776135?s=21
+
+
+
 - https://portal.gitnation.org/contents/shawn-swyx-wangs-career-tips-knowing-how-to-market-yourself-authentically-is-not-scammy
-- redpoint office hours https://vimeo.com/611889146 officehoursSSSW https://youtu.be/guK1XiLQbH8
-- thunder nerds https://www.youtube.com/watch?v=lHG4rNmzQq4 
-- thunder nerds https://twitter.com/thundernerds/status/1444725115766415364?s=20
-- react day new york https://youtu.be/Cxaf8E00GMM
-- uibreakfast https://uibreakfast.com/223-how-to-market-yourself-with-shawn-swyx-wang/
-- cascadiajs video
-- FITC web unleashed https://www.youtube.com/watch?v=S8GQL4qBJB4
+
+
 - https://thenewstack.io/what-it-takes-to-become-a-senior-engineer/
-- https://youtu.be/ddKDPikKbNk silas sao dx talk
-- https://www.youtube.com/watch?v=b1FXpOExLQw&feature=youtu.be italian coders
-- mongodb podcast https://mongodb.libsyn.com/ep-93-swyx-learn-in-public-and-temporal
-- jsparty https://changelog.com/jsparty/208
-- developer health and vulnerabiliyt https://www.youtube.com/watch?v=9Qdj8CK7GOk
+
+
 
 ## for coding career handbook
 
@@ -89,4 +33,4 @@ make sure os of you https://youtu.be/IzK4IxHv3W0
 - https://towardsdatascience.com/why-how-to-market-yourself-as-a-data-engineer-98633371ea7b#cb7a https://datatalks.club/podcast/s03e07-market-yourself.html
 - scrimba podcast https://selftaughttxg.com/2021/07-21/Swyx-ActionableTactics/
 - thunder nerds https://twitter.com/thundernerds/status/1444725115766415364?s=20
-
+- devtea podcast https://www.listennotes.com/podcasts/developer-tea/learning-in-public-w-shawn-Q2S4e9qJDpu/

@@ -70,6 +70,7 @@ make sure os of you https://youtu.be/IzK4IxHv3W0
 - https://www.youtube.com/watch?v=b1FXpOExLQw&feature=youtu.be italian coders
 - mongodb podcast https://mongodb.libsyn.com/ep-93-swyx-learn-in-public-and-temporal
 - jsparty https://changelog.com/jsparty/208
+- developer health and vulnerabiliyt https://www.youtube.com/watch?v=9Qdj8CK7GOk
 
 ## for coding career handbook
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Creator Resources/Ship30for30.md",
+            "file": "APPEARANCES.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ship30",
+                "query": "appear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "cf852feca12da0a7",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Creator Resources/Ship30for30.md",
+                "file": "APPEARANCES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Creator Resources/Ship30for30.md",
+                "file": "APPEARANCES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Creator Resources/Ship30for30.md"
+                "file": "APPEARANCES.md"
               }
             }
           }
@@ -140,6 +139,7 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "APPEARANCES.md",
     "R - Creator Resources/Ship30for30.md",
     "R - Dev Notes/GPT3 List.md",
     "A - Writing/blogpost ideas.md",
@@ -148,7 +148,6 @@
     "A - Writing/Draft - Rich Dev Poor Dev.md",
     "A - Writing/Draft - Moving to Obsidian.md",
     "A - Writing/Draft - How To Thought Lead.md",
-    "R - Company Running/CEO - leadership.md",
-    "R - Reviews/Movies.md"
+    "R - Company Running/CEO - leadership.md"
   ]
 }

@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "R - Creator Resources/Ship30for30.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }

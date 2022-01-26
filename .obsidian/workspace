@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "angel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,6 +139,7 @@
   "active": "ea4f02d7d76fe801",
   "lastOpenFiles": [
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "Angel Investing.md",
     "R - Better Questions/icebreaker questions.md",
     "R - Better Questions/community questions.md",
     "A - Writing/blogpost ideas.md",
@@ -146,7 +147,6 @@
     "R - Investing & Ideas/project ideas.md",
     "A - Writing/Draft - How To Thought Lead.md",
     "A - DX Circle/Category Creation.md",
-    "R - Company Running/Calacanis Startup Checklist.md",
-    "A - Mixtape/Mixtape Fridays.md"
+    "R - Company Running/Calacanis Startup Checklist.md"
   ]
 }

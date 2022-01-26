@@ -86,8 +86,6 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
 ## Life
 
-
-- magnification of small diffs https://overcast.fm/+L0YUUvpko
 - https://overcast.fm/+olfN7lGho 20 mins social butterfly gary vee problems  + 50 mins inteovert strategy
 - https://overcast.fm/+b1V1guBD8 23 mins greg mckowen virality vs energy
 - 

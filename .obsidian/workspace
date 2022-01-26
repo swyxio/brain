@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ea4f02d7d76fe801",
+        "id": "7547700a1d1ac374",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "mode": "source",
-            "source": false
+            "file": "R - Creator Resources/Ship30for30.md",
+            "mode": "source"
           }
         }
       }
@@ -19,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7ad7e1fcee1f43d6",
+    "id": "325d453fac18f2e7",
     "type": "split",
     "children": [
       {
-        "id": "67e9b5d2fdfca9a7",
+        "id": "1301537177bf7fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "ff8dc011f29c3cf8",
+            "id": "d61311ad38dc33ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +34,12 @@
             }
           },
           {
-            "id": "6b7fa61f148c805c",
+            "id": "3693aa510ff1b89e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "angel",
+                "query": "ship30",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,29 +49,31 @@
             }
           },
           {
-            "id": "2734024d2a3fe9ac",
+            "id": "a768b7e88dea0606",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
-    "id": "51cfc8d4f31ddac5",
+    "id": "cf852feca12da0a7",
     "type": "split",
     "children": [
       {
-        "id": "ab06b52a11f39372",
+        "id": "03251d1c1e1a4f92",
         "type": "tabs",
         "children": [
           {
-            "id": "4dd145fc1468a297",
+            "id": "f71840647f0dbe91",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +81,12 @@
             }
           },
           {
-            "id": "9feeefb074edfa4d",
+            "id": "f99b4ea74b76b4d6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "R - Creator Resources/Ship30for30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +98,19 @@
             }
           },
           {
-            "id": "1463dd8742fd1f69",
+            "id": "4aed1059a31cf6df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "R - Creator Resources/Ship30for30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0f71bbb8c8556e32",
+            "id": "8b1aae1df12bb364",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +121,12 @@
             }
           },
           {
-            "id": "710595936bca2576",
+            "id": "a282092dc4957074",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+                "file": "R - Creator Resources/Ship30for30.md"
               }
             }
           }
@@ -136,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea4f02d7d76fe801",
+  "active": "7547700a1d1ac374",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "Angel Investing.md",
-    "R - Better Questions/icebreaker questions.md",
-    "R - Better Questions/community questions.md",
+    "R - Creator Resources/Ship30for30.md",
+    "R - Dev Notes/GPT3 List.md",
     "A - Writing/blogpost ideas.md",
-    "R - Dev Notes/CLI Cheatsheet.md",
-    "R - Investing & Ideas/project ideas.md",
+    "A - Writing/Draft - CMS Heads Up.md",
+    "A - Writing/Draft - Fave Podcasts of 2021.md",
+    "A - Writing/Draft - Rich Dev Poor Dev.md",
+    "A - Writing/Draft - Moving to Obsidian.md",
     "A - Writing/Draft - How To Thought Lead.md",
-    "A - DX Circle/Category Creation.md",
-    "R - Company Running/Calacanis Startup Checklist.md"
+    "R - Company Running/CEO - leadership.md",
+    "R - Reviews/Movies.md"
   ]
 }

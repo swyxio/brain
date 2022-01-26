@@ -1,3 +1,26 @@
+Headline writing workshop
+- https://www.youtube.com/watch?v=Cg-UqjZ4sH4&t=2672s
+1. Clear, not Clever headlines
+	1. WHO is this for?
+	2. WHAT is this about?
+	3. WHY should the reader care? (whats the promise you are making)
+	4. Yes: "Top 3 ways to Sponsor Women rather than just claim your company does"
+	5. No: "Dreams". "Mummy, there's a phone in my ear". "The taste of water"
+2. Pinpoint writing
+	1. write for 1 person - clearly in mind
+	2. Yes: "3 Self awareness practices for reducing conflict with your teen"
+	3. No: "3 ways Silence can help you work better and live happier", "carving out time for personal work", "3 ways to get stuff done"
+3. Specificity is the secret
+	1. Yes: "3 camera settings photographers need to get started in real estate right away"
+	2. No: "3 concepts for beginners to enjoy deeper crypto conversations" <- "deeper" is signal that not specific enough
+4. For Who/ So That
+	1. Recipes [For Who] [So That]
+	2. Lesson Plans [For Who] [So That]
+5. Create a Curiosity Gap	
+	1. dont give away the full story but also make people care
+	2. "3 worrying health trends and how to reverse them in 2 hours a week"
+	3. No: "find your energizer story", "youre not really a business if you dont pay your people", "you won't believe she is ten years old"
+
 
 22 Laws of Writing
 https://uploads-ssl.webflow.com/6074684e0f60da436ece7ffc/61bba26a555934e6ee95d4d4_the-22-laws-of-digital-writing.pdf?ck_subscriber_id=1551528954&utm_source=convertkit&utm_medium=email&utm_campaign=Important%3A+Download+The+22+Laws+of+Digital+Writing%20-%204499237

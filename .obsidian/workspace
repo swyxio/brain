@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Product/Moats and Network Effects.md",
+            "file": "A - DX Circle/dx circle blog ideas.md",
             "mode": "source"
           }
         }
@@ -18,135 +18,119 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "325d453fac18f2e7",
-    "type": "split",
+    "id": "3403398e79b4d14e",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1301537177bf7fc8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d61311ad38dc33ac",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "3693aa510ff1b89e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "network effects",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "a768b7e88dea0606",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "e28fa92bc92fd3ec",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "8f2900f93e8c6be6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "theory of value",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "0beaa8bea713ddb6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2cec5b33ed27e41f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 220.5
+    "currentTab": 1
   },
   "right": {
-    "id": "cf852feca12da0a7",
-    "type": "split",
+    "id": "ab780dee7be43539",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "03251d1c1e1a4f92",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f71840647f0dbe91",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f99b4ea74b76b4d6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Product/Moats and Network Effects.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4aed1059a31cf6df",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Product/Moats and Network Effects.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8b1aae1df12bb364",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "a282092dc4957074",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Product/Moats and Network Effects.md"
-              }
-            }
+        "id": "f1de789cc679be90",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a0e02ce1886a7192",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - DX Circle/dx circle blog ideas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "0addd71b42a68651",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - DX Circle/dx circle blog ideas.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "64aa58b7f2df0a1f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - DX Circle/dx circle blog ideas.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
-    "R - Product/Moats and Network Effects.md",
-    "A - Newsletter/newsletter goodreads.md",
-    "A - Writing/blogpost ideas.md",
+    "A - DX Circle/dx circle blog ideas.md",
     "R - Creator Resources/Ship30for30.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Better Questions/icebreaker questions.md",
     "APPEARANCES.md",
     "R - Dev Notes/GPT3 List.md",
-    "A - Writing/Draft - CMS Heads Up.md"
+    "A - Writing/blogpost ideas.md",
+    "A - Writing/Draft - CMS Heads Up.md",
+    "A - Writing/Draft - Fave Podcasts of 2021.md"
   ]
 }

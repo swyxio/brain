@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Better Questions/icebreaker questions.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "icebreak",
+                "query": "daily",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,11 +58,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 220.5
   },
   "right": {
     "id": "cf852feca12da0a7",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Better Questions/icebreaker questions.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Better Questions/icebreaker questions.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Better Questions/icebreaker questions.md"
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
               }
             }
           }
@@ -139,6 +139,8 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Creator Resources/Personal Sites.md",
     "R - Better Questions/icebreaker questions.md",
     "APPEARANCES.md",
     "R - Creator Resources/Ship30for30.md",
@@ -146,8 +148,6 @@
     "A - Writing/blogpost ideas.md",
     "A - Writing/Draft - CMS Heads Up.md",
     "A - Writing/Draft - Fave Podcasts of 2021.md",
-    "A - Writing/Draft - Rich Dev Poor Dev.md",
-    "A - Writing/Draft - Moving to Obsidian.md",
-    "A - Writing/Draft - How To Thought Lead.md"
+    "A - Writing/Draft - Rich Dev Poor Dev.md"
   ]
 }

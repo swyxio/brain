@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Creator Resources/Ship30for30.md",
+            "file": "R - Product/Moats and Network Effects.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ship30",
+                "query": "network effects",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Creator Resources/Ship30for30.md",
+                "file": "R - Product/Moats and Network Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Creator Resources/Ship30for30.md",
+                "file": "R - Product/Moats and Network Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Creator Resources/Ship30for30.md"
+                "file": "R - Product/Moats and Network Effects.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "R - Product/Moats and Network Effects.md",
+    "A - Newsletter/newsletter goodreads.md",
+    "A - Writing/blogpost ideas.md",
     "R - Creator Resources/Ship30for30.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Better Questions/icebreaker questions.md",
     "APPEARANCES.md",
     "R - Dev Notes/GPT3 List.md",
-    "A - Writing/blogpost ideas.md",
-    "A - Writing/Draft - CMS Heads Up.md",
-    "A - Writing/Draft - Fave Podcasts of 2021.md",
-    "A - Writing/Draft - Rich Dev Poor Dev.md"
+    "A - Writing/Draft - CMS Heads Up.md"
   ]
 }

@@ -12,3 +12,8 @@ https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-it
 
 
 this was an excellent video that starts out about XSS, but really is a deeper lesson about how clickbait gets more attention than insightful content, and how to spot it https://www.youtube.com/watch?v=eQFbG6CwwdI&list=WL&index=42
+
+
+defaults over network effects
+- https://julian.digital/2021/12/20/the-power-of-defaults/
+- 

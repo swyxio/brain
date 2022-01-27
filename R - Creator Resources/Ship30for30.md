@@ -22,6 +22,8 @@ Headline writing workshop
 	3. No: "find your energizer story", "youre not really a business if you dont pay your people", "you won't believe she is ten years old"
 
 
+ultimate guide - ship30 https://www.ship30for30.com/post/how-to-start-writing-online-the-ship-30-for-30-ultimate-guide
+
 22 Laws of Writing
 https://uploads-ssl.webflow.com/6074684e0f60da436ece7ffc/61bba26a555934e6ee95d4d4_the-22-laws-of-digital-writing.pdf?ck_subscriber_id=1551528954&utm_source=convertkit&utm_medium=email&utm_campaign=Important%3A+Download+The+22+Laws+of+Digital+Writing%20-%204499237
 

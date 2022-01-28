@@ -32,7 +32,6 @@ https://overcast.fm/+a0BqUPDr0 danco
 
 https://overcast.fm/+OOu8ERt88 community led growth
 
-https://overcast.fm/+ncILF33Gs lex fridman podcast 2h43 mins
 
 https://overcast.fm/+maz1Gg lin manuel story
 
@@ -44,8 +43,9 @@ https://overcast.fm/+YsrbaSq74 coinbase 1h10mins
 
 
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
+
 netlify discusdion https://overcast.fm/+B1yI4Kmqg
-https://overcast.fm/+eZyA0p5FQ end of software 20mins - peter wang
+
 https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda and pip and python 2-3 move
 
 3mins browser user agent https://overcast.fm/+LfVNDuulU

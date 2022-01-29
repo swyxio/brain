@@ -9,6 +9,8 @@ https://web.archive.org/web/20210312232914/https://paulskallas.substack.com/p/03
 https://overcast.fm/+JmiNoOW9g 40mins mccleskey curve sonal choksi
 
 
+https://overcast.fm/+PpI0PJDqU 35mins pandemic halt
+
 ## general dump
 
 https://overcast.fm/+IOVdeY 15 mins william hung

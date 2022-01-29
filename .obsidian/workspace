@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "0a723d491498ccdf",
+    "id": "eab2b6dec41a6220",
     "type": "split",
     "children": [
       {
-        "id": "7547700a1d1ac374",
+        "id": "b304d0c7774a728f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - DX Circle/dx circle blog ideas.md",
-            "mode": "source",
-            "source": false
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source"
           }
         }
       }
@@ -19,128 +18,113 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dbe0b041d295a023",
-    "type": "split",
+    "id": "8e2ee42e9865171d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "8a265a7b2d285e4a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b7f0ba8b4e4e082",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "20c5fd2e5e47d9ef",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "6f6678d038f8dcdd",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "4289c0d8f2bee655",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ebc818d71f5e6bb9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "ca4d58c85e354011",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1caf0b01ab7b6c08",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "1aeed4a78173b645",
-    "type": "split",
+    "id": "8fcdae0dab14a908",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "5c8e9879411b3e25",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "779afa4a0fae9426",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "2fe59f30a2209155",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "260eb95c0e48dd9f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b31dfdc8f0c705e1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5fd8e33ba16c225e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md"
-              }
-            }
+        "id": "5451d51c9509c951",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "801ecc23ece61446",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "5c26ab5ed93e6d43",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bce0909b5cd49204",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "7547700a1d1ac374",
+  "active": "b304d0c7774a728f",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - DX Circle/dx circle blog ideas.md",
     "R - Creator Resources/Ship30for30.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Better Questions/icebreaker questions.md",
     "APPEARANCES.md",

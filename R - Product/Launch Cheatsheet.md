@@ -145,6 +145,8 @@ as solo product makers we do all 3.
   
 [Launch by Jeff Walker](https://www.amazon.com/Launch-Internet-Millionaires-Anything-Business/dp/1630470171) - recommended by Emma Bostian
 
+Seth Godin's [ShipIt Journal](https://seths.blog/wp-content/uploads/2012/05/theshipitjournal.pdf)
+
 https://booklaunch.com/
 
 http://onepagelove.com/100

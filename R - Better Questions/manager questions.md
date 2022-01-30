@@ -6,3 +6,5 @@ manager questions for 1 on 1
 
 retrospective questions:
 - https://cpojer.net/posts/inclusion-in-a-distributed-world#retrospectives
+
+tops down and bottom up team discussion https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md",
+            "file": "A - Mixtape/Mixtape Weekends.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md",
+                "file": "A - Mixtape/Mixtape Weekends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md",
+                "file": "A - Mixtape/Mixtape Weekends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md"
+                "file": "A - Mixtape/Mixtape Weekends.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "b304d0c7774a728f",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Interviews.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
@@ -146,7 +147,6 @@
     "R - Creator Resources/Personal Sites.md",
     "R - Better Questions/icebreaker questions.md",
     "APPEARANCES.md",
-    "R - Dev Notes/GPT3 List.md",
-    "A - Writing/blogpost ideas.md"
+    "R - Dev Notes/GPT3 List.md"
   ]
 }

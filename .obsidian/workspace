@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "eab2b6dec41a6220",
+    "id": "0a723d491498ccdf",
     "type": "split",
     "children": [
       {
-        "id": "b304d0c7774a728f",
+        "id": "7547700a1d1ac374",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "R - Creator Resources/SEO.md",
             "mode": "source"
           }
         }
@@ -18,119 +18,134 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8e2ee42e9865171d",
-    "type": "mobile-drawer",
+    "id": "325d453fac18f2e7",
+    "type": "split",
     "children": [
       {
-        "id": "4289c0d8f2bee655",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "ebc818d71f5e6bb9",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "1301537177bf7fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61311ad38dc33ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3693aa510ff1b89e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "network effects",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a768b7e88dea0606",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "ca4d58c85e354011",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "1caf0b01ab7b6c08",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 220.5
   },
   "right": {
-    "id": "8fcdae0dab14a908",
-    "type": "mobile-drawer",
+    "id": "cf852feca12da0a7",
+    "type": "split",
     "children": [
       {
-        "id": "5451d51c9509c951",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "801ecc23ece61446",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "03251d1c1e1a4f92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71840647f0dbe91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f99b4ea74b76b4d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R - Creator Resources/SEO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4aed1059a31cf6df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R - Creator Resources/SEO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b1aae1df12bb364",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a282092dc4957074",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R - Creator Resources/SEO.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "5c26ab5ed93e6d43",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "bce0909b5cd49204",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "b304d0c7774a728f",
+  "active": "7547700a1d1ac374",
   "lastOpenFiles": [
+    "R - Creator Resources/SEO.md",
+    "R - Product/Moats and Network Effects.md",
+    "A - Newsletter/newsletter goodreads.md",
     "A - Writing/blogpost ideas.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "A - DX Circle/dx circle blog ideas.md",
     "R - Creator Resources/Ship30for30.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Better Questions/icebreaker questions.md",
     "APPEARANCES.md",
-    "R - Dev Notes/GPT3 List.md",
-    "A - Writing/Draft - CMS Heads Up.md",
-    "A - Writing/Draft - Fave Podcasts of 2021.md"
+    "R - Dev Notes/GPT3 List.md"
   ]
 }

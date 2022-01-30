@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SCRATCHPAD.md",
+            "file": "Culture.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SCRATCHPAD.md",
+            "file": "Culture.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SCRATCHPAD.md",
+            "file": "Culture.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SCRATCHPAD.md"
+            "file": "Culture.md"
           }
         }
       }
@@ -122,6 +122,7 @@
   },
   "active": "f36df8a3ea0528c3",
   "lastOpenFiles": [
+    "Culture.md",
     "SCRATCHPAD.md",
     "R - Company Running/Public Handbooks.md",
     "R - Company Running/Hiring.md",
@@ -130,7 +131,6 @@
     "R - Creator Resources/SEO.md",
     "R - Product/Moats and Network Effects.md",
     "A - Newsletter/newsletter goodreads.md",
-    "A - Writing/blogpost ideas.md",
-    "R - Creator Resources/Ship30for30.md"
+    "A - Writing/blogpost ideas.md"
   ]
 }

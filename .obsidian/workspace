@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "eab2b6dec41a6220",
+    "id": "c24f864630ed9ccd",
     "type": "split",
     "children": [
       {
-        "id": "b304d0c7774a728f",
+        "id": "f36df8a3ea0528c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Product/Launch Cheatsheet.md",
-            "mode": "source",
-            "source": false
+            "file": "SCRATCHPAD.md",
+            "mode": "source"
           }
         }
       }
@@ -19,135 +18,119 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ac64b7654e7cd9a3",
-    "type": "split",
+    "id": "b431dfd656fa271c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "6be1f148ad3504b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f25276736a2319cd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f683cddd4b8d98a",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "launch cheatsheet",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "b224547d56caca5f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "6dffa9cf13f644e6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "81431e16e17ed809",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "launch cheatshee",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "d817b96acbd20fba",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d7a23e47650b4b40",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "d43489823e66aafe",
-    "type": "split",
+    "id": "32cf9f0b90fca8c4",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1ebecfd5946872e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5ae8fbfccdaf045",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c36881815412b85f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Product/Launch Cheatsheet.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8e92b6ed9f1e3c47",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Product/Launch Cheatsheet.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "cce6f37018132650",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "28aa386f9cd91309",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Product/Launch Cheatsheet.md"
-              }
-            }
+        "id": "3a5e25df3cd8a3ed",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a0943739b462ffeb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "SCRATCHPAD.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "168f6058c24d7e55",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "SCRATCHPAD.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "475dde3fb952fc90",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "SCRATCHPAD.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "b304d0c7774a728f",
+  "active": "f36df8a3ea0528c3",
   "lastOpenFiles": [
+    "SCRATCHPAD.md",
+    "R - Company Running/Public Handbooks.md",
+    "R - Company Running/Hiring.md",
+    "R - Company Running/CEO - leadership.md",
     "R - Product/Launch Cheatsheet.md",
-    "A - Mixtape/Mixtape Weekends.md",
-    "A - Mixtape/Mixtape Fridays.md",
-    "A - Mixtape/Mixtape Interviews.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "A - DX Circle/dx circle blog ideas.md",
-    "R - Creator Resources/Ship30for30.md",
-    "R - Creator Resources/Personal Sites.md",
-    "R - Better Questions/icebreaker questions.md",
-    "APPEARANCES.md"
+    "R - Creator Resources/SEO.md",
+    "R - Product/Moats and Network Effects.md",
+    "A - Newsletter/newsletter goodreads.md",
+    "A - Writing/blogpost ideas.md",
+    "R - Creator Resources/Ship30for30.md"
   ]
 }

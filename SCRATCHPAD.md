@@ -5,7 +5,7 @@ created: 2021-12-01 01:35
 Completely ungroomed dumping ground
 
 todo: rollup https://github.com/sw-yx/technical-artists/blob/master/README.md
-
+todo: swyxkit lazy loading
 
 todo spark joy CSS Filter Demos
 If you do choose to work with filters, there are a number of sites that demo great

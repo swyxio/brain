@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Weekends.md",
-            "mode": "source",
-            "source": false
+            "file": "A - Writing/blogpost ideas.md",
+            "mode": "source"
           }
         }
       }
@@ -19,134 +18,119 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ac64b7654e7cd9a3",
-    "type": "split",
+    "id": "8e2ee42e9865171d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "6be1f148ad3504b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f25276736a2319cd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f683cddd4b8d98a",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "b224547d56caca5f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "4289c0d8f2bee655",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ebc818d71f5e6bb9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "ca4d58c85e354011",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1caf0b01ab7b6c08",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "d43489823e66aafe",
-    "type": "split",
+    "id": "8fcdae0dab14a908",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1ebecfd5946872e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5ae8fbfccdaf045",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c36881815412b85f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "A - Mixtape/Mixtape Weekends.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8e92b6ed9f1e3c47",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "A - Mixtape/Mixtape Weekends.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "cce6f37018132650",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "28aa386f9cd91309",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "A - Mixtape/Mixtape Weekends.md"
-              }
-            }
+        "id": "5451d51c9509c951",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "801ecc23ece61446",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Writing/blogpost ideas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "5c26ab5ed93e6d43",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Writing/blogpost ideas.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bce0909b5cd49204",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Writing/blogpost ideas.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "b304d0c7774a728f",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Weekends.md",
-    "A - Mixtape/Mixtape Fridays.md",
-    "A - Mixtape/Mixtape Interviews.md",
+    "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - DX Circle/dx circle blog ideas.md",
     "R - Creator Resources/Ship30for30.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Better Questions/icebreaker questions.md",
     "APPEARANCES.md",
-    "R - Dev Notes/GPT3 List.md"
+    "R - Dev Notes/GPT3 List.md",
+    "A - Writing/Draft - CMS Heads Up.md",
+    "A - Writing/Draft - Fave Podcasts of 2021.md"
   ]
 }

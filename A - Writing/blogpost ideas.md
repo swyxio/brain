@@ -362,6 +362,7 @@ unreasonable effectiveness of virtualizing everything
 # stages of software engineering
 # general theory of software systems
 # software from first principles
+https://twitter.com/heyjulesfern/status/1487532312900222976?s=21
 - proof of concept and intermingled
 - prototypical piece of software is a script
 - then you have function - input, output

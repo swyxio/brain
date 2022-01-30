@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Product/Launch Cheatsheet.md",
-            "mode": "preview"
+            "file": "R - Company Running/Public Handbooks.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "32cf9f0b90fca8c4",
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "R - Product/Launch Cheatsheet.md",
+            "file": "R - Company Running/Public Handbooks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "R - Product/Launch Cheatsheet.md",
+            "file": "R - Company Running/Public Handbooks.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "R - Product/Launch Cheatsheet.md"
+            "file": "R - Company Running/Public Handbooks.md"
           }
         }
       }
@@ -122,15 +122,15 @@
   },
   "active": "f36df8a3ea0528c3",
   "lastOpenFiles": [
+    "R - Company Running/Public Handbooks.md",
+    "R - Company Running/Hiring.md",
+    "R - Company Running/CEO - leadership.md",
     "R - Product/Launch Cheatsheet.md",
     "R - Creator Resources/SEO.md",
     "R - Product/Moats and Network Effects.md",
     "A - Newsletter/newsletter goodreads.md",
     "A - Writing/blogpost ideas.md",
     "R - Creator Resources/Ship30for30.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Creator Resources/Personal Sites.md",
-    "R - Better Questions/icebreaker questions.md",
-    "APPEARANCES.md"
+    "A - Mixtape/Mixtape Daily Clip notes.md"
   ]
 }

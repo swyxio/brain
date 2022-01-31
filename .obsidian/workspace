@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Better Questions/startup investing questions.md",
+            "file": "A - Writing/blogpost ideas.md",
             "mode": "source"
           }
         }
@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "competing against",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -64,7 +64,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "6ac06ccc8de95953",
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "R - Better Questions/startup investing questions.md",
+            "file": "A - Writing/blogpost ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "R - Better Questions/startup investing questions.md",
+            "file": "A - Writing/blogpost ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "R - Better Questions/startup investing questions.md"
+            "file": "A - Writing/blogpost ideas.md"
           }
         }
       }
@@ -122,6 +122,8 @@
   },
   "active": "b304d0c7774a728f",
   "lastOpenFiles": [
+    "A - Writing/blogpost ideas.md",
+    "A - Writing/Draft - How To Thought Lead.md",
     "R - Better Questions/startup investing questions.md",
     "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
@@ -129,8 +131,6 @@
     "R - Product/Launch Cheatsheet.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Interviews.md",
-    "A - DX Circle/dx circle blog ideas.md",
-    "R - Creator Resources/Ship30for30.md",
-    "R - Creator Resources/Personal Sites.md"
+    "A - DX Circle/dx circle blog ideas.md"
   ]
 }

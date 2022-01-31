@@ -183,6 +183,8 @@ centralization is a fundamental human desire
 
 competing against DIY
 - oso's post on why authz is hard
+- scrapingbee scraping
+- greenspunning https://news.ycombinator.com/item?id=29891428#29921433
 
 growing UGC at devtools
 - job postings
@@ -363,6 +365,7 @@ unreasonable effectiveness of virtualizing everything
 # general theory of software systems
 # software from first principles
 https://twitter.com/heyjulesfern/status/1487532312900222976?s=21
+[](https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
 - proof of concept and intermingled
 - prototypical piece of software is a script
 - then you have function - input, output

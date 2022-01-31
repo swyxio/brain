@@ -21,6 +21,8 @@ https://overcast.fm/+vpWZ6rHT0 kim k from 2mins on
 
 https://overcast.fm/+PBDNBfzT4 the experience machine thought experiment 13 mins
 
+https://overcast.fm/+b1V00pzUU capture configure control
+
 
 https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 

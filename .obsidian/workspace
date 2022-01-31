@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "6ac06ccc8de95953",
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Writing/blogpost ideas.md"
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
           }
         }
       }
@@ -122,11 +122,11 @@
   },
   "active": "b304d0c7774a728f",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/blogpost ideas.md",
     "A - Writing/Draft - How To Thought Lead.md",
     "R - Better Questions/startup investing questions.md",
     "A - Mixtape/Mixtape Weekends.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Better Questions/manager questions.md",
     "R - Product/Launch Cheatsheet.md",
     "A - Mixtape/Mixtape Fridays.md",

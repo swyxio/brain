@@ -77,3 +77,13 @@ Why is this the right thing for the world?
 - Is your business built off a temporary need or a moat that deepens over time?
 - How would your customers feel if they could no longer use [insert your product here]?
 - What is the one thing that you do tangibly better than your competitors?
+
+## investing
+
+Starting in the 1990s, Tiger required applicants to complete a 450-question test that took over three hours to complete. It was designed to assess aptitude alongside desirable character traits including competitiveness, intellectual openness, teamwork, and integrity. A former employee recalled one of the test’s questions: 
+
+Is it more important to get on well with your team or to challenge them? Would you prefer to be intellectually right but lose money or to be intellectually wrong but save the trade
+
+
+
+

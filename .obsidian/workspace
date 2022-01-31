@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Better Questions/startup investing questions.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Better Questions/startup investing questions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Better Questions/startup investing questions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+            "file": "R - Better Questions/startup investing questions.md"
           }
         }
       }
@@ -122,15 +122,15 @@
   },
   "active": "b304d0c7774a728f",
   "lastOpenFiles": [
+    "R - Better Questions/startup investing questions.md",
+    "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Better Questions/manager questions.md",
     "R - Product/Launch Cheatsheet.md",
-    "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Interviews.md",
     "A - DX Circle/dx circle blog ideas.md",
     "R - Creator Resources/Ship30for30.md",
-    "R - Creator Resources/Personal Sites.md",
-    "R - Better Questions/icebreaker questions.md"
+    "R - Creator Resources/Personal Sites.md"
   ]
 }

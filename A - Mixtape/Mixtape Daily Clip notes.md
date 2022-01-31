@@ -40,6 +40,10 @@ https://overcast.fm/+maz1Gg lin manuel story
 https://overcast.fm/+YsrbaSq74 coinbase 1h10mins
 
 
+## marketing
+
+orange juice rebrand fail https://overcast.fm/+B2HpKXM8Q
+
 ## technical
 
 

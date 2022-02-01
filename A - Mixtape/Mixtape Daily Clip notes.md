@@ -96,7 +96,6 @@ how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project
 
 ## Product
 
-the mom test https://overcast.fm/+PYhqQOEjw 8 mins
 
 https://overcast.fm/+HFHVC0Hns 18 mins lenny rat husky racecar framework 
 

@@ -4,8 +4,6 @@ https://overcast.fm/+rTsXrj2F0 45mins questions to reveal info
 
 4 stages if the ownership economy https://overcast.fm/+YNeSoJsXs 36mins
 
-https://web.archive.org/web/20210312232914/https://paulskallas.substack.com/p/03-lindy-talk-w-marc-andreessen ooda loop 10mins contrasts with lindy idea https://www.protocol.com/policy/marc-andreessen-a16z-lindy
-
 https://overcast.fm/+JmiNoOW9g 40mins mccleskey curve sonal choksi
 
 
@@ -77,9 +75,6 @@ audience building is overrated
 - https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21
 https://overcast.fm/+a0BrUmNqs 1h20mins what is gravitas
 
-the mom test https://overcast.fm/+PYhqQOEjw 8 mins
-
-
 
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins
 
@@ -101,6 +96,8 @@ how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project
 
 ## Product
 
+the mom test https://overcast.fm/+PYhqQOEjw 8 mins
+
 https://overcast.fm/+HFHVC0Hns 18 mins lenny rat husky racecar framework 
 
 https://overcast.fm/+eZyDZHzsI 23 mins instagram product choices - filters, friends multiplayer mode until 39mins
@@ -109,8 +106,6 @@ https://corecursive.com/063-apple-2001/
 18 mins shipping ipod
 29 mins tech debt quit story
 45 mins knowing the stack
-
-https://overcast.fm/+a0BqyouQk 20 mins product market fit
 
 https://overcast.fm/+HZUeNoxeQ 30 mins biz model of open source
 

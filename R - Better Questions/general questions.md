@@ -2,7 +2,7 @@
 ## My 12 Questions
 
 (still figuring this out)
-
+https://radreads.co/10k-questions/
 
 my 12 questions
 - when do you work on the business vs work in the business? build product vs build platform?

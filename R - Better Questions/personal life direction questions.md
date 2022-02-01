@@ -32,3 +32,27 @@ James clear questions
 ## reflection questions
 
 https://rattibha.com/thread/1474017374697316352?lang=en
+
+
+Alignment Questions
+
+Am I living the life I choose for myself?
+Am I off center?
+Does how I spend my time align with what I value?
+Why am I actually doing this work?
+Did I love well?
+Am I utilizing my strengths?
+How can I foster curiosity and compassion?
+Where is there unnecessary struggle?
+What if it were easy?
+What am I avoiding?
+What makes me proud?
+North Star Questions
+
+What does success mean to me?
+If I had 1 year to live, what (if anything) would I change?
+Am I playing the right game?
+What is happiness? (And am I happy?)
+When well I know that I have enough?
+How would life be different if there weren’t criticism in the world?
+Who am I?

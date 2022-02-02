@@ -4,133 +4,141 @@
     "type": "split",
     "children": [
       {
-        "id": "b304d0c7774a728f",
+        "id": "9120f9f1089d9230",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "R - Better Questions/icebreaker questions.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b25beffbc6a03885",
-    "type": "mobile-drawer",
+    "id": "5242455792ae2456",
+    "type": "split",
     "children": [
       {
-        "id": "1697a939919a820b",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "177d13afd3abce18",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d2a91704628fc95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de5d5c5c88479869",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cddba1203cdb53a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a6d88b9f6a044be",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "a2dca33ab4af5e04",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "7a96e487d1ecfc87",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "28c8baa9ac145496",
-    "type": "mobile-drawer",
+    "id": "be02572087c87b01",
+    "type": "split",
     "children": [
       {
-        "id": "4606d36b00b37204",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "2633c45b3912eec6",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "R - Better Questions/icebreaker questions.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "8e196bcd2111c3ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccd4b837633d489c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d6a3136924598a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67951e6158e092d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be874dd10faf217a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a2db9c5808191eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "8aa68946d1a9858e",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "R - Better Questions/icebreaker questions.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "9914ca1f4cededd9",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "R - Better Questions/icebreaker questions.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "b304d0c7774a728f",
+  "active": "9120f9f1089d9230",
   "lastOpenFiles": [
     "R - Better Questions/icebreaker questions.md",
-    "R - Better Questions/personal life direction questions.md",
+    "R - Better Questions/startup investing questions.md",
+    "R - Better Questions/Sales questions.md",
+    "R - Better Questions/podcaster questions.md",
+    "R - Better Questions/job interview questions.md",
+    "R - Better Questions/manager questions.md",
     "R - Better Questions/general questions.md",
-    "R - Goodreads/Paradigm busting.md",
-    "R - Creator Resources/Ship30for30.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/blogpost ideas.md",
-    "A - Writing/Draft - How To Thought Lead.md",
-    "R - Better Questions/startup investing questions.md",
-    "A - Mixtape/Mixtape Weekends.md"
+    "A - Writing/Draft - How To Thought Lead.md"
   ]
 }

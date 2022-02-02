@@ -89,7 +89,7 @@ two part metaquestion
 ## intimate
 
 what religious or spiritual beliefs were you raised with and how has it affected your life? https://3clipspodcast.com/the-unmistakable-creative-be-your-own-best-guide-ft-srini-rao/ 10 mins 
-
+- therapy questions https://twitter.com/dremilyanhalt/status/1488619510315696128?s=20&t=Fj1b2yvTYOKFu9b7DK2aWA
 
 “whats a conversation you’ve been avoiding?”
 https://overcast.fm/+rTsWu_yOc

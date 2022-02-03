@@ -123,6 +123,11 @@ https://overcast.fm/+os2YsOhgA 30-45mins levels story
 https://overcast.fm/+os2YU2gSU 10mins changed foods to 16mins
 
 
+## crypto corner
+
+https://overcast.fm/+qdIBj-7hw 20mins the graph 
+
+
 # swyx shoutout
 
 https://designdetails.fm/episodes/7RL459Ke  8 minutes - proof of curiosity - learn in public

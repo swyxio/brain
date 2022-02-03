@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Company Running/Growth and Marketing.md",
-            "mode": "source",
-            "source": false
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source"
           }
         }
       }
@@ -19,127 +18,112 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5242455792ae2456",
-    "type": "split",
+    "id": "95358f4d842e45c4",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d2a91704628fc95f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "de5d5c5c88479869",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "cddba1203cdb53a4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "4a6d88b9f6a044be",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "5bd8124c526ed893",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a7ea022ffb6b031f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "d749e0f212532704",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9b0abeffdcdea3a6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "be02572087c87b01",
-    "type": "split",
+    "id": "4b7329bd083eaf90",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "8e196bcd2111c3ed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ccd4b837633d489c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d6a3136924598a4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Company Running/Growth and Marketing.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "67951e6158e092d3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Company Running/Growth and Marketing.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "be874dd10faf217a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "4a2db9c5808191eb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Company Running/Growth and Marketing.md"
-              }
-            }
+        "id": "b57c81b794eeeb68",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "6b3863cfc12bbeab",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "896aefe733c3ae74",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b821270eeaa5634d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "9120f9f1089d9230",
   "lastOpenFiles": [
-    "R - Company Running/Growth and Marketing.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Company Running/Growth and Marketing.md",
     "R - Better Questions/icebreaker questions.md",
     "R - Better Questions/startup investing questions.md",
     "R - Better Questions/Sales questions.md",

@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,107 +19,122 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95358f4d842e45c4",
-    "type": "mobile-drawer",
+    "id": "610263192a5110c7",
+    "type": "split",
     "children": [
       {
-        "id": "5bd8124c526ed893",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "a7ea022ffb6b031f",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "7483425a9b700376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c0218a0f7ec45a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a8267c4fc223cba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11fd469b136e2f8f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "d749e0f212532704",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "9b0abeffdcdea3a6",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "4b7329bd083eaf90",
-    "type": "mobile-drawer",
+    "id": "6c82a92419daf22e",
+    "type": "split",
     "children": [
       {
-        "id": "b57c81b794eeeb68",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "6b3863cfc12bbeab",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "62a655b4b6301c54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555bc8d7f9899c98",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "31fc7b9388c2bb2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e53058b524b3684",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27411a7bb0f6295c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10399f064c486fcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "896aefe733c3ae74",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "b821270eeaa5634d",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "9120f9f1089d9230",
   "lastOpenFiles": [

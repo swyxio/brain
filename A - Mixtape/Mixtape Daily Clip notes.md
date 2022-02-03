@@ -27,6 +27,8 @@ https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 https://overcast.fm/+YsrbSkH4U 55 mins paw patrol 
 
 
+https://overcast.fm/+3RF0NohFc silicon cowboys 3ish mins
+
 https://overcast.fm/+a0BqUPDr0 danco
 - tech strategy summary about 30 mins in
 - investing spectrum about 1h in

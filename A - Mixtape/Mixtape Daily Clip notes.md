@@ -99,8 +99,6 @@ how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project
 ## Product
 
 
-https://overcast.fm/+HFHVC0Hns 18 mins lenny rat husky racecar framework 
-
 https://overcast.fm/+eZyDZHzsI 23 mins instagram product choices - filters, friends multiplayer mode until 39mins
 
 https://corecursive.com/063-apple-2001/ 

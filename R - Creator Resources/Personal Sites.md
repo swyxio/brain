@@ -47,6 +47,7 @@
 - Plain Programmer profile
 	- https://tdarb.org/
 	- https://github.com/leerob/leerob.io
+	- https://fettblog.eu/typescript-jsdoc-superpowers/
 	- [linus lee @thesephist](https://thesephist.com/)
 	- https://drewdevault.com/2020/11/17/Better-than-DuckDuckGo.html
 	- https://www.no.lol/

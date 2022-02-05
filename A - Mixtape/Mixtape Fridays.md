@@ -18,7 +18,6 @@ https://youtu.be/iOGsqVTy9qM voceros
 - https://youtu.be/qNqgWvHa3LQ 8mins wasnt me
 - https://youtu.be/epnsRRPtoeU 5mins blue
 - alicia https://youtu.be/obkrMiyDrbs
-- ed sheeran - no diggity https://www.youtube.com/watch?v=ZpiNUKpGI88&list=PLH8IAbt5kqZOFeFAda17MaUe2wrZi9xku&index=31 
 	- love yourself https://youtu.be/iC_yRxEsbJM
 - madilyn bailey https://youtu.be/-SgyhUdJ_TY
 - sky good grief and the thing i sent to jeanie 

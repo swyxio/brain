@@ -11,6 +11,10 @@ unzippening of society
 - https://twitter.com/cubicleapril/status/1484272113976590341?s=21
 
 
+scorned employees
+- eric yuan
+- [4] Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC.
+
 why app changelogs don't change
 - hard to coordinate
 - bucket rollouts

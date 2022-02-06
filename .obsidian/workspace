@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3c0f41b5115354c1",
+        "id": "5d54c7d8e9b3ab17",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 449.5
   },
   "right": {
     "id": "7ad5d9edbe02f768",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c0f41b5115354c1",
+  "active": "5d54c7d8e9b3ab17",
   "lastOpenFiles": [
+    "A - DX Circle/Tech State of the Art.md",
+    "A - Writing/blogpost ideas.md",
+    "A - Writing/Draft - Moving to Obsidian.md",
+    "A - Mixtape/Mixtape Weekends.md",
+    "A - Writing/Draft - CMS Heads Up.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Company Running/Growth and Marketing.md",
-    "R - Better Questions/icebreaker questions.md",
-    "R - Better Questions/startup investing questions.md",
-    "R - Better Questions/Sales questions.md",
-    "R - Better Questions/podcaster questions.md",
-    "R - Better Questions/job interview questions.md",
-    "R - Better Questions/manager questions.md"
+    "R - Better Questions/icebreaker questions.md"
   ]
 }

@@ -1,11 +1,11 @@
 # swyx's second brain
 
-this is my public obsidian store of resources and lists and stuff, available on:
+This is my public obsidian store of resources and lists and stuff, available on:
 
 - Github: https://github.com/sw-yx/brain (PRs welcome)
 - Obsidian: https://publish.obsidian.md/swyx
 
-These notes are "raw" - not a replacement for my personal output channels ([site](https://swyx.io), [newsletter](https://swyx.io/subscribe), [mixtape](https://swyx.io/mixtape), [youtube](https://youtube.com/swyxTV)), where I will continue to publish my more polished work.
+These notes are "raw" - not a replacement for my personal output channels ([site](https://swyx.io), [newsletter](https://swyx.io/subscribe), [mixtape](https://swyx.io/mixtape), [youtube](https://youtube.com/swyxTV)), where I will continue to publish my more polished work. You can read more about [why I picked Obsidian here](https://www.swyx.io/obsidian-brain).
 
 ## Subsribe to Diffs
 
@@ -24,6 +24,7 @@ This repo also rolls up some of my older lists:
 - https://github.com/sw-yx/awesome-monaco-editor
 - https://github.com/sw-yx/tracking
 - https://github.com/sw-yx/email-tools-list
+- https://github.com/sw-yx/technical-artists
 
 Search around for their modern incarnations :) I have let my two biggest lists and the investing list remain independent:
 

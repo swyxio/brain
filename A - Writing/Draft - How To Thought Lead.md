@@ -7,6 +7,10 @@ inbound vs outbound
 
 people say they want X what they really want is Y
 
+remind people of what is most important than what they usually talk about
+
+mastery = consistently simplify correctly
+
 name things
 
 draw things
@@ -26,3 +30,4 @@ https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas
 metaphor 
 - Blockchains are Cities https://medium.com/dragonfly-research/blockchains-are-cities-564327013f86  
 - being glue
+

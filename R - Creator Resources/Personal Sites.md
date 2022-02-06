@@ -22,6 +22,7 @@
 	- https://jamesclear.com/identity-based-habits
 - Professional media
 	- https://theathletic.com/ and https://www.theplayerstribune.com/
+		- https://www.theatlantic.com/ideas/archive/2021/12/why-enes-kanter-freedom-speaks/620940/
 	- https://bloomberg.com
 	- https://aeon.co/
 	- https://www.axios.com/

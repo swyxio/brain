@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "eab2b6dec41a6220",
+    "id": "8dc3e945c1f29ae8",
     "type": "split",
     "children": [
       {
-        "id": "221e050502dde8dc",
+        "id": "d56be05984f4463a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Company Running/Managing.md",
-            "mode": "source",
-            "source": false
+            "file": "A - Mixtape/Mixtape Fridays.md",
+            "mode": "source"
           }
         }
       }
@@ -19,125 +18,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c71b23521fd17cd0",
-    "type": "split",
+    "id": "cb41a47938b3f3e7",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "60841dc1c21e13e9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "034ff609b868e4a9",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "13eb3e34e4a23a08",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "8a5b1980561a926d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "e28676041a1c872b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "935472c5d6727f14",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "d7ce3732f085a0af",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "26f50a7c8385b294",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "edb98484a2a7eba4",
-    "type": "split",
+    "id": "d798c08d70617a78",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1ed0ae26fc8c037f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0e71a28c2dde7da0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3192223b1c52e30f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Company Running/Managing.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ff5eafb11a0f4786",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Company Running/Managing.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "43b87cec84c9a998",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "616d95e91baa497a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Company Running/Managing.md"
-              }
-            }
+        "id": "d693bd1f04027708",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "5430835992b4d2c5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Mixtape/Mixtape Fridays.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "8e972ce7727a64a1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Mixtape/Mixtape Fridays.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4a980f8c13ba71c4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Mixtape/Mixtape Fridays.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "221e050502dde8dc",
+  "active": "d56be05984f4463a",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Fridays.md",
     "R - Company Running/Managing.md",
     "A - DX Circle/API Design notes.md",
     "A - Writing/State of JS 2021.md",
@@ -146,7 +131,6 @@
     "R - Product/Automation Notes.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "Angel Investing.md",
-    "README.md",
-    "2022 - Archive/Draft - Moving to Obsidian.md"
+    "README.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Investing & Ideas/Twyx App.md",
+            "file": "A - Writing/State of JS 2021.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Investing & Ideas/Twyx App.md",
+                "file": "A - Writing/State of JS 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Investing & Ideas/Twyx App.md",
+                "file": "A - Writing/State of JS 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Investing & Ideas/Twyx App.md"
+                "file": "A - Writing/State of JS 2021.md"
               }
             }
           }
@@ -137,6 +137,7 @@
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "A - Writing/State of JS 2021.md",
     "R - Investing & Ideas/Twyx App.md",
     "R - Creator Resources/Email tools list.md",
     "R - Product/Automation Notes.md",
@@ -145,7 +146,6 @@
     "README.md",
     "2022 - Archive/Draft - Moving to Obsidian.md",
     "Pasted image 20220207020337.png",
-    "SCRATCHPAD.md",
-    "R - Creator Resources/Technical Artists.md"
+    "SCRATCHPAD.md"
   ]
 }

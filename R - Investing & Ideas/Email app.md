@@ -16,3 +16,7 @@ https://twitter.com/louisnicholls_/status/1481381434568986629?s=20 "still on mai
 from chris sev
 - https://mailcoach.app/
 - https://www.mailerlite.com/pricing
+
+## problems with mailchimp
+
+- cannot add tag to email subscriber on generated email form https://optinmonster.com/mailchimp-add-tag-to-signup-form/

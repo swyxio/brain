@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md",
+            "file": "R - Investing & Ideas/Email app.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md",
+                "file": "R - Investing & Ideas/Email app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md",
+                "file": "R - Investing & Ideas/Email app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Fridays.md"
+                "file": "R - Investing & Ideas/Email app.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "d56be05984f4463a",
   "lastOpenFiles": [
+    "R - Investing & Ideas/Email app.md",
     "A - Mixtape/Mixtape Fridays.md",
     "R - Company Running/Managing.md",
     "A - DX Circle/API Design notes.md",
@@ -146,7 +147,6 @@
     "R - Creator Resources/Email tools list.md",
     "R - Product/Automation Notes.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "Angel Investing.md",
-    "README.md"
+    "Angel Investing.md"
   ]
 }

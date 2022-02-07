@@ -1,0 +1,1 @@
+https://klinger.io/posts/managing-people-%F0%9F%A4%AF

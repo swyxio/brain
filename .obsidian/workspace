@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - DX Circle/API Design notes.md",
+            "file": "R - Company Running/Managing.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - DX Circle/API Design notes.md",
+                "file": "R - Company Running/Managing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - DX Circle/API Design notes.md",
+                "file": "R - Company Running/Managing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - DX Circle/API Design notes.md"
+                "file": "R - Company Running/Managing.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "R - Company Running/Managing.md",
     "A - DX Circle/API Design notes.md",
     "A - Writing/State of JS 2021.md",
     "R - Investing & Ideas/Twyx App.md",
@@ -146,7 +147,6 @@
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "Angel Investing.md",
     "README.md",
-    "2022 - Archive/Draft - Moving to Obsidian.md",
-    "Pasted image 20220207020337.png"
+    "2022 - Archive/Draft - Moving to Obsidian.md"
   ]
 }

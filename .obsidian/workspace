@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "A - Writing/State of JS 2021.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }

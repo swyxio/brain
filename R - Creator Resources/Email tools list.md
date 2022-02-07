@@ -1,3 +1,27 @@
-i havent ported https://github.com/sw-yx/email-tools-list yet but will
+# email-tools-list
+
+Light newsletter
+
+- https://tinyletter.com/
+- https://buttondown.email/ - write in markdown!
+
+Paid newsletters
+
+- Revue by Twitter
+- https://www.upscribe.net/
+- https://www.getrevue.co/
+- Substack
+
+email marketing and automation
+
+- https://www.mailerlite.com/ can use for email course
+
+Self hosted
+
+- https://listmonk.app/
+- https://sendportal.io/
+- https://sendy.co/ (1x payment, PHP)
+- https://github.com/MoonMail/MoonMail/
+
 
 - style emails with Tailwind https://maizzle.com/

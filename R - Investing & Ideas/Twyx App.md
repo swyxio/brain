@@ -8,6 +8,11 @@ Follow to buy with reminders - 3 mins in
 149: Check Your Business Privilege. Episode: https://artofproductpodcast.com/episode-149.
 
 
+
+engagement bait 
+- https://twitter.com/stewfortier/status/1490131640097648641?s=21
+- https://twitter.com/harrystebbings/status/1490516792615313412?s=21
+
 https://thesephist.com/posts/lucerne/
 
 profile notes https://twitter.com/jessfromonline/status/1375456777983115267?s=21

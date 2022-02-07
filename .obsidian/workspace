@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
+            "file": "R - Investing & Ideas/Twyx App.md",
+            "mode": "source"
           }
         }
       }
@@ -19,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a7aa181c6420a863",
+    "id": "c71b23521fd17cd0",
     "type": "split",
     "children": [
       {
-        "id": "4ec2e77cfb5b3254",
+        "id": "60841dc1c21e13e9",
         "type": "tabs",
         "children": [
           {
-            "id": "3179926446aeafd6",
+            "id": "034ff609b868e4a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +34,12 @@
             }
           },
           {
-            "id": "fce49bbc912f1c85",
+            "id": "13eb3e34e4a23a08",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "personal sites",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +49,7 @@
             }
           },
           {
-            "id": "fb1785f3b60c546e",
+            "id": "8a5b1980561a926d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,18 +60,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 300
   },
   "right": {
-    "id": "7ad5d9edbe02f768",
+    "id": "edb98484a2a7eba4",
     "type": "split",
     "children": [
       {
-        "id": "062e4f76b6bed1fc",
+        "id": "1ed0ae26fc8c037f",
         "type": "tabs",
         "children": [
           {
-            "id": "98321b88db84a1ef",
+            "id": "0e71a28c2dde7da0",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +79,12 @@
             }
           },
           {
-            "id": "6a224b41e13fa336",
+            "id": "3192223b1c52e30f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "R - Investing & Ideas/Twyx App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +96,19 @@
             }
           },
           {
-            "id": "8587706f4d905d6d",
+            "id": "ff5eafb11a0f4786",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "R - Investing & Ideas/Twyx App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d3a9ad0e01036e37",
+            "id": "43b87cec84c9a998",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +119,12 @@
             }
           },
           {
-            "id": "b806cf8a15c600b7",
+            "id": "616d95e91baa497a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "R - Investing & Ideas/Twyx App.md"
               }
             }
           }
@@ -138,15 +137,15 @@
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "R - Investing & Ideas/Twyx App.md",
+    "R - Creator Resources/Email tools list.md",
+    "R - Product/Automation Notes.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "Angel Investing.md",
     "README.md",
     "2022 - Archive/Draft - Moving to Obsidian.md",
     "Pasted image 20220207020337.png",
     "SCRATCHPAD.md",
-    "R - Creator Resources/Technical Artists.md",
-    "A - Writing/Draft - How To Thought Lead.md",
-    "A - Writing/Draft - How to Improve Your Writing.md",
-    "A - Writing/Draft - What People Want.md",
-    "A - Writing/Draft - The Corporate YouTube Code.md",
-    "R - Creator Resources/Personal Sites.md"
+    "R - Creator Resources/Technical Artists.md"
   ]
 }

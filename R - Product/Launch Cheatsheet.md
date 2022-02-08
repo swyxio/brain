@@ -382,6 +382,8 @@ see linked landing pages above
   - pricing: https://chl.st/6ZJg--z0N/
   - images: https://chl.st/RheVCrXQT/
   - prelaunch: https://chl.st/-Xfs0vIDM/
+- https://landingpage.fyi/
+	- https://landingpage.fyi/landing-page-checklist.html
 - FAQ Footers: https://onepagelove.com/tag/whitespace
 - course landing oage breakdown https://twitter.com/robhope/status/1387436455400656898?s=21
 - b2b landing pages https://www.mikesonders.com/saas-website-content/

@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Investing & Ideas/Email app.md",
-            "mode": "source",
-            "source": false
+            "file": "R - Goodreads/Paradigm busting.md",
+            "mode": "source"
           }
         }
       }
@@ -19,134 +18,119 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0b5a58563a483459",
-    "type": "split",
+    "id": "51b5bd9ae4c9a55b",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "bdfb598a077582dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9392b26ee4f55931",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a74baff00c077348",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "f66ae075a692113e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "b3e994658bf52d82",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f7f14de21195b08c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "paradigm bus",
+            "matchingCase": false,
+            "explainSearch": true,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "ff041dde278992f6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9e94332fc48e78b7",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 1
   },
   "right": {
-    "id": "6bb4c67c43fb2a9f",
-    "type": "split",
+    "id": "0d7e36f453638a48",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d9a7444d3cadfb97",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ce7cce1eee602c4c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3beaca303dff9cdc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Investing & Ideas/Email app.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1110ae6d35216e31",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Investing & Ideas/Email app.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0a551cefec084ddb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "8ec29576eb0e469a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Investing & Ideas/Email app.md"
-              }
-            }
+        "id": "3aea7f5f89706c43",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "ad708955d87d08c4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "R - Goodreads/Paradigm busting.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "24ab5bd731378143",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "R - Goodreads/Paradigm busting.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "254bfdc837e4c0bb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "R - Goodreads/Paradigm busting.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "d56be05984f4463a",
   "lastOpenFiles": [
+    "R - Goodreads/Paradigm busting.md",
+    "A - Writing/blogpost ideas.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Investing & Ideas/Email app.md",
     "A - Mixtape/Mixtape Fridays.md",
     "R - Company Running/Managing.md",
     "A - DX Circle/API Design notes.md",
     "A - Writing/State of JS 2021.md",
     "R - Investing & Ideas/Twyx App.md",
-    "R - Creator Resources/Email tools list.md",
-    "R - Product/Automation Notes.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "Angel Investing.md"
+    "R - Creator Resources/Email tools list.md"
   ]
 }

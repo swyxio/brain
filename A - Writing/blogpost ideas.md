@@ -730,6 +730,8 @@ https://www.google.com/url?q=https://medium.com/%40yegg/mental-models-i-find-rep
 https://www.google.com/url?q=https://www.amazon.com/Super-Thinking-Book-Mental-Models-ebook/dp/B07P8J83WR&sa=U&ved=2ahUKEwigo6iXlvfpAhVZHc0KHUgYDc0QFjACegQIDBAB&usg=AOvVaw2VuwuClwWENeRom_tJTWiH
 
 
+https://twitter.com/seldo/status/1486563446099300359?s=20&t=kE8BLv6rnoeTIl3Pm41GVg
+
 ## wastebin
 who is in charge of developer experience? (at a developer focused platform company)
 is it the PM or the dev advocate or the CEO or customer success or the tooling engineer?

@@ -5,3 +5,4 @@
 - pseudonymous economy/silicon valley big exit
 - software 2.0 https://karpathy.medium.com/software-2-0-a64152b37c35
 - platforms https://www.ben-evans.com/benedictevans/2020/12/21/google-bundling-and-kill-zones
+- atlas shrugged

@@ -69,7 +69,7 @@ https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 
 ## audience building
 
-https://overcast.fm/+L9fh51YxI earn it 40 mins - audience comes don someone else
+https://overcast.fm/+L9fh5[]()1YxI earn it 40 mins - audience comes don someone else
 https://overcast.fm/+BlzFmmbag 7 mins cold start
 https://overcast.fm/+JmiMDFuCc 45mins audience building puwptd
 audience building is overrated

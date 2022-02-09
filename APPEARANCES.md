@@ -1,3 +1,10 @@
+## speaking
+
+apr 4
+apr 20 react miami
+jun 16 jsnation ams
+
+
 ## Talks and podcasts
 https://www.digitalocean.com/community/tutorials/nodejs-solve-cors-once-and-for-all-netlify-dev
 - flylessdev chat - i have recording they havent put up

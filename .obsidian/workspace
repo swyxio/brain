@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "R - Company Running/CEO - leadership.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,107 +19,122 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f1d5586ad6e4e8cb",
-    "type": "mobile-drawer",
+    "id": "ba591c1219f9ed17",
+    "type": "split",
     "children": [
       {
-        "id": "f5f8bcf4c32a094b",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "3a6061f22fdea31f",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "1611b968ded90ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbc06965c6034ef2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "24b6a2ef2e55ac7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "085b291ea9b11965",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "c51232ad001f47be",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "59748c2284531633",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "7f072b647da45577",
-    "type": "mobile-drawer",
+    "id": "7b002e9c722280c1",
+    "type": "split",
     "children": [
       {
-        "id": "caba1eb12a8f1bc1",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "018fe3d41a34b25c",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "R - Company Running/CEO - leadership.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "4efede2692366c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b630b377b640d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d35b57fd89942bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R - Company Running/CEO - leadership.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a94294d26af4b40a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R - Company Running/CEO - leadership.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "430a1af656bbdef6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7691f35c553d06c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R - Company Running/CEO - leadership.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "064cd9fdff787aec",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "R - Company Running/CEO - leadership.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "313c045e976ca4cf",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "R - Company Running/CEO - leadership.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [

@@ -69,17 +69,17 @@ https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 
 ## audience building
 
-https://overcast.fm/+L9fh5[]()1YxI earn it 40 mins - audience comes don someone else
+
 https://overcast.fm/+BlzFmmbag 7 mins cold start
-https://overcast.fm/+JmiMDFuCc 45mins audience building puwptd
-audience building is overrated
--  https://twitter.com/robwalling/status/1306591312498405376?s=21
-- https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21
-https://overcast.fm/+a0BrUmNqs 1h20mins what is gravitas
+
 
 
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins
 
+https://overcast.fm/+JmiMDFuCc 45mins audience building puwptd
+audience building is overrated
+-  https://twitter.com/robwalling/status/1306591312498405376?s=21
+- https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21
 
 ## writing 
 - https://www.3books.co/chapters/22 chef vs cook tim urban 1hr mark

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "APPEARANCES.md",
+            "file": "R - Company Running/CEO - leadership.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "APPEARANCES.md",
+            "file": "R - Company Running/CEO - leadership.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "APPEARANCES.md",
+            "file": "R - Company Running/CEO - leadership.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "APPEARANCES.md"
+            "file": "R - Company Running/CEO - leadership.md"
           }
         }
       }
@@ -122,15 +122,15 @@
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "R - Company Running/CEO - leadership.md",
+    "R - Company Running/Hiring.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "APPEARANCES.md",
     "SCRATCHPAD.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/State of JS 2021.md",
     "R - Investing & Ideas/Twyx App.md",
     "R - Creator Resources/Email tools list.md",
     "R - Product/Automation Notes.md",
-    "Angel Investing.md",
-    "README.md",
-    "2022 - Archive/Draft - Moving to Obsidian.md"
+    "Angel Investing.md"
   ]
 }

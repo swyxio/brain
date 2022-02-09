@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "221e050502dde8dc",
+        "id": "c4bde60681e73848",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "R - Company Running/Pricing shifts.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Company Running/Pricing shifts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Company Running/Pricing shifts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "R - Company Running/Pricing shifts.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "221e050502dde8dc",
+  "active": "c4bde60681e73848",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Weekends.md",
     "R - Company Running/Pricing shifts.md",
     "R - Company Running/CEO - leadership.md",
     "R - Company Running/Hiring.md",
@@ -146,7 +139,6 @@
     "SCRATCHPAD.md",
     "A - Writing/State of JS 2021.md",
     "R - Investing & Ideas/Twyx App.md",
-    "R - Creator Resources/Email tools list.md",
-    "R - Product/Automation Notes.md"
+    "R - Creator Resources/Email tools list.md"
   ]
 }

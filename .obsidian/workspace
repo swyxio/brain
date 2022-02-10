@@ -7,8 +7,12 @@
         "id": "c4bde60681e73848",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+              }
             }
           }
         ]
@@ -130,15 +138,15 @@
   },
   "active": "c4bde60681e73848",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Weekends.md",
     "R - Company Running/Pricing shifts.md",
     "R - Company Running/CEO - leadership.md",
     "R - Company Running/Hiring.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "APPEARANCES.md",
     "SCRATCHPAD.md",
     "A - Writing/State of JS 2021.md",
-    "R - Investing & Ideas/Twyx App.md",
-    "R - Creator Resources/Email tools list.md"
+    "R - Investing & Ideas/Twyx App.md"
   ]
 }

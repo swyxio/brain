@@ -4,8 +4,6 @@ https://overcast.fm/+rTsXrj2F0 45mins questions to reveal info
 
 4 stages if the ownership economy https://overcast.fm/+YNeSoJsXs 36mins
 
-https://overcast.fm/+JmiNoOW9g 40mins mccleskey curve sonal choksi
-
 
 https://overcast.fm/+iXmjdRBe8/14:29 10mins clone you
 
@@ -72,6 +70,8 @@ https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 
 https://overcast.fm/+BlzFmmbag 7 mins cold start
 
+
+https://overcast.fm/+JmiNoOW9g 40mins mccleskey curve sonal choksi
 
 
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins

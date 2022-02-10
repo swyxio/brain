@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "2937be41ce1314a8",
+    "id": "eab2b6dec41a6220",
     "type": "split",
     "children": [
       {
-        "id": "f919a6508403b728",
+        "id": "221e050502dde8dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Writing/Draft - State of JS 2021.md",
             "mode": "source"
           }
         }
@@ -18,119 +18,135 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9e7178f22670a9a2",
-    "type": "mobile-drawer",
+    "id": "c71b23521fd17cd0",
+    "type": "split",
     "children": [
       {
-        "id": "7eb5a6f137e805a5",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "aa0ff45ae2d9275e",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "60841dc1c21e13e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "034ff609b868e4a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "13eb3e34e4a23a08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a5b1980561a926d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "7ca25f7c7198a72d",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "3f220d4fceccfcd0",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "2f3e7f17a506707c",
-    "type": "mobile-drawer",
+    "id": "edb98484a2a7eba4",
+    "type": "split",
     "children": [
       {
-        "id": "af512e8da166b582",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "1ed0ae26fc8c037f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e71a28c2dde7da0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3192223b1c52e30f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A - Writing/Draft - State of JS 2021.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff5eafb11a0f4786",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A - Writing/Draft - State of JS 2021.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43b87cec84c9a998",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "616d95e91baa497a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A - Writing/Draft - State of JS 2021.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "b6046e76337fbd73",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "5955c71dc2a0af4e",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
-          }
-        }
-      },
-      {
-        "id": "b98c455f71b14e6e",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f919a6508403b728",
+  "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "A - Writing/Draft - State of JS 2021.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "A - Mixtape/Mixtape Fridays.md",
-    "A - Mixtape/Mixtape Weekends.md",
-    "R - Company Running/Pricing shifts.md",
-    "R - Company Running/CEO - leadership.md",
-    "R - Company Running/Hiring.md",
-    "APPEARANCES.md",
-    "SCRATCHPAD.md",
     "A - Writing/State of JS 2021.md",
-    "R - Investing & Ideas/Twyx App.md"
+    "R - Investing & Ideas/Twyx App.md",
+    "R - Creator Resources/Email tools list.md",
+    "R - Product/Automation Notes.md",
+    "Angel Investing.md",
+    "README.md",
+    "2022 - Archive/Draft - Moving to Obsidian.md",
+    "Pasted image 20220207020337.png"
   ]
 }

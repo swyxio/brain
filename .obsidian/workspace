@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "eab2b6dec41a6220",
+    "id": "2937be41ce1314a8",
     "type": "split",
     "children": [
       {
-        "id": "c4bde60681e73848",
+        "id": "f919a6508403b728",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "mode": "source",
-            "source": false
+            "file": "A - Mixtape/Mixtape Fridays.md",
+            "mode": "source"
           }
         }
       }
@@ -19,127 +18,112 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ba591c1219f9ed17",
-    "type": "split",
+    "id": "9e7178f22670a9a2",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1611b968ded90ab3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bbc06965c6034ef2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "24b6a2ef2e55ac7e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "085b291ea9b11965",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "7eb5a6f137e805a5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "aa0ff45ae2d9275e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "7ca25f7c7198a72d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3f220d4fceccfcd0",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "7b002e9c722280c1",
-    "type": "split",
+    "id": "2f3e7f17a506707c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "4efede2692366c4a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53b630b377b640d1",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d35b57fd89942bd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a94294d26af4b40a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "430a1af656bbdef6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "7691f35c553d06c3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
-              }
-            }
+        "id": "af512e8da166b582",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Mixtape/Mixtape Fridays.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "b6046e76337fbd73",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Mixtape/Mixtape Fridays.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5955c71dc2a0af4e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Mixtape/Mixtape Fridays.md"
+          }
+        }
+      },
+      {
+        "id": "b98c455f71b14e6e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "c4bde60681e73848",
+  "active": "f919a6508403b728",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Fridays.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Weekends.md",
     "R - Company Running/Pricing shifts.md",
     "R - Company Running/CEO - leadership.md",

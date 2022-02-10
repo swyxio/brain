@@ -71,9 +71,6 @@ https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 https://overcast.fm/+BlzFmmbag 7 mins cold start
 
 
-https://overcast.fm/+JmiNoOW9g 40mins mccleskey curve sonal choksi
-
-
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins
 
 https://overcast.fm/+JmiMDFuCc 45mins audience building puwptd

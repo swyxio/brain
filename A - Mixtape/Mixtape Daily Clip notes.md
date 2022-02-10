@@ -81,7 +81,9 @@ audience building is overrated
 -  https://twitter.com/robwalling/status/1306591312498405376?s=21
 - https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21
 
-## writing 
+## writing
+
+- fight club  https://youtu.be/GiOuUP9z7l4
 - https://www.3books.co/chapters/22 chef vs cook tim urban 1hr mark
 - axios recap on presbyterian ceo - storytelling
 - https://overcast.fm/+YQ473Uv6w rank self publish book on amazon 30 mins

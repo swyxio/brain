@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md"
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
           }
         }
       },
@@ -122,8 +122,8 @@
   },
   "active": "f919a6508403b728",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Weekends.md",
     "R - Company Running/Pricing shifts.md",
     "R - Company Running/CEO - leadership.md",

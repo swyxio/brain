@@ -39,12 +39,6 @@ wardley map for content
 
 
 
-devtools uncanny valley
-- either small api surface area
-- or extremely opinionated all in one
-- in between require too much work for the value or are not flexible enough
-
-moving to obsidian
 moving to postclassmail
 
 
@@ -59,9 +53,6 @@ postmortem on the nft collapse of 2022
 - l1 contention
 - wayback machine
 
-
-company youtube strategy
-- b2c https://www.youtube.com/watch?v=MIOpohrjuXk
 
 Community as Schelling point
 - "how to build community" maybe the wrong question
@@ -93,10 +84,6 @@ blogpost genres
 - Why X is hard https://www.osohq.com/post/why-authorization-is-hard
 - ?? the adamwathan post
 
-
- company youtubes
-- altinity https://www.youtube.com/channel/UCE3Y2lDKl_ZfjaCrh62onYA/featured
-	- https://www.youtube.com/c/ClickHouseDB/videos
 
 
 what 5 algorithms rule our lives?
@@ -178,16 +165,6 @@ centralization is a fundamental human desire
 
 
 
-competing against DIY
-- oso's post on why authz is hard
-- scrapingbee scraping
-- greenspunning https://news.ycombinator.com/item?id=29891428#29921433
-
-growing UGC at devtools
-- job postings
-- case studies
-- blogposts
-- tweets
 
 companies with media companies
 - cloudflare tv
@@ -266,8 +243,6 @@ ADD OPEN SROUCE KNOWLEDGE
 trust vs communication bell curve
 https://sotonye.substack.com/p/the-architecture-of-tomorrow-an-interview
 - contribution and abundance mindset 
-
-hiring first devrel
 
 comunity
 - events

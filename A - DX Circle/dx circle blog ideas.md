@@ -1,4 +1,6 @@
 
+hiring first devrel
+
 ## theory of value in devtools
 
 cf sarah cataranzo convo
@@ -15,6 +17,21 @@ cf sarah cataranzo convo
 - as seen  on TV
 - how does it work?
 
+## competing against DIY
+- oso's post on why authz is hard
+- scrapingbee scraping
+- greenspunning https://news.ycombinator.com/item?id=29891428#29921433
+
+## growing UGC at devtools
+- job postings
+- case studies
+- blogposts
+- tweets
+
+## devtools uncanny valley
+- either small api surface area
+- or extremely opinionated all in one
+- in between require too much work for the value or are not flexible enough
 
 ## marketing to developers
 

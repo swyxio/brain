@@ -7,8 +7,12 @@
         "id": "abba5000f4de64a6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A - Writing/blogpost ideas.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 393.5
   },
   "right": {
     "id": "7b002e9c722280c1",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A - Writing/blogpost ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A - Writing/blogpost ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A - Writing/blogpost ideas.md"
+              }
             }
           }
         ]
@@ -130,15 +138,15 @@
   },
   "active": "abba5000f4de64a6",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Interviews.md",
-    "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/blogpost ideas.md",
+    "A - Writing/blog patches.md",
+    "A - DX Circle/dx circle blog ideas.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Writing/Draft - The Corporate YouTube Code.md",
+    "2022 - Archive/Draft - Moving to Obsidian.md",
+    "A - Mixtape/Mixtape Interviews.md",
     "A - Writing/tweet ideas.md",
     "A - Writing/Draft - What People Want.md",
-    "A - Writing/Draft - State of JS 2021.md",
-    "A - Writing/Draft - Rich Dev Poor Dev.md",
-    "A - Writing/Draft - Permissionless Apprentice.md",
-    "A - Writing/Draft - Important Mental Models for Developers.md",
-    "A - Writing/Draft - How to Improve Your Writing.md"
+    "A - Writing/Draft - State of JS 2021.md"
   ]
 }

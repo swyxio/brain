@@ -100,6 +100,11 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 - 
 how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project - 18mins
 
+## health 
+
+live longer 1:57 mins https://overcast.fm/+eZyDf2uBs
+
+
 ## Product
 
 https://corecursive.com/063-apple-2001/ 

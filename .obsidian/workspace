@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Company Running/Pricing shifts.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "R - Company Running/Pricing shifts.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "R - Company Running/Pricing shifts.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "R - Company Running/Pricing shifts.md"
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
           }
         }
       }
@@ -122,11 +122,11 @@
   },
   "active": "abba5000f4de64a6",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Company Running/Pricing shifts.md",
     "A - Writing/blogpost ideas.md",
     "A - Writing/blog patches.md",
     "A - DX Circle/dx circle blog ideas.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/Draft - The Corporate YouTube Code.md",
     "2022 - Archive/Draft - Moving to Obsidian.md",
     "A - Mixtape/Mixtape Interviews.md",

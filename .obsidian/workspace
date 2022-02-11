@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/blogpost ideas.md",
-            "mode": "source",
-            "source": false
+            "file": "R - Company Running/Pricing shifts.md",
+            "mode": "source"
           }
         }
       }
@@ -19,125 +18,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ba591c1219f9ed17",
-    "type": "split",
+    "id": "bb323b319a1347e9",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1611b968ded90ab3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bbc06965c6034ef2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "24b6a2ef2e55ac7e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "085b291ea9b11965",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "49ccd1da54b6f982",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "cd7da98bbf2a5aa5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "4b6f75326388e86c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "805754cb581f6ab0",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 393.5
+    "currentTab": 0
   },
   "right": {
-    "id": "7b002e9c722280c1",
-    "type": "split",
+    "id": "7ecf17a23dbe82bd",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "4efede2692366c4a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53b630b377b640d1",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d35b57fd89942bd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "A - Writing/blogpost ideas.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a94294d26af4b40a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "A - Writing/blogpost ideas.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "430a1af656bbdef6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "7691f35c553d06c3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "A - Writing/blogpost ideas.md"
-              }
-            }
+        "id": "908a86cb3ea0388f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "e007d042fca4b37a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "R - Company Running/Pricing shifts.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "d09bfe921c0cd296",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "R - Company Running/Pricing shifts.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "06514c1a3d6b602c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "R - Company Running/Pricing shifts.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "abba5000f4de64a6",
   "lastOpenFiles": [
+    "R - Company Running/Pricing shifts.md",
     "A - Writing/blogpost ideas.md",
     "A - Writing/blog patches.md",
     "A - DX Circle/dx circle blog ideas.md",
@@ -146,7 +131,6 @@
     "2022 - Archive/Draft - Moving to Obsidian.md",
     "A - Mixtape/Mixtape Interviews.md",
     "A - Writing/tweet ideas.md",
-    "A - Writing/Draft - What People Want.md",
-    "A - Writing/Draft - State of JS 2021.md"
+    "A - Writing/Draft - What People Want.md"
   ]
 }

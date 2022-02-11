@@ -47,6 +47,14 @@ distance 0,0,0 and optimizing for change
 
 ## affordances and guessable apis
 
+## time to 1m developers
+- https://twitter.com/yonasbe/status/1438540938452738063?s=20
+- netlify
+
+## superuser programs
+- circleci https://twitter.com/circleci/status/1463019112939016194?s=21
+- cloudflare
+ 
 ## misc
 
 callout attention points incase pple arent paying attention

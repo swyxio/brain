@@ -13,7 +13,7 @@ unzippening of society
 
 scorned employees
 - eric yuan
-- [4] Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC.
+- Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC.
 
 why app changelogs don't change
 - hard to coordinate
@@ -33,17 +33,10 @@ the importance of interfaces
 
 wardley map for content
 - x axis - longform -> shorter -> short
-	- 10 hr book -> 3-6hr workshop -> 30-60min podcast/talk -> 5-10min video/blogpost -> 2min tweet -> 30-60sec short -> 5-10sec clip -> 3 second tweet -> 1 second image
+	- 10 hr book -> 3-6hr workshop -> 30-60min podcast/talk -> 5-10min video/blogpost -> 2min tweet -> 30-60sec short -> 5-10sec clip -> 3 second tweet -> 1 second soundbite
 		- inspo - kevin systrom on formats https://www.youtube.com/watch?v=3pvpNKUPbIY 55mins in
 - y axis - specificity? going from general audience to extremely niche
 
-time to 1m developers
-- https://twitter.com/yonasbe/status/1438540938452738063?s=20
-- netlify
-
-superuser programs
-- circleci https://twitter.com/circleci/status/1463019112939016194?s=21
-- cloudflare
 
 
 devtools uncanny valley

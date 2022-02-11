@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/Best Podcasts of 2022.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Writing/Best Podcasts of 2022.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Writing/Best Podcasts of 2022.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Writing/Best Podcasts of 2022.md"
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
           }
         }
       }
@@ -122,9 +122,9 @@
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/Best Podcasts of 2022.md",
     "A - Writing/Draft - State of JS 2021.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/State of JS 2021.md",
     "R - Investing & Ideas/Twyx App.md",
     "R - Creator Resources/Email tools list.md",

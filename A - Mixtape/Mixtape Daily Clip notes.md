@@ -40,6 +40,11 @@ https://overcast.fm/+maz1Gg lin manuel story
 https://overcast.fm/+YsrbaSq74 coinbase 1h10mins
 
 
+## small projects
+
+https://overcast.fm/+JaI5qMWzE wordle juice ui
+
+
 ## marketing
 
 orange juice rebrand fail https://overcast.fm/+B2HpKXM8Q

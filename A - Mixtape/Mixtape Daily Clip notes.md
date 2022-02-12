@@ -8,6 +8,8 @@ economics of peloton https://overcast.fm/+FaxmnJPOE 55 mins
 
 https://overcast.fm/+iXmjdRBe8/14:29 10mins clone you
 
+https://overcast.fm/+b1V1bNX7g smart people ask questions 48mins
+
 ## general dump
 
 https://overcast.fm/+IOVdeY 15 mins william hung

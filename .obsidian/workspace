@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Mixtape/Mixtape Fridays.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Mixtape/Mixtape Fridays.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Mixtape/Mixtape Fridays.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+            "file": "A - Mixtape/Mixtape Fridays.md"
           }
         }
       }
@@ -122,6 +122,7 @@
   },
   "active": "abba5000f4de64a6",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Company Running/Pricing shifts.md",
     "A - Writing/blogpost ideas.md",
@@ -130,7 +131,6 @@
     "A - Writing/Draft - The Corporate YouTube Code.md",
     "2022 - Archive/Draft - Moving to Obsidian.md",
     "A - Mixtape/Mixtape Interviews.md",
-    "A - Writing/tweet ideas.md",
-    "A - Writing/Draft - What People Want.md"
+    "A - Writing/tweet ideas.md"
   ]
 }

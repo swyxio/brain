@@ -115,6 +115,12 @@ https://corecursive.com/063-apple-2001/
 
 https://overcast.fm/+HZUeNoxeQ 30 mins biz model of open source
 
+## pricing
+
+segment story 
+[https://youtu.be/l-vfn97QTr0?t=2355](https://youtu.be/l-vfn97QTr0?t=2355 "https://youtu.be/l-vfn97QTr0?t=2355")
+- credit davej https://discord.com/channels/822583790773862470/869651275963310181/942096126008524901
+
 ## marketing
 
 tofu mofu bofu metrics https://overcast.fm/+JyHt1c7I 20 mins in

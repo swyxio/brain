@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f5658941d2e041c1",
+        "id": "4d60e2094b092b7b",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -128,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5658941d2e041c1",
+  "active": "4d60e2094b092b7b",
   "lastOpenFiles": [
+    "R - Better Questions/icebreaker questions.md",
     "R - Company Running/Managing.md",
     "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Fridays.md",
@@ -138,7 +139,6 @@
     "A - Writing/blog patches.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/Draft - The Corporate YouTube Code.md",
-    "2022 - Archive/Draft - Moving to Obsidian.md",
-    "A - Mixtape/Mixtape Interviews.md"
+    "2022 - Archive/Draft - Moving to Obsidian.md"
   ]
 }

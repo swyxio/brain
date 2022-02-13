@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abba5000f4de64a6",
+        "id": "f5658941d2e041c1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A - Writing/blogpost ideas.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Writing/blogpost ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Writing/blogpost ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A - Writing/blogpost ideas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abba5000f4de64a6",
+  "active": "f5658941d2e041c1",
   "lastOpenFiles": [
+    "R - Company Running/Managing.md",
     "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
@@ -146,7 +139,6 @@
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/Draft - The Corporate YouTube Code.md",
     "2022 - Archive/Draft - Moving to Obsidian.md",
-    "A - Mixtape/Mixtape Interviews.md",
-    "A - Writing/tweet ideas.md"
+    "A - Mixtape/Mixtape Interviews.md"
   ]
 }

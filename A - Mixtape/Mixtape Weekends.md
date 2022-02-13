@@ -1,6 +1,6 @@
 > longform/swyx content to resyndicate  on weekends
 
-hightech high school https://www.youtube.com/watch?v=2iacVfTQA7k
+
 
 robert zhu case against anti graphql https://youtu.be/djKPtyXhaNE
 

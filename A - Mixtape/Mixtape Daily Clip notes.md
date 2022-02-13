@@ -142,6 +142,8 @@ https://overcast.fm/+os2YU2gSU 10mins changed foods to 16mins
 
 https://overcast.fm/+qdIBj-7hw 20mins the graph 
 
+https://overcast.fm/+TRbX793DU 32 mins what is dao
+
 
 # swyx shoutout
 

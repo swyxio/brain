@@ -122,6 +122,8 @@ what i've learned so far about databases
 	- expensive 
 - rachelbythebay blog about the bad db that she wrote
 - aggregations are hard
+- mysql vs pg https://eng.uber.com/postgres-to-mysql-migration/
+- sam lambert on
 
 
 

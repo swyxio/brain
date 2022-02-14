@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "R - Product/Automation Notes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "automation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "R - Product/Automation Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "R - Product/Automation Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+                "file": "R - Product/Automation Notes.md"
               }
             }
           }
@@ -138,6 +139,7 @@
   },
   "active": "ebddbc93cabf94fc",
   "lastOpenFiles": [
+    "R - Product/Automation Notes.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/blogpost ideas.md",
     "APPEARANCES.md",
@@ -146,7 +148,6 @@
     "R - Better Questions/icebreaker questions.md",
     "R - Company Running/Managing.md",
     "A - Mixtape/Mixtape Fridays.md",
-    "R - Company Running/Pricing shifts.md",
-    "A - Writing/blog patches.md"
+    "R - Company Running/Pricing shifts.md"
   ]
 }

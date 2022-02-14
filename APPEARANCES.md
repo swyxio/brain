@@ -6,7 +6,13 @@ jun 16 jsnation ams
 
 
 ## Talks and podcasts
+
+https://www.serverlesschats.com/124/
+
 https://www.digitalocean.com/community/tutorials/nodejs-solve-cors-once-and-for-all-netlify-dev
+
+
+
 - flylessdev chat - i have recording they havent put up
 
 - scribe https://scrimba.com/articles/swyx-coding-career-handbook/

@@ -16,3 +16,5 @@ my temporal talk https://twitter.com/swyx/status/1445466345194209290?s=21
 jsparty https://changelog.com/jsparty/208
 
 https://dev.to/devteam/devdiscuss-is-back-for-season-8-4knb
+
+https://www.serverlesschats.com/124/

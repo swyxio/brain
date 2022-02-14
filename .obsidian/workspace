@@ -1,144 +1,136 @@
 {
   "main": {
-    "id": "eab2b6dec41a6220",
+    "id": "9ae584ab42e2904a",
     "type": "split",
     "children": [
       {
-        "id": "4d60e2094b092b7b",
+        "id": "ebddbc93cabf94fc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f3a47dea47803d5e",
-    "type": "split",
+    "id": "a7e56487d93e8d14",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9c21de1ae76a78a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "88facfcedefb2747",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "c61a15d34db86f37",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "77eb0d7d1918b6f6",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "4359afd9ec7bc999",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ab608cdddc77988f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "databases",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "c86cc7a8a42faba2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f8b85ac339d54af0",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "b7cbc180f8c835fc",
-    "type": "split",
+    "id": "29367d88ac6bf39d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "f8d9e4f69362c8a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4321b339f63fc511",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c54d1a753fb5ddeb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "601063c4362bb80d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "be99a960c065d6a3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "a06ec77247ae5d03",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
+        "id": "43189f7a862b6194",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "52d787273a419cec",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "bffbe33f4a78c883",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b8a3488337ee018f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "4d60e2094b092b7b",
+  "active": "ebddbc93cabf94fc",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Writing/blogpost ideas.md",
+    "APPEARANCES.md",
+    "A - Mixtape/Mixtape Weekends.md",
+    "Angel Investing.md",
     "R - Better Questions/icebreaker questions.md",
     "R - Company Running/Managing.md",
-    "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Fridays.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Company Running/Pricing shifts.md",
-    "A - Writing/blog patches.md",
-    "A - DX Circle/dx circle blog ideas.md",
-    "A - Writing/Draft - The Corporate YouTube Code.md",
-    "2022 - Archive/Draft - Moving to Obsidian.md"
+    "A - Writing/blog patches.md"
   ]
 }

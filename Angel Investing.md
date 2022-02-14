@@ -49,3 +49,7 @@
 	-   making decisions will contain conscious/unconscious bias (be aware)
 	-   investing in something that fails doesn’t make you the dumb money
 	-   being a founder is one of the hardest jobs there is, be nice but balanced
+
+
+
+dont worry about valuation so much as yes/no because https://twitter.com/paulg/status/1492961322236928001?s=21

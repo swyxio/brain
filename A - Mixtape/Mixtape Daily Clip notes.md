@@ -73,6 +73,8 @@ https://overcast.fm/+NBVuuQUhM 9mins mr beast
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 
 
+https://overcast.fm/+NBVvT7qiY youtube deep bench, quantity to get quality 20mins ish
+
 ## audience building
 
 
@@ -102,6 +104,10 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 - https://overcast.fm/+b1V1guBD8 23 mins greg mckowen virality vs energy
 - 
 how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project - 18mins
+
+## cal newport
+
+https://overcast.fm/+b1V3EeycY deep work 6:30mins
 
 ## health 
 

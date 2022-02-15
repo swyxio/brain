@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Better Questions/Sales questions.md",
+            "file": "A - Newsletter/newsletter fun picks.md",
             "mode": "source"
           }
         }
@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "remote",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -64,7 +64,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "5c0b9b167b3a9f55",
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "R - Better Questions/Sales questions.md",
+            "file": "A - Newsletter/newsletter fun picks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "R - Better Questions/Sales questions.md",
+            "file": "A - Newsletter/newsletter fun picks.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "R - Better Questions/Sales questions.md"
+            "file": "A - Newsletter/newsletter fun picks.md"
           }
         }
       }
@@ -122,15 +122,15 @@
   },
   "active": "ebddbc93cabf94fc",
   "lastOpenFiles": [
-    "R - Better Questions/Sales questions.md",
+    "A - Newsletter/newsletter fun picks.md",
+    "Culture.md",
+    "R - Company Running/Calacanis Startup Checklist.md",
+    "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Better Questions/Sales questions.md",
     "R - Product/Automation Notes.md",
     "A - Writing/blogpost ideas.md",
     "APPEARANCES.md",
-    "A - Mixtape/Mixtape Weekends.md",
-    "Angel Investing.md",
-    "R - Better Questions/icebreaker questions.md",
-    "R - Company Running/Managing.md",
-    "A - Mixtape/Mixtape Fridays.md"
+    "Angel Investing.md"
   ]
 }

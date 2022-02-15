@@ -10,6 +10,7 @@ my temporal talk https://twitter.com/swyx/status/1445466345194209290?s=21
 
 - uibreakfast https://uibreakfast.com/223-how-to-market-yourself-with-shawn-swyx-wang/
 
+devx pod https://topstartups.io/startup-salary-equity-database/
 
 4hr work week https://overcast.fm/+KebvparPM
 

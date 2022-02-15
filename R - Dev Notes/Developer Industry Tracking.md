@@ -99,6 +99,7 @@ lang agnostic
    - summary: https://matt-rickard.com/2021-state-of-developers
 - https://medium.com/@hoffa/the-top-weekend-languages-according-to-githubs-code-6022ea2e33e8
 - https://octoverse.github.com/
+- Google State of Devops https://services.google.com/fh/files/misc/state-of-devops-2021.pdf
 - https://www.digitalocean.com/currents/
 - jetbrains https://www.jetbrains.com/lp/devecosystem-2020/
 - https://www.tiobe.com/tiobe-index/

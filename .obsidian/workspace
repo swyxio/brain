@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d5dfc513463fd34",
+        "id": "3da4eb2896112026",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "R - Creator Resources/Email tools list.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -57,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Creator Resources/Email tools list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Creator Resources/Email tools list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "R - Creator Resources/Email tools list.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d5dfc513463fd34",
+  "active": "3da4eb2896112026",
   "lastOpenFiles": [
     "R - Creator Resources/Email tools list.md",
     "R - Dev Notes/Developer Industry Tracking.md",

@@ -4,6 +4,8 @@ Light newsletter
 
 - https://tinyletter.com/
 - https://buttondown.email/ - write in markdown!
+- Sendinblue
+- Emailoctopus
 
 Paid newsletters
 
@@ -23,5 +25,7 @@ Self hosted
 - https://sendy.co/ (1x payment, PHP)
 - https://github.com/MoonMail/MoonMail/
 
-
+## styling
 - style emails with Tailwind https://maizzle.com/
+- mjml
+- parcel.io

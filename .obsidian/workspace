@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Product/Automation Notes.md",
-            "mode": "source",
-            "source": false
+            "file": "R - Better Questions/Sales questions.md",
+            "mode": "source"
           }
         }
       }
@@ -19,135 +18,119 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f6fdd9d3e36ac662",
-    "type": "split",
+    "id": "54ff0725be724bf5",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "93bf934a94579152",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5d2a63ced9f77a8c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "735b11bec259ef92",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "automation",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "9f66edef0e3a5af8",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "5c381d6d74e5c0cc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3bafb6b658ca8629",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "e337e2381c4b2f9e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "30aa342c9de67839",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "e7fbaf626c77822d",
-    "type": "split",
+    "id": "5c0b9b167b3a9f55",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "628f4ea72e93e827",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "26e408fd1e6f9418",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "7044056703f6e2a1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "R - Product/Automation Notes.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ae97b920e140d756",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "R - Product/Automation Notes.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "da817d1293115ba5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "da0cc28c5910e314",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "R - Product/Automation Notes.md"
-              }
-            }
+        "id": "623f0fb9749000b5",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "031d77e4856f5101",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "R - Better Questions/Sales questions.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "34de0d98fb476ae0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "R - Better Questions/Sales questions.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4850836611da4ee9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "R - Better Questions/Sales questions.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "ebddbc93cabf94fc",
   "lastOpenFiles": [
-    "R - Product/Automation Notes.md",
+    "R - Better Questions/Sales questions.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Product/Automation Notes.md",
     "A - Writing/blogpost ideas.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Weekends.md",
     "Angel Investing.md",
     "R - Better Questions/icebreaker questions.md",
     "R - Company Running/Managing.md",
-    "A - Mixtape/Mixtape Fridays.md",
-    "R - Company Running/Pricing shifts.md"
+    "A - Mixtape/Mixtape Fridays.md"
   ]
 }

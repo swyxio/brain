@@ -83,7 +83,6 @@ https://overcast.fm/+BlzFmmbag 7 mins cold start
 
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins
 
-https://overcast.fm/+JmiMDFuCc 45mins audience building puwptd
 audience building is overrated
 -  https://twitter.com/robwalling/status/1306591312498405376?s=21
 - https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21

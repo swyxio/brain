@@ -10,10 +10,10 @@ good youtubes
 - caya https://www.youtube.com/cayahere
 - twilio engage https://m.youtube.com/user/TeamTwilio
 - hubspot marketing https://m.youtube.com/user/HubSpot
+- altinity https://www.youtube.com/channel/UCE3Y2lDKl_ZfjaCrh62onYA/featured
+- Clickhouse https://www.youtube.com/c/ClickHouseDB
 
 company youtube strategy
 - b2c https://www.youtube.com/watch?v=MIOpohrjuXk
 - 
- company youtubes
-- altinity https://www.youtube.com/channel/UCE3Y2lDKl_ZfjaCrh62onYA/featured
-	- https://www.youtube.com/c/ClickHouseDB/videos
+

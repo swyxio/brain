@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/The Investment Case for Temporal.md",
+            "file": "A - Writing/Draft - The Corporate YouTube Code.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "email",
+                "query": "corporate youtube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md",
+                "file": "A - Writing/Draft - The Corporate YouTube Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md",
+                "file": "A - Writing/Draft - The Corporate YouTube Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md"
+                "file": "A - Writing/Draft - The Corporate YouTube Code.md"
               }
             }
           }
@@ -138,6 +139,7 @@
   },
   "active": "3da4eb2896112026",
   "lastOpenFiles": [
+    "A - Writing/Draft - The Corporate YouTube Code.md",
     "A - Writing/The Investment Case for Temporal.md",
     "R - Creator Resources/Email tools list.md",
     "R - Dev Notes/Developer Industry Tracking.md",
@@ -146,7 +148,6 @@
     "A - Writing/blogpost ideas.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Weekends.md",
-    "Angel Investing.md",
-    "R - Better Questions/icebreaker questions.md"
+    "Angel Investing.md"
   ]
 }

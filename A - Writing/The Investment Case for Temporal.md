@@ -1,4 +1,4 @@
-i spend a lot of time talking about the weeds
+I spend a lot of time talking to developers about Temporal, but haven't touched on Temporal's opportunity an investment since my [Why Temporal](https://www.swyx.io/why-temporal/#the-business-case-for-temporal) post from last year. Today
 
 - what is temporal?
 

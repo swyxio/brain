@@ -11,7 +11,7 @@ Making a unicorn valuation by comps is the easiest, if flimsiest, argument.
 Some notable recent raises by peer devtools, compared with informal data on their revenue trends, gives us confidence that Temporal is in the neighborhood of similar raises:
 
 - [Chronosphere raised 200m on $1+b](https://techcrunch.com/2021/10/07/chronosphere-raises-200m-at-a-1b-valuation-for-cloud-native-monitoring-adds-granular-distributed-tracing-to-its-dashboard/)
-- [Sourcegraph raised 125m on $2.6b](https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/)
+[]()- [Sourcegraph raised 125m on $2.6b](https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/)
 - [Airbyte raised 150m on $1.5b](https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data)
 
 Making a unicorn value based on *fundamentals* is a good deal harder. Let's just say exit price/sales multiples for enterprise software is at 20-40x. So Temporal would have to bring in $50m in revenue (with say 30-40% growth) for $1.5b valuation to make sense as a standalone public company. It does not make that today, no unicorn does. But growth is a good deal higher. I can't do more public math without saying more than I should.
@@ -20,10 +20,11 @@ However one thing I can say here is to collate public statements on the *viral e
 
 - **At Uber**, Cadence grew from 0 to >100 usecases within 3 years.
 - Also while [at Uber](https://docs.temporal.io/blog/oss-startups-podcast), Cadence got adoption at HashiCorp, Coinbase, DoorDash, Box, Checkr on the back of [minimal (but effective) marketing](https://www.youtube.com/watch?v=BJwFxqdSx4Y)
-- 
+- s
 
+At minimum this should mean that user acquisition/organic growth should be strong for several years, and in terms of monetization it's quite possible to see Net Dollar Retention north of 200% in the first few years of implementation, which is world-beating.
 
-## Why Temporal should be worth 10b
+## Why Temporal will be worth 10b
 * as code - datadog case study
 
 enterprise services

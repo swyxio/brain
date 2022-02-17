@@ -1,5 +1,8 @@
 
 
+calendly pain point - we booked a intro workshop on a public holiday and it didnt warn us
+calendly wishlist - my ideal world is one view of “whats happening in temporal land across all the things you do”
+
 https://overcast.fm/+VbWAKb_YQ 25mins custom newsletter stack
 
 

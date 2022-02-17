@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3da4eb2896112026",
+        "id": "5d0ec9ddb6f4f709",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/The Investment Case for Temporal.md",
+            "file": "R - Investing & Ideas/Email app.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md",
+                "file": "R - Investing & Ideas/Email app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md",
+                "file": "R - Investing & Ideas/Email app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md"
+                "file": "R - Investing & Ideas/Email app.md"
               }
             }
           }
@@ -136,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3da4eb2896112026",
+  "active": "5d0ec9ddb6f4f709",
   "lastOpenFiles": [
+    "R - Investing & Ideas/Email app.md",
     "A - Writing/The Investment Case for Temporal.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Company Running/Calacanis Startup Checklist.md",
@@ -146,7 +147,6 @@
     "R - Creator Resources/Email tools list.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "R - Product/Automation Notes.md",
-    "A - Writing/blogpost ideas.md",
-    "APPEARANCES.md"
+    "A - Writing/blogpost ideas.md"
   ]
 }

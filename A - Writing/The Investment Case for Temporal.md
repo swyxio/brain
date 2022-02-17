@@ -22,6 +22,8 @@ However one thing I can say here is to collate public statements on the *viral e
 - Also while [at Uber](https://docs.temporal.io/blog/oss-startups-podcast), Cadence got adoption at HashiCorp, Coinbase, DoorDash, Box, Checkr on the back of [minimal (but effective) marketing](https://www.youtube.com/watch?v=BJwFxqdSx4Y)
 - s
 
+[open source growth 14x](https://twitter.com/BogieBalkansky/status/1494025245279195136) and [25% mom growth](https://www.theregister.com/2022/02/16/temporal_103m_funding/)
+
 At minimum this should mean that user acquisition/organic growth should be strong for several years, and in terms of monetization it's quite possible to see Net Dollar Retention north of 200% in the first few years of implementation, which is world-beating.
 
 ## Why Temporal will be worth 10b

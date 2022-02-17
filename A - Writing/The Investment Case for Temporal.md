@@ -11,10 +11,10 @@ Making a unicorn valuation by comps is the easiest, if flimsiest, argument.
 Some notable recent raises by peer devtools, compared with informal data on their revenue trends, gives us confidence that Temporal is in the neighborhood of similar raises:
 
 - [Chronosphere raised 200m on $1+b](https://techcrunch.com/2021/10/07/chronosphere-raises-200m-at-a-1b-valuation-for-cloud-native-monitoring-adds-granular-distributed-tracing-to-its-dashboard/)
-[]()- [Sourcegraph raised 125m on $2.6b](https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/)
+- [Sourcegraph raised 125m on $2.6b](https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/)
 - [Airbyte raised 150m on $1.5b](https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data)
 
-Making a unicorn value based on *fundamentals* is a good deal harder. Let's just say exit price/sales multiples for enterprise software is at 20-40x. So Temporal would have to bring in $50m in revenue (with say 30-40% growth) for $1.5b valuation to make sense as a standalone public company. It does not make that today, no unicorn does. But growth is a good deal higher. I can't do more public math without saying more than I should.
+Making a unicorn value based on *fundamentals* is a good deal harder. Let's just say exit price/sales multiples for enterprise software is at 20-40x. So Temporal would have to bring in $50m in revenue (with say 30-40% growth) for $1.5b valuation to make sense as a standalone public company. It does not make that today, no unicorn does. But growth is a good deal higher. What’s a fair price for $5m revenue growing the classic “triple triple double double” for example? Thats the sort of handicapping you have to do in startup investing.
 
 However one thing I can say here is to collate public statements on the *viral expansion* of Temporal:
 

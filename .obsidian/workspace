@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Investing & Ideas/project ideas.md",
+            "file": "A - Writing/The Investment Case for Temporal.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "R - Investing & Ideas/project ideas.md",
+            "file": "A - Writing/The Investment Case for Temporal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "R - Investing & Ideas/project ideas.md",
+            "file": "A - Writing/The Investment Case for Temporal.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "R - Investing & Ideas/project ideas.md"
+            "file": "A - Writing/The Investment Case for Temporal.md"
           }
         }
       }
@@ -122,10 +122,10 @@
   },
   "active": "3da4eb2896112026",
   "lastOpenFiles": [
+    "A - Writing/The Investment Case for Temporal.md",
     "R - Investing & Ideas/project ideas.md",
     "Culture.md",
     "R - Better Questions/community questions.md",
-    "A - Writing/The Investment Case for Temporal.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/Draft - The Corporate YouTube Code.md",
     "R - Creator Resources/Email tools list.md",

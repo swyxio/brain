@@ -39,16 +39,22 @@ splunk 20b
 
 ## Why Temporal could be worth 100b
 
-protocol -> marketplace
-human-machine interface
+- developer household name
+- 
 
 mongodb 29b
-okta 30b
-twlo 33b
+okta 30b - 1.15b in revenue - 61% yoy
+twlo 33b - 2.84b in revenue - 54% yoy
 cloudflare 37b
-datadog 52b
+datadog 52b - 1b in revenue - 83%yoy
 vmw 53b
 snow 92b
 stripe 100b
 ibm  117b
 oracle 213b
+
+
+---
+
+protocol -> marketplace
+human-machine interface

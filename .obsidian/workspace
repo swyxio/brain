@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/The Investment Case for Temporal.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e7fbaf626c77822d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md"
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
               }
             }
           }
@@ -139,11 +138,11 @@
   },
   "active": "3da4eb2896112026",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/The Investment Case for Temporal.md",
     "A - Writing/Draft - The Corporate YouTube Code.md",
     "R - Creator Resources/Email tools list.md",
     "R - Dev Notes/Developer Industry Tracking.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Product/Automation Notes.md",
     "A - Writing/blogpost ideas.md",
     "APPEARANCES.md",

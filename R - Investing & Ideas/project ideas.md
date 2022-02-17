@@ -1,5 +1,9 @@
 better question "Computers are useless. They can only give you answers" - Pablo Picasso (1964)
 
+
+new audible
+https://twitter.com/newsyc300/status/1494214527759564802?s=21
+
 Personal data warehouse
 - https://joealcorn.co.uk/blog/2020/goodreads-retiring-API
 - arvid kahl crosslinking everything 3x https://overcast.fm/+XcqzNy6Gk

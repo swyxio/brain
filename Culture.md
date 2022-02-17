@@ -1,4 +1,9 @@
 
+## effective culture
+
+https://twitter.com/danluu/status/1493963774478348291?s=21
+
+
 ## remote culture
 
 - async and onboarding - leesons from gitlab

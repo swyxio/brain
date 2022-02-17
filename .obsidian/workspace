@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Investing & Ideas/Email app.md",
+            "file": "APPEARANCES.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Investing & Ideas/Email app.md",
+                "file": "APPEARANCES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Investing & Ideas/Email app.md",
+                "file": "APPEARANCES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Investing & Ideas/Email app.md"
+                "file": "APPEARANCES.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "5d0ec9ddb6f4f709",
   "lastOpenFiles": [
+    "APPEARANCES.md",
     "R - Investing & Ideas/Email app.md",
     "A - Writing/The Investment Case for Temporal.md",
     "R - Creator Resources/Personal Sites.md",
@@ -146,7 +147,6 @@
     "A - Writing/Draft - The Corporate YouTube Code.md",
     "R - Creator Resources/Email tools list.md",
     "R - Dev Notes/Developer Industry Tracking.md",
-    "R - Product/Automation Notes.md",
-    "A - Writing/blogpost ideas.md"
+    "R - Product/Automation Notes.md"
   ]
 }

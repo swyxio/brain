@@ -20,6 +20,7 @@
 	- https://www.nateliason.com/
 	- https://archive.withcompound.com/
 	- https://jamesclear.com/identity-based-habits
+	- https://www.worksinprogress.co/works-in-progress-has-joined-stripe/
 - Professional media
 	- https://theathletic.com/ and https://www.theplayerstribune.com/
 		- https://www.theatlantic.com/ideas/archive/2021/12/why-enes-kanter-freedom-speaks/620940/

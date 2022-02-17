@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/The Investment Case for Temporal.md",
-            "mode": "source"
+            "file": "R - Creator Resources/Personal Sites.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,119 +19,135 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6927f05fbf2ceaaf",
-    "type": "mobile-drawer",
+    "id": "f6fdd9d3e36ac662",
+    "type": "split",
     "children": [
       {
-        "id": "7f4921d0d4d9fd0c",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "c3159fa9f6aef656",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "culture",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "93bf934a94579152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d2a63ced9f77a8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "735b11bec259ef92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "personal sites",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f66edef0e3a5af8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "e1f56e7fcd94f5a3",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "96056e37e2cc0aa6",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "81b85565f51f39ec",
-    "type": "mobile-drawer",
+    "id": "e7fbaf626c77822d",
+    "type": "split",
     "children": [
       {
-        "id": "45e2a145efc8a9db",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "f06dddd2a013ac4a",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Writing/The Investment Case for Temporal.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "628f4ea72e93e827",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26e408fd1e6f9418",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7044056703f6e2a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R - Creator Resources/Personal Sites.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae97b920e140d756",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R - Creator Resources/Personal Sites.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da817d1293115ba5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da0cc28c5910e314",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R - Creator Resources/Personal Sites.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "3f6e4ca181723761",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Writing/The Investment Case for Temporal.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "742f82f8ecee813e",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Writing/The Investment Case for Temporal.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "3da4eb2896112026",
   "lastOpenFiles": [
+    "R - Creator Resources/Personal Sites.md",
+    "R - Company Running/Calacanis Startup Checklist.md",
     "A - Writing/The Investment Case for Temporal.md",
-    "R - Investing & Ideas/project ideas.md",
-    "Culture.md",
-    "R - Better Questions/community questions.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/Draft - The Corporate YouTube Code.md",
     "R - Creator Resources/Email tools list.md",
     "R - Dev Notes/Developer Industry Tracking.md",
     "R - Product/Automation Notes.md",
-    "A - Writing/blogpost ideas.md"
+    "A - Writing/blogpost ideas.md",
+    "APPEARANCES.md"
   ]
 }

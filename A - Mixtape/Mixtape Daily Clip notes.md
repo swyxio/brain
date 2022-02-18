@@ -7,7 +7,6 @@ economics of peloton https://overcast.fm/+FaxmnJPOE 55 mins
 
 https://overcast.fm/+iXmjdRBe8/14:29 10mins clone you
 
-https://overcast.fm/+[]()b1V1bNX7g smart people ask questions 48mins
 
 ## general dump
 
@@ -149,13 +148,10 @@ https://overcast.fm/+qdIBj-7hw 20mins the graph
 https://overcast.fm/+TRbX793DU 32 mins what is dao until 50ish mins
 
 
-# swyx shoutout
-
-https://designdetails.fm/episodes/7RL459Ke  8 minutes - proof of curiosity - learn in public
-
 
 # deadpool
 
+- https://designdetails.fm/episodes/7RL459Ke  8 minutes - proof of curiosity - learn in public
 - https://constine.substack.com/p/how-the-creator-crisis-forced-artists jack conte on creators vs influencers 20 mins in
 - radical transparency lampshading https://podcasts.apple.com/us/podcast/everyone-hates-marketers/id1221256195
 - get spencer rascoff interview on satya nadella. user focus not competitor focus

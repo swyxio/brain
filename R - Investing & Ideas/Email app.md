@@ -5,6 +5,7 @@ calendly wishlist - my ideal world is one view of “whats happening in temporal
 calendly pain point - no way to create multiple instances of one event type - solved by luma
 calendly pain point - no way to invite preapproved list of attendees - solved by luma
 
+mailchimp pain point - 2fa code not received no fallback
 
 
 https://overcast.fm/+VbWAKb_YQ 25mins custom newsletter stack

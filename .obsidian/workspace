@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "APPEARANCES.md",
+            "file": "R - Investing & Ideas/Email app.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APPEARANCES.md",
+                "file": "R - Investing & Ideas/Email app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APPEARANCES.md",
+                "file": "R - Investing & Ideas/Email app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APPEARANCES.md"
+                "file": "R - Investing & Ideas/Email app.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "5d0ec9ddb6f4f709",
   "lastOpenFiles": [
-    "APPEARANCES.md",
     "R - Investing & Ideas/Email app.md",
+    "APPEARANCES.md",
     "A - Writing/The Investment Case for Temporal.md",
     "R - Creator Resources/Personal Sites.md",
     "R - Company Running/Calacanis Startup Checklist.md",

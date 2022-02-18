@@ -2,6 +2,10 @@
 
 calendly pain point - we booked a intro workshop on a public holiday and it didnt warn us
 calendly wishlist - my ideal world is one view of “whats happening in temporal land across all the things you do”
+calendly pain point - no way to create multiple instances of one event type - solved by luma
+calendly pain point - no way to invite preapproved list of attendees - solved by luma
+
+
 
 https://overcast.fm/+VbWAKb_YQ 25mins custom newsletter stack
 

@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "A - DX Circle/dx circle blog ideas.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }

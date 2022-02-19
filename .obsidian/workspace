@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - DX Circle/dx circle blog ideas.md",
+            "file": "A - Writing/The Investment Case for Temporal.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "edb98484a2a7eba4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md",
+                "file": "A - Writing/The Investment Case for Temporal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md",
+                "file": "A - Writing/The Investment Case for Temporal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md"
+                "file": "A - Writing/The Investment Case for Temporal.md"
               }
             }
           }
@@ -138,6 +139,7 @@
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "A - Writing/The Investment Case for Temporal.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/Draft - State of JS 2021.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
@@ -146,7 +148,6 @@
     "R - Creator Resources/Email tools list.md",
     "R - Product/Automation Notes.md",
     "Angel Investing.md",
-    "README.md",
-    "2022 - Archive/Draft - Moving to Obsidian.md"
+    "README.md"
   ]
 }

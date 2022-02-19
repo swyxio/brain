@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/The Investment Case for Temporal.md",
+            "file": "R - Company Running/Pitching.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "edb98484a2a7eba4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md",
+                "file": "R - Company Running/Pitching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md",
+                "file": "R - Company Running/Pitching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md"
+                "file": "R - Company Running/Pitching.md"
               }
             }
           }
@@ -139,6 +138,8 @@
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "R - Company Running/Pitching.md",
+    "R - Company Running/Calacanis Startup Checklist.md",
     "A - Writing/The Investment Case for Temporal.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/Draft - State of JS 2021.md",
@@ -146,8 +147,6 @@
     "A - Writing/State of JS 2021.md",
     "R - Investing & Ideas/Twyx App.md",
     "R - Creator Resources/Email tools list.md",
-    "R - Product/Automation Notes.md",
-    "Angel Investing.md",
-    "README.md"
+    "R - Product/Automation Notes.md"
   ]
 }

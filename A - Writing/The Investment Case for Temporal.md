@@ -8,6 +8,8 @@ Today is the occasion of [our Series B announcement](https://twitter.com/swyx/st
 
 ## Why Temporal is worth 1.5b
 
+I'll rule out one form of valuation here, which is "unicorn by strategic acquisition" - all the cloud majors have a workflow offering and Temporal would be additive, but Temporal's appeal is inherently multi-cloud, so that would seriously impair the value here (though that has [not stopped Microsoft](https://www.inverse.com/gaming/call-of-duty-xbox-exclusive)). There are other possible acquirers than the cloud majors of course, but those are hard to predict. Salesforce, Stripe, or Twilio perhaps.
+
 ### Unicorn by Comparables
 
 Making a unicorn valuation by comps is the easiest, if flimsiest, argument.
@@ -31,22 +33,27 @@ However one thing I can say here is to collate public statements on the *viral e
 - [Netflix reported](https://youtu.be/LliBP7YMGyA?t=197) running 500k workflows a *day* in Oct 2021 and projected 1m a day by end 2021
 - [Stripe hasn't disclosed](https://www.youtube.com/watch?v=Crkcr1S-NSc) any numbers, but have posted [a second job for their Workflow Engine team](https://stripe.com/jobs/listing/infrastructure-engineer-developer-productivity-workflow-engine/2964407) this year.
 
-The natural position of Temporal as a primary tool for the rising [Platform Engineer](https://twitter.com/danielbryantuk/status/1494614250567966732) to provide an independently scalable stateful reliability primitive (bundling queues, databases, timers, gateways, encryption etc.) means that the biggest cost of adoption is paid by the first user. Every subsequent user after that has a much lower cost to  
+The natural position of Temporal as a primary tool for the rising [Platform Engineer](https://twitter.com/danielbryantuk/status/1494614250567966732) to provide an independently scalable stateful reliability primitive (bundling queues, databases, timers, gateways, encryption etc.) means that the biggest cost of adoption is paid by the first production user. Every subsequent user after that has a much lower cost to adopt Temporal, because most of the deployment and integration niggles have been worked out. And once the code has been run and is running reliably, the long running and repetitive nature of this workload means there is very little incentive to churn.
 
-At minimum this should mean that user acquisition/organic growth should be strong for several years, and in terms of monetization it's quite possible to see Net Dollar Retention north of 200% in the first few years of implementation, which is world-beating.
+At minimum this should mean that user acquisition/organic growth should be strong for many years, and in terms of monetization you could see Net Revenue Retention north of 200% in the first few years of implementation, which is world-beating ([110% is good, 130% is great](https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29?utm_source=url), Snowflake is 160-180%, though these numbers are for more mature companies).
+
 
 ## Why Temporal will be worth 10b
+
+Let's level-set here on what it takes to be a ~10b software company in 2022:
+
+- New Relic: 4b valuation, 750m revenue +20% yoy
+- Elastic: 8b valuation, 730m revenue +40% yoy
+- Confluent: 14b valuation, 390m revenue +70% yoy
+gitlab 11b
+hashicorp 11b
+splunk 20b
+
 * as code - datadog case study
 
 enterprise services
 fully fledged cloud
 
-new relic 5bn
-elastic 9b
-confluent 15b
-gitlab 11b
-hashicorp 11b
-splunk 20b
 
 ## Why Temporal could be worth 100b
 

@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Company Running/Pitching.md",
-            "mode": "source",
-            "source": false
+            "file": "A - Writing/The Investment Case for Temporal.md",
+            "mode": "source"
           }
         }
       }
@@ -61,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "edb98484a2a7eba4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Company Running/Pitching.md",
+                "file": "A - Writing/The Investment Case for Temporal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Company Running/Pitching.md",
+                "file": "A - Writing/The Investment Case for Temporal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Company Running/Pitching.md"
+                "file": "A - Writing/The Investment Case for Temporal.md"
               }
             }
           }
@@ -138,8 +138,6 @@
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [
-    "R - Company Running/Pitching.md",
-    "R - Company Running/Calacanis Startup Checklist.md",
     "A - Writing/The Investment Case for Temporal.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/Draft - State of JS 2021.md",
@@ -147,6 +145,8 @@
     "A - Writing/State of JS 2021.md",
     "R - Investing & Ideas/Twyx App.md",
     "R - Creator Resources/Email tools list.md",
-    "R - Product/Automation Notes.md"
+    "R - Product/Automation Notes.md",
+    "Angel Investing.md",
+    "README.md"
   ]
 }

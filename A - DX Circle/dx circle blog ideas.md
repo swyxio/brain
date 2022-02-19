@@ -1,5 +1,14 @@
 
+
+
 hiring first devrel
+
+
+## platform engineering
+- https://twitter.com/lizthegrey/status/1491525337095696390?s=20&t=HiQY9TPqFxPCwMVX1tshtg
+- https://twitter.com/danielbryantuk/status/1494614250567966732?s=20&t=F_XRkOq2J7pqU7NXRcaxwg
+- https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/
+- https://shahadarsh.com/2020/10/12/platform-engineering/
 
 ## theory of value in devtools
 

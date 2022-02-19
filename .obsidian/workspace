@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "9ae584ab42e2904a",
+    "id": "eab2b6dec41a6220",
     "type": "split",
     "children": [
       {
-        "id": "5d0ec9ddb6f4f709",
+        "id": "221e050502dde8dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "mode": "source",
-            "source": false
+            "file": "A - DX Circle/dx circle blog ideas.md",
+            "mode": "source"
           }
         }
       }
@@ -19,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f6fdd9d3e36ac662",
+    "id": "c71b23521fd17cd0",
     "type": "split",
     "children": [
       {
-        "id": "93bf934a94579152",
+        "id": "60841dc1c21e13e9",
         "type": "tabs",
         "children": [
           {
-            "id": "5d2a63ced9f77a8c",
+            "id": "034ff609b868e4a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +34,7 @@
             }
           },
           {
-            "id": "735b11bec259ef92",
+            "id": "13eb3e34e4a23a08",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +49,7 @@
             }
           },
           {
-            "id": "9f66edef0e3a5af8",
+            "id": "8a5b1980561a926d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +63,15 @@
     "width": 300
   },
   "right": {
-    "id": "e7fbaf626c77822d",
+    "id": "edb98484a2a7eba4",
     "type": "split",
     "children": [
       {
-        "id": "628f4ea72e93e827",
+        "id": "1ed0ae26fc8c037f",
         "type": "tabs",
         "children": [
           {
-            "id": "26e408fd1e6f9418",
+            "id": "0e71a28c2dde7da0",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +79,12 @@
             }
           },
           {
-            "id": "7044056703f6e2a1",
+            "id": "3192223b1c52e30f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "A - DX Circle/dx circle blog ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +96,19 @@
             }
           },
           {
-            "id": "ae97b920e140d756",
+            "id": "ff5eafb11a0f4786",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "A - DX Circle/dx circle blog ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "da817d1293115ba5",
+            "id": "43b87cec84c9a998",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +119,12 @@
             }
           },
           {
-            "id": "da0cc28c5910e314",
+            "id": "616d95e91baa497a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+                "file": "A - DX Circle/dx circle blog ideas.md"
               }
             }
           }
@@ -136,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d0ec9ddb6f4f709",
+  "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "A - DX Circle/dx circle blog ideas.md",
+    "A - Writing/Draft - State of JS 2021.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Investing & Ideas/Email app.md",
-    "APPEARANCES.md",
-    "A - Writing/The Investment Case for Temporal.md",
-    "R - Creator Resources/Personal Sites.md",
-    "R - Company Running/Calacanis Startup Checklist.md",
-    "A - Writing/Draft - The Corporate YouTube Code.md",
+    "A - Writing/State of JS 2021.md",
+    "R - Investing & Ideas/Twyx App.md",
     "R - Creator Resources/Email tools list.md",
-    "R - Dev Notes/Developer Industry Tracking.md",
-    "R - Product/Automation Notes.md"
+    "R - Product/Automation Notes.md",
+    "Angel Investing.md",
+    "README.md",
+    "2022 - Archive/Draft - Moving to Obsidian.md"
   ]
 }

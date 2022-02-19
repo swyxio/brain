@@ -7,6 +7,8 @@ economics of peloton https://overcast.fm/+FaxmnJPOE 55 mins
 
 https://overcast.fm/+iXmjdRBe8/14:29 10mins clone you
 
+k8s documentary https://overcast.fm/+B1yJZf4lw 7mins
+
 
 ## general dump
 

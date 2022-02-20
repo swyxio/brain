@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "APPEARANCES.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "APPEARANCES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "APPEARANCES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "APPEARANCES.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "7b05482d0735e70b",
   "lastOpenFiles": [
+    "APPEARANCES.md",
     "conflict-files-obsidian-git.md",
     "R - Creator Resources/Personal Sites.md",
     "A - Writing/The Investment Case for Temporal.md",
@@ -158,7 +159,6 @@
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/State of JS 2021.md",
     "R - Investing & Ideas/Twyx App.md",
-    "R - Creator Resources/Email tools list.md",
-    "R - Product/Automation Notes.md"
+    "R - Creator Resources/Email tools list.md"
   ]
 }

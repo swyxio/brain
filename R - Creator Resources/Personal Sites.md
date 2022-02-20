@@ -52,6 +52,7 @@
 	- https://fettblog.eu/typescript-jsdoc-superpowers/
 	- [linus lee @thesephist](https://thesephist.com/)
 	- https://drewdevault.com/2020/11/17/Better-than-DuckDuckGo.html
+	- https://www.jamesqquick.com/courses
 	- https://www.no.lol/
 	- https://www.theengineeringmanager.com
 

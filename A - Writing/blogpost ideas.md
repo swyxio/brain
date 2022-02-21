@@ -9,6 +9,7 @@ tenth doctor beliefs in tech
 
 unzippening of society
 - https://twitter.com/cubicleapril/status/1484272113976590341?s=21
+- canada truckers https://bariweiss.substack.com/p/a-social-credit-system-arrives-in
 
 
 scorned employees

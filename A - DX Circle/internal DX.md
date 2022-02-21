@@ -1,0 +1,1 @@
+useful notes on running an internal developer satisfaction survey - would people be interested in such a result?  https://sallylait.com/blog/2022/02/20/developer-satisfaction-surveys/

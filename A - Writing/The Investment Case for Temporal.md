@@ -33,7 +33,7 @@ However one thing I can say here is to collate public statements on the *viral e
 - [Netflix reported](https://youtu.be/LliBP7YMGyA?t=197) running 500k workflows a *day* in Oct 2021 and projected 1m a day by end 2021
 - [Stripe hasn't disclosed](https://www.youtube.com/watch?v=Crkcr1S-NSc) any numbers, but have posted [a second job for their Workflow Engine team](https://stripe.com/jobs/listing/infrastructure-engineer-developer-productivity-workflow-engine/2964407) this year.
 
-The natural position of Temporal as a primary tool for the rising [Platform Engineer](https://twitter.com/danielbryantuk/status/1494614250567966732) to provide an independently scalable stateful reliability primitive (bundling queues, databases, timers, gateways, encryption etc.) means that the biggest cost of adoption is paid by the first production user. Every subsequent user after that has a much lower cost to adopt Temporal, because most of the deployment and integration niggles have been worked out. And once the code has been run and is running reliably, the long running and repetitive nature of this workload means there is very little incentive to churn.
+The natural position of Temporal as a primary tool for the rising [Platform Engineer](https://twitter.com/danielbryantuk/status/1494614250567966732) to provide a scalable stateful reliability primitive (bundling queues, databases, timers, gateways, encryption etc.) means that the biggest cost of adoption is paid by the first production user. Every subsequent user after that has a much lower cost to adopt Temporal, because most of the deployment and integration niggles have been worked out. And once the code has been run and is running reliably, the long running and repetitive nature of this workload means there is very little incentive to churn.
 
 At minimum this should mean that user acquisition/organic growth should be strong for many years, and in terms of monetization you could see Net Revenue Retention north of 200% in the first few years of implementation, which is world-beating ([110% is good, 130% is great](https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29?utm_source=url), Snowflake is 160-180%, though these numbers are for more mature companies).
 
@@ -44,10 +44,9 @@ Let's level-set here on what it takes to be a ~10b software company in 2022:
 
 - New Relic: 4b valuation, 750m revenue +20% yoy
 - Elastic: 8b valuation, 730m revenue +40% yoy
+- Gitlab: 9b valuation, 220m revenue +60% yoy
+- Hashicorp: 10b valuation, 290m revenue +50% yoy
 - Confluent: 14b valuation, 390m revenue +70% yoy
-gitlab 11b
-hashicorp 11b
-splunk 20b
 
 * as code - datadog case study
 
@@ -58,8 +57,8 @@ fully fledged cloud
 ## Why Temporal could be worth 100b
 
 - developer household name
-- 
 
+- Splunk: 18b valuation, 2.5b revenue +19% yoy
 mongodb 29b
 okta 30b - 1.15b in revenue - 61% yoy
 twlo 33b - 2.84b in revenue - 54% yoy

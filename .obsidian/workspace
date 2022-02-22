@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "A - Mixtape/Mixtape Fridays.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,107 +19,122 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7f1b3a24dc8637f5",
-    "type": "mobile-drawer",
+    "id": "ffe03161165c3c29",
+    "type": "split",
     "children": [
       {
-        "id": "c258bccf53148c3e",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "c5212c09afbb483d",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "79c8f425744323c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573d976502fba063",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d352a5d5e903eef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "545a7697ab341000",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "6c94035943502ef9",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "4c81d8c37a7068ac",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "eb5c613c320e109b",
-    "type": "mobile-drawer",
+    "id": "12b7142ad8368afc",
+    "type": "split",
     "children": [
       {
-        "id": "bf6aee87a21afec7",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "80dd71cc805aa42b",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "26ca79fced2ae56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac4115f7b72210e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbf5d661e7c0705e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fd854bcf4bba1dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24cf4e498323e4ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "512a6b84b05a79b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "1d8ec6ef1dfb4335",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "c19c68a5e126163d",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Mixtape/Mixtape Fridays.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [

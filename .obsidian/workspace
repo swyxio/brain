@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Company Running/Growth and Marketing.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Company Running/Growth and Marketing.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Company Running/Growth and Marketing.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Company Running/Growth and Marketing.md"
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Company Running/Growth and Marketing.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Writing/The Investment Case for Temporal.md",
@@ -146,7 +147,6 @@
     "conflict-files-obsidian-git.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/Draft - State of JS 2021.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/State of JS 2021.md"
   ]
 }

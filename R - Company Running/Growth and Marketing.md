@@ -1,7 +1,6 @@
 ## Growth
 https://www.reforge.com/blog/racecar-growth-framework
 
-
 - Influence Maps
 	- 1: Problem discovery
 	- 2: Brand awareness
@@ -27,3 +26,8 @@ https://www.reforge.com/blog/racecar-growth-framework
 5.  Market Intimacy: what have you done to help your customers solve their problems in a way that's unique to you? 
 6.  The Positioning Statement: a simple statement that isn't copywriting, summarizes steps before.
 7.  The Alternative: what would happen to your customer if they continue to do nothing about that problem or try to solve them how they have been?
+
+
+## Brand guidelines
+
+![[twilio-partner-brand-guidelines.pdf]]

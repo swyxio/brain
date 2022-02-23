@@ -32,5 +32,7 @@
     "editor:unfold-all"
   ],
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments"
 }

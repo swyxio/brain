@@ -1,5 +1,12 @@
 # icebreaker questions
 
+-   1.  Do you have anything special planned (vacations, big projects, etc.) for this summer?
+    2.  What reality show would you want to be on?
+    3.  If you could have any unlimited supply of one thing for the rest of your life, what would you pick?
+    4.  What superpower would you most want?
+    5.  Imagine that you are the best criminal mastermind in the world. What crime would you commit if you knew you would get away with it?
+    6.  Out of all the places you’ve visited, what is your favorite and why?
+
 http://partyqs.com/
 
  - when was the last time you laughed really hard https://overcast.fm/+lUcS3RUoY 28 mins in

@@ -5,6 +5,7 @@ apr 20 react miami
 may 2-5 reactathon
 jun 7 jnation port
 jun 16 jsnation ams
+nov lagos
 
 
 ## Talks and podcasts

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Better Questions/icebreaker questions.md",
+            "file": "APPEARANCES.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Better Questions/icebreaker questions.md",
+                "file": "APPEARANCES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Better Questions/icebreaker questions.md",
+                "file": "APPEARANCES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Better Questions/icebreaker questions.md"
+                "file": "APPEARANCES.md"
               }
             }
           }
@@ -138,13 +138,13 @@
   },
   "active": "47ce3c328e3fe3c0",
   "lastOpenFiles": [
+    "APPEARANCES.md",
     "R - Better Questions/icebreaker questions.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Company Running/Growth and Marketing.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Writing/The Investment Case for Temporal.md",
     "R - Creator Resources/Personal Sites.md",
-    "APPEARANCES.md",
     "conflict-files-obsidian-git.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/Draft - State of JS 2021.md"

@@ -1,6 +1,9 @@
 better question "Computers are useless. They can only give you answers" - Pablo Picasso (1964)
 
 
+eliminate bizdev - https://twitter.com/reinpk/status/1496851108303568898?s=20&t=xRtL5kTe752RWHru3EPR_A twilio, stripe, plaid - just give api key. arcadia
+
+
 new audible
 https://twitter.com/newsyc300/status/1494214527759564802?s=21
 

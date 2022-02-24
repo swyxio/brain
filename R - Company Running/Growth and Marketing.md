@@ -31,3 +31,9 @@ https://www.reforge.com/blog/racecar-growth-framework
 ## Brand guidelines
 
 ![[twilio-partner-brand-guidelines.pdf]]
+
+
+## marketing
+
+people need to hear about you 12 times
+https://twitter.com/david_perell/status/1496510931848740865?s=21

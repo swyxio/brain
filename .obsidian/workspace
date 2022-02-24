@@ -4,141 +4,133 @@
     "type": "split",
     "children": [
       {
-        "id": "f9ad005bb229c0df",
+        "id": "47ce3c328e3fe3c0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "R - Company Running/Growth and Marketing.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ffe03161165c3c29",
-    "type": "split",
+    "id": "4f369417e7380b1e",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "79c8f425744323c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "573d976502fba063",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d352a5d5e903eef",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "545a7697ab341000",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "415d584c6255e2e5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f403376267fd45b1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "44e556ad526b2249",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f4f9695766eaaf3b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "12b7142ad8368afc",
-    "type": "split",
+    "id": "8fd1b02b7f36f2e8",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "26ca79fced2ae56c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cac4115f7b72210e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "bbf5d661e7c0705e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7fd854bcf4bba1dd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "24cf4e498323e4ad",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "512a6b84b05a79b6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
+        "id": "fe6984d4f9ddadf5",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "af9dfe65853132af",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "R - Company Running/Growth and Marketing.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "6796f1643e4b703d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "R - Company Running/Growth and Marketing.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7a07da1410499052",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "R - Company Running/Growth and Marketing.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "f9ad005bb229c0df",
+  "active": "47ce3c328e3fe3c0",
   "lastOpenFiles": [
-    "APPEARANCES.md",
-    "R - Better Questions/icebreaker questions.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Company Running/Growth and Marketing.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Writing/The Investment Case for Temporal.md",
     "R - Creator Resources/Personal Sites.md",
+    "APPEARANCES.md",
     "conflict-files-obsidian-git.md",
     "A - DX Circle/dx circle blog ideas.md",
-    "A - Writing/Draft - State of JS 2021.md"
+    "A - Writing/Draft - State of JS 2021.md",
+    "A - Writing/State of JS 2021.md"
   ]
 }

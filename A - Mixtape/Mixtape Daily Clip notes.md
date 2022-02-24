@@ -4,6 +4,8 @@
 4 stages if the ownership economy https://overcast.fm/+YNeSoJsXs 36mins
 
 
+https://overcast.fm/+P6EYwo5P8 25 mins clean tech investing
+
 https://overcast.fm/+iXmjdRBe8/14:29 10mins clone you
 
 k8s documentary https://overcast.fm/+B1yJZf4lw 7mins

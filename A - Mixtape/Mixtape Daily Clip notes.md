@@ -3,7 +3,6 @@
 
 4 stages if the ownership economy https://overcast.fm/+YNeSoJsXs 36mins
 
-economics of peloton https://overcast.fm/+FaxmnJPOE 55 mins
 
 https://overcast.fm/+iXmjdRBe8/14:29 10mins clone you
 
@@ -18,7 +17,6 @@ https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
 
 https://overcast.fm/+vpWZ6rHT0 kim k from 2mins on
 
-https://overcast.fm/+PBDNBfzT4 the experience machine thought experiment 13 mins
 
 https://overcast.fm/+b1V00pzUU capture configure control
 

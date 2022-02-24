@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47ce3c328e3fe3c0",
+        "id": "f9ad005bb229c0df",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "APPEARANCES.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APPEARANCES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APPEARANCES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "APPEARANCES.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47ce3c328e3fe3c0",
+  "active": "f9ad005bb229c0df",
   "lastOpenFiles": [
     "APPEARANCES.md",
     "R - Better Questions/icebreaker questions.md",

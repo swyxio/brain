@@ -7,6 +7,8 @@ https://overcast.fm/+iXmjdRBe8/14:29 10mins clone you
 
 k8s documentary https://overcast.fm/+B1yJZf4lw 7mins
 
+nyt arpu https://overcast.fm/+rra72fILc33 mins
+
 
 ## general dump
 

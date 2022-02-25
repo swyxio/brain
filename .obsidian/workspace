@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "47ce3c328e3fe3c0",
+        "id": "f9ad005bb229c0df",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "mode": "source"
+            "file": "R - Product/Automation Notes.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,119 +19,135 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4f369417e7380b1e",
-    "type": "mobile-drawer",
+    "id": "ffe03161165c3c29",
+    "type": "split",
     "children": [
       {
-        "id": "415d584c6255e2e5",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "f403376267fd45b1",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "79c8f425744323c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573d976502fba063",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d352a5d5e903eef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "automation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "545a7697ab341000",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "44e556ad526b2249",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "f4f9695766eaaf3b",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "8fd1b02b7f36f2e8",
-    "type": "mobile-drawer",
+    "id": "12b7142ad8368afc",
+    "type": "split",
     "children": [
       {
-        "id": "fe6984d4f9ddadf5",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "af9dfe65853132af",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "26ca79fced2ae56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac4115f7b72210e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbf5d661e7c0705e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R - Product/Automation Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fd854bcf4bba1dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R - Product/Automation Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24cf4e498323e4ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "512a6b84b05a79b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R - Product/Automation Notes.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "6796f1643e4b703d",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "7a07da1410499052",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "47ce3c328e3fe3c0",
+  "active": "f9ad005bb229c0df",
   "lastOpenFiles": [
+    "R - Product/Automation Notes.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Company Running/Growth and Marketing.md",
     "A - Mixtape/Mixtape Fridays.md",
+    "R - Investing & Ideas/project ideas.md",
+    "APPEARANCES.md",
+    "R - Better Questions/icebreaker questions.md",
+    "R - Company Running/Growth and Marketing.md",
     "A - Writing/The Investment Case for Temporal.md",
     "R - Creator Resources/Personal Sites.md",
-    "APPEARANCES.md",
-    "conflict-files-obsidian-git.md",
-    "A - DX Circle/dx circle blog ideas.md",
-    "A - Writing/Draft - State of JS 2021.md",
-    "A - Writing/State of JS 2021.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

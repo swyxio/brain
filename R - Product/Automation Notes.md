@@ -31,6 +31,7 @@
 - [Tweepy Twitter Bot](https://realpython.com/twitter-bot-python-tweepy/)
 - [Github release -> Twitter bot](https://dev.to/prahladyeri/announcing-ghannounce-a-python-bot-that-posts-a-tweet-each-time-you-make-a-release-on-github-5abc)
 - Tracery generative story twitter bots: [BotWiki](https://botwiki.org/learn/), [Intro to Twitter Bots](https://programminghistorian.org/en/lessons/intro-to-twitterbots), [Cheap bots done quick](https://cheapbotsdonequick.com/)
+	- Example: https://cheapbotsdonequick.com/source/EverySheriff
 - [Google Earth stills over time bot](https://github.com/doersino/earthacrosstime)
 - [AWS markov chain bot](https://github.com/pndurette/aws_prodbot) - js version https://github.com/swang/markovchain
 - [Ace Attorney bot](https://github.com/LuisMayo/ace-attorney-twitter-bot)

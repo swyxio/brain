@@ -7,6 +7,9 @@ bungled ideas
 - Zoom vs skype
 
 
+more than you ever thought youd want about the humble UUID
+
+
 learning directly proportional to skin in the game
 - learning just in case - ngmi - sloth
 - learning to keep up with peers - envy

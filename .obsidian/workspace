@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/tweet ideas.md",
-            "mode": "source"
+            "file": "R - Company Running/Growth and Marketing.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,111 +19,127 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "36d4f8b3b8652e72",
-    "type": "mobile-drawer",
+    "id": "ffe03161165c3c29",
+    "type": "split",
     "children": [
       {
-        "id": "c513d72946162d5e",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "3a3ab6a750bd6946",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "79c8f425744323c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573d976502fba063",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d352a5d5e903eef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "marketing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "545a7697ab341000",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "69779bbdf597001b",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "e94d7f08250b217b",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "5ffd3fcaa8f2d908",
-    "type": "mobile-drawer",
+    "id": "12b7142ad8368afc",
+    "type": "split",
     "children": [
       {
-        "id": "d404537c8ac2c71e",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "61d430ccbbc8dae2",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Writing/tweet ideas.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "26ca79fced2ae56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac4115f7b72210e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbf5d661e7c0705e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R - Company Running/Growth and Marketing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fd854bcf4bba1dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R - Company Running/Growth and Marketing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24cf4e498323e4ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "512a6b84b05a79b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R - Company Running/Growth and Marketing.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "fb92e631ff02836a",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Writing/tweet ideas.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "6ddba8acc6562559",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Writing/tweet ideas.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "f9ad005bb229c0df",
   "lastOpenFiles": [
-    "A - Writing/tweet ideas.md",
+    "R - Company Running/Growth and Marketing.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Weekends.md",
     "R - Product/Automation Notes.md",
@@ -130,7 +147,7 @@
     "R - Investing & Ideas/project ideas.md",
     "APPEARANCES.md",
     "R - Better Questions/icebreaker questions.md",
-    "R - Company Running/Growth and Marketing.md",
-    "A - Writing/The Investment Case for Temporal.md"
+    "A - Writing/The Investment Case for Temporal.md",
+    "R - Creator Resources/Personal Sites.md"
   ]
 }

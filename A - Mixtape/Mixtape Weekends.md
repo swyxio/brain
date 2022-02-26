@@ -6,11 +6,13 @@ robert zhu case against anti graphql https://youtu.be/djKPtyXhaNE
 
 dendron YC https://youtu.be/ECUvzJ1r6bU
 
+open source datadog https://youtu.be/fPLt2ITpuDc
+
 my temporal talk https://twitter.com/swyx/status/1445466345194209290?s=21
 
 - uibreakfast https://uibreakfast.com/223-how-to-market-yourself-with-shawn-swyx-wang/
 
-devx pod https://topstartups.io/startup-salary-equity-database/
+devx pod 
 
 4hr work week https://overcast.fm/+KebvparPM
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Company Running/Growth and Marketing.md",
+            "file": "A - Mixtape/Mixtape Weekends.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "marketing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Company Running/Growth and Marketing.md",
+                "file": "A - Mixtape/Mixtape Weekends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Company Running/Growth and Marketing.md",
+                "file": "A - Mixtape/Mixtape Weekends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Company Running/Growth and Marketing.md"
+                "file": "A - Mixtape/Mixtape Weekends.md"
               }
             }
           }
@@ -139,11 +138,11 @@
   },
   "active": "f9ad005bb229c0df",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Weekends.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Company Running/Growth and Marketing.md",
     "A - Mixtape/Mixtape Fridays.md",
-    "A - Mixtape/Mixtape Weekends.md",
     "R - Product/Automation Notes.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Investing & Ideas/project ideas.md",
     "APPEARANCES.md",
     "R - Better Questions/icebreaker questions.md",

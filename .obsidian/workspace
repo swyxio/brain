@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Weekends.md",
+            "file": "A - Mixtape/Mixtape Fridays.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Weekends.md",
+                "file": "A - Mixtape/Mixtape Fridays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Weekends.md",
+                "file": "A - Mixtape/Mixtape Fridays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Weekends.md"
+                "file": "A - Mixtape/Mixtape Fridays.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "f9ad005bb229c0df",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Fridays.md",
     "A - Mixtape/Mixtape Weekends.md",
     "R - Product/Automation Notes.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
-    "A - Mixtape/Mixtape Fridays.md",
     "R - Investing & Ideas/project ideas.md",
     "APPEARANCES.md",
     "R - Better Questions/icebreaker questions.md",

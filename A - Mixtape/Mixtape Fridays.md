@@ -9,11 +9,9 @@ conan live https://overcast.fm/+zneb7lxko 1h33mins
 boyce ave https://www.youtube.com/watch?v=Sv8XHiTkDYg
 
 
-story swimming [](https://overcast.fm/+lXsYeE) 35 mins
+story swimming https://overcast.fm/+lXsYeE 35 mins
 
 mgk eminem https://youtu.be/FxQTY-W6GIo
-
-
 
 
 piano playing https://youtu.be/cXFlKSfpO-Y
@@ -25,13 +23,13 @@ liyamani from cheryl porter https://youtu.be/Ngb9GieXN8s
 Tim minchinn https://youtu.be/IZeWPScnolo
 
 https://youtu.be/iOGsqVTy9qM voceros
-- https://youtu.be/qNqgWvHa3LQ 8mins wasnt me
-- https://youtu.be/epnsRRPtoeU 5mins blue
+
 - alicia https://youtu.be/obkrMiyDrbs
 	- love yourself https://youtu.be/iC_yRxEsbJM
 - madilyn bailey https://youtu.be/-SgyhUdJ_TY
 - sky good grief and the thing i sent to jeanie 
 - https://youtu.be/iwfQKua9B18 stacys mom
 - https://youtu.be/aUOpj29BrbI never enough
+- voctave medley
 
 butterfly lovers

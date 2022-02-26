@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Product/Automation Notes.md",
+            "file": "A - Mixtape/Mixtape Weekends.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Product/Automation Notes.md",
+                "file": "A - Mixtape/Mixtape Weekends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Product/Automation Notes.md",
+                "file": "A - Mixtape/Mixtape Weekends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Product/Automation Notes.md"
+                "file": "A - Mixtape/Mixtape Weekends.md"
               }
             }
           }
@@ -139,6 +138,7 @@
   },
   "active": "f9ad005bb229c0df",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Weekends.md",
     "R - Product/Automation Notes.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Fridays.md",
@@ -147,7 +147,6 @@
     "R - Better Questions/icebreaker questions.md",
     "R - Company Running/Growth and Marketing.md",
     "A - Writing/The Investment Case for Temporal.md",
-    "R - Creator Resources/Personal Sites.md",
-    "conflict-files-obsidian-git.md"
+    "R - Creator Resources/Personal Sites.md"
   ]
 }

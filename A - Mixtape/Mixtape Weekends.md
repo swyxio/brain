@@ -4,7 +4,7 @@
 
 robert zhu case against anti graphql https://youtu.be/djKPtyXhaNE
 
-
+dendron YC https://youtu.be/ECUvzJ1r6bU
 
 my temporal talk https://twitter.com/swyx/status/1445466345194209290?s=21
 

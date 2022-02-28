@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "APPEARANCES.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }

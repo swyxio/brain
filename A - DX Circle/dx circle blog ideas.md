@@ -88,6 +88,9 @@ callout attention points incase pple arent paying attention
 distractable - stop getting distracted, make 3 pacts with yourself. distraction is avoidance. https://bagerbach.com/books/indistractable/#prevent-distraction-with-pacts
 
 
+endlessly remaking heroku
+- https://mumble.org.uk/blog/2022/02/02/infrastructure-in-this-post-devops-world/
+
 what kind of telemetry should you have?
 - data for data
 - command level

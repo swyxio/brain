@@ -510,6 +510,9 @@ high leverage forms of learning in public
 - pyramid
 - RACECAR process
 - ...
+- related 
+	- https://blackboxofpm.com/applying-leverage-as-a-product-manager-ffad4a99db24
+	- 
 
 jobs that dont exist https://twitter.com/adayeoyh/status/1364399770886754307?s=21
 

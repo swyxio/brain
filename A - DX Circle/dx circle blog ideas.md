@@ -96,3 +96,7 @@ todolists reinforce the identity that you don't get things done
 
 
 - Erlang WhatsApp dx https://codesync.global/uploads/media/activity_slides/0001/03/f2292f201aa6b04db8c4e0b9cfa191dd07c9ee14.pdf
+
+
+leverage for devrel
+- https://www.aakashg.com/2022/02/01/lno-framework-for-product-managers/

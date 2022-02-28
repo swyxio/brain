@@ -68,6 +68,7 @@ https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda a
 
 https://overcast.fm/+NBVuuQUhM 9mins mr beast
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
+https://nathanbarry.com/059-samir-chaudry-youtube-launch-creator-enterprise/ find format  and be consistent - 54 mins mark and there was a bit about the importance of finding format say at 20mins in
 
 
 https://overcast.fm/+NBVvT7qiY youtube deep bench, quantity to get quality 20mins ish

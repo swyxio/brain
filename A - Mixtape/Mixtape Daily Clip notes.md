@@ -6,6 +6,8 @@
 k8s documentary https://overcast.fm/+B1yJZf4lw 7mins
 
 
+https://overcast.fm/+34A37_mXc 7minutes timescale db pitch 13 mins all data time series data
+
 ## general dump
 
 https://overcast.fm/+IOVdeY 15 mins william hung

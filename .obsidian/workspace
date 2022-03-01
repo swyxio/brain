@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "221e050502dde8dc",
+        "id": "a4fb7b9b4e295958",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A - DX Circle/dx circle blog ideas.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leverage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A - DX Circle/dx circle blog ideas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,11 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "221e050502dde8dc",
+  "active": "a4fb7b9b4e295958",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/blogpost ideas.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Writing/The Investment Case for Temporal.md",

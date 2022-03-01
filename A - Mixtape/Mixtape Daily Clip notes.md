@@ -3,8 +3,6 @@
 
 4 stages if the ownership economy https://overcast.fm/+YNeSoJsXs 36mins
 
-https://overcast.fm/+iXmjdRBe8/14:29 10mins clone you
-
 k8s documentary https://overcast.fm/+B1yJZf4lw 7mins
 
 
@@ -16,8 +14,6 @@ https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
 
 https://overcast.fm/+vpWZ6rHT0 kim k from 2mins on
 
-
-https://overcast.fm/+b1V00pzUU capture configure control
 
 
 https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
@@ -89,7 +85,6 @@ audience building is overrated
 
 - fight club  https://youtu.be/GiOuUP9z7l4
 - https://www.3books.co/chapters/22 chef vs cook tim urban 1hr mark
-- axios recap on presbyterian ceo - storytelling
 - https://overcast.fm/+YQ473Uv6w rank self publish book on amazon 30 mins
 - https://overcast.fm/+XptN-x7II 19 mins steal like an artist backstory
 
@@ -105,6 +100,8 @@ how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project
 ## cal newport
 
 https://overcast.fm/+b1V3EeycY deep work 6:30mins
+
+https://overcast.fm/+b1V00pzUU capture configure control
 
 ## health 
 

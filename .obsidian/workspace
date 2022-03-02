@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a4fb7b9b4e295958",
+        "id": "221e050502dde8dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "mode": "source",
-            "source": false
+            "file": "A - DX Circle/Tech State of the Art.md",
+            "mode": "source"
           }
         }
       }
@@ -19,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dc8c683c138ae2ff",
+    "id": "c71b23521fd17cd0",
     "type": "split",
     "children": [
       {
-        "id": "adceb3616e6f011a",
+        "id": "60841dc1c21e13e9",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb6f75665f6edc4",
+            "id": "034ff609b868e4a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +34,7 @@
             }
           },
           {
-            "id": "126c9577d2929850",
+            "id": "13eb3e34e4a23a08",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +49,7 @@
             }
           },
           {
-            "id": "e79d63c013aff53e",
+            "id": "8a5b1980561a926d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +63,15 @@
     "width": 300
   },
   "right": {
-    "id": "23526627678ad670",
+    "id": "edb98484a2a7eba4",
     "type": "split",
     "children": [
       {
-        "id": "100809b61e0db7d0",
+        "id": "1ed0ae26fc8c037f",
         "type": "tabs",
         "children": [
           {
-            "id": "7c9dd44c3e5dcc42",
+            "id": "0e71a28c2dde7da0",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +79,12 @@
             }
           },
           {
-            "id": "10bc5364f6e011fe",
+            "id": "3192223b1c52e30f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "A - DX Circle/Tech State of the Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +96,19 @@
             }
           },
           {
-            "id": "2a7fab8731f012a9",
+            "id": "ff5eafb11a0f4786",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "file": "A - DX Circle/Tech State of the Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a374e4c42b2f7afa",
+            "id": "43b87cec84c9a998",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +119,12 @@
             }
           },
           {
-            "id": "5d91c8c917cffb17",
+            "id": "616d95e91baa497a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+                "file": "A - DX Circle/Tech State of the Art.md"
               }
             }
           }
@@ -136,15 +135,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4fb7b9b4e295958",
+  "active": "221e050502dde8dc",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "A - DX Circle/dx circle blog ideas.md",
-    "A - Writing/blogpost ideas.md",
+    "A - DX Circle/Tech State of the Art.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Writing/The Investment Case for Temporal.md",
+    "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/Draft - State of JS 2021.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Writing/State of JS 2021.md",
     "R - Investing & Ideas/Twyx App.md",
     "R - Creator Resources/Email tools list.md"

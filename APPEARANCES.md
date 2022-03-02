@@ -1,6 +1,6 @@
 ## speaking
 
-apr 4
+apr 4 temporal?
 apr 20 react miami
 may 2-5 reactathon
 jun 7 jnation port
@@ -13,8 +13,6 @@ nov lagos
 https://www.serverlesschats.com/124/
 
 https://www.digitalocean.com/community/tutorials/nodejs-solve-cors-once-and-for-all-netlify-dev
-
-
 
 - flylessdev chat - i have recording they havent put up
 

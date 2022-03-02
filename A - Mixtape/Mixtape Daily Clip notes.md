@@ -18,12 +18,9 @@ https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
 
 https://overcast.fm/+vpWZ6rHT0 kim k from 2mins on
 
-
-
 https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 
 https://overcast.fm/+YsrbSkH4U 55 mins paw patrol 
-
 
 https://overcast.fm/+3RF0NohFc silicon cowboys 3ish mins
 

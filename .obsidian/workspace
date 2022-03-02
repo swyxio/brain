@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - DX Circle/Tech State of the Art.md",
+            "file": "A - Writing/The Investment Case for Temporal.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "edb98484a2a7eba4",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - DX Circle/Tech State of the Art.md",
+                "file": "A - Writing/The Investment Case for Temporal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - DX Circle/Tech State of the Art.md",
+                "file": "A - Writing/The Investment Case for Temporal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - DX Circle/Tech State of the Art.md"
+                "file": "A - Writing/The Investment Case for Temporal.md"
               }
             }
           }
@@ -137,10 +138,10 @@
   },
   "active": "221e050502dde8dc",
   "lastOpenFiles": [
+    "A - Writing/The Investment Case for Temporal.md",
     "A - DX Circle/Tech State of the Art.md",
     "APPEARANCES.md",
     "A - Mixtape/Mixtape Fridays.md",
-    "A - Writing/The Investment Case for Temporal.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/Draft - State of JS 2021.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",

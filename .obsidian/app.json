@@ -33,6 +33,7 @@
   ],
   "legacyEditor": false,
   "livePreview": true,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "spellcheckDictionary": [
+    "observability"
+  ]
 }

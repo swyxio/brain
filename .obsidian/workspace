@@ -19,107 +19,122 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "990f0bfbd9751880",
-    "type": "mobile-drawer",
+    "id": "dc8c683c138ae2ff",
+    "type": "split",
     "children": [
       {
-        "id": "1983034ed4c4848a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "894fabfd3b6ac2b0",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "adceb3616e6f011a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eb6f75665f6edc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "126c9577d2929850",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e79d63c013aff53e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "05129069e6ed674d",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "55c8754c63140bfb",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "6d5a75c221c6dea6",
-    "type": "mobile-drawer",
+    "id": "23526627678ad670",
+    "type": "split",
     "children": [
       {
-        "id": "0aaccff5cfa0281d",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "0f842c2ec0929d15",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "100809b61e0db7d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c9dd44c3e5dcc42",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "10bc5364f6e011fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a7fab8731f012a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a374e4c42b2f7afa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5d91c8c917cffb17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "c1e1360d5e7aa84f",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "78ddd9c259ce5a80",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "a4fb7b9b4e295958",
   "lastOpenFiles": [

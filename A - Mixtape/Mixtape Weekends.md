@@ -1,6 +1,7 @@
 > longform/swyx content to resyndicate  on weekends
 
 
+purrfect https://www.youtube.com/watch?v=Q0P-Uod19NY
 
 robert zhu case against anti graphql https://youtu.be/djKPtyXhaNE
 

@@ -59,6 +59,8 @@ https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda a
 3mins browser user agent https://overcast.fm/+LfVNDuulU
 
 
+https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
+
 ## youtuber
 
 https://overcast.fm/+NBVuuQUhM 9mins mr beast

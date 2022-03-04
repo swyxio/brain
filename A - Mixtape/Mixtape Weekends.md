@@ -1,6 +1,9 @@
 > longform/swyx content to resyndicate  on weekends
 
 
+software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
+
+
 purrfect https://www.youtube.com/watch?v=Q0P-Uod19NY
 
 robert zhu case against anti graphql https://youtu.be/djKPtyXhaNE

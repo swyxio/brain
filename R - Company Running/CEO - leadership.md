@@ -16,3 +16,9 @@ slootman notes
 dont prioritize autonomy over alignment
 importance of alignment https://twitter.com/jmwind/status/1493569303030816770?s=21
 decision alignment model https://twitter.com/jmwind/status/1493569408236617731?s=21
+
+
+https://sarahguo.com/blog/thestandard
+- Great people crave high standards, high performing teammates, personal growth, a sense of urgency, and winning.
+- The natural instinct of most organizations is to be reactionary, incremental and unfocused. There is organizational gravity that continually lowers standards to the point of lowest friction, and to take less risk. It is extremely uncomfortable to push against this organizational gravity, to commit to do things when we don't know how we're going to achieve them.  
+  But maintaining high standards and fighting incrementalism is perhaps the single most powerful thing a leader can do.

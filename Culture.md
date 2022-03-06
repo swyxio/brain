@@ -3,6 +3,8 @@
 
 https://twitter.com/danluu/status/1493963774478348291?s=21
 
+http://rkg.blog/joy.php
+- Most startups have too many values. Your values don't need to appeal to everyone. Instead, they should serve as a bat signal to like-minded people
 
 ## remote culture
 

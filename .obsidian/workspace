@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "culture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "23526627678ad670",
@@ -140,14 +140,14 @@
   "active": "897a7fc58d52c936",
   "lastOpenFiles": [
     "A - Writing/The Investment Case for Temporal.md",
+    "A - Writing/tweet ideas.md",
+    "R - Better Questions/Culture questions.md",
+    "R - Better Questions/podcaster questions.md",
+    "R - Better Questions/job interview questions.md",
+    "R - Better Questions/general questions.md",
+    "Culture.md",
+    "R - Company Running/CEO - leadership.md",
     "conflict-files-obsidian-git.md",
-    "APPEARANCES.md",
-    "A - Mixtape/Mixtape Fridays.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
-    "R - Company Running/Managing.md",
-    "A - Mixtape/Mixtape Weekends.md",
-    "A - DX Circle/dx circle blog ideas.md",
-    "A - Writing/blogpost ideas.md",
-    "A - Writing/Draft - State of JS 2021.md"
+    "APPEARANCES.md"
   ]
 }

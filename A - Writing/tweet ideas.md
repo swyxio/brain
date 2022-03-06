@@ -50,6 +50,9 @@ https://petermekhaeil.com/notes-the-coding-career-handbook/
 principles:
 - Notifications = Distributed Denial of Focus
 
+tweet tip video
+- https://twitter.com/mpocock1/status/1499730377337827336
+
 
 emoji formats
 - https://twitter.com/DynamicWebPaige/status/1438483789680758788?s=20

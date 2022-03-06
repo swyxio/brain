@@ -216,11 +216,11 @@ No, I'm more talking about the ability for ***data*** to augment or replace deve
 
 - Not replacing developers entirely, but enabling product managers and other domain experts to shape workflow decision trees and dynamically adjusting decisions to data without requiring code changes, while still relying on developers to write activities and set up integrations. This expands Temporal reach within the organization beyond the engineering org. 
 - The simplest version of this is the A/B test - have two versions of a Workflow written up, have Temporal send traffic through each, and decide the winner by human or automated decision criteria. More complex variants can turn the binary decision into value seeking between given min-max ranges - essentially a very slow, real world form of [backpropagation](https://en.wikipedia.org/wiki/Backpropagation). Temporal would probably choke under most forms of deep learning today, but there's nothing preventing us implementing simple, explainable learning. Still, the ability of Temporal to function as a distributed computer shouldn't be underestimated: Developers at Uber already have shown examples of [Particle Swarm Optimization](https://github.com/temporalio/samples-go/tree/main/pso) using Workflows.
-- Temporal could explicitly model "hybrid human-machine" nodes - "Workflows" that initially defer to human domain expert decision makers, but then *using the collected data* to switch to automated decision making within sufficiently established ranges, while still yielding back to humans for unobserved ranges or exceeded confidence bounds.
+- Temporal could explicitly model "cyborg" nodes - workflows that initially defer to human domain expert decision makers, but then *using the collected data* to switch to automated decision making within sufficiently established ranges, while still yielding back to humans for unobserved ranges or exceeded confidence bounds.
 
 This is basically the essence of Andrej Karpathy's [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) thesis applied to Temporal - how much can we let *data* write Workflows, rather than developers? Many deployments of Temporal are very high volume - in the *millions* of workflows per month - and it is a shame that none of that data currently feeds back in any automated way to improving the workflows themselves.
 
-As much as I have noted Temporal's strong internal network effect to developers, the best internal network effect is always feeding back to the company as a whole.
+As much as I have noted Temporal's strong internal network effect to developers, the best internal network effect is always data-driven.
 
 ## Conclusion
 
@@ -228,3 +228,8 @@ This is just me thinking out loud on the potential direction of Temporal. I find
 
 Very few people on Earth have ever seen a company through from 1b to 100b and beyond, so I'm definitely missing obvious steps or making some absolute howlers. Please comment below or correct me if you can see these. 
 
+The final task that remains is to guesstimate - *how long* is this all going to take? Stripe is 12 years old, Snowflake is 10, and both of those companies grew up in the [longest bull market in history](https://www.investopedia.com/news/really-longest-bull-market-history/). Even operationally, at this point 2-3 years into Temporal, those companies seem like they are decades away from where we are today. 
+
+Then again, the human mind is incapable of comprehending exponential growth over long periods of time:
+
+{% twitter https://twitter.com/paulg/status/403183731449413632?lang=en %}

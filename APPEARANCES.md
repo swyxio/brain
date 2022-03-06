@@ -5,6 +5,7 @@ apr 20 react miami
 may 2-5 reactathon
 jun 7 jnation port
 jun 16 jsnation ams
+oct 6-7 infoshare 2022
 nov lagos
 
 

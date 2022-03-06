@@ -26,7 +26,7 @@ Making a unicorn value based on *fundamentals* is a good deal harder. Let's just
 
 However one thing I can say here is to collate public statements on the *viral expansion* of Temporal:
 
-- **At Uber**, Cadence grew from 0 to >100 usecases within 3 years.
+- At Uber, Cadence grew from 0 to >100 usecases within 3 years.
 - Also while [at Uber](https://docs.temporal.io/blog/oss-startups-podcast), Cadence got adoption at HashiCorp, Coinbase, DoorDash, Box, Checkr on the back of [minimal (but effective) marketing](https://www.youtube.com/watch?v=BJwFxqdSx4Y)
 - Temporal open source has disclosed [25% MoM growth](https://www.theregister.com/2022/02/16/temporal_103m_funding/) (which annualizes to about [14x in 1 yr](https://twitter.com/BogieBalkansky/status/1494025245279195136) ) in active clusters
 - [Datadog reported](https://docs.temporal.io/blog/how-datadog-ensures-database-reliability-with-temporal/) usage "expanded to more than 100 users across dozens of teams within just one year" now running [3 million workflows per month](https://youtu.be/Hz7ZZzafBoE?t=100)
@@ -64,15 +64,17 @@ Sales don't even have to be particularly international yet (Hashicorp was 75% do
 
 As a developer's understanding of Temporal grows, the stated benefits and applied use cases tend to shift from the basic promises on reliability and observability, to its ability to offer general purpose orchestration, automation and human-in-the-loop interaction.
 
-I am really impressed by the [Datadog case study](https://docs.temporal.io/blog/how-datadog-ensures-database-reliability-with-temporal/#outcomes) for spelling this out: "With Temporal, a single Workflow not only replaces the manual steps but also the need for a human to be monitoring it.... We've done things that we likely wouldn't have done without Temporal." Similar has been mentioned at [Descript](https://docs.temporal.io/blog/descript-case-study#whats-next) and [Box](https://docs.temporal.io/blog/temporal-a-central-brain-for-box#whats-next).
+I am really impressed by the [Datadog case study](https://docs.temporal.io/blog/how-datadog-ensures-database-reliability-with-temporal/#outcomes) for spelling this out: 
 
-Because workflows can wait for arbitrarily long amounts of time, and can block on human action or other external input, they are a perfect tool for automating anything long-running, including previously manual, or partially manual, processes. This helps justify **the ridiculously high upper bound** on the potential value of Temporal workflows, because anything that saves or eliminates human labor has both high marginal profit and linear scalability. **There will be workflows worth millions per year**.
+> "With Temporal, a single Workflow not only replaces the manual steps but also the need for a human to be monitoring it.... We've done things that we likely wouldn't have done without Temporal."
 
-Still, there is an upper limit. At the end of the day, when we are talking B2B revenue, the money doesn't come from thin air, the budget must come from somewhere, and it is very hard to get businesses to spend money on software that it wasn't spending elsewhere before....
+Similar has been mentioned at [Descript](https://docs.temporal.io/blog/descript-case-study#whats-next) and [Box](https://docs.temporal.io/blog/temporal-a-central-brain-for-box#whats-next).
 
-***Unless*** you can convincingly show that the money is being spent on humans, and lost in opportunity cost. Then you drop the red-ocean TAM talk and unlock the big bucks.
+Because workflows can wait for arbitrarily long amounts of time, and can block on human action or other external input, they are a perfect tool for automating anything long-running, including previously manual, or partially manual, processes. This helps justify **the ridiculously high upper bound** on the potential value of Temporal workflows, because anything that saves or eliminates human labor (especially *developer* labor) has both high marginal profit and linear scalability. **There will be workflows worth millions per year**.
 
-Of course, Temporal will not capture the bulk of this value, because significant work still needs to be done by developers to realize this benefit.
+Still, there is an upper limit. At the end of the day, when we are talking B2B revenue, the money doesn't come from thin air, the budget must come from somewhere, and it is very hard to get businesses to spend money on software that it wasn't spending elsewhere before... ***Unless*** you can convincingly show that the money is being spent on humans, and lost in opportunity cost. Then you drop the red-ocean TAM talk and unlock the big bucks.
+
+Of course, Temporal will not capture the bulk of this value, because significant work still needs to be done by developers to realize this benefit (*we will challenge this assumption much later in this essay*).
 
 ### The Workflow Engines Category
 
@@ -80,13 +82,13 @@ The general flexibility of Temporal is both why it is difficult to pitch and yet
 
 The formal framing of Temporal is as an **Application State Manager**, because that accurately describes the central but limited role that Temporal plays inside of a distributed system/microservice architecture (doesn't directly handle big blobs of data, doesn't run your code, but does route and persist the general state of your application spread across services). It is the one stateful service in your stack that lets everything else be stateless (or at least idempotent).
 
-But it is often *used* as a "Workflow Engine" (of which there are [many](https://github.com/meirwah/awesome-workflow-engines), which underlines Temporal's reluctance to be lumped in the same bucket). I sometimes like to pitch Workflow Engines in general as a kind of "special purpose database", much like Search Engines and Analytics Engines: 
+But it is often *used* as a "Workflow Engine" (of which there are [many](https://github.com/meirwah/awesome-workflow-engines), which underlines Temporal's reluctance to be lumped in the same bucket). I sometimes like to pitch Workflow Engines in general as a kind of "[special purpose database](https://twitter.com/swyx/status/1493692327562735616)", much like Search Engines and Analytics Engines: 
 
 - Just like Search and Analytics, you could roll your own, but you'd do a poor job of it. You're fine if your usecase is trivial, but most people should reach for Elastic or Clickhouse at any decent scale.
 - Just like Search and Analytics, once you understand the capabilities and implementation well, you are free to apply them to whatever use cases you can imagine.
 - *Unlike* Search and Analytics, Workflow Engines are a sort of "[Self-Provisioning Runtime](https://www.swyx.io/self-provisioning-runtime/)" on which you run specialized software (whether using Temporal-style As-Code SDKs or JSON/YML/DAG-style Workflow definitions), rather than making isolated API calls from application code.
 
-By the time Temporal is a decacorn, ASM's or Workflow Engines are likely to be a widely-accepted part of the modern developer toolkit, no longer regarded to be ["quiet"](https://twitter.com/ChrisSamiullah/status/1417215296834781185) or ["insider knowledge"](https://twitter.com/andrewingram/status/1481652733975224322?s=20&t=5wyE8AebdE69ceRts8IvIw), but rather very hyped and possibly overhyped. You don't get to this level without getting your fair share of haters.
+By the time Temporal is a decacorn, ASM's or Workflow Engines are likely to be a widely-accepted part of the modern developer toolkit, no longer regarded to be ["quiet"](https://twitter.com/ChrisSamiullah/status/1417215296834781185) or ["insider knowledge"](https://twitter.com/andrewingram/status/1481652733975224322?s=20&t=5wyE8AebdE69ceRts8IvIw), but rather very hyped and probably overhyped. You don't get to this level without getting your fair share of haters.
 
 ## Why Temporal could be worth 100b
 
@@ -103,10 +105,10 @@ Let's level-set on what it takes to be a multi-decacorn in 2022:
 - Snowflake: 82b valuation, 1b revenue +100% yoy
 - Shopify: 87b valuation, 4.6b revenue +55% yoy
 - IBM: 112b valuation, 57b revenue +6% yoy
-- Stripe: 115b valuation, 7.4b revenue +400% yoy
+- Stripe: 115b valuation, 7.4b revenue +400% yoy?
 - Oracle: 200b valuation, 41b revenue +6% yoy
 
-Most of these are developer household names, and the centicorns are certainly fully household names. It's clear that you want to be more of a Stripe, Snowflake or Datadog than you do an IBM or Oracle. You need to do at least 2b in revenue, growing triple digits, in order to be a centicorn. This is a tall ask for any company no matter how awesome the underlying technology.
+Most of these are developer household names, and the centicorns are certainly fully household names. It's clear that you want to be more of a Stripe, Snowflake or Datadog than you do an IBM or Oracle. You need to do at least 2b in revenue, growing triple digits, in order to be a centicorn. This is a tall ask for any company no matter how awesome the underlying technology, and is as much as feat of a world-class sales and marketing operation as it is a technological one. For this blog's developer audience, we'll focus on just the tech/product.
 
 ![https://pbs.twimg.com/media/E33DDqnXoAcfteL.jpg](https://pbs.twimg.com/media/E33DDqnXoAcfteL.jpg)
 

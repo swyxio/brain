@@ -89,6 +89,7 @@ audience building is overrated
 - https://overcast.fm/+YQ473Uv6w rank self publish book on amazon 30 mins
 - https://overcast.fm/+XptN-x7II 19 mins steal like an artist backstory
 - writers block https://youtu.be/Xb_S4kH0WdE
+- idea generator 10mins in https://overcast.fm/+2E1Xs4sx0
 
 https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 

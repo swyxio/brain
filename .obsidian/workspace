@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Weekends.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source",
             "source": false
           }
@@ -19,11 +19,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3f0f23dbb9179375",
+    "id": "de7bc5a43be5825c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "674877b0bbb0ce23",
+        "id": "73b09ed79e2bb1ce",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -31,7 +31,7 @@
         }
       },
       {
-        "id": "933d81a77f2d82fb",
+        "id": "ee9f518a1e3c3dde",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -46,7 +46,7 @@
         }
       },
       {
-        "id": "888de96f82e2fe51",
+        "id": "9d3b48d852af3dba",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -57,7 +57,7 @@
         }
       },
       {
-        "id": "9dd7f3b38e091f0e",
+        "id": "7ded64c508654e7e",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -68,11 +68,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "cceb98c4ca760b0f",
+    "id": "7d093fe654902fb5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "90ff45f462acd148",
+        "id": "9acf23eceba7b626",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -80,12 +80,12 @@
         }
       },
       {
-        "id": "bb3a5a77610b74b4",
+        "id": "d9cca65eaad5de6a",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A - Mixtape/Mixtape Weekends.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,24 +97,24 @@
         }
       },
       {
-        "id": "88d76ad9460b07bc",
+        "id": "5831957c3b6dabc2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A - Mixtape/Mixtape Weekends.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "5f3edd92ce28802c",
+        "id": "78e0b10fb0fb5ae1",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "A - Mixtape/Mixtape Weekends.md"
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
           }
         }
       }
@@ -123,15 +123,15 @@
   },
   "active": "a4fb7b9b4e295958",
   "lastOpenFiles": [
-    "A - Mixtape/Mixtape Weekends.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
+    "R - Company Running/Managing.md",
     "A - Writing/The Investment Case for Temporal.md",
+    "A - Mixtape/Mixtape Weekends.md",
     "APPEARANCES.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/blogpost ideas.md",
     "A - Mixtape/Mixtape Fridays.md",
     "A - Writing/Draft - State of JS 2021.md",
-    "A - Writing/State of JS 2021.md",
-    "R - Investing & Ideas/Twyx App.md"
+    "A - Writing/State of JS 2021.md"
   ]
 }

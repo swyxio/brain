@@ -7,8 +7,12 @@
         "id": "897a7fc58d52c936",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A - Mixtape/Mixtape Fridays.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A - Mixtape/Mixtape Fridays.md"
+              }
             }
           }
         ]
@@ -130,14 +138,14 @@
   },
   "active": "897a7fc58d52c936",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Fridays.md",
+    "A - Mixtape/Mixtape Daily Clip notes.md",
     "R - Company Running/Managing.md",
     "A - Writing/The Investment Case for Temporal.md",
     "A - Mixtape/Mixtape Weekends.md",
     "APPEARANCES.md",
-    "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - DX Circle/dx circle blog ideas.md",
     "A - Writing/blogpost ideas.md",
-    "A - Mixtape/Mixtape Fridays.md",
     "A - Writing/Draft - State of JS 2021.md",
     "A - Writing/State of JS 2021.md"
   ]

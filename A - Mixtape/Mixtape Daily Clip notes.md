@@ -5,9 +5,6 @@
 
 k8s documentary https://overcast.fm/+B1yJZf4lw 7mins
 
-
-https://overcast.fm/+34A37_mXc 7minutes timescale db pitch 13 mins all data time series data
-
 https://overcast.fm/+B1yJwoLjo 15ish mins origin of mailgun
 
 ## general dump
@@ -16,7 +13,6 @@ https://overcast.fm/+IOVdeY 15 mins william hung
 
 https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
 
-https://overcast.fm/+vpWZ6rHT0 kim k from 2mins on
 
 https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 
@@ -57,6 +53,9 @@ netlify discusdion https://overcast.fm/+B1yI4Kmqg
 https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda and pip and python 2-3 move
 
 3mins browser user agent https://overcast.fm/+LfVNDuulU
+
+
+https://overcast.fm/+34A37_mXc 7minutes timescale db pitch 13 mins all data time series data
 
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres

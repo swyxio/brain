@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Writing/The Investment Case for Temporal.md",
+            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dc8c683c138ae2ff",
+    "id": "8abf287e7869cf79",
     "type": "split",
     "children": [
       {
-        "id": "adceb3616e6f011a",
+        "id": "6984e1c926835e09",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb6f75665f6edc4",
+            "id": "24a5f0c3797542ab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "126c9577d2929850",
+            "id": "ae0a188d7ba15c4a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "culture",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "e79d63c013aff53e",
+            "id": "9d69a84ec42e4349",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "23526627678ad670",
+    "id": "aa22aec4468a2105",
     "type": "split",
     "children": [
       {
-        "id": "100809b61e0db7d0",
+        "id": "83054943829858c5",
         "type": "tabs",
         "children": [
           {
-            "id": "7c9dd44c3e5dcc42",
+            "id": "1837e8bea1392606",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "10bc5364f6e011fe",
+            "id": "728ea4a9bb84f698",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "2a7fab8731f012a9",
+            "id": "b4211c60632f2ce8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md",
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a374e4c42b2f7afa",
+            "id": "1f9071e00ef4a1a7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "5d91c8c917cffb17",
+            "id": "81c152235d3588bd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Writing/The Investment Case for Temporal.md"
+                "file": "A - Mixtape/Mixtape Daily Clip notes.md"
               }
             }
           }
@@ -138,6 +138,8 @@
   },
   "active": "897a7fc58d52c936",
   "lastOpenFiles": [
+    "A - Mixtape/Mixtape Daily Clip notes.md",
+    "A - Mixtape/Mixtape Fridays.md",
     "A - Writing/The Investment Case for Temporal.md",
     "A - Writing/tweet ideas.md",
     "R - Better Questions/Culture questions.md",
@@ -145,8 +147,6 @@
     "R - Better Questions/job interview questions.md",
     "R - Better Questions/general questions.md",
     "Culture.md",
-    "R - Company Running/CEO - leadership.md",
-    "conflict-files-obsidian-git.md",
-    "APPEARANCES.md"
+    "R - Company Running/CEO - leadership.md"
   ]
 }

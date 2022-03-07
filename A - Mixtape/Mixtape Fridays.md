@@ -11,6 +11,8 @@ boyce ave https://www.youtube.com/watch?v=Sv8XHiTkDYg
 
 story swimming https://overcast.fm/+lXsYeE 35 mins
 
+Glee picks https://youtu.be/LUyfiicklk0 https://youtu.be/TlWHTfrGhoY https://youtu.be/ERQ7wZgMjBc https://youtu.be/TYXYQRU2i7c https://youtu.be/keXMU5DjHjE
+
 
 spiderman  piano playing https://youtu.be/cXFlKSfpO-Y
 

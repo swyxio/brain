@@ -55,6 +55,8 @@ https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda a
 3mins browser user agent https://overcast.fm/+LfVNDuulU
 
 
+https://overcast.fm/+TEKFtB2do 15 mins rust rewrite of tor 
+
 https://overcast.fm/+34A37_mXc 7minutes timescale db pitch 13 mins all data time series data
 
 
@@ -95,6 +97,7 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 ## Life
 
 - https://overcast.fm/+olfN7lGho 20 mins social butterfly gary vee problems  + 50 mins inteovert strategy
+- https://youtu.be/oH9sJrAVeC0 Brandon Sanderson  life advice from 14 mins in. Goals, learn how you work, break it down 
 - https://overcast.fm/+b1V1guBD8 23 mins greg mckowen virality vs energy
 - 
 how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project - 18mins

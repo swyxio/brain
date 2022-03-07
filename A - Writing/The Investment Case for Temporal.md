@@ -20,22 +20,26 @@ Some notable recent raises by peer devtools, compared with informal data on thei
 - [Sourcegraph raised 125m on $2.6b](https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/)
 - [Airbyte raised 150m on $1.5b](https://airbyte.com/blog/a-150m-series-b-to-power-the-movement-of-data)
 
+Note that Enterprise Tech valuations have come down a lot in the past 6 months, but let's assume a long time horizon where +/- 6 months doesn't matter.
+
 ### Unicorn by Growth
 
-Making a unicorn value based on *fundamentals* is a good deal harder. Let's just say exit price/sales multiples for enterprise software is at 20-40x. So Temporal would have to bring in $50m in revenue (with say 30-40% growth) for $1.5b valuation to make sense as a standalone public company. It does not make that today, no unicorn does. But growth is a good deal higher. What’s a fair price for $5m revenue growing the classic “triple triple double double” for example? Thats the sort of handicapping you have to do in startup investing.
+Making a unicorn value based on *fundamentals* is a good deal harder. Let's just say exit price/sales multiples for enterprise software is at 20-40x (optimistic - the [IVP SaaS Valuation Handbook]([https://www.ivp.com/saas-fundraising-handbook/](https://www.ivp.com/saas-fundraising-handbook/ "https://www.ivp.com/saas-fundraising-handbook/")) makes the range at 11x-19x for more mature companies - thanks to [Dan Croak](https://twitter.com/croaky) for pointing this out).
 
-However one thing I can say here is to collate public statements on the *viral expansion* of Temporal:
+Let's say Temporal would have to bring in $50m in revenue (with say 70-100% growth) for $1.5b valuation to make sense as a standalone public company. It does not make that today, no unicorn does. But growth is expected to be a good deal higher and longer than public comparables, and there's a lot of money crowding into the "obvious" winners. **What’s a fair price for $X revenue that you think will probably grow the classic “triple triple double double”** for example? Thats the sort of handicapping you have to do in top tier startup investing.
+
+I can't say more here, but I can collate public statements on the *viral expansion* of Temporal:
 
 - At Uber, Cadence grew from 0 to >100 usecases within 3 years.
 - Also while [at Uber](https://docs.temporal.io/blog/oss-startups-podcast), Cadence got adoption at HashiCorp, Coinbase, DoorDash, Box, Checkr on the back of [minimal (but effective) marketing](https://www.youtube.com/watch?v=BJwFxqdSx4Y)
-- Temporal open source has disclosed [25% MoM growth](https://www.theregister.com/2022/02/16/temporal_103m_funding/) (which annualizes to about [14x in 1 yr](https://twitter.com/BogieBalkansky/status/1494025245279195136) ) in active clusters
+- Temporal open source has disclosed [25% MoM growth](https://www.theregister.com/2022/02/16/temporal_103m_funding/) (which annualizes to about [14x in 1 yr](https://twitter.com/BogieBalkansky/status/1494025245279195136) ) in active clusters (measured by server pings)
 - [Datadog reported](https://docs.temporal.io/blog/how-datadog-ensures-database-reliability-with-temporal/) usage "expanded to more than 100 users across dozens of teams within just one year" now running [3 million workflows per month](https://youtu.be/Hz7ZZzafBoE?t=100)
-- [Netflix reported](https://youtu.be/LliBP7YMGyA?t=197) running 500k workflows a *day* in Oct 2021 and projected 1m a day by end 2021
+- [Netflix reported](https://youtu.be/LliBP7YMGyA?t=197) running 500k workflows a *day* in Oct 2021 and projected 1m a day by end 2021 (Netflix also uses Conductor, now being commercialized as [Orkes](https://twitter.com/orkesio))
 - [Stripe hasn't disclosed](https://www.youtube.com/watch?v=Crkcr1S-NSc) any numbers, but have posted [a second job for their Workflow Engine team](https://stripe.com/jobs/listing/infrastructure-engineer-developer-productivity-workflow-engine/2964407) this year.
 
-The natural position of Temporal as a primary tool for the rising [Platform Engineer](https://twitter.com/danielbryantuk/status/1494614250567966732) to provide a scalable stateful reliability primitive (bundling queues, databases, timers, gateways, encryption etc.) means that the biggest cost of adoption is paid by the first production user. Every subsequent user after that has a much lower cost to adopt Temporal, because most of the deployment and integration niggles have been worked out. And once the code has been run and is running reliably, the long running and repetitive nature of this workload means there is very little incentive to churn.
+The natural position of Temporal as a primary tool for the rising [Platform Engineer](https://twitter.com/danielbryantuk/status/1494614250567966732) to provide a scalable stateful reliability primitive (bundling queues, databases, timers, gateways, encryption etc.) means that **the biggest cost of adoption is paid by the first production user**. Every subsequent user after that has a much lower cost to adopt Temporal, because most of the deployment and integration niggles have been worked out (more on this *internal network effect* below). And once the code has been run and is running reliably, the long running and extremely repetitive nature of this workload means there is very little incentive to churn.
 
-At minimum this should mean that user acquisition/organic growth should be strong for many years, and in terms of monetization you could see Net Revenue Retention north of 200% in the first few years of implementation, which is world-beating ([110% is good, 130% is great](https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29?utm_source=url), Snowflake is 160-180%, though these numbers are for more mature companies).
+At minimum this should mean that user acquisition/organic growth should be strong for many years, and in terms of monetization you could see **Net Revenue Retention north of 200%** in the first few years of implementation, which is world-beating ([110% is good, 130% is great](https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29?utm_source=url), Snowflake is 160-180%, though these numbers are for more mature companies).
 
 
 ## Why Temporal will be worth 10b
@@ -54,9 +58,9 @@ So to be in the neighborhood of 10b you need at least 200-300m revenue growing 5
 
 Temporal can reach this stage with just the existing open source software, but it **must be complemented by a fully generally available Cloud service** equally capable of handling individual developers as it is large enterprises like Snap (now a [public customer](https://docs.temporal.io/blog/series-b-press)). We haven't seen what kind of growth a fully unfettered Cloud service is capable of, even in terms of mature account expansion, much less being able to take on all the inbound interest, nor its ability to convert trial/free tier users. 
 
-The primary risk to Temporal reaching this milestone is the inability to build a satisfactory Cloud service in a reasonable time frame. It must move fast to build out all the table stakes accoutrements of the [Enterprise Ready](https://enterpriseready.io/) stack, while not losing customer data or experiencing fatal downtime or security breaches.
+**The primary risk to Temporal reaching this milestone is the inability to build a satisfactory Cloud service** in a reasonable time frame. It must move fast to build out all the table stakes accoutrements of the [Enterprise Ready](https://enterpriseready.io/) stack, while not losing customer data or experiencing fatal downtime or security breaches.
 
-Sales don't even have to be particularly international yet (Hashicorp was 75% domestic at IPO, with Confluent 68% and Gitlab 83%), but will probably need to develop both geographically and vertically - the [top listed usecases](https://temporal.io/use-cases) are each large categories on their own, with significant (e.g. government, finance, healthcare, energy and industrials) verticals not yet represented, and there are [more](https://web.archive.org/web/20210428212024/temporal.io/usecases) not yet fully developed.
+Sales don't even have to be particularly international yet (Hashicorp was 75% domestic at IPO, with Confluent 68% and Gitlab 83%), but will need to develop both geographically and vertically - the [top listed usecases](https://temporal.io/use-cases) are each large categories on their own, with significant (e.g. government, finance, healthcare, energy and industrials) verticals not yet publicly represented, and there are [more](https://web.archive.org/web/20210428212024/temporal.io/usecases) not yet fully developed.
 
 **We aren't even close to understanding the ceiling here.**
 
@@ -72,25 +76,29 @@ Similar has been mentioned at [Descript](https://docs.temporal.io/blog/descript-
 
 Because workflows can wait for arbitrarily long amounts of time, and can block on human action or other external input, they are a perfect tool for automating anything long-running, including previously manual, or partially manual, processes. This helps justify **the ridiculously high upper bound** on the potential value of Temporal workflows, because anything that saves or eliminates human labor (especially *developer* labor) has both high marginal profit and linear scalability. **There will be workflows worth millions per year**.
 
-Still, there is an upper limit. At the end of the day, when we are talking B2B revenue, the money doesn't come from thin air, the budget must come from somewhere, and it is very hard to get businesses to spend money on software that it wasn't spending elsewhere before... ***Unless*** you can convincingly show that the money is being spent on humans, and lost in opportunity cost. Then you drop the red-ocean TAM talk and unlock the big bucks.
+Still, there is an upper limit. At the end of the day, when we are talking B2B revenue, the money doesn't come from thin air, the budget must come from somewhere, and it is very hard to get businesses to spend money on software that it wasn't spending elsewhere before... ***Unless*** you can convincingly show that the money is being **spent on humans**, and **lost in opportunity cost**. 
 
-Of course, Temporal will not capture the bulk of this value, because significant work still needs to be done by developers to realize this benefit (*we will challenge this assumption much later in this essay*).
+Only *then* can you drop the red-ocean TAM talk and unlock the big bucks.
+
+Of course, Temporal will **not** capture the bulk of this value, because significant work still needs to be done by developers to realize this benefit (*we will challenge this assumption much later in this essay*).
 
 ### The Workflow Engines Category
 
-The general flexibility of Temporal is both why it is difficult to pitch and yet tends to be applied to everything once understood (Index Ventures' tagline, "[Everything is a Workflow](https://www.indexventures.com/perspectives/everything-is-a-workflow-our-investment-in-temporal/)" is a very common realization once you've worked with Temporal a while). 
+The general flexibility of Temporal is both why it is difficult to pitch and yet tends to be applied to everything once understood (Index Ventures' tagline for Temporal, "[Everything is a Workflow](https://www.indexventures.com/perspectives/everything-is-a-workflow-our-investment-in-temporal/)" is a very common realization once you've worked with Temporal a while). 
 
-The formal framing of Temporal is as an **Application State Manager**, because that accurately describes the central but limited role that Temporal plays inside of a distributed system/microservice architecture (doesn't directly handle big blobs of data, doesn't run your code, but does route and persist the general state of your application spread across services). It is the one stateful service in your stack that lets everything else be stateless (or at least idempotent).
+The formal framing of Temporal is as an **Application State Manager**, because that accurately describes the central but limited role that Temporal plays inside of a distributed system/microservice architecture (*doesn't* directly handle big blobs of data, *doesn't* run your code, but *does* route and persist the general state of your application spread across services).  **Temporal is the one stateful service in your stack that lets everything else be stateless** (or at least idempotent).
 
 But it is often *used* as a "Workflow Engine" (of which there are [many](https://github.com/meirwah/awesome-workflow-engines), which underlines Temporal's reluctance to be lumped in the same bucket). I sometimes like to pitch Workflow Engines in general as a kind of "[special purpose database](https://twitter.com/swyx/status/1493692327562735616)", much like Search Engines and Analytics Engines: 
 
-- Just like Search and Analytics, you could roll your own, but you'd do a poor job of it. You're fine if your usecase is trivial, but most people should reach for Elastic or Clickhouse at any decent scale.
+- Just like Search and Analytics, you could roll your own, but you'd do a poor job of it. Your homegrown implementation will be fine if your usecase is small, but most people should reach for Elastic or Clickhouse at any decent scale.
 - Just like Search and Analytics, once you understand the capabilities and implementation well, you are free to apply them to whatever use cases you can imagine.
 - *Unlike* Search and Analytics, Workflow Engines are a sort of "[Self-Provisioning Runtime](https://www.swyx.io/self-provisioning-runtime/)" on which you run specialized software (whether using Temporal-style As-Code SDKs or JSON/YML/DAG-style Workflow definitions), rather than making isolated API calls from application code.
 
-By the time Temporal is a decacorn, ASM's or Workflow Engines are likely to be a widely-accepted part of the modern developer toolkit, no longer regarded to be ["quiet"](https://twitter.com/ChrisSamiullah/status/1417215296834781185) or ["insider knowledge"](https://twitter.com/andrewingram/status/1481652733975224322?s=20&t=5wyE8AebdE69ceRts8IvIw), but rather very hyped and probably overhyped. You don't get to this level without getting your fair share of haters.
+By the time Temporal is a decacorn, ASM's or Workflow Engines are likely to be a widely-accepted part of the modern developer toolkit, no longer regarded to be ["quiet"](https://twitter.com/ChrisSamiullah/status/1417215296834781185) or ["insider knowledge"](https://twitter.com/andrewingram/status/1481652733975224322?s=20&t=5wyE8AebdE69ceRts8IvIw), but rather very hyped and probably overhyped. You don't get to this level without getting your [fair share of haters](https://www.youtube.com/watch?v=b2F-DItXtZs).
 
 ## Why Temporal could be worth 100b
+
+Alright, now let's go [full Dr. Evil](https://www.youtube.com/watch?v=jTmXHvGZiSY). **What will it take for Temporal to be worth $100,000,000,000?**
 
 Let's level-set on what it takes to be a multi-decacorn in 2022:
 
@@ -108,11 +116,13 @@ Let's level-set on what it takes to be a multi-decacorn in 2022:
 - Stripe: 115b valuation, 7.4b revenue +400% yoy?
 - Oracle: 200b valuation, 41b revenue +6% yoy
 
-Most of these are developer household names, and the centicorns are certainly fully household names. It's clear that you want to be more of a Stripe, Snowflake or Datadog than you do an IBM or Oracle. You need to do at least 2b in revenue, growing triple digits, in order to be a centicorn. This is a tall ask for any company no matter how awesome the underlying technology, and is as much as feat of a world-class sales and marketing operation as it is a technological one. For this blog's developer audience, we'll focus on just the tech/product.
+Most of these are developer household names, and the centicorns are certainly fully household names. It's clear that you want to be more of a Stripe, Snowflake or Datadog than you do an IBM or Oracle. **You need to do at least 2 billion dollars in revenue, growing triple digits, in order to be a centicorn.** 
+
+This is a tall ask for any company no matter how awesome the underlying technology, and is as much as feat of a world-class sales and marketing operation as it is a technological one. For this essay's audience, we'll focus on just tech/product.
 
 ![https://pbs.twimg.com/media/E33DDqnXoAcfteL.jpg](https://pbs.twimg.com/media/E33DDqnXoAcfteL.jpg)
 
-Here the future becomes a good deal murkier for Temporal. Just like Stripe [deepened its relationship with customers on all things money](https://www.readthegeneralist.com/briefing/stripe), Temporal will almost certainly have to roll out a full suite of products for its core customer, the [Platform Engineer](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/), and to do so in competition with other companies who will almost certainly be converging on the same market needs from a different starting point. What products these will ultimately be is up for speculation.
+Here the future becomes a good deal murkier for Temporal. Just like Stripe [deepened its relationship with customers on all things money](https://www.readthegeneralist.com/briefing/stripe), Temporal will almost certainly have to roll out a full suite of products for its core customer, the [Platform Engineer](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/), despite [most second-products being distractions](https://youtu.be/MD_wD5hp7r0), ***and*** to do so in competition with other companies who will almost certainly be converging on the same market needs. *What* products these will ultimately be is up for speculation.
 
 So let's speculate!
 
@@ -124,33 +134,33 @@ Each of the centicorn companies lays some credible claim to being more valuable 
 - Stripe has pretty much always been [on AWS](https://aws.amazon.com/solutions/case-studies/stripe/), but considers itself the "[AWS of payments](https://www.geekwire.com/2017/stripe-co-founder-john-collison-thinks-company-amazon-web-services-payments/)".
 - [Cloudflare is making a very different play](https://www.swyx.io/cloudflare-go/) in order to be the "fourth major cloud".
 
-Because of Temporal's focus on lightweight application state and orchestration of multiple services, it has a natural position between the big clouds (this is a very contrived scenario, but imagine being able to easily weave together specialized ML services from Google, with the advanced storage options from AWS, inside a well supported .NET environment on Azure). I'm not saying that Temporal *has* to be multi-cloud to be a centicorn, but pretty much every large company in this league needs a compelling story *not* to be better off as part of the Big 3.
+Because of Temporal's focus on lightweight application state and orchestration of multiple services, it has a natural position between the big clouds (this is a very contrived scenario, but imagine being able to easily weave together specialized ML services from Google, with the advanced storage options from AWS, inside a well supported .NET environment on Azure). I'm not saying that Temporal *has* to be multi-cloud to be a centicorn, but pretty much every company in this league needs a compelling story *not* to be better off as part of the Big 3.
 
-Eventually sufficiently sized workloads will force Temporal into providing its own cloud primitives of [compute, storage, and bandwidth](https://twitter.com/swyx/status/1475857610306109440?s=20&t=zESt1zAn4WfC_fKkp04Mkg), up to and including operating or making its own hardware at the very extreme. This should give cost, speed, and scalability advantages. 
+Eventually, sufficiently sized workloads will force Temporal into providing its own cloud primitives of [compute, storage, and bandwidth](https://twitter.com/swyx/status/1475857610306109440?s=20&t=zESt1zAn4WfC_fKkp04Mkg), up to and including operating or making its own hardware at the very extreme. This should give cost, speed, and scalability advantages. 
 
-### Temporal as Mesh or Protocol?
+### Temporal as Mesh, Temporal API as Protocol
 
-Believe it or not, viewing Temporal as a "State Manager" or "Workflow Engine" is possibly understating its potential. The broader, more abstract job it is doing is helping critical long running processes communicate with each other deterministically, designed for extreme fault tolerance and scalability.
+Believe it or not, **viewing Temporal as a "State Manager" or "Workflow Engine" is understating its potential**. The broader, more abstract job it is doing is helping critical long running processes communicate with each other deterministically, designed for extreme fault tolerance and scalability (there's an *even broader* interpretation, which I covered in [Self Provisioning Runtimes](https://www.swyx.io/self-provisioning-runtime)).
 
-From a [2020 interview of CEO Maxim](https://softwareengineeringdaily.com/wp-content/uploads/2020/04/SED1043-Cadence-Workflow-Orchestration.pdf): 
+From a [2020 interview of Maxim](https://softwareengineeringdaily.com/wp-content/uploads/2020/04/SED1043-Cadence-Workflow-Orchestration.pdf): 
 
-> Another model, which is I think is more interesting, is that you can think about [Temporal] as a **service mesh**. A service mesh for longer running operations, because right now if you think about it [the current conversation about service meshes are] always around short-lived operations...
+> Another model, which is I think is more interesting, is that you can think about [Temporal] as a **service mesh**. **A service mesh for longer running operations**, because right now if you think about it [the current conversation about service meshes are] always around short-lived operations...
 > 
 > Inside of [Temporal], workflows can call other activities. When you look at the call, it [looks like a] synchronous request-reply. You make request and then you wait for it in blocking mode and then you get your reply. The difference is that this request can take 5 days or one year. It doesn’t matter...
 
 While "Temporal as Long Running Service Mesh" is mostly an analogy for now, it could turn into reality some day. Service Meshes are already Temporal's most immediate adjacency. We can see hints of this in Snap's [detailed overview](https://eng.snap.com/build_a_reliable_system_in_a_microservices_world_at_snap) of their Temporal deployment:
 
-> To help with more teams in Snap, our internal Temporal cluster is hosted as a multi-tenant environment which runs on top of Snap’s Service Mesh where we can get authN, authZ and load balancing support. Also with Service Mesh, team onboarding is as simple as access approval and establishing connection using our vended client libraries which incorporate Service Mesh connections and Temporal SDKs in one.
+> To help with more teams in Snap, **our internal Temporal cluster is hosted as a multi-tenant environment which runs on top of Snap’s Service Mesh** where we can get authN, authZ and load balancing support. Also with Service Mesh, team onboarding is as simple as access approval and establishing connection using our vended client libraries which incorporate Service Mesh connections and Temporal SDKs in one.
 
-There is [a *ton* of innovation going on in the Service Mesh world](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/) right now so it's probably better for Temporal to stay unopinionated about this as long as possible — this was a key factor for Temporal adoption within [Netflix's "paved road"](https://twitter.com/swyx/status/1448027262121496578) last year. 
+There is [a *ton* of innovation going on in the Service Mesh world](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/) right now so it's probably better for Temporal to stay un-opinionated about this as long as possible — this was a key factor for Temporal adoption within [Netflix's "paved road"](https://twitter.com/swyx/status/1448027262121496578) last year. 
 
 But we're talking about the $100b future of Temporal, so we're allowed to dream. The more jobs Temporal does, the more value it offers, so we must explore the most obvious adjacencies.
 
-The basic language that Temporal establishes around [Timeouts](https://docs.temporal.io/blog/activity-timeouts/), Signaling, Querying, [Migrations](https://docs.temporal.io/docs/go/versioning/), Child Workflows, [Parent Close Policy](https://docs.temporal.io/docs/concepts/what-is-a-parent-close-policy/), [Encryption](https://docs.temporal.io/docs/concepts/what-is-a-data-converter/), [Authorization](https://docs.temporal.io/docs/server/security#authorization), [Visibility](https://docs.temporal.io/docs/temporal-explained/visibility/) and all features to come could become the lingua franca of all services in Temporal's massive orbit - to the extent that it is quite possible to envision a future where non-Temporal software advertises itself as [Temporal-API](https://github.com/temporalio/api)-compatible, much like [S3 Compatibility](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=s3%20compatible&sort=byPopularity&type=story) is now a basic requirement of all storage services.
+The basic language that Temporal establishes around [Timeouts](https://docs.temporal.io/blog/activity-timeouts/), Signaling, Querying, [Migrations](https://docs.temporal.io/docs/go/versioning/), Child Workflows, [Parent Close Policy](https://docs.temporal.io/docs/concepts/what-is-a-parent-close-policy/), [Encryption](https://docs.temporal.io/docs/concepts/what-is-a-data-converter/), [Authorization](https://docs.temporal.io/docs/server/security#authorization), [Visibility](https://docs.temporal.io/docs/temporal-explained/visibility/) and all features to come could become **the lingua franca of all long running services** in Temporal's massive orbit - to the extent that it is quite possible to envision a future where *non*-Temporal software advertises itself as [Temporal-API](https://github.com/temporalio/api)-compatible, much like [S3 Compatibility](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=s3%20compatible&sort=byPopularity&type=story) is now unofficial table stakes for all storage services.
 
-If you consider the [7 Layer OSI model](https://en.wikipedia.org/wiki/OSI_model), you can consider Temporal as Layer 8 ("fault oblivious" workflows). Layer 8 does for Layer 7 (HTTP/REST/gRPC) what Layer 4 (TCP) does for Layer 3 (IP) - offering a reliable abstraction over unreliable foundations.
+If you consider the [7 Layer OSI model](https://en.wikipedia.org/wiki/OSI_model) of protocol abstractions, you can consider **Temporal as Layer 8** ("fault oblivious" workflows). Layer 8 does for Layer 7 (HTTP/REST/gRPC) what Layer 4 (TCP) does for Layer 3 (IP) - offering a reliable abstraction over unreliable foundations.
 
-If you strip away all implementation detail, Temporal's APIs could become the industry standard protocol for long running operations, much in the same way that HTTP has become the standard protocol for short-lived ones. At first perhaps an informally followed, ill-enforced format like REST, but with enough strictness that it could be like [Relay](https://relay.dev/docs/guides/graphql-server-specification/) or even like HTTP in conformity.
+If you strip away all implementation detail, Temporal's APIs (already living in a [standalone repo](https://github.com/temporalio/api), though with no formal specification) could become the industry standard protocol for long running operations, much in the same way that HTTP has become the standard protocol for short-lived ones. At first perhaps an informally followed, ill-enforced format like REST, but with enough strictness that it could be like [Relay](https://relay.dev/docs/guides/graphql-server-specification/) or even like HTTP in conformity.
 
 Since this is a future we all desire, I often wonder if there would be any benefit to formalizing the specification and donating it to a neutral organization like the Linux Foundation or CNCF, a competitor- and integrator-friendly move often done by other aspiring industry standards (as a counterpoint, note that AWS didn't do this with S3 and it is doing just fine).
 
@@ -164,13 +174,13 @@ As a platform tool with a significant learning curve and devops cost, Temporal h
 
 However, Temporal's *external* network effects are near zero today. The addition of each new Temporal user doesn't materially impact future users, or existing users, beyond sporadic open source and community participation.
 
-The easiest way *external* network effects could start happening is through some kind of marketplace. There's nothing inherent in Temporal's design that requires that every Workflow or Activity must be run, or even operated, by you. Yet by its nature, it has knowledge of every critical microservice in its' users organization (this "knowledge" is very decoupled for now, and will likely have to be strengthened if this becomes a project priority).
+The easiest way *external* network effects could start happening is through some kind of marketplace. There's nothing inherent in Temporal's design that requires that every Workflow or Activity must be run, or even operated, by you. Yet by its nature, Temporal has knowledge of every critical microservice in its' users organization (this "knowledge" is very decoupled for now, and will likely have to be strengthened if this becomes a project priority).
 
-Each new user could contribute their microservices in some sort of public directory, which can then be invoked by others wishing to reuse them. This treats Temporal as a sort of super-aggregator of services, assuming it has established itself as a preferred protocol for long-running processes, as we discussed above. Temporal should respect [the Mullenweg-Gates Line](https://twitter.com/swyx/status/1360729115372920832) and only take 5% of the total value, but if they can get money flowing here then there is a ton of value to be realized by a third party ecosystem (and more efficiently than many Web3 advocates might suppose). Temporal wins when vendors on its marketplace win - up to and including every [API Economy](https://www.swyx.io/api-economy/) vendor wrapping their offerings in a Temporal Activity or Workflow for easier consumption.
+Each new user could contribute their microservices in some sort of public directory, which can then be invoked by others wishing to reuse them. This treats Temporal as a sort of super-aggregator of services, assuming it has established itself as a preferred protocol for long-running processes, as we discussed above. Temporal should respect [the Mullenweg-Gates Line](https://twitter.com/swyx/status/1360729115372920832) and only take 5% of the total value, but if they can get money flowing here then there is a ton of value to be realized by a third party ecosystem (though we've speculated in the past on a "[Temporal Token](http://softwareengineeringdaily.com/wp-content/uploads/2021/05/SED1255-Ryland-Goldstein.pdf)" economy for farming out this work, we'll likely need far more speed and efficiency than current Web3 technology offers). Temporal wins when vendors on its marketplace win - up to and including every [API Economy](https://www.swyx.io/api-economy/) vendor wrapping their offerings in a Temporal Activity or Workflow for easier consumption.
 
 This doesn't even have to happen all at once - Temporal can help offer mesh, catalog, billing, and discovery products internally at very large companies before making any of this publicly available. Snowflake only [launched its private Data Exchange in 2019](https://www.prnewswire.com/news-releases/snowflake-announces-data-exchange-to-break-down-data-barriers-300861264.html) - before broadening to a public [Data Marketplace](https://www.zdnet.com/article/snowflake-announces-new-data-marketplace-and-powered-collaborations/) in 2021.
 
-Before we go all-in on a marketplace, I'm pretty sure there are easier network effect opportunities to establish as well. Auth network effects? In-UI collaboration network effects?
+Before we go all-in on a marketplace, I'm pretty sure there are easier network effect opportunities to establish as well. Auth network effects? In-UI collaboration network effects? [NfX has like 15 of these](https://www.nfx.com/post/network-effects-manual/) to choose from.
 
 ### Temporal as System of Record
 
@@ -180,11 +190,11 @@ Every great B2B company is the system of record for *something* crucial within t
 
 Salesforce is one such ecosystem for customers and sales, which is why it continues to be adopted while everybody complains about it. Let's say Okta is the emerging SoR for SSO logins, and it is beginning to [flex its data](https://www.okta.com/sites/default/files/2022-01/Businesses-at-Work-2022-Annual-Report.pdf). Rippling is the [SoR for employee data](https://twitter.com/EverettRandle/status/1451209431597731840). So on and so forth.
 
-Temporal is naturally the System of Record for the most critical long running processes within any company. How many open transactions do we have running right now? What's the p95 runtime of our customer shopping journeys in the past month? Why was there a spike in manual cancellations of our billing workflow yesterday? 
+**Temporal is naturally the System of Record for the most critical long running processes within any company**. How many open transactions do we have running right now? What's the p95 runtime of our customer shopping journeys in the past month? Why was there a spike in manual cancellations of our billing workflow yesterday? 
 
 This not only positions it for offering the [most important dashboard](https://www.saastr.com/want-go-upmarket-need-great-dashboard/) in the company (though it should not attempt to be a dashboarding company) but perhaps also *control panel* as well. Neither are significant revenue opportunities - but the integrations that come with this data can be.
 
-One underappreciated fact is that Temporal is also the System of Record for vendor reliability. We naturally collect the API failure rates as the flip side of retries, and can do everything from evaluate SLAs to baking off vendor performance, although I don't seriously expect that this use case will be dominant compared to other vendor evaluation criteria.
+One underappreciated fact is that Temporal is also the System of Record for vendor reliability. We naturally collect the API metrics as part of the basic job, and can do everything from evaluate SLAs to baking off vendor performance, although I don't seriously expect that this use case will be dominant compared to other vendor evaluation criteria.
 
 ### Serverless and Code Hosting
 
@@ -210,17 +220,17 @@ In the "Temporal as a 10b company" section above, we talked about how Temporal's
 
 **Can we write workflows without developers?**
 
-This line of thinking might look like I am arguing that Temporal will eventually become a no-code company. For cultural and core competency reasons I don't think this can or should happen - you would have to bet on Temporal successfully incubating a second company that successfully cracks the "general purpose no-code" nut better than Zapier or Make. Better to be arms dealer to the very long tail of no-code and platforms-offering-low-code-workflows services. We are already seeing examples of customers [writing XState Statechart interpreters with Temporal](https://temporal.io/xstate) to implement their own low-code systems with surprising effectiveness.
+This line of thinking might look like I am arguing that Temporal will eventually become a no-code company. For cultural and core competency reasons I don't think this can or should happen - you would have to bet on Temporal successfully incubating a second startup that successfully cracks the "general purpose no-code" nut better than Zapier or Make. Better to be arms dealer to the very long tail of no-code and platforms-offering-low-code-workflows services. We are already seeing examples of customers [writing XState Statechart interpreters with Temporal](https://temporal.io/xstate) to implement their own low-code systems with surprising effectiveness.
 
 No, I'm more talking about the ability for ***data*** to augment or replace developers for routine or insufficient-data-but-manually-prototypable tasks:
 
-- Not replacing developers entirely, but enabling product managers and other domain experts to shape workflow decision trees and dynamically adjusting decisions to data without requiring code changes, while still relying on developers to write activities and set up integrations. This expands Temporal reach within the organization beyond the engineering org. 
-- The simplest version of this is the A/B test - have two versions of a Workflow written up, have Temporal send traffic through each, and decide the winner by human or automated decision criteria. More complex variants can turn the binary decision into value seeking between given min-max ranges - essentially a very slow, real world form of [backpropagation](https://en.wikipedia.org/wiki/Backpropagation). Temporal would probably choke under most forms of deep learning today, but there's nothing preventing us implementing simple, explainable learning. Still, the ability of Temporal to function as a distributed computer shouldn't be underestimated: Developers at Uber already have shown examples of [Particle Swarm Optimization](https://github.com/temporalio/samples-go/tree/main/pso) using Workflows.
+- Not replacing developers entirely, but enabling product managers and other domain experts to shape workflow decision trees and dynamically adjusting decisions to data without requiring code changes, while still relying on developers to write activities and set up integrations. **This expands Temporal's reach within the organization beyond the engineering org.** 
+- The simplest version of this is the A/B test - have two versions of a Workflow written up, have Temporal send traffic through each, and decide the winner by human or automated decision criteria. More complex variants can turn the binary decision into value seeking between given min-max ranges - essentially a very slow, iterative form of [backpropagation](https://en.wikipedia.org/wiki/Backpropagation). Temporal would probably choke under most forms of deep learning today, but there's nothing preventing us implementing simple, explainable learning (read: linear regressions?). Still, the ability of Temporal to function as a distributed computer shouldn't be underestimated: Developers at Uber already have shown examples of [Particle Swarm Optimization](https://github.com/temporalio/samples-go/tree/main/pso) using Workflows.
 - Temporal could explicitly model "cyborg" nodes - workflows that initially defer to human domain expert decision makers, but then *using the collected data* to switch to automated decision making within sufficiently established ranges, while still yielding back to humans for unobserved ranges or exceeded confidence bounds.
 
 This is basically the essence of Andrej Karpathy's [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) thesis applied to Temporal - how much can we let *data* write Workflows, rather than developers? Many deployments of Temporal are very high volume - in the *millions* of workflows per month - and it is a shame that none of that data currently feeds back in any automated way to improving the workflows themselves.
 
-As much as I have noted Temporal's strong internal network effect to developers, the best internal network effect is always data-driven.
+If we have analyzed Temporal's potential via internal and external network effects, then perhaps this section could be termed [data network effects](https://julian.digital/2021/12/20/the-power-of-defaults/).
 
 ## Conclusion
 
@@ -228,8 +238,12 @@ This is just me thinking out loud on the potential direction of Temporal. I find
 
 Very few people on Earth have ever seen a company through from 1b to 100b and beyond, so I'm definitely missing obvious steps or making some absolute howlers. Please comment below or correct me if you can see these. 
 
-The final task that remains is to guesstimate - *how long* is this all going to take? Stripe is 12 years old, Snowflake is 10, and both of those companies grew up in the [longest bull market in history](https://www.investopedia.com/news/really-longest-bull-market-history/). Even operationally, at this point 2-3 years into Temporal, those companies seem like they are decades away from where we are today. 
+The final task that remains is to guesstimate - ***how long* is this all going to take**? Stripe is 12 years old, Snowflake is 10, but both of those companies grew up in the [longest bull market in history](https://www.investopedia.com/news/really-longest-bull-market-history/). Even operationally, at this point 2-3 years into Temporal, those companies seem like they are decades away from where we are today. 
 
 Then again, the human mind is incapable of comprehending exponential growth over long periods of time:
 
 {% twitter https://twitter.com/paulg/status/403183731449413632?lang=en %}
+
+## Acknowledgements
+
+Thanks to Dan Croak, Ryland Goldstein, David Khourshid, Nicholas Oxford, and @qoouep for reviewing drafts of this essay and providing feedback!

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
+            "file": "A - Writing/The Investment Case for Temporal.md",
             "mode": "source",
             "source": false
           }
@@ -19,119 +19,135 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "42996de362767242",
-    "type": "mobile-drawer",
+    "id": "8abf287e7869cf79",
+    "type": "split",
     "children": [
       {
-        "id": "0cfedebe7bf091ca",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "5915520d78adc1a3",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "6984e1c926835e09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a5f0c3797542ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae0a188d7ba15c4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "network effects",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d69a84ec42e4349",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "14043e258dff0ebf",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "27e513d1a1d6dae3",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "aade736a29dbab9d",
-    "type": "mobile-drawer",
+    "id": "aa22aec4468a2105",
+    "type": "split",
     "children": [
       {
-        "id": "508ad9dd6c66ca1a",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "717e8915fad169dd",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "83054943829858c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1837e8bea1392606",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "728ea4a9bb84f698",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A - Writing/The Investment Case for Temporal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4211c60632f2ce8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A - Writing/The Investment Case for Temporal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f9071e00ef4a1a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81c152235d3588bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A - Writing/The Investment Case for Temporal.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "b99913b1fcb60e0c",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "b1e15f823e8a21cf",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "A - Mixtape/Mixtape Daily Clip notes.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "897a7fc58d52c936",
   "lastOpenFiles": [
+    "A - Writing/The Investment Case for Temporal.md",
+    "R - Product/Moats and Network Effects.md",
     "A - Mixtape/Mixtape Daily Clip notes.md",
     "A - Mixtape/Mixtape Fridays.md",
-    "A - Writing/The Investment Case for Temporal.md",
     "A - Writing/tweet ideas.md",
     "R - Better Questions/Culture questions.md",
     "R - Better Questions/podcaster questions.md",
     "R - Better Questions/job interview questions.md",
     "R - Better Questions/general questions.md",
-    "Culture.md",
-    "R - Company Running/CEO - leadership.md"
+    "Culture.md"
   ]
 }

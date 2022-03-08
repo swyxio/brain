@@ -82,6 +82,11 @@ Daily stars
 
 - https://github.com/docker/hub-feedback/issues/1047#issuecomment-346287737
 
+## Social media tracking
+
+linkedin, tiktok and twitter are at 20-something% of general population, but youtube is at 80%: https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/
+
+
 ## Misc categories
 
 ### Hiring

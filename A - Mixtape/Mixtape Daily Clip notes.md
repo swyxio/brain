@@ -9,6 +9,9 @@ https://overcast.fm/+B1yJwoLjo 15ish mins origin of mailgun
 
 ## general dump
 
+https://overcast.fm/+Faxmk6CKc sony spiderman 2h25mins
+
+
 https://overcast.fm/+IOVdeY 15 mins william hung
 
 https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
@@ -59,6 +62,8 @@ https://overcast.fm/+TEKFtB2do 15 mins rust rewrite of tor
 
 https://overcast.fm/+34A37_mXc 7minutes timescale db pitch 13 mins all data time series data
 
+harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
+
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 
@@ -67,6 +72,7 @@ https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 https://overcast.fm/+NBVuuQUhM 9mins mr beast
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 https://nathanbarry.com/059-samir-chaudry-youtube-launch-creator-enterprise/ find format  and be consistent - 54 mins mark and there was a bit about the importance of finding format say at 20mins in
+- 10mins in https://overcast.fm/+NBVu0QSxE between two ferns wedge
 
 
 https://overcast.fm/+NBVvT7qiY youtube deep bench, quantity to get quality 20mins ish

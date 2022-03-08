@@ -16,7 +16,7 @@ my temporal talk https://twitter.com/swyx/status/1445466345194209290?s=21
 
 - uibreakfast https://uibreakfast.com/223-how-to-market-yourself-with-shawn-swyx-wang/
 
-devx pod 
+devx pod https://devxpod.buzzsprout.com/1895030/10012425-the-radiating-circles-in-devx-with-swyx-head-of-developer-experience-temporal
 
 4hr work week https://overcast.fm/+KebvparPM
 

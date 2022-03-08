@@ -28,6 +28,7 @@ sketch notes
 blender/animations
 
 - leifpixel did the anims for frontendhorse stream https://twitter.com/joshwcomeau/status/1473692320042258437?s=21
+- https://www.ordinaryfolk.co/ did [the spline.design intro video](https://twitter.com/splinetool/status/1500916639629549573?s=20&t=nLHvmBJpIaJgwWymOkzNrw)
 
 misc
 

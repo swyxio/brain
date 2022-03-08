@@ -1,13 +1,27 @@
 ## speaking
 
-apr 4 temporal?
-apr 20 react miami
+apr 4-8 temporal?
+apr 9-17 ??
+apr 18-19 react miami
+apr 20-21 atomic FFS
+apr 24 sf
+apr 28 alana din
 may 2-5 reactathon
-jun 7 jnation port
+jun 7 jnation port -> https://www.flatio.com/
 jun 16 jsnation ams
+aug temporalcon
 oct 6-7 infoshare 2022
-nov lagos
+nov lagos? jan?
 
+
+
+Apr 1-9 Austin
+Apr 9-17 open
+Apr 18-23 Miami
+Apr 24-May 6 SF
+May 6-Jun 6 open
+Jun 7-15 Lisbon
+Jun 15-18 Amsterdam
 
 ## Talks and podcasts
 

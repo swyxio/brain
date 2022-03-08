@@ -72,6 +72,10 @@ http://partyqs.com/
 	
 	- If you could magically develop any one skill, which would you choose?
 
+## movie buffs
+
+what movie would be 10x better with dinosaurs https://reddit.com/r/AskReddit/comments/t8y7by/what_movie_would_10x_better_if_you_added_dinosaurs/
+
 ## billionaire questions 
 
 whats one thing you want buy you cant buy

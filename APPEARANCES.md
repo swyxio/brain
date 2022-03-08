@@ -13,8 +13,6 @@ aug temporalcon
 oct 6-7 infoshare 2022
 nov lagos? jan?
 
-
-
 Apr 1-9 Austin
 Apr 9-17 open
 Apr 18-23 Miami

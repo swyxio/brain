@@ -4,6 +4,10 @@
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
 
 
+michelle hansen chat
+
+
+
 purrfect https://www.youtube.com/watch?v=Q0P-Uod19NY
 
 robert zhu case against anti graphql https://youtu.be/djKPtyXhaNE

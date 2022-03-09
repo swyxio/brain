@@ -60,7 +60,7 @@ https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda a
 
 https://overcast.fm/+TEKFtB2do 15 mins rust rewrite of tor 
 
-https://overcast.fm/+34A37_mXc 7minutes timescale db pitch 13 mins all data time series data
+influxdb 12mins benefits of timeseriesdb https://overcast.fm/+MZ3SFCcJw
 
 harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
 

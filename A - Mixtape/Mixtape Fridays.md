@@ -8,6 +8,7 @@ conan live https://overcast.fm/+zneb7lxko 1h33mins
 
 boyce ave https://www.youtube.com/watch?v=Sv8XHiTkDYg
 
+duel of the fates https://twitter.com/obiwankenobi/status/1501630732619423744
 
 story swimming https://overcast.fm/+lXsYeE 35 mins
 

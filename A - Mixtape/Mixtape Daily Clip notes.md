@@ -1,5 +1,6 @@
 ## mixtape normal
 
+apple spring event https://overcast.fm/+XcSvjvbB8
 
 4 stages if the ownership economy https://overcast.fm/+YNeSoJsXs 36mins
 
@@ -64,6 +65,7 @@ influxdb 12mins benefits of timeseriesdb https://overcast.fm/+MZ3SFCcJw
 
 harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
 
+https://overcast.fm/+3D5Lzp4uM origin of excel 8mins
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 

@@ -14,10 +14,10 @@ oct 6-7 infoshare 2022
 nov lagos? jan?
 
 Apr 1-9 Austin
-Apr 9-17 open (echisa SF)
-Apr 18-23 Miami
+Apr 9-17 open (echisa, jcoop, alokn, samecrowder SF)
+Apr 17-24 Miami (albion)
 Apr 24-May 6 SF (quinn/beyang, alok n)
-May 6-Jun 6 open
+**May 6-Jun 6 open**
 Jun 7-15 Lisbon
 Jun 15-20? Amsterdam
 

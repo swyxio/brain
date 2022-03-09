@@ -91,6 +91,8 @@ audience building is overrated
 -  https://twitter.com/robwalling/status/1306591312498405376?s=21
 - https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21
 
+how nate berkopec found his niche https://overcast.fm/+gJ-XO33X4 10mins
+
 ## writing
 
 - fight club  https://youtu.be/GiOuUP9z7l4

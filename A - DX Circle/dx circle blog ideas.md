@@ -9,7 +9,8 @@ hiring first devrel
 - want to keep growing by adding features, but vast majority of users will just use three
 - users you want to reach dont appreciate the problem you solve
 - you want to commoditize complements/be switzerland but your users want a clear community
-- extensibility and plugins - first 
+- extensibility and plugins - first x then y
+- open source - users and operators
 
 ## platform engineering
 - https://twitter.com/lizthegrey/status/1491525337095696390?s=20&t=HiQY9TPqFxPCwMVX1tshtg

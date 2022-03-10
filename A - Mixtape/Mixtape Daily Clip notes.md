@@ -62,7 +62,6 @@ https://overcast.fm/+MZ3SQEwtw 15 mins origin story of hashicorp consul
 
 https://overcast.fm/+TEKFtB2do 15 mins rust rewrite of tor 
 
-influxdb 12mins benefits of timeseriesdb https://overcast.fm/+MZ3SFCcJw
 
 harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
 

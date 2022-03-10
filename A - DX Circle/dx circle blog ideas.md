@@ -4,6 +4,13 @@
 hiring first devrel
 
 
+### hard problems working on platforms
+- stability work is zero value by default, justification comes from hard-to-reverse damage whereas feature work is overstated
+- want to keep growing by adding features, but vast majority of users will just use three
+- users you want to reach dont appreciate the problem you solve
+- you want to commoditize complements/be switzerland but your users want a clear community
+- extensibility and plugins - first 
+
 ## platform engineering
 - https://twitter.com/lizthegrey/status/1491525337095696390?s=20&t=HiQY9TPqFxPCwMVX1tshtg
 - https://twitter.com/danielbryantuk/status/1494614250567966732?s=20&t=F_XRkOq2J7pqU7NXRcaxwg

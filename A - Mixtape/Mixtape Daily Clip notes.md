@@ -12,7 +12,6 @@ https://overcast.fm/+B1yJwoLjo 15ish mins origin of mailgun
 
 https://overcast.fm/+Faxmk6CKc sony spiderman 2h25mins
 
-
 https://overcast.fm/+IOVdeY 15 mins william hung
 
 https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
@@ -58,6 +57,8 @@ https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda a
 
 3mins browser user agent https://overcast.fm/+LfVNDuulU
 
+
+https://overcast.fm/+MZ3SQEwtw 15 mins origin story of hashicorp consul
 
 https://overcast.fm/+TEKFtB2do 15 mins rust rewrite of tor 
 

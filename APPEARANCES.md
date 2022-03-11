@@ -9,6 +9,7 @@ apr 28 alana din
 may 2-5 reactathon
 jun 7 jnation port -> https://www.flatio.com/
 jun 16 jsnation ams
+jun 25 cityjs singapore
 aug temporalcon
 oct 6-7 infoshare 2022
 nov lagos? jan?

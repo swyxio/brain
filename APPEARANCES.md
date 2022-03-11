@@ -12,6 +12,7 @@ jun 16 jsnation ams
 aug temporalcon
 oct 6-7 infoshare 2022
 nov lagos? jan?
+dec allscope
 
 Apr 1-9 Austin
 Apr 9-17 open (echisa, jcoop, alokn, samecrowder, alexbowe SF)

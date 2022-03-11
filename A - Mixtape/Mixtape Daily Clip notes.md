@@ -8,6 +8,9 @@ k8s documentary https://overcast.fm/+B1yJZf4lw 7mins
 
 https://overcast.fm/+B1yJwoLjo 15ish mins origin of mailgun
 
+open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
+
+
 ## general dump
 
 https://overcast.fm/+Faxmk6CKc sony spiderman 2h25mins

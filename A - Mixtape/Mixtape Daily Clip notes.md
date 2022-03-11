@@ -57,11 +57,9 @@ https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda a
 
 3mins browser user agent https://overcast.fm/+LfVNDuulU
 
-
 https://overcast.fm/+MZ3SQEwtw 15 mins origin story of hashicorp consul
 
 https://overcast.fm/+TEKFtB2do 15 mins rust rewrite of tor 
-
 
 harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
 

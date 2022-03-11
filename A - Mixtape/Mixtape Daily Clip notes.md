@@ -67,6 +67,8 @@ https://overcast.fm/+3D5Lzp4uM origin of excel 8mins
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 
+https://overcast.fm/+H1YO2iNcc https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
+
 ## youtuber
 
 https://overcast.fm/+NBVuuQUhM 9mins mr beast

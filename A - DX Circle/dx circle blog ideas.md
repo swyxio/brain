@@ -4,6 +4,10 @@
 hiring first devrel
 
 
+### a modest proposal for developer experience
+
+
+
 ### hard problems working on platforms
 - stability work is zero value by default, justification comes from hard-to-reverse damage whereas feature work is overstated
 - want to keep growing by adding features, but vast majority of users will just use three

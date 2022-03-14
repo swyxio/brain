@@ -1,6 +1,12 @@
 
 https://whattotweet.com/#
 
+list of bad ideas
+- todo list/jira board/tool for thought
+- open source funding
+- nonprofits
+
+
 
 bungled ideas
 - vine vs tiktok https://twitter.com/AlecStapp/status/1477456895728230404

@@ -3,10 +3,13 @@
 
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
 
+drew dillon of burb https://youtu.be/JJV3NVcBkfA
+
+harsh gupta, felvin https://youtu.be/pFZG-0TnIRc
 
 michelle hansen chat
 
-
+nish ithyakumar, nimbus, and cloud dev https://youtu.be/nOjm6YT-QyE
 
 purrfect https://www.youtube.com/watch?v=Q0P-Uod19NY
 

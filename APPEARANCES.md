@@ -23,6 +23,10 @@ Apr 24-May 6 SF (quinn/beyang, alok n)
 Jun 7-15 Lisbon
 Jun 15-20? Amsterdam
 
+### city todos
+
+NYC - ben schachter vantage
+
 ## Talks and podcasts
 
 https://www.serverlesschats.com/124/

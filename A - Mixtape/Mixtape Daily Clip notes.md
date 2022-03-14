@@ -11,6 +11,8 @@ https://overcast.fm/+B1yJwoLjo 15ish mins origin of mailgun
 open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
 
 
+tom holland soiderman https://youtu.be/QRbIhj35kyA 10:26
+
 ## general dump
 
 https://overcast.fm/+Faxmk6CKc sony spiderman 2h25mins

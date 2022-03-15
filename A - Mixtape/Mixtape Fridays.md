@@ -10,6 +10,8 @@ boyce ave https://www.youtube.com/watch?v=Sv8XHiTkDYg
 
 duel of the fates https://twitter.com/obiwankenobi/status/1501630732619423744
 
+Jeremy Jordan https://youtu.be/08AGzOmCk-s story
+
 story swimming https://overcast.fm/+lXsYeE 35 mins
 
 Glee picks https://youtu.be/LUyfiicklk0 https://youtu.be/TlWHTfrGhoY https://youtu.be/ERQ7wZgMjBc https://youtu.be/TYXYQRU2i7c https://youtu.be/keXMU5DjHjE

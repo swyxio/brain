@@ -11,11 +11,14 @@ https://overcast.fm/+B1yJwoLjo 15ish mins origin of mailgun
 open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
 
 
-tom holland soiderman https://youtu.be/QRbIhj35kyA 10:26
+## MCU
+
+- https://overcast.fm/+Faxmk6CKc sony spiderman 2h25mins
+- tom holland spiderman https://youtu.be/QRbIhj35kyA 10:26
+- gossip girl winter soldier https://overcast.fm/+3-caJNDSU 27mins up
+- https://overcast.fm/+GQnQ_l3aU 11 mins new rockstars
 
 ## general dump
-
-https://overcast.fm/+Faxmk6CKc sony spiderman 2h25mins
 
 https://overcast.fm/+IOVdeY 15 mins william hung
 
@@ -80,9 +83,7 @@ https://overcast.fm/+NBVuuQUhM 9mins mr beast
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 https://nathanbarry.com/059-samir-chaudry-youtube-launch-creator-enterprise/ find format  and be consistent - 54 mins mark and there was a bit about the importance of finding format say at 20mins in
 - 10mins in https://overcast.fm/+NBVu0QSxE between two ferns wedge
-- https://overcast.fm/+GQnQ_l3aU 11 mins new rockstars
-
-
+-
 https://overcast.fm/+NBVvT7qiY youtube deep bench, quantity to get quality 20mins ish
 
 ## audience building
@@ -117,7 +118,6 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 - https://overcast.fm/+b1V1guBD8 23 mins greg mckowen virality vs energy
 - 
 how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project - 18mins
-- gossip girl winter soldier https://overcast.fm/+3-caJNDSU 27mins up
 
 ## cal newport
 

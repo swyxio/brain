@@ -53,6 +53,8 @@ orange juice rebrand fail https://overcast.fm/+B2HpKXM8Q
 
 viral on purpose https://overcast.fm/+RWpsctwxM
 
+16 steps credibility 37mins https://overcast.fm/+IxBMXwmXY 
+
 ## technical
 
 ebpf https://overcast.fm/+wtIPwx_jA

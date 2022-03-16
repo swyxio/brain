@@ -6,7 +6,7 @@ apr 18-19 react miami
 apr 20-21 atomic FFS
 apr 24 sf
 apr 28 alana din
-may 2-5 reactathon
+may 2-5 reactathon - may 4 3.35pm
 jun 7 jnation port -> https://www.flatio.com/
 jun 16 jsnation ams
 jun 25 cityjs singapore

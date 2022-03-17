@@ -12,6 +12,7 @@ Follow to buy with reminders - 3 mins in
 engagement bait 
 - https://twitter.com/stewfortier/status/1490131640097648641?s=21
 - https://twitter.com/harrystebbings/status/1490516792615313412?s=21
+- https://twitter.com/the_mmw/status/1504102712052494343?s=21
 
 https://thesephist.com/posts/lucerne/
 

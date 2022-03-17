@@ -15,6 +15,9 @@ hiring first devrel
 - you want to commoditize complements/be switzerland but your users want a clear community
 - extensibility and plugins - first x then y
 - open source - users and operators
+- https://skamille.medium.com/product-for-internal-platforms-9205c3a08142
+	- But the platform team doesn’t build solutions for only one user. The whole value of a platform team is providing broadly-useful systems, so we are rarely presented with a well-specified need to fill.
+	-  In a perfect world, platform product managers are regularly using the products they support in order to identify pain points and gaps that engineers might miss and users may not complain about. In the real world it’s hard to find time to use your products in anger when you are also dealing with all the other parts of the PM job.
 
 ## platform engineering
 - https://twitter.com/lizthegrey/status/1491525337095696390?s=20&t=HiQY9TPqFxPCwMVX1tshtg

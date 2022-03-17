@@ -14,7 +14,6 @@ open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
 ## MCU
 
 
-- tom holland spiderman https://youtu.be/QRbIhj35kyA 10:26
 - gossip girl winter soldier https://overcast.fm/+3-caJNDSU 27mins up
 - https://overcast.fm/+GQnQ_l3aU 11 mins new rockstars
 

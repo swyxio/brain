@@ -10,7 +10,8 @@ may 2-5 reactathon - may 4 3.35pm
 jun 7 jnation port -> https://www.flatio.com/
 jun 16 jsnation ams
 jun 25 cityjs singapore
-aug temporalcon
+aug 26 temporalcon
+aug 29-sep5 cascadiajs bend OR
 oct 6-7 infoshare 2022
 nov lagos? jan?
 dec allscope

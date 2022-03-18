@@ -171,6 +171,8 @@ https://overcast.fm/+TRbX793DU 32 mins what is dao until 50ish mins
 
 https://overcast.fm/+Vqtciqzoo 43ish mins what is web3
 
+6529 https://overcast.fm/+nRGzZ7yqs
+
 
 
 # deadpool

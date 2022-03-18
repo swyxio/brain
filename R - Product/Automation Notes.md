@@ -45,6 +45,10 @@ small replit twitter bots (usually useless)
 - [Old tweepy bot](https://repl.it/@LilyInskip_Shes/Twitter-Bot)
 
 
+### github automation
+
+https://simonwillison.net/2022/Mar/14/shot-scraper-template/
+
 ### discord bots
 
 - [Discordpy bots](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008)

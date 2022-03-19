@@ -74,6 +74,9 @@ https://overcast.fm/+TEKFtB2do 15 mins rust rewrite of tor
 
 harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
 
+architect https://overcast.fm/+t_0YIS73o 
+
+
 https://overcast.fm/+3D5Lzp4uM origin of excel 8mins
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres

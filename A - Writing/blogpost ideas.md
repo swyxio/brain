@@ -125,6 +125,7 @@ what i've learned so far about databases
 - aggregations are hard
 - mysql vs pg https://eng.uber.com/postgres-to-mysql-migration/ and pg write replication
 - sam lambert on
+- https://dbdb.io/
 
 
 

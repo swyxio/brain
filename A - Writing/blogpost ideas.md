@@ -126,6 +126,7 @@ what i've learned so far about databases
 - mysql vs pg https://eng.uber.com/postgres-to-mysql-migration/ and pg write replication
 - sam lambert on
 - https://dbdb.io/
+- sqlite is amazing https://blog.wesleyac.com/posts/consider-sqlite
 
 
 

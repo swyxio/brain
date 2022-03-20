@@ -3,10 +3,15 @@
 
 hiring first devrel
 
+### dx from first principles
+
+docs as part of dx
+
+
 
 ### a modest proposal for developer experience
 
-
+lace everything with cocaine
 
 ### hard problems working on platforms
 - stability work is zero value by default, justification comes from hard-to-reverse damage whereas feature work is overstated
@@ -15,6 +20,9 @@ hiring first devrel
 - you want to commoditize complements/be switzerland but your users want a clear community
 - extensibility and plugins - first x then y
 - open source - users and operators
+- multiple compile destinations
+	- xbrowser difficulties https://twitter.com/devongovett/status/1505401925184991235?s=21
+	- lowest common denominators 
 - https://skamille.medium.com/product-for-internal-platforms-9205c3a08142
 	- But the platform team doesn’t build solutions for only one user. The whole value of a platform team is providing broadly-useful systems, so we are rarely presented with a well-specified need to fill.
 	-  In a perfect world, platform product managers are regularly using the products they support in order to identify pain points and gaps that engineers might miss and users may not complain about. In the real world it’s hard to find time to use your products in anger when you are also dealing with all the other parts of the PM job.

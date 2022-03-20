@@ -13,11 +13,6 @@ open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
 
 andrew wilkinson hiring https://overcast.fm/+rTsXqf8r4 34 mins
 
-## MCU
-
-
-- gossip girl winter soldier https://overcast.fm/+3-caJNDSU 27mins up
-- https://overcast.fm/+GQnQ_l3aU 11 mins new rockstars
 
 ## general dump
 
@@ -135,6 +130,7 @@ https://overcast.fm/+b1V00pzUU capture configure control
 
 live longer 1:57 mins https://overcast.fm/+eZyDf2uBs
 
+exercise for life https://youtu.be/92kYDVjX0G0
 
 ## Product
 

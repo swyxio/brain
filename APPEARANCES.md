@@ -7,6 +7,7 @@ apr 20-21 atomic FFS
 apr 24 sf
 apr 28 alana din
 may 2-5 reactathon - may 4 3.35pm
+jun 2-3 gergely hodicska - craft-conf.com
 jun 7 jnation port -> https://www.flatio.com/
 jun 16 jsnation ams
 jun 25 cityjs singapore
@@ -29,6 +30,8 @@ Jun 15-20? Amsterdam
 NYC - ben schachter vantage
 
 ## Talks and podcasts
+
+the muse podcast - not up yet
 
 https://www.serverlesschats.com/124/
 

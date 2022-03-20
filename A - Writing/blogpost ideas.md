@@ -1,84 +1,57 @@
 # blogpost ideas
 
-tenth doctor beliefs in tech
-- no code review
-- git submodules
-- deploy under 15 minutes
-- dont build in public
-- crossed: cdn first?
+- tenth doctor beliefs in tech
+	- no code review
+	- git submodules
+	- deploy under 15 minutes
+	- dont build in public
+	- crossed: cdn first?
+- unzippening of society
+	- https://twitter.com/cubicleapril/status/1484272113976590341?s=21
+	- canada truckers https://bariweiss.substack.com/p/a-social-credit-system-arrives-in
+	- india discuss politics vs coinbase banned politics
+	- the great unzippening of society
+	- https://twitter.com/G_S_Bhogal/status/905487144160038912
+	- https://twitter.com/pewinternet/status/1446662209975853062?s=21
+- scorned employees
+	- eric yuan - cisco
+	- Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC.
+	- fermyon - denied at microsoft
+	- strategy pivots
+		- intel from memory
+		- loudcloud
+		- zillow housing
+		- netflix
+- why app changelogs don't change
+	- hard to coordinate
+	- bucket rollouts
+	- joke tweet
+	- https://twitter.com/swyx/status/1345803928391204864
+- the importance of interfaces
+	- open standards > open source https://twitter.com/swyx/status/1472746901711855617
+	- Simplifying interfaces are one of the critical elements in creating a successful product and to scaling inside a complex ecosystem. https://martinfowler.com/articles/cant-buy-integration.html
+- moving to postclassmail
+- how to pick your startup
+- Community as Schelling point
+	- "how to build community" maybe the wrong question
+	- Community as Scenius and Schelling Points
+	- community as marketplace https://www.heavybit.com/library/podcasts/developer-love/ep-15-learning-in-public-with-shawn-swyx-wang/
+	- lighthouse - https://twitter.com/swyx/status/1463367392612913153?s=20&t=YC9P_av3n-Kc0ovfp3Xogg
 
-unzippening of society
-- https://twitter.com/cubicleapril/status/1484272113976590341?s=21
-- canada truckers https://bariweiss.substack.com/p/a-social-credit-system-arrives-in
-
-
-scorned employees
-- eric yuan
-- Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC.
-
-why app changelogs don't change
-- hard to coordinate
-- bucket rollouts
-- joke tweet
-- https://twitter.com/swyx/status/1345803928391204864
-
-
-new money effect in tech
-- l1's vs rollups in crypto
-- promos in google - big tech
-
-
-the importance of interfaces
-- open standards > open source https://twitter.com/swyx/status/1472746901711855617
-- Simplifying interfaces are one of the critical elements in creating a successful product and to scaling inside a complex ecosystem. https://martinfowler.com/articles/cant-buy-integration.html
-
-wardley map for content
-- x axis - longform -> shorter -> short
-	- 10 hr book -> 3-6hr workshop -> 30-60min podcast/talk -> 5-10min video/blogpost -> 2min tweet -> 30-60sec short -> 5-10sec clip -> 3 second tweet -> 1 second soundbite
-		- inspo - kevin systrom on formats https://www.youtube.com/watch?v=3pvpNKUPbIY 55mins in
-- y axis - specificity? going from general audience to extremely niche
-
-
-
-moving to postclassmail
-
-
-how to pick your startup
-
-
-postmortem on the nft collapse of 2022
-- people talking more can than doing
-- governance is a mess
-- hiten “we’re in the facebook apps phase”
-- residual income causes hurdles
-- l1 contention
-- wayback machine
-
-
-Community as Schelling point
-- "how to build community" maybe the wrong question
-
-12 factor heroku thing is example of first principles
-
-
+- 12 factor heroku thing is example of first principles
 
 how to learn faster https://overcast.fm/+ncIIQ58ck
 
-
-
-
-SDKs over APIs
-- temporal
-- unleash https://github.com/Unleash/unleash
-- tangram dev
-
-
-intuition vs data
-- data as lamppost
-- pure intuition
-- usecase in content creation and product management
-- dbt guys essay on data
-- ego, superego, id
+- SDKs over APIs
+	- temporal
+	- unleash https://github.com/Unleash/unleash
+	- tangram dev
+- intuition vs data
+	- data as lamppost
+	- pure intuition
+	- usecase in content creation and product management
+	- dbt guys essay on data
+	- ego, superego, id
 
 
 blogpost genres
@@ -86,47 +59,61 @@ blogpost genres
 - ?? the adamwathan post
 
 
-
-what 5 algorithms rule our lives?
+### what 5 algorithms rule our lives?
 - Recommendations
 	- youtube https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/
 	- tiktok/FYP
-- Ranking
+	- spotify collaborative filtering?
+	- tinder/dating
+- Ranking/Search
 	- pagerank
-- Search
 	- fuzzy search
 	- "most relevant"
 - TCP/IP
-- RSA algorithm? Diffie hellman
+- RSA algorithm? Diffie hellman. ECDSA. id collisions - the thing that killed SHA-1 collision
 - Ad DSP algorithms
 	- https://www.snowflake.com/podcast/bill-michels/
 
+### Content basics
+- wardley map for content
+	- x axis - longform -> shorter -> short
+		- 10 hr book -> 3-6hr workshop -> 30-60min podcast/talk -> 5-10min video/blogpost -> 2min tweet -> 30-60sec short -> 5-10sec clip -> 3 second tweet -> 1 second soundbite
+			- inspo - kevin systrom on formats https://www.youtube.com/watch?v=3pvpNKUPbIY 55mins in
+	- y axis - specificity? going from general audience to extremely niche
+	- 
+high leverage forms of learning in public
+- landscape
+	- https://pinver.medium.com/decoding-the-no-code-low-code-startup-universe-and-its-players-4b5e0221d58b
+	- jamstack landscape
+	- ranking https://a16z.com/marketplace-100/
+- anthropology
+	- librarian post from ness albs
+- checklist
+	- checklist.video
+- top X
+	- top 5 - craigkerstens jasoncwarner top 5 posts
+	- top 7 - 7 habits
+	- top 13 - paul graham
+	- top 30 before 30
+- trendspotting
+- name a law
+- 2x2
+- pyramid
+- RACECAR process
+- ...
+- related 
+	- https://blackboxofpm.com/applying-leverage-as-a-product-manager-ffad4a99db24
 
-authz as a service
-- https://news.ycombinator.com/item?id=28543457
-
-
-the great unzippening of society
-- https://twitter.com/G_S_Bhogal/status/905487144160038912
-- https://twitter.com/pewinternet/status/1446662209975853062?s=21
-
-
-
-what i've learned so far about databases
-- https://medium.com/runacapital/open-source-analysis-and-os-databases-1eb1fe840719
-- seldo's presentation
-- OLAP/OLTP from sedaily
-- importance of "database api's" or serverless databases
-- percona pod
-- dedicated db's - elasticsearch, clickhouse, sentry/honeycomb/datadog
-	- uber logging with clickhouse - problems with ES https://eng.uber.com/logging/
-	- expensive 
-- rachelbythebay blog about the bad db that she wrote
-- aggregations are hard
-- mysql vs pg https://eng.uber.com/postgres-to-mysql-migration/ and pg write replication
-- sam lambert on
-- https://dbdb.io/
-- sqlite is amazing https://blog.wesleyac.com/posts/consider-sqlite
+two a week
+- https://unemployable.com/podcast/intersectional-positioning/ two long form articles a week
+Basic content portfolio
+- for backlinks
+	- state of X
+	- ?
+	- ross simmonds "backlink content"
+	- how X works
+	- why X is underrated
+	- why X is overrated https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/
 
 
 
@@ -141,42 +128,27 @@ examples
 - netlify AND gatsby doing deferred generation
 
 
-
-
-
-
-
-
 how to produce at the short form - derek sivers
 - distilling wisdom into directives
 
 
-centralization is a fundamental human desire
-- trendy to say you want decentralized money, decentralize governance, decentralized stripe, youtube, netlify
-- geopolitics
-	- chinese, japanese unification
-	- european unification
-	- african decentralization
-- fiction
-	- dune
-	- star wars
-	- universal government
-	- storytelling convenience
-	- TV https://www.washingtonpost.com/news/morning-mix/wp/2018/02/28/106-million-people-watched-mash-finale-35-years-ago-no-scripted-show-has-come-close-since/
-	- Universities - hollow out the middle
-	- medium size newspapers
-- one stop shop
-- https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/
+- centralization is a fundamental human desire
+	- trendy to say you want decentralized money, decentralize governance, decentralized stripe, youtube, netlify
+	- geopolitics
+		- chinese, japanese unification
+		- european unification
+		- african decentralization
+	- fiction
+		- dune
+		- star wars
+		- universal government
+		- storytelling convenience
+		- TV https://www.washingtonpost.com/news/morning-mix/wp/2018/02/28/106-million-people-watched-mash-finale-35-years-ago-no-scripted-show-has-come-close-since/
+		- Universities - hollow out the middle
+		- medium size newspapers
+	- one stop shop
+	- https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/
 
-
-
-
-companies with media companies
-- cloudflare tv
-- robinhood snacks
-- hubspot - the hustle
-- GCP - head of content
-- https://blog.coinbase.com/announcing-coinbase-fact-check-decentralizing-truth-in-the-age-of-misinformation-757d2392d61a
 
 more devrel questions from redpoint
 - https://docs.google.com/document/d/1tGKRkqUvNSjQfS7WdMzzfCgWNEIPHBes6oMhyv_6i24/edit
@@ -297,30 +269,25 @@ The 4 eras of creator economy
 ## creator career ladder
 
 
+level 1 community and content
+- community as postmodern content creator
+- level 2 - paid
 
-## devrel, dev evangelism
-https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-advocate/
 
 
 ## money questions
 https://docs.google.com/document/d/1awNSnaOH1-eQ-SU0BcyDDmBsDWOGikT1iyAgH7o-HNA/edit
 
 
-level 1 community and content
-- community as postmodern content creator
-- level 2 - paid
-
 the money is in real estate, the wealth is in retail
 
-# developer content trade school
-- art of software gets less traction
-- than how to React in 2021
-- The fundamental problem of developer content creation: "How to do React in 2021" gets 100x more views than "How to write software so you can maintain it for 10 years".
-- The fundamental solution? write one paper with main thesis and then apply it a billion times
+### wrap blogposts
+- parse not validate
+- wrap james clear 3 ring identity thing
+- wrap turning database https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/
 
-# wrap parse not validate blogpost
 
-# complexity inside
+### complexity inside
 - simplicity inside complexity outside
 - dan abramov argument about complexity
 - cost of complexity - 
@@ -338,11 +305,14 @@ the money is in real estate, the wealth is in retail
 unreasonable effectiveness of virtualizing everything
 - [](https://overcast.fm/+LX7hrxlnM)
 
-# stages of software engineering
-# general theory of software systems
-# software from first principles
+
+### software from first principles
+stages of software engineering
+general theory of software systems
+
+
 https://twitter.com/heyjulesfern/status/1487532312900222976?s=21
-[](https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
+https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf
 - proof of concept and intermingled
 - prototypical piece of software is a script
 - then you have function - input, output
@@ -418,14 +388,6 @@ check - esbuild architecture
 	- cannot add metadata
 
 
-1. How do you measure success?
-2. How hard is it to go back to full time engineering?
-3. How do you choose what to work on? (blogging, internal evangelism, conferences, demos)
-4. How important is experience with the technology you’re evangelizing?
-5. What do you look for when choosing a role?
-6. Why would someone consider DevRel over engineering?
-
-
 
 # accessibly smarts
 OR strategically gnorant
@@ -440,21 +402,14 @@ the strictness spectrum - strength of types
 - autogenerated
 - strong monads
 
-https://twitter.com/threepointone/status/1420425594135793673?s=20
 
-angel investing notes
-- https://twitter.com/maiab/status/1384173832429129734?s=20
-- don't identify as an angel
-- https://twitter.com/cdixon/status/1420178232339533825?s=20
+- business logic should live inside components.
+	- https://twitter.com/threepointone/status/1420425594135793673?s=20
 
-how i clip audio
-- respond to https://twitter.com/aravindballa/status/1398329240173514752?s=20
+
 
 time blocking
 - answer basb
-
-Language with the infrastructure in
-- https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html
 
 usage based billing 
 - https://www.plangraph.io/
@@ -474,10 +429,6 @@ quotes on moving for startup speed
 - https://twitter.com/petegilligan/status/1393361203485892610?s=20
 - quote patrick colison
 
-wrap james clear 3 ring identity thing
-
-wrap turning database https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/
-
 4 types of time horizons
 - day/month
 - quarter/year
@@ -490,60 +441,6 @@ ecommerce
 
 pictures wont solve your culture problems
 
-if you want to get good at marketing, get good at events
-
-high leverage forms of learning in public
-- landscape
-	- https://pinver.medium.com/decoding-the-no-code-low-code-startup-universe-and-its-players-4b5e0221d58b
-	- jamstack landscape
-	- ranking https://a16z.com/marketplace-100/
-- anthropology
-	- librarian post from ness albs
-- checklist
-	- checklist.video
-- top X
-	- top 5 - craigkerstens jasoncwarner top 5 posts
-	- top 7 - 7 habits
-	- top 13 - paul graham
-	- top 30 before 30
-- trendspotting
-- name a law
-- 2x2
-- pyramid
-- RACECAR process
-- ...
-- related 
-	- https://blackboxofpm.com/applying-leverage-as-a-product-manager-ffad4a99db24
-	- 
-
-jobs that dont exist https://twitter.com/adayeoyh/status/1364399770886754307?s=21
-
-how to ask better questions
-https://twitter.com/sabrinatjeng/status/1353645258039382018?s=21
-
-rich dad chapter 7 overcoming obstacles - 5 great habits
-
-Tech Ethics
-Designing for Crisis https://meyerweb.com/eric/thoughts/2016/01/25/designing-for-crisis-design-for-real-life/ 
-If we believe that technology is powerful, then we must also believe that the people who wield it have a responsibility for that power. The medical industry has the Hippocratic Oath, commonly interpreted as “First do no harm”. The closest version we have is “the Computer Lib Pledge” articulated by Ted Nelson in 1974:
-https://ethicalos.org/
-Deontology vs Utilitarianism
-Deontology: the morality of an action should be based on whether that action itself is right or wrong under a series of rules, rather than based on the consequences of the action.
-Consequentialism: the consequences of one's conduct are the ultimate basis for any judgment about the rightness or wrongness of that conduct.
-Preaching ethics to others
-Social Dilemma: https://en.wikipedia.org/wiki/The_Social_Dilemma
-Tethics: https://www.youtube.com/watch?v=nfRUQh_EHoQ
-“I’m as proud of what we don’t do as I am of what we do.” - Steve Jobs
-https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/ 
-
-basb capture habit
-- overhead of capture - 0% overhead is no capture, middling retention
-
-evolution of rahul vohra https://youtu.be/mejtFRg7I5k
-
-samparr email growth 5min https://overcast.fm/+kdFbxEgXk
-
-shitty mvp https://twitter.com/shaanvp/status/1392238199091523586?s=21 writing course
 
 
 frontend finally investible?
@@ -556,6 +453,34 @@ frontend finally investible?
 - gatsby
 - chroma/storybook
 - excalidraw https://twitter.com/steveruizok/status/1468630454601408518
+
+
+jobs that dont exist https://twitter.com/adayeoyh/status/1364399770886754307?s=21
+
+how to ask better questions
+https://twitter.com/sabrinatjeng/status/1353645258039382018?s=21
+
+rich dad chapter 7 overcoming obstacles - 5 great habits
+
+Tech Ethics
+- Designing for Crisis https://meyerweb.com/eric/thoughts/2016/01/25/designing-for-crisis-design-for-real-life/ 
+- If we believe that technology is powerful, then we must also believe that the people who wield it have a responsibility for that power. The medical industry has the Hippocratic Oath, commonly interpreted as “First do no harm”. The closest version we have is “the Computer Lib Pledge” articulated by Ted Nelson in 1974:
+- https://ethicalos.org/
+- Deontology vs Utilitarianism
+- Deontology: the morality of an action should be based on whether that action itself is right or wrong under a series of rules, rather than based on the consequences of the action.
+- Consequentialism: the consequences of one's conduct are the ultimate basis for any judgment about the rightness or wrongness of that conduct.
+- Preaching ethics to others
+- Social Dilemma: https://en.wikipedia.org/wiki/The_Social_Dilemma
+- Tethics: https://www.youtube.com/watch?v=nfRUQh_EHoQ
+- “I’m as proud of what we don’t do as I am of what we do.” - Steve Jobs
+- https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/ 
+
+- basb capture habit
+	- overhead of capture - 0% overhead is no capture, middling retention
+- evolution of rahul vohra https://youtu.be/mejtFRg7I5k
+- samparr email growth 5min https://overcast.fm/+kdFbxEgXk
+- shitty mvp https://twitter.com/shaanvp/status/1392238199091523586?s=21 writing course
+
 
 
 relationships vs transactions https://m.youtube.com/watch?v=-Dot-Uf1dkE
@@ -591,21 +516,13 @@ opinions on blogging
 	- index/top is a workaround for sidebar
 
 
-startup investing framework
-- https://twitter.com/eriktorenberg/status/1243820695047421953?s=20
-- market creation startups
-- underutilized assets
-- found money startups
-- network effects
-- more: create TAM not capture TAM
 
-
-two a week
-- https://unemployable.com/podcast/intersectional-positioning/ two long form articles a week
 
 
 technology fundamentalism
-- Innovations in social scalability involve institutional and technological improvements that move function from mind to paper or mind to machine, lowering cognitive costs while increasing the value of information flowing between minds, reducing vulnerability, and/or searching for and discovering new and mutually beneficial participants. Alfred North Whitehead said, “It is a profoundly erroneous truism, repeated by all copy-books and by eminent people when they are making speeches, that we should cultivate the habit of thinking what we are doing. The precise opposite is the case. Civilization advances by extending the number of important operations which we can perform without thinking about them.” Friedrich Hayek added: “We make constant use of formulas, symbols, and rules whose meaning we do not understand and through the use of which we avail ourselves of the assistance of knowledge which individually we do not possess. We have developed these practices and institutions by building upon habits and institutions which have proved successful in their own sphere and which have in turn become the foundation of the civilization we have built up.”
+- Innovations in social scalability involve institutional and technological improvements that move function from mind to paper or mind to machine, lowering cognitive costs while increasing the value of information flowing between minds, reducing vulnerability, and/or searching for and discovering new and mutually beneficial participants. 
+- Alfred North Whitehead said, “It is a profoundly erroneous truism, repeated by all copy-books and by eminent people when they are making speeches, that we should cultivate the habit of thinking what we are doing. The precise opposite is the case. Civilization advances by extending the number of important operations which we can perform without thinking about them.” 
+- Friedrich Hayek added: “We make constant use of formulas, symbols, and rules whose meaning we do not understand and through the use of which we avail ourselves of the assistance of knowledge which individually we do not possess. We have developed these practices and institutions by building upon habits and institutions which have proved successful in their own sphere and which have in turn become the foundation of the civilization we have built up.”
 
 how to win friends and influence people online
 https://wearegoodpeople.co/how-be-a-good-friend/
@@ -615,10 +532,6 @@ blogging growth tricks:
 - threaded blog https://twitter.com/packyM/status/1297663914822557696?s=20
 - blog about a hot company
 - blog about a nostalgic product
-
-building infrastructure 
-you cant build half a road. must be more careful
-
 
 
 Basic content portfolio
@@ -631,37 +544,28 @@ Basic content portfolio
 	- why X is overrated https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/
 
 
-features not benefits marketing
-- 15 mins rails demo
-- react fail and success
-- 
-
-remove buttons
-- iphone no keyboard
-- apple remote vs old tv remote
-- tesla va normal car
-- constraint is key - normally you want to re expand to the full spreadsheet, but tinder swipe is just yes/no
-
-the joy of being strategically ignorant
-- not surprise
+- features not benefits marketing
+	- 15 mins rails demo
+	- react fail and success
+	- my tweet
+- remove buttons
+	- iphone no keyboard
+	- apple remote vs old tv remote
+	- tesla va normal car
+	- constraint is key - normally you want to re expand to the full spreadsheet, but tinder swipe is just yes/no
+- the joy of being strategically ignorant
+	- not surprise
 
 life in high definition
 - time blocking
 - reviewing over consuming
 
-Community as Scenius and Schelling Points
-community as marketplace https://www.heavybit.com/library/podcasts/developer-love/ep-15-learning-in-public-with-shawn-swyx-wang/
-
-the platform pivot
-https://techcrunch.com/2021/03/22/zoom-introduces-new-sdk-to-help-developers-tap-into-video-services/
 
 rejections
 - Who's got a good rejection story?
 https://web.eecs.utk.edu/~azh/blog/allmyrejections.html
 - https://twitter.com/patio11/status/588082801288749056?s=20
 
-pr issue template 
- https://github.com/temporalio/.github
 
 simplicity canon
 - https://boz.com/articles/failure-theory
@@ -683,14 +587,10 @@ https://twitter.com/NoeleFlowers/status/1364609907731881985?s=20
 
 
 
-strategy pivots
-- intel from memory
-- loudcloud
-- zillow housing
-- netflix
-
 
 ## strategy moonshots
+
+## Combinatorial Optionality
 
 A book Jeff had us read, one which he said should serve as an inspiration for how we'd design AWS, was Creation: Life and How to Make It by Steve Grand. It's a book about programming artificial life, but the core principle that Jeff wanted us to take from it was the idea that complex things like life forms are built from very simple building blocks or primitives. It's the same thesis as that in Stephen Wolfram's A New Kind of Science.
 
@@ -698,17 +598,6 @@ The key implication for AWS from the book was about how to design the first AWS 
 
 The reason to design your primitives with the utmost elegance is to maximize combinatorial optionality.
 
-
-
-## mental models
-https://www.google.com/url?q=https://medium.com/%40yegg/mental-models-i-find-repeatedly-useful-936f1cc405d&sa=U&ved=2ahUKEwigo6iXlvfpAhVZHc0KHUgYDc0QFjAAegQIChAB&usg=AOvVaw044z4ms1AZb5Be37lBQWPw
-
-https://www.google.com/url?q=https://www.amazon.com/Super-Thinking-Book-Mental-Models-ebook/dp/B07P8J83WR&sa=U&ved=2ahUKEwigo6iXlvfpAhVZHc0KHUgYDc0QFjACegQIDBAB&usg=AOvVaw2VuwuClwWENeRom_tJTWiH
-
-
-https://twitter.com/g_s_bhogal/status/1492255231169679365?s=21
-
-https://twitter.com/seldo/status/1486563446099300359?s=20&t=kE8BLv6rnoeTIl3Pm41GVg
 
 ## wastebin
 who is in charge of developer experience? (at a developer focused platform company)
@@ -721,4 +610,13 @@ Its easier to make an open source tool/integration than to fix the product
 too many bandaids and you have Tech Mummification
 When does skunkworks become subversion/confusion
 
+postmortem on the nft collapse of 2022
+- people talking more can than doing
+- governance is a mess
+- hiten “we’re in the facebook apps phase”
+- residual income causes hurdles
+- l1 contention
+- wayback machine
 
+pr issue template 
+ https://github.com/temporalio/.github

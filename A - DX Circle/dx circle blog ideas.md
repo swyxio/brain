@@ -7,6 +7,40 @@ hiring first devrel
 
 docs as part of dx
 
+### devrel, dev evangelism
+https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-advocate/
+
+
+1. How do you measure success?
+2. How hard is it to go back to full time engineering?
+3. How do you choose what to work on? (blogging, internal evangelism, conferences, demos)
+4. How important is experience with the technology you’re evangelizing?
+5. What do you look for when choosing a role?
+6. Why would someone consider DevRel over engineering?
+
+
+
+### developer content trade school
+- art of software gets less traction
+- than how to React in 2021
+- The fundamental problem of developer content creation: "How to do React in 2021" gets 100x more views than "How to write software so you can maintain it for 10 years".
+- The fundamental solution? write one paper with main thesis and then apply it a billion times
+
+
+### Build vs Buy Media Companies?
+
+SaaS companies with media companies
+- cloudflare tv
+- robinhood snacks
+- stripe buy indiehackers
+- insight partners bought the new stack
+- a16z and future
+- hubspot - the hustle
+- GCP - head of content
+- https://blog.coinbase.com/announcing-coinbase-fact-check-decentralizing-truth-in-the-age-of-misinformation-757d2392d61a
+- https://news.ycombinator.com/item?id=30684594
+	- DO vs linode strategy
+
 
 
 ### a modest proposal for developer experience
@@ -26,6 +60,17 @@ lace everything with cocaine
 - https://skamille.medium.com/product-for-internal-platforms-9205c3a08142
 	- But the platform team doesn’t build solutions for only one user. The whole value of a platform team is providing broadly-useful systems, so we are rarely presented with a well-specified need to fill.
 	-  In a perfect world, platform product managers are regularly using the products they support in order to identify pain points and gaps that engineers might miss and users may not complain about. In the real world it’s hard to find time to use your products in anger when you are also dealing with all the other parts of the PM job.
+
+the authz as a service market
+- https://news.ycombinator.com/item?id=28543457
+
+
+the platform pivot
+https://techcrunch.com/2021/03/22/zoom-introduces-new-sdk-to-help-developers-tap-into-video-services/
+
+
+- the completeness requirement in building infrastructure 
+	- you cant build half a road. must be more careful
 
 ## platform engineering
 - https://twitter.com/lizthegrey/status/1491525337095696390?s=20&t=HiQY9TPqFxPCwMVX1tshtg

@@ -1,11 +1,5 @@
 > followups and extra resources on blogposts i have already published
 
-## Naming things
-
-- https://www.ribbonfarm.com/2012/02/02/how-to-name-things/
-- https://en.wikipedia.org/wiki/PGP_word_list
-- https://github.com/usmanbashir/haikunator
-
 ## Learn in Public List
 
 - Christina Gorton
@@ -27,7 +21,3 @@ jokes
  gimmick 
 
 Ui design for devs https://designcode.io/ui-design-for-developers
-
-## particle wave duality
-
-sonal choksi on ih podcast - stock and flow concept toward the end 

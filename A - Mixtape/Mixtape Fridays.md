@@ -8,14 +8,11 @@ conan live https://overcast.fm/+zneb7lxko 1h33mins
 
 unchained melody https://youtu.be/GrHfWKeTDEI
 
-Delilah https://youtu.be/CBNTZskKFUI
-
 
 pink what about us https://youtu.be/DBbOGtpAUHA
 
 boyce ave https://www.youtube.com/watch?v=Sv8XHiTkDYg
 
-duel of the fates https://twitter.com/obiwankenobi/status/1501630732619423744
 
 Jeremy Jordan https://youtu.be/08AGzOmCk-s story
 

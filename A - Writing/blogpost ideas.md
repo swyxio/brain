@@ -1,5 +1,9 @@
 # blogpost ideas
 
+anyway the main point is that a few notable metaframeworks have started placing bets for a framework agnostic future. wont be an earnest reality until the preceding few points also become unbundled.
+
+
+
 - tenth doctor beliefs in tech
 	- no code review
 	- git submodules

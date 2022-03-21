@@ -31,6 +31,10 @@ NYC - ben schachter vantage
 
 ## Talks and podcasts
 
+
+
+some livestrwam i did on RSCs https://youtu.be/qIPWzRvPSxk
+
 the muse podcast - not up yet
 
 https://www.serverlesschats.com/124/

@@ -86,6 +86,7 @@ https://nathanbarry.com/059-samir-chaudry-youtube-launch-creator-enterprise/ fin
 - 10mins in https://overcast.fm/+NBVu0QSxE between two ferns wedge
 - https://overcast.fm/+borYDCiBY 16 mins editing zach king  1h 5mins spiderweb and clickthru rate
 https://overcast.fm/+NBVvT7qiY youtube deep bench, quantity to get quality 20mins ish
+- 1.3m a month nas daily https://overcast.fm/+borYakbl8
 
 ## audience building
 

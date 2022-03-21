@@ -25,6 +25,8 @@ Apr 24-May 6 SF (quinn/beyang, alok n)
 Jun 7-15 Lisbon
 Jun 15-20? Amsterdam
 
+aug-sep cascadia and infoshare
+
 ### city todos
 
 NYC - ben schachter vantage

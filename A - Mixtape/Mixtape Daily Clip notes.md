@@ -13,6 +13,12 @@ open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
 
 andrew wilkinson hiring https://overcast.fm/+rTsXqf8r4 34 mins
 
+## ramp week
+
+https://overcast.fm/+hTZcSfoq0 ramp packy
+
+
+
 
 ## general dump
 

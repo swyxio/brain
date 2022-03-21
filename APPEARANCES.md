@@ -21,7 +21,7 @@ Apr 1-9 Austin
 Apr 9-17 open (echisa, jcoop, alokn, samecrowder, alexbowe SF)
 Apr 17-24 Miami (albion)
 Apr 24-May 6 SF (quinn/beyang, alok n)
-**May 6-Jun 6 open**
+**May 6-Jun 1 open**
 Jun 7-15 Lisbon
 Jun 15-20? Amsterdam
 

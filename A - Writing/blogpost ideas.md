@@ -43,6 +43,11 @@ anyway the main point is that a few notable metaframeworks have started placing 
 	- lighthouse - https://twitter.com/swyx/status/1463367392612913153?s=20&t=YC9P_av3n-Kc0ovfp3Xogg
 
 - 12 factor heroku thing is example of first principles
+- what makes UI programming hard
+	- infinite lists
+	- search in page https://twitter.com/cramforce/status/1504539803336929282
+	- ssr/performance
+	- responsiveness
 
 how to learn faster https://overcast.fm/+ncIIQ58ck
 

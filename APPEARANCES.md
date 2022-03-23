@@ -13,7 +13,7 @@ jun 16 jsnation ams
 jun 25 cityjs singapore
 aug 26 temporalcon
 aug 29-sep5 cascadiajs bend OR
-oct 6-7 infoshare 2022
+oct 6-7 infoshare 2022 gdansk
 nov lagos? jan?
 dec allscope
 

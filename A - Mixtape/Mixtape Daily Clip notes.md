@@ -1,17 +1,6 @@
 ## mixtape normal
 
-apple spring event https://overcast.fm/+XcSvjvbB8
 
-4 stages if the ownership economy https://overcast.fm/+YNeSoJsXs 36mins
-
-k8s documentary https://overcast.fm/+B1yJZf4lw 7mins
-
-https://overcast.fm/+B1yJwoLjo 15ish mins origin of mailgun
-
-open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
-
-
-andrew wilkinson hiring https://overcast.fm/+rTsXqf8r4 34 mins
 
 ## ramp week
 
@@ -19,13 +8,17 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 
 
 
-
 ## general dump
+
+https://overcast.fm/+B1yJwoLjo 15ish mins origin of mailgun
+
+open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
+
+andrew wilkinson hiring https://overcast.fm/+rTsXqf8r4 34 mins
 
 https://overcast.fm/+IOVdeY 15 mins william hung
 
 https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
-
 
 https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 
@@ -35,9 +28,7 @@ https://overcast.fm/+a0BqUPDr0 danco
 - tech strategy summary about 30 mins in
 - investing spectrum about 1h in
 
-
 https://overcast.fm/+OOu8ERt88 community led growth
-
 
 https://overcast.fm/+maz1Gg lin manuel story
 
@@ -77,12 +68,11 @@ harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
 
 architect https://overcast.fm/+t_0YIS73o 
 
-
 https://overcast.fm/+3D5Lzp4uM origin of excel 8mins
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 
-https://overcast.fm/+H1YO2iNcc https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
+https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
 
 ## youtuber
 
@@ -96,9 +86,7 @@ https://overcast.fm/+NBVvT7qiY youtube deep bench, quantity to get quality 20min
 
 ## audience building
 
-
 https://overcast.fm/+BlzFmmbag 7 mins cold start
-
 
 https://overcast.fm/+L7tg4SiaI dont build media companies 9mins
 
@@ -140,11 +128,6 @@ live longer 1:57 mins https://overcast.fm/+eZyDf2uBs
 exercise for life https://youtu.be/92kYDVjX0G0
 
 ## Product
-
-https://corecursive.com/063-apple-2001/ 
-18 mins shipping ipod
-29 mins tech debt quit story
-45 mins knowing the stack
 
 https://overcast.fm/+HZUeNoxeQ 30 mins biz model of open source
 
@@ -202,6 +185,13 @@ https://overcast.fm/+Vqtciqzoo 43ish mins what is web3
 - https://overcast.fm/+rTsUkMHLE 40 mins mimetic desire
 - https://overcast.fm/+b1V2u0abg 40 mins university advice
 - https://overcast.fm/+SustHMll0 11 mins how turkey living with hyperinflation
+- https://corecursive.com/063-apple-2001/ 
+	- 18 mins shipping ipod
+	- 29 mins tech debt quit story
+	- 45 mins knowing the stack
+- 4 stages if the ownership economy https://overcast.fm/+YNeSoJsXs 36mins
+- k8s documentary https://overcast.fm/+B1yJZf4lw 7mins
+
 
 
 

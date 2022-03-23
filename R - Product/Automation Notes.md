@@ -61,6 +61,10 @@ https://simonwillison.net/2022/Mar/14/shot-scraper-template/
 
 - [Build a Whatsapp bot](https://repl.it/talk/challenge/Build-a-WhatsApp-bot-in-30-minutes/7673)
 
+### instagram
+
+- GENIUS https://medium.com/@chrisbuetti/how-i-eat-for-free-in-nyc-using-python-automation-artificial-intelligence-and-instagram-a5ed8a1e2a10
+
 ### tiktok 
 
 - [Tiktok Scraper](https://dev.to/id1/tiktok-scraper-25a9)

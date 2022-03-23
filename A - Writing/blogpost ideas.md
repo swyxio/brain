@@ -3,7 +3,8 @@
 anyway the main point is that a few notable metaframeworks have started placing bets for a framework agnostic future. wont be an earnest reality until the preceding few points also become unbundled.
 
 
-
+- problems with the secondary problem
+	- https://twitter.com/benskuhn/status/1506627296903503881?s=20&t=G5iweJAfKt0tBqLxgOa29w
 - tenth doctor beliefs in tech
 	- no code review
 	- git submodules

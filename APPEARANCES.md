@@ -35,7 +35,7 @@ NYC - ben schachter vantage
 
 ## Talks and podcasts
 
-
+livestream with hasura
 
 some livestrwam i did on RSCs https://youtu.be/qIPWzRvPSxk
 

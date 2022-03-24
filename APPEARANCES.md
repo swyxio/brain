@@ -5,6 +5,7 @@ apr 9-17 ??
 apr 18-19 react miami
 apr 20-21 atomic FFS
 apr 24 sf
+apr 26/27 benghamine din
 apr 28 alana din
 may 2-5 reactathon - may 4 3.35pm
 jun 2-3 gergely hodicska - craft-conf.com
@@ -13,6 +14,7 @@ jun 16 jsnation ams
 jun 25 cityjs singapore
 aug 26 temporalcon
 aug 29-sep5 cascadiajs bend OR
+sep 19-20 zadar infobip
 oct 6-7 infoshare 2022 gdansk
 nov lagos? jan?
 dec allscope

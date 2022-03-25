@@ -1,14 +1,15 @@
 ## speaking
 
-apr 4-8 temporal?
-apr 9-17 ??
+apr 4-8 temporal allhands
+apr 9-17 nyc temporal dinner/meetup?
 apr 18-19 react miami
-apr 20-21 atomic FFS
 apr 24 sf
+**apr 25 sf temporal dinner/meetup?**
 apr 26/27 benghamine din
 apr 28 alana din
+**apr 29-30? sf temporal dinner/meetup?**
 may 2-5 reactathon - may 4 3.35pm
-jun 2-3 gergely hodicska - craft-conf.com
+jun 2-3 craft-conf.com budapest - gergely hodicska
 jun 7 jnation port -> https://www.flatio.com/
 jun 16 jsnation ams
 jun 25 cityjs singapore

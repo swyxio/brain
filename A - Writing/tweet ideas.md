@@ -8,6 +8,11 @@ list of bad ideas
 
 
 
+cytogenesis in tech
+- shift left
+- the pots parable
+- https://en.m.wikipedia.org/wiki/Circular_reporting
+
 bungled ideas
 - vine vs tiktok https://twitter.com/AlecStapp/status/1477456895728230404
 - Zoom vs skype

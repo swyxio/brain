@@ -36,11 +36,13 @@ NYC - ben schachter vantage
 
 ## Talks and podcasts
 
+rtfeldman https://www.listennotes.com/podcasts/software-unscripted/crossing-the-chasm-1-dDJwWER37/
+
 livestream with hasura
 
 some livestrwam i did on RSCs https://youtu.be/qIPWzRvPSxk
 
-the muse podcast - not up yet
+the muse podcast - https://podcast-preview--muse-website.netlify.app/podcast/53-career/
 
 https://www.serverlesschats.com/124/
 

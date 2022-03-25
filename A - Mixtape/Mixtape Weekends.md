@@ -1,6 +1,11 @@
 > longform/swyx content to resyndicate  on weekends
 
 
+rtfeldman https://www.listennotes.com/podcasts/software-unscripted/crossing-the-chasm-1-dDJwWER37/ 
+ 
+ 
+ metamuse https://podcast-preview--muse-website.netlify.app/podcast/53-career/
+
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
 
 drew dillon of burb https://youtu.be/JJV3NVcBkfA

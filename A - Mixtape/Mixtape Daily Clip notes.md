@@ -58,8 +58,6 @@ https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda a
 
 3mins browser user agent https://overcast.fm/+LfVNDuulU
 
-graphql origin story https://overcast.fm/+m5EBcAO-o
-
 birth of the internet https://overcast.fm/+Fd_qCtBD8 10mins
 
 https://overcast.fm/+MZ3SQEwtw 15 mins origin story of hashicorp consul

@@ -35,5 +35,7 @@
   "livePreview": true,
   "spellcheckDictionary": [
     "observability"
-  ]
+  ],
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current"
 }

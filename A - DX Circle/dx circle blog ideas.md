@@ -26,6 +26,13 @@ https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-adv
 - The fundamental problem of developer content creation: "How to do React in 2021" gets 100x more views than "How to write software so you can maintain it for 10 years".
 - The fundamental solution? write one paper with main thesis and then apply it a billion times
 - https://twitter.com/timsoulo/status/1506405833965408257?s=21
+- things you can try
+	- build demo app
+		- jamie from convex - "look at us get a thing done"
+		- generate blogpost
+			- "how we mapped game state"
+			- X without Y category
+		- 
 
 
 ### Build vs Buy Media Companies?

@@ -4,7 +4,6 @@ matthew dicks 20 mins https://overcast.fm/+kfErcA
 
 fight club https://www.youtube.com/watch?v=GiOuUP9z7l4&list=WL&index=2
 
-
 anne marie https://youtu.be/u3ePPA0yzSU
 
 conan live https://overcast.fm/+zneb7lxko 1h33mins
@@ -13,13 +12,9 @@ unchained melody https://youtu.be/GrHfWKeTDEI
 
 moana https://youtu.be/Bum4936KgOo
 
-
 pink what about us https://youtu.be/DBbOGtpAUHA
 
 boyce ave https://www.youtube.com/watch?v=Sv8XHiTkDYg
-
-
-Jeremy Jordan https://youtu.be/08AGzOmCk-s story
 
 story swimming https://overcast.fm/+lXsYeE 35 mins
 

@@ -91,6 +91,8 @@ instead of “hows it going” - “you look happy what were you doing before th
 
 instwad of “what do you do on weekends” - “whats an ideal friday night or sunday morning” https://overcast.fm/+rTsWu_yOc 3min 30s
 
+https://twitter.com/helloshreyas/status/1507219196781871113?s=21
+
 ## metaquestions
 
 two part metaquestion

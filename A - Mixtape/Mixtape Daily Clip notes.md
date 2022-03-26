@@ -119,6 +119,8 @@ https://overcast.fm/+b1V3EeycY deep work 6:30mins
 
 https://overcast.fm/+b1V00pzUU capture configure control
 
+https://overcast.fm/+b1V16Bf_I baby steps
+
 ## health 
 
 live longer 1:57 mins https://overcast.fm/+eZyDf2uBs

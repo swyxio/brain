@@ -17,12 +17,12 @@ The reason this matters is that all software is not created equal. Choosing to w
 
 ## Code-specific Leverage
 - automation - [systems leverage](https://rockstarfinance.com/six-types-of-leverage)
-	- cronbots/job runners/workflows
+	- cronjobs/job runners/workflows
 	- infra tool/internal platform
 	- human in the loop/shlep
 	- even calculations are automation
 	- user definable automation
-- distribution -> compute on user machines?
+- **distribution -> compute on user machines?**
 - programmatic generation -> zapier seo story, gpt3
 - targeted PLG investment -> referral bonuses
 - personalized recommendations

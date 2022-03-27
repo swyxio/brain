@@ -162,7 +162,7 @@ https://overcast.fm/+Vqtciqzoo 43ish mins what is web3
 
 6529 https://overcast.fm/+nRGzZ7yqs
 
-
+airdrop https://overcast.fm/+YNeRIK5jg 56mins - backwards causation
 
 # deadpool
 

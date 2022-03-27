@@ -3,6 +3,13 @@
 
 hiring first devrel
 
+## meaningless taglines
+
+Ambassador Labs (formerly Datawire), the cloud native developer experience leader, enables developers to code, ship, and run applications faster and easier than ever.
+
+
+https://www.magidandco.com/blog/the-two-sentence-description
+
 ### dx from first principles
 
 docs as part of dx

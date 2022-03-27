@@ -1,4 +1,6 @@
 
+https://review.firstround.com/80-of-Your-Culture-is-Your-Founder
+
 ## effective culture
 
 https://twitter.com/danluu/status/1493963774478348291?s=21

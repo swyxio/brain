@@ -8,6 +8,8 @@ calendly pain point - no way to invite preapproved list of attendees - solved by
 mailchimp pain point - 2fa code not received no fallback
 
 
+converkit compliment - image callout in app https://overcast.fm/+YQ47yN0n8 neville medhora
+
 https://overcast.fm/+VbWAKb_YQ 25mins custom newsletter stack
 
 

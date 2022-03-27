@@ -39,7 +39,7 @@ https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-adv
 		- generate blogpost
 			- "how we mapped game state"
 			- X without Y category
-		- 
+- 
 
 
 ### Build vs Buy Media Companies?
@@ -186,3 +186,9 @@ todolists reinforce the identity that you don't get things done
 
 leverage for devrel
 - https://www.aakashg.com/2022/02/01/lno-framework-for-product-managers/
+
+
+## good devtool videos
+
+product launch
+- https://twitter.com/steventey/status/1507051312696811535

@@ -9,6 +9,7 @@ apr 26/27 benghamine din
 apr 28 alana din
 **apr 29-30? sf temporal dinner/meetup?**
 may 2-5 reactathon - may 4 3.35pm
+may 4 - acquiredfm seattle
 jun 2-3 craft-conf.com budapest - gergely hodicska
 jun 7 jnation port -> https://www.flatio.com/
 jun 16 jsnation ams

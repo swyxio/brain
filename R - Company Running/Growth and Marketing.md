@@ -33,6 +33,9 @@ https://www.reforge.com/blog/racecar-growth-framework
 ![[twilio-partner-brand-guidelines.pdf]]
 
 
+## content checklist
+![[Pasted image 20220329010303.png]]
+
 ## marketing
 
 people need to hear about you 12 times

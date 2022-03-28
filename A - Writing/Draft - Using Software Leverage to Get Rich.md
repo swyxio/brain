@@ -24,7 +24,7 @@ The reason this matters is that all software is not created equal. Choosing to w
 	- user definable automation
 - **distribution -> compute on user machines?**
 - programmatic generation -> zapier seo story, gpt3
-- personalization/targeting
+- personalization/targeting j
 	- targeted PLG investment -> referral bonuses
 	- personalized recommendations
 - indirection -> clean abstraction

@@ -76,7 +76,8 @@ jevons paradox and snowflake https://overcast.fm/+B1yJf5_3g f word warning
 
 ## youtuber
 
-https://overcast.fm/+NBVuuQUhM 9mins mr beast
+https://overcast.fm/+XptN-x7II 19 mins steal like an artist backstory
+***https://overcast.fm/+NBVuuQUhM 9mins mr beast***
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 https://nathanbarry.com/059-samir-chaudry-youtube-launch-creator-enterprise/ find format  and be consistent - 54 mins mark and there was a bit about the importance of finding format say at 20mins in
 - 10mins in https://overcast.fm/+NBVu0QSxE between two ferns wedge
@@ -101,7 +102,6 @@ how nate berkopec found his niche https://overcast.fm/+gJ-XO33X4 10mins
 - fight club  https://youtu.be/GiOuUP9z7l4
 - https://www.3books.co/chapters/22 chef vs cook tim urban 1hr mark
 - https://overcast.fm/+YQ473Uv6w rank self publish book on amazon 30 mins
-- https://overcast.fm/+XptN-x7II 19 mins steal like an artist backstory
 - writers block https://youtu.be/Xb_S4kH0WdE
 - idea generator 10mins in https://overcast.fm/+2E1Xs4sx0
 

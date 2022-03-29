@@ -52,21 +52,21 @@ viral on purpose https://overcast.fm/+RWpsctwxM
 
 ebpf https://overcast.fm/+wtIPwx_jA
 
-https://overcast.fm/+fPIQYKa8E async await explanation n25mins
-
-https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda and pip and python 2-3 move
-
 3mins browser user agent https://overcast.fm/+LfVNDuulU
 
 birth of the internet https://overcast.fm/+Fd_qCtBD8 10mins
+
+https://overcast.fm/+fPIQYKa8E async await explanation n25mins
+
+https://overcast.fm/+3D5Lzp4uM origin of excel 8mins
+
+https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda and pip and python 2-3 move
 
 https://overcast.fm/+MZ3SQEwtw 15 mins origin story of hashicorp consul
 
 https://overcast.fm/+TEKFtB2do 15 mins rust rewrite of tor 
 
 harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
-
-https://overcast.fm/+3D5Lzp4uM origin of excel 8mins
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 
@@ -109,7 +109,7 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
 ## Life
 
-- https://overcast.fm/+olfN7lGho 20 mins social butterfly gary vee problems  + 50 mins inteovert strategy
+- https://overcast.fm/+olfN7lGho 20 mins social butterfly gary vee problems  + 50 mins introvert strategy
 - https://youtu.be/oH9sJrAVeC0 Brandon Sanderson  life advice from 14 mins in. Goals, learn how you work, break it down 
 - https://overcast.fm/+b1V1guBD8 23 mins greg mckowen virality vs energy
 - 

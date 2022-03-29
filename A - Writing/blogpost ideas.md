@@ -160,6 +160,7 @@ how to produce at the short form - derek sivers
 		- medium size newspapers
 	- one stop shop
 	- https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/
+- https://twitter.com/QuinnyPig/status/1508593001844510725?s=20&t=TxkjnqXXaE97O2ObyAWNsw
 
 
 more devrel questions from redpoint

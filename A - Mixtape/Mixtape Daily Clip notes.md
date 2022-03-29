@@ -34,6 +34,8 @@ https://overcast.fm/+maz1Gg lin manuel story
 
 https://overcast.fm/+YsrbaSq74 coinbase 1h10mins
 
+space industry 15 mins https://overcast.fm/+a0BromYiY
+
 
 ## small projects
 

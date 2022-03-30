@@ -3,6 +3,13 @@
 
 hiring first devrel
 
+## do you need launch weeks?
+
+- https://airbyte.com/launch-weeks/week-1
+- replay launch week
+- supabase
+- cloudflare
+
 ## meaningless taglines
 
 Ambassador Labs (formerly Datawire), the cloud native developer experience leader, enables developers to code, ship, and run applications faster and easier than ever.

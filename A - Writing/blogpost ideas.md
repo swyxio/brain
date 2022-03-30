@@ -3,6 +3,15 @@
 anyway the main point is that a few notable metaframeworks have started placing bets for a framework agnostic future. wont be an earnest reality until the preceding few points also become unbundled.
 
 
+the five chasms
+- founder - convincing yourself
+- hobbyists - theoretical + toy/fun
+- early adopter - feeling real pain
+- early majority - social proof
+- late majority - social pressure (staying up to date)
+- laggards - defaults
+
+
 - problems with the secondary problem
 	- https://twitter.com/benskuhn/status/1506627296903503881?s=20&t=G5iweJAfKt0tBqLxgOa29w
 - tenth doctor beliefs in tech

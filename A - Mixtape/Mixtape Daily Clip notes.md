@@ -78,6 +78,7 @@ jevons paradox and snowflake https://overcast.fm/+B1yJf5_3g f word warning
 
 ## youtuber
 
+https://youtu.be/3A8kawxMOcQ mrbeast
 https://overcast.fm/+XptN-x7II 19 mins steal like an artist backstory
 ***https://overcast.fm/+NBVuuQUhM 9mins mr beast***
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process

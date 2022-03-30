@@ -13,6 +13,16 @@ https://twitter.com/fnthawar/status/1376861533632925699?s=21
 qtns on picking jobs
 
 
+https://overcast.fm/+rTsVMaHTQ
+Question #1 In what area of my life am I settling?
+
+Question #2 What battles do you choose?
+
+Question #3 What are you letting in?
+
+Question #4 Am I spending time with the right people? Who are the five I want to spend time with?
+
+Question #5 In what ways am I in my own way?
 
 
 Picking what to do

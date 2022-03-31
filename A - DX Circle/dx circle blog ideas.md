@@ -3,6 +3,13 @@
 
 hiring first devrel
 
+
+## quantity metrics vs quality metrics 
+
+- “active” vs actually active
+- stars vs downloads
+- subscriber count vs watch time
+
 ## do you need launch weeks?
 
 - https://airbyte.com/launch-weeks/week-1

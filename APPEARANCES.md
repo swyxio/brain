@@ -1,6 +1,7 @@
 chats
 - sentry
 - airbyte
+- prisma
 - stackbit
 - hasura
 

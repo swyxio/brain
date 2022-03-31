@@ -40,6 +40,8 @@ NYC - ben schachter vantage
 
 rtfeldman https://www.listennotes.com/podcasts/software-unscripted/crossing-the-chasm-1-dDJwWER37/
 
+meta muse https://museapp.com/podcast/53-career/
+
 livestream with hasura
 
 some livestrwam i did on RSCs https://youtu.be/qIPWzRvPSxk

@@ -1,6 +1,8 @@
 > longform/swyx content to resyndicate  on weekends
 
 
+metamuse  https://museapp.com/podcast/53-career/
+
 rtfeldman https://www.listennotes.com/podcasts/software-unscripted/crossing-the-chasm-1-dDJwWER37/ 
  
  

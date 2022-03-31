@@ -53,7 +53,7 @@ https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-adv
 		- generate blogpost
 			- "how we mapped game state"
 			- X without Y category
-- 
+- no theory, just do https://twitter.com/buildingwaves/status/1509231891039272964?s=21
 
 
 ### Build vs Buy Media Companies?

@@ -37,6 +37,8 @@ https://overcast.fm/+YsrbaSq74 coinbase 1h10mins
 space industry 15 mins https://overcast.fm/+a0BromYiY
 
 
+gates explains internet https://youtu.be/fs-YpQj88ew
+
 ## small projects
 
 https://overcast.fm/+JaI5qMWzE wordle juice ui

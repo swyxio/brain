@@ -1,3 +1,9 @@
+chats
+- sentry
+- airbyte
+- stackbit
+- hasura
+
 ## speaking
 
 apr 4-8 temporal allhands

@@ -1,9 +1,13 @@
 chats
 - sentry
 - airbyte
-- prisma
 - stackbit
 - hasura
+- low delta
+	- cloudflare
+	- prisma
+	- replay?
+	- supabase?
 
 ## speaking
 

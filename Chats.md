@@ -6,7 +6,7 @@ chats
 	- data and control separation
 	- strong y
 	- 5tran - 50k acv 89%
-	- michel 1000 integrations liveramp 38engs - cdk maintenance nocode
+	- michel 1000 integrations liveramp 38engs - get cdk great and it'll work
 - stackbit - sqspace for devs
 	- nextjs
 	- annheuser busch

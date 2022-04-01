@@ -1,0 +1,32 @@
+chats
+- sentry
+- airbyte
+	- chetan - instrumental
+	- business rev
+	- data and control separation
+	- strong y
+	- 5tran - 50k acv 89%
+	- michel 1000 integrations liveramp 38engs - cdk maintenance nocode
+- stackbit - sqspace for devs
+	- nextjs
+	- annheuser busch
+	- biggest cms company?
+	- ecommerce shitty? - low margin, fashion driven, adpocalypse
+	- git proper
+	- tinacms -> onpage editing
+	- replatforming from adobe experience manager
+	- api to have other access
+	- ohad & dan -> AE, sales process
+		- make sure to align about product
+		- pragmatic, i/o jobsian
+	- misc 
+		- rudderstack
+		- sentry vs airbyte
+- hasura - verticalization pm platform
+- builder.io
+
+x
+	- cloudflare
+	- prisma
+	- replay?
+	- supabase?

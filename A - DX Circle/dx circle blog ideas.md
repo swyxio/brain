@@ -206,3 +206,11 @@ leverage for devrel
 
 product launch
 - https://twitter.com/steventey/status/1507051312696811535
+
+
+
+
+## short form newsletters
+
+https://fortheinterested.com/
+https://enough.pizza/

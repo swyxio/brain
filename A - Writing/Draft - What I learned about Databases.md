@@ -14,4 +14,5 @@ what i've learned so far about databases
 - sam lambert on
 - https://dbdb.io/
 - sqlite is amazing https://blog.wesleyac.com/posts/consider-sqlite
+- https://twitter.com/copyconstruct/status/1509701591946780678?s=21
 

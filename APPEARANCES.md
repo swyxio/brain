@@ -14,11 +14,13 @@ chats
 apr 4-8 temporal allhands
 apr 9-17 nyc temporal dinner/meetup?
 apr 18-19 react miami
+apr 20 - devx conf talk
 apr 24 sf
-**apr 25 sf temporal dinner/meetup?**
+Apr 24 deadline for reactathon recording
+apr 25 sf temporal dinner/meetup?
 apr 26/27 benghamine din
 apr 28 alana din
-**apr 29-30? sf temporal dinner/meetup?**
+apr 29-30? sf temporal dinner/meetup?
 may 2-5 reactathon - may 4 3.35pm
 may 4 - acquiredfm seattle
 may 16-20 https://twitter.com/wordsesh/status/1509201593710878720?s=21 wordpress
@@ -34,11 +36,13 @@ oct 6-7 infoshare 2022 gdansk
 nov lagos? jan?
 dec allscope
 
-Apr 1-9 Austin
-Apr 9-17 open (echisa, jcoop, alokn, samecrowder, alexbowe SF)
+Apr 5-5 New York
+Apr 6-10 SF
+Apr 10-17 open (echisa, jcoop, alokn, samecrowder, alexbowe SF)
+11-15 NY? - ben vantage
 Apr 17-24 Miami (albion)
 Apr 24-May 6 SF (quinn/beyang, alok n)
-**May 6-Jun 1 open**
+
 Jun 7-15 Lisbon
 Jun 15-20? Amsterdam
 

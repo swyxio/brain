@@ -39,6 +39,9 @@ space industry 15 mins https://overcast.fm/+a0BromYiY
 
 gates explains internet https://youtu.be/fs-YpQj88ew
 
+
+bolt guy https://three-cartoon-avatars.simplecast.com/episodes/ep-10-interview-with-ryan-breslow-the-silicon-valley-mob-twilio-insider-trading-and-why-onlyfans-cant-find-investors
+
 ## small projects
 
 https://overcast.fm/+JaI5qMWzE wordle juice ui

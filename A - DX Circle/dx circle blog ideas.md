@@ -10,6 +10,9 @@ hiring first devrel
 - stars vs downloads
 - subscriber count vs watch time
 
+
+hospital with no patients https://youtu.be/x-5zEb1oS9A
+
 ## do you need launch weeks?
 
 - https://airbyte.com/launch-weeks/week-1

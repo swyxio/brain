@@ -4,6 +4,10 @@
 hiring first devrel
 
 
+## papercuts from devrel to product
+
+ss
+
 ## quantity metrics vs quality metrics 
 
 - “active” vs actually active

@@ -42,6 +42,9 @@ gates explains internet https://youtu.be/fs-YpQj88ew
 
 bolt guy https://three-cartoon-avatars.simplecast.com/episodes/ep-10-interview-with-ryan-breslow-the-silicon-valley-mob-twilio-insider-trading-and-why-onlyfans-cant-find-investors
 
+
+oligarch yachts https://overcast.fm/+BmH2Cs0ig 35mins
+
 ## small projects
 
 https://overcast.fm/+JaI5qMWzE wordle juice ui

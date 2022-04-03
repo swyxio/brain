@@ -17,3 +17,7 @@ company youtube strategy
 - b2c https://www.youtube.com/watch?v=MIOpohrjuXk
 - 
 
+
+
+
+why did prismic not work? https://youtu.be/s-pCNqqUbfI

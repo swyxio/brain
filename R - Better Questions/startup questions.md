@@ -3,6 +3,45 @@ created: 2021-12-28 13:03
 updated: 2021-12-28 13:03
 ---
 
+## Founder Questions
+(via replay)
+
+Company Vision
+
+1. If you had to bet, where will this company be in 5 years and why?
+2. What would you be willing to sell the company for today and what other terms of the deal or qualities of the buyer would affect your willingness to sell?
+3. Do you ever want to raise more money? If no, why not? If yes, under what conditions?
+4. What are some products/apps/services/platforms that you love and admire and why?
+
+Company Values
+
+5. What qualities would you look for most when hiring team members and why?  
+6. What kind of company culture are you looking to build and why? Be as specific as possible (i.e., work/life balance, freedom to work from home, etc.)  
+7. If you could name three to five values that define this company, what would they be?
+
+Personal Motivation
+
+8. What personal motivation did you have in founding a company / being involved with this company? (e.g. personal growth, financial gain, solving a problem)
+9. How will you know if you’ve achieved this personal goal and what do you plan to do when you reach these goals?
+10. Is there any aspect of our product or vision you are unwilling to change or kill?
+11. Describe your personal working style in a few words/sentences
+
+  
+Personal Expectations / Roles
+
+12. Describe your ideal work-life balance including your ideal weekday and more broadly your ideal balance of working for this company and other activities in your life and why? (How will this answer also change over time and due to what factors?)  
+13. Do you want this company to be the last job you ever have? (If not when would you like to move on and what factors affect this timeline?)  
+14. What do you want to be the point person for the first 12-18 months?  
+15. How will decisions be made? (majority vote, consensus, can either person be fired)  
+
+Accountability
+
+16. If either one of your co-founders said they were thinking of leaving, would you fight for them to stay or let them leave?
+17. If either one of your co-founders said they were thinking of leaving, would you fight for them to stay or let them leave?  
+18. Have you ever failed at anything? If so, how did you handle it and what did you learn?  
+19. What happens should we disagree on something and how do we move forward?  
+20. How do you think we should give feedback to one another?
+
 ## Product questions
 
 <https://www.productlessons.xyz/article/stop-being-hero>

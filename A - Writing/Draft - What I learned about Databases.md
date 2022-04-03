@@ -10,7 +10,9 @@ what i've learned so far about databases
 	- expensive 
 - rachelbythebay blog about the bad db that she wrote
 - aggregations are hard
-- mysql vs pg https://eng.uber.com/postgres-to-mysql-migration/ and pg write replication
+- mysql vs pg 
+	- https://eng.uber.com/postgres-to-mysql-migration/ and pg write replication
+	- from 2000 https://phpbuilder.com/mysql-and-postgresql-compared/ this thread https://news.ycombinator.com/item?id=29455852
 - sam lambert on
 - https://dbdb.io/
 - sqlite is amazing https://blog.wesleyac.com/posts/consider-sqlite

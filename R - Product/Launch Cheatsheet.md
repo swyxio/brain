@@ -387,6 +387,7 @@ see linked landing pages above
 - FAQ Footers: https://onepagelove.com/tag/whitespace
 - course landing oage breakdown https://twitter.com/robhope/status/1387436455400656898?s=21
 - b2b landing pages https://www.mikesonders.com/saas-website-content/
+- https://blog.roastmylandingpage.com/landing-page-roasts/
  
 <details>
 <summary>

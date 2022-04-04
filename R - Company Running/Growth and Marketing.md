@@ -15,6 +15,9 @@ https://www.reforge.com/blog/racecar-growth-framework
 		- Sonal Choksi advice on hiring editors vs writers - creating thru lines - 45mins
 
 
+- performance and ltv and lifecycle email
+	- https://overcast.fm/+os2aiGuqE
+
 ## positioning
 
 - https://userlist.com/podcast/saas-positioning-with-marc-thomas/

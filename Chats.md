@@ -30,6 +30,11 @@ chats
 		- sentry vs airbyte
 - hasura - verticalization pm platform
 - builder.io
+	- ecom
+- ITA
+	- https://aleph.vc/
+- Tangram
+	- talk thru what i could do
 
 x
 	- cloudflare
@@ -37,6 +42,3 @@ x
 	- replay?
 	- supabase?
 
-
-ITA
-- https://aleph.vc/

@@ -3,6 +3,10 @@
 
 hiring first devrel
 
+## the paas market
+
+- https://www.gartner.com/en/newsroom/press-releases/2021-04-21-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-grow-23-percent-in-2021
+
 
 ## papercuts from devrel to product
 

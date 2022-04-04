@@ -7,9 +7,12 @@ chats
 	- strong y
 	- 5tran - 50k acv 89%
 	- michel 1000 integrations liveramp 38engs - get cdk great and it'll work
+	- look at: https://techcrunch.com/2019/02/19/google-acquires-cloud-migration-platform-alooma/
 	- my ideas
 		- data error supporting - could use hashes 
 		- entity regularización
+		- "white label integrations" - be clearbit for everyone else
+			- inspired by https://www.freshpaint.io/
 - stackbit - sqspace for devs
 	- nextjs
 	- annheuser busch
@@ -33,3 +36,7 @@ x
 	- prisma
 	- replay?
 	- supabase?
+
+
+ITA
+- https://aleph.vc/

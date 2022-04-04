@@ -37,6 +37,8 @@ https://overcast.fm/+YsrbaSq74 coinbase 1h10mins
 space industry 15 mins https://overcast.fm/+a0BromYiY
 
 
+the trust equation https://overcast.fm/+OozM5Blcw 25 mins 
+
 gates explains internet https://youtu.be/fs-YpQj88ew
 
 

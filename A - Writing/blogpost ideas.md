@@ -101,6 +101,7 @@ blogpost genres
 	- y axis - specificity? going from general audience to extremely niche
 	- 
 high leverage forms of learning in public
+	- naming it https://overcast.fm/+rTsWy3xsIhttps://overcast.fm/+rTsWy3xsI 9mins in
 - landscape
 	- https://pinver.medium.com/decoding-the-no-code-low-code-startup-universe-and-its-players-4b5e0221d58b
 	- jamstack landscape

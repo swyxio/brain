@@ -18,6 +18,9 @@ https://www.reforge.com/blog/racecar-growth-framework
 - performance and ltv and lifecycle email
 	- https://overcast.fm/+os2aiGuqE
 
+growth marketing
+- https://overcast.fm/+BlzFHodps
+
 ## positioning
 
 - https://userlist.com/podcast/saas-positioning-with-marc-thomas/

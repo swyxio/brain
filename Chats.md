@@ -7,6 +7,9 @@ chats
 	- strong y
 	- 5tran - 50k acv 89%
 	- michel 1000 integrations liveramp 38engs - get cdk great and it'll work
+	- my ideas
+		- data error supporting - could use hashes 
+		- entity regularización
 - stackbit - sqspace for devs
 	- nextjs
 	- annheuser busch

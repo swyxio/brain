@@ -2,7 +2,11 @@
 created: 2021-12-01 01:35
 ---
 
-Completely ungroomed dumping ground
+- IRL pickups Apr 4
+	- 
+
+
+## Completely ungroomed dumping ground
 
 todo: swyxkit lazy loading
 

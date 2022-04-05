@@ -91,6 +91,7 @@ lace everything with cocaine
 - stability work is zero value by default, justification comes from hard-to-reverse damage whereas feature work is overstated
 - want to keep growing by adding features, but vast majority of users will just use three
 - users you want to reach dont appreciate the problem you solve
+	- supprot - pple blaming you for their problems 
 - you want to commoditize complements/be switzerland but your users want a clear community
 - extensibility and plugins - first x then y
 - open source - users and operators

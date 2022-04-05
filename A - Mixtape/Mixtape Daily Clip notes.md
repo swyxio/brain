@@ -89,6 +89,10 @@ https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
 
 jevons paradox and snowflake https://overcast.fm/+B1yJf5_3g f word warning
 
+
+https://overcast.fm/+ycL9ybdsc 23 mins - 40 mins a defense of agile
+- 45 mins why  estimating software is hard
+
 ## youtuber
 
 https://youtu.be/3A8kawxMOcQ mrbeast

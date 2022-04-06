@@ -19,6 +19,8 @@
 - https://twitter.com/CodeWisdom
 - writing https://twitter.com/GergelyOrosz/status/1353661833236926470
 - write a book https://twitter.com/jamesclear/status/1358549333646450690?s=21
+- working the 3rd shift https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/
+- reddit r/reactjs complaints
 
 
 build vs buy 

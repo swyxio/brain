@@ -7,6 +7,8 @@ list of bad ideas
 - nonprofits
 
 
+https://github.com/Lissy93/personal-security-checklist
+pick so me
 
 cytogenesis in tech
 - shift left

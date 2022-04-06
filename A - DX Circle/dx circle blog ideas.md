@@ -35,7 +35,9 @@ Ambassador Labs (formerly Datawire), the cloud native developer experience leade
 
 https://www.magidandco.com/blog/the-two-sentence-description
 
-https://readyset.io/blog/%5Bslug%5D Our mission is to help developers build faster applications without writing extra code.
+https://readyset.io/blog/%5Bslug%5D 
+- Our mission is to help developers build faster applications without writing extra code.
+- ReadySet is building a SQL caching engine that sits in front of existing databases and dramatically improves database performance by accelerating reads. It supports millions of queries per second with sub-millisecond latencies on a single node, all while keeping cached state up-to-date automatically. Any time a write changes the data in the underlying database ReadySet automatically updates any affected cached query results. ReadySet is wire-compatible with MySQL and Postgres and can be used with existing applications without code changes. It is a simpler and more cost effective alternative to homegrown caching layers and read replica hierarchies. See our documentation for more information!
 
 “people want holes, not drills”
 

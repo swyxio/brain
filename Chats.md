@@ -29,6 +29,7 @@ chats
 		- rudderstack
 		- sentry vs airbyte
 - hasura - verticalization pm platform
+- graphcdn
 - builder.io
 	- ecom
 - ITA

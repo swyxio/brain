@@ -35,6 +35,10 @@ Ambassador Labs (formerly Datawire), the cloud native developer experience leade
 
 https://www.magidandco.com/blog/the-two-sentence-description
 
+https://readyset.io/blog/%5Bslug%5D Our mission is to help developers build faster applications without writing extra code.
+
+“people want holes, not drills”
+
 ### dx from first principles
 
 docs as part of dx

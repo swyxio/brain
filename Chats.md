@@ -13,6 +13,8 @@ chats
 		- entity regularización
 		- "white label integrations" - be clearbit for everyone else
 			- inspired by https://www.freshpaint.io/
+- prisma
+	- 
 - stackbit - sqspace for devs
 	- nextjs
 	- annheuser busch
@@ -29,7 +31,6 @@ chats
 		- rudderstack
 		- sentry vs airbyte
 - hasura - verticalization pm platform
-- graphcdn
 - builder.io
 	- ecom
 - ITA
@@ -37,9 +38,11 @@ chats
 - Tangram
 	- talk thru what i could do
 
-x
+explore
 	- cloudflare
-	- prisma
 	- replay?
 	- supabase?
+	- suborbital?
+	- graphcdn?
+	- astro?
 

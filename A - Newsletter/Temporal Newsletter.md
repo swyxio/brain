@@ -1,4 +1,5 @@
 hasura + temporal livestream
+cool post from @Dom on how they are combining Hasura and Temporal for ecommerce! https://medium.com/stateset/pro-code-workflows-for-ecommerce-operations-430a0e492c6b
 
 we made the thoughtworks tech radar! [https://www.thoughtworks.com/radar/platforms](https://www.thoughtworks.com/radar/platforms)
 

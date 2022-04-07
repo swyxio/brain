@@ -66,6 +66,9 @@ viral on purpose https://overcast.fm/+RWpsctwxM
 
 16 steps credibility 37mins https://overcast.fm/+IxBMXwmXY 
 
+
+https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins 
+
 ## technical
 
 ebpf https://overcast.fm/+wtIPwx_jA

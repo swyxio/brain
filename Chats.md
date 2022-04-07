@@ -43,6 +43,45 @@ explore
 	- replay?
 	- supabase?
 	- suborbital?
+		- democratize global by default compute - eg cf workers, deno
+		- enable anybody to deploy one of these globaly distributed compute networks - deploy their own network
+		- edge data plane - all the building blocks - own self operated edge network
+		- "the hybrid compute company"
+			- software dev framework and infra
+			- deploy and span central cloud and edge cloud
+			- we figure that out for you
+			- efficient and secure and portable (deploy wherever)
+		- benefits: latency.
+		- pple love the idea of cf workers but are very constrained - very small subset of js, and subset of what wasm can do
+		- alternative: open source, deployable
+		- customers why dont like cf/aws
+		  - vast codebases that aren't js
+			- network topology - cf has lots of regions but you want to optimize
+			- control of the network - privacy, security
+					- healthcare, ecommerce co's
+			- CF competitors - (fastly?)
+		- comapred to deno a lot
+			- global network deployed
+			- catching up
+			- js first class, but nto optimized for wasm
+		- team
+      - 2 dev advocates 1 tech writer
+			- someone focused on strategy
+			- making efforts cohesive - 1 demo/integrations, 1 video/livestream
+			- keep them on structured framework/campaigns
+			- written content vs documentation
+		- challenges
+			- wasm advocacy not just suborbital advocacy
+			- edge computing, globally distributed computing
+			- "we do a lot of stuff" - second product
+			- educating pple what parts they should focus on
+				- de emphasize: grab, vector
+				- sat and atmo and sudocli -> 
+				- compute product and edge product
+			- wasm heating up quickly - get ahead of wave - seeing wave rising
+				- product marketing to stay at the front of that wave
+				- "wasmcloud" - dont want to steal their thunder
+			- seed stage -> A stage
 	- graphcdn?
 	- astro?
 	- codesandbox

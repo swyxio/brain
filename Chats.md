@@ -45,4 +45,5 @@ explore
 	- suborbital?
 	- graphcdn?
 	- astro?
-
+	- codesandbox
+	- quicknode

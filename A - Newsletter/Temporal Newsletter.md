@@ -4,6 +4,8 @@ cool post from @Dom on how they are combining Hasura and Temporal for ecommerce!
 we made the thoughtworks tech radar! [https://www.thoughtworks.com/radar/platforms](https://www.thoughtworks.com/radar/platforms)
 
 
+https://medium.com/stateset/pro-code-workflows-for-ecommerce-operations-430a0e492c6b
+
 temporal nx monorepo https://andreas-fyi.notion.site/Using-Temporal-io-inside-a-Nx-Monorepo-76a3c8f1087e4a4ca9d6ceed605d706e#6345607181ff43d4a102d81e9ac6d4e8
 
 salty

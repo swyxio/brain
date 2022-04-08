@@ -33,6 +33,40 @@ chats
 - hasura - verticalization pm platform
 - builder.io
 	- ecom
+	- engineers hate making 1 day sale webpages
+	- problem: lack of connectivity between nocode and real code
+	- cant make a webflow frontend + shopify backend - not composable
+	- "like coding" is not coding - not composable
+	- solves:
+		- marketing moves faster
+		- perf problems (incl for a/b test and personalization)
+		- coding genuinely democratized - nocode tool
+	- qwik and partytown - more niche thing
+	- goal is to do that with coding
+	- needs:
+		- made a killer product that solves a killer problem. but...
+		- relatively unknown. people think we are just drag and drop
+		- "we have a marketing team.. they dont understand developers"
+		- recurring pattern - hard to find pple who know code n how devs think - leadership hole
+		- 15-50 people - ceo too influential
+		- 2 people doing devrel, no leadership
+	- initial wedge: ecomm
+		- frontend dev on public facing website - zapier, audience to convert - not internal tool
+		- conferences, twitter, youtube
+		- where are they - "vercel model"
+			- focus on medium to large biz. small -> webflow
+			- care about: load fast, fast to edit
+			- investing in qwik/partytown
+				- how to use adobe experience manager
+				- growth strategy around getting adoption of qwik
+				- build design systems and compose those
+				- 10% resources. 
+				- problem is awareness/adoption
+			- misko not great content?
+		- acv's 40k starting, then high NRR
+			- meters: traffic and seats
+	- 5x revenue 5x revenue
+	- opportunistic
 - ITA
 	- https://aleph.vc/
 - Tangram

@@ -13,6 +13,8 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 expert blindness https://overcast.fm/+RCm27mAv4 25-35 mins
 
 
+https://overcast.fm/+sZZba3sKo 43 mins fast analaysis
+
 https://overcast.fm/+B1yJwoLjo 15ish mins origin of mailgun
 
 open core ventures https://overcast.fm/+OozNF5Gws 31 mins in

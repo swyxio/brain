@@ -184,6 +184,9 @@ https://overcast.fm/+os2YU2gSU 10mins changed foods to 16mins
 
 ## crypto corner
 
+
+vitalik what is eth https://overcast.fm/+Q4m6kgTKA 5-10ish mins
+
 https://overcast.fm/+qdIBj-7hw 20mins the graph 
 
 https://overcast.fm/+TRbX793DU 32 mins what is dao until 50ish mins

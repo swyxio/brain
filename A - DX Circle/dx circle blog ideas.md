@@ -2,6 +2,8 @@
 
 
 hiring first devrel
+- https://twitter.com/GergelyOrosz/status/1512041397259583491?s=20&t=1lJ6CQRZgcDnvKC8ZmSQKw
+
 
 ## the paas market
 

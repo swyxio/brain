@@ -194,6 +194,8 @@ https://overcast.fm/+Vqtciqzoo 43ish mins what is web3
 
 airdrop https://overcast.fm/+YNeRIK5jg 56mins - backwards causation
 
+uncovering dao hack https://overcast.fm/+O-dbduSYI
+
 # deadpool
 
 - https://designdetails.fm/episodes/7RL459Ke  8 minutes - proof of curiosity - learn in public

@@ -60,6 +60,8 @@ https://petermekhaeil.com/notes-the-coding-career-handbook/
 - appreciate coding career readers
 - hard to grow LIP when others succeed easier spammier
 
+twitter search https://twitter.com/tessardavis/status/1512402324102291467?s=21&t=VGvdLZAnmubNFNZKzAh6zw
+
 principles:
 - Notifications = Distributed Denial of Focus
 

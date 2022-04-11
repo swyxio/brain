@@ -144,6 +144,7 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 - https://overcast.fm/+b1V1guBD8 23 mins greg mckowen virality vs energy
 - 
 how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project - 18mins
+https://overcast.fm/+HhhiZISrU be rhe driver 18mins
 
 ## cal newport
 

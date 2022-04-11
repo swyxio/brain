@@ -63,10 +63,79 @@ chats
 				- 10% resources. 
 				- problem is awareness/adoption
 			- misko not great content?
-		- acv's 40k starting, then high NRR
+		- acv's 40k starting, then high NRR - 148%
 			- meters: traffic and seats
-	- 5x revenue 5x revenue
+	- 5x revenue in 2020 - 5x revenue in 2021 - 3.5x in 2022
+		- 3x3x2x2x
 	- opportunistic
+	- 2nd meeting
+		- https://vtex.com/us-en/cases/
+		- infoworld top companies
+			- vercel, cloudflare, builder
+		- roleplay	
+			- good things - partytown, qwik, mitosis
+				- infoworld reporters reaching out
+			- bad things
+				- only get it 45 mins into conversation
+				- nobody heard of us
+					- tight group of people
+					- developers matter
+					- just good for the engineers
+					- shocked that we have a scheduling feature - live at a certain time
+			- talking points
+				- connect codebase
+				- own deploy
+			- dev advocacy
+				- content videos
+					- https://www.linkedin.com/in/codingcatdev
+				- technical writing
+					- good
+				- but low impact
+		- misc discussion
+			- nothing devs hate more than shipping something that goes immediately to trash
+			- experimenting
+			- bizdev with design systems https://mui.com/
+		- macro trends
+			- change in way people are making sites
+				- jamstack -> 100m's of pageviews in 2014 with angular
+				- cms - adobe experience manager - legacy bc blocking. now have to move 
+					- edge segmentation
+					- draggy droppy
+				- headless commerce -> macro trend
+			- reducing javascript - perf
+				- have a perf tool to see no js that runs your site thru edge modifications
+			- no code - webflow
+				- hiring devs fcking impossible
+				- pair builder with jr eng -> more productive
+			- ecomm bloodbath
+				- CAC going insanely high
+				- much more experimentation
+	- brent locks
+		- sf, 8, 6, 3 -> m&a advisory -> wrong side of the table -> pict.com -> acquihired -> shopstyle -> rakuten - GM 700m revenue, 150people offices
+		- builder - passionate about no code - learning (steve), not learning (brent)
+			- steve joined -> shopstyle
+			- replatformed to angular
+			- headless site - cms -> contentful - handed it to marketing - fill in these forms -> good for 2 weeks -> "hey we need to move from shop to shop men shop women" - just want a hero element - why does it take 2 weeks- 2 pissed off teams - developers
+			- "we built this page in webflow, cant we put it into the angular site?" - no
+			- steve tried to figure it out - 2016-2017 - acquired by rakuten
+			- first official customers of builder - sat with them for a year
+			- more involved -> left and joined - seed from greylock
+			- launch aug 2019 -> only in market for 2 years -> onboarded
+			- jan 2020 2 people -> apr 2022 40-45 people
+			- getting misko - partner at greylock https://greylock.com/portfolio-news/headless-no-code-commerce/
+				- no code - "composable visual development" - stigma: not great code, not being great code
+				- componentize the frontend - enough tooling involved for developers
+				- pair programming on qwik
+			- TAM
+				- Gartner - agile CMS - Wordpress, contentful, adobe - >50b
+				- (API first) Devtools - competing against a CMS - competing against building and maintaining a tool internally - 100b 
+				- Downmarket -> lowcode/sitebuilding space (webflow) - 50b
+			- further abstractions form complex software development - composability is the key piece
+				- webflow is limited because limited to their stack
+					- YC continuum fund in webflow - not worried about competition
+				- jcrew estee lauder and fiverr
+			- ecommerce iterations - 60%-70% of revenue online
+				- 2xing online 
 - ITA
 	- https://aleph.vc/
 - Tangram

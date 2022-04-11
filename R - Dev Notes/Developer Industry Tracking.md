@@ -129,6 +129,7 @@ Misc specific
 
 - https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html
 - Database engines https://db-engines.com/en/ranking_trend 
+	- why it doesnt change https://www.techrepublic.com/article/why-enterprise-software-moves-slow/
 - http://redditlist.com
 - http://hnrankings.info/22776108
 - https://research.hackerrank.com/women-in-tech/2019

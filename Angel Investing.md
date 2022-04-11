@@ -1,4 +1,7 @@
 
+- highly recommended book https://www.amazon.com/dp/1119639689/ref=cm_sw_r_cp_api_i_A68Y5G1B918VPBP9519K https://twitter.com/terronk/status/1512529779500544005?s=21&t=_4jVlHObW0tnuuxCp6VviA
+- 
+- 
 - https://sacerdoti.medium.com/investing-in-public-non-obvious-lessons-from-100-angel-investments-a5951985593e
 	1. find the "one yard line" - good bull market
 	2. have very limited time, capital, high bar for participation

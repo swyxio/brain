@@ -25,6 +25,7 @@ aug 29-sep5 cascadiajs bend OR
 sept 8-9 stockholm svelte
 sep 19-20 zadar infobip
 oct 6-7 infoshare 2022 gdansk
+oct 27 - porto tech hub rejecred
 nov lagos? jan?
 dec allscope
 

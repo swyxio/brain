@@ -55,6 +55,8 @@ oligarch yachts https://overcast.fm/+BmH2Cs0ig 35mins
 https://overcast.fm/+rra5cp2f8 28 mins - cost of consultants
 
 
+https://overcast.fm/+vxHeQhSaU 22min amazon book monopoly 
+
 ## small projects
 
 https://overcast.fm/+JaI5qMWzE wordle juice ui

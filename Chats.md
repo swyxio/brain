@@ -189,3 +189,21 @@ explore
 	- astro?
 	- codesandbox
 	- quicknode
+		- blockchain 
+		- web2 (optimization) - web3 (sucks but pple love it)
+		- pple love access
+		- play to earn - axie, atari (casinos in decentraland)
+		- nfts can represent merits
+		- waiting for right moment
+		- started in 2017 - talking to friends, started
+			- hustled in 2018-19 winter, then 2020 - pandemic - blockchain took off again
+		- what are your needs
+			- "everywhere and everything" - have it at top of everyones mind, talking about qnode
+			- go out there and create content, talk to developers
+			- eth amsterdam, nftnyc, ethnyc
+			- 33b in industry
+			- read/write to from blockchain
+			- only attended 5 confs total
+			- hackathons, youtube (noah, antony)
+			- hacker house
+		

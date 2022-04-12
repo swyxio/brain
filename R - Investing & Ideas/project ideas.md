@@ -4,6 +4,8 @@ better question "Computers are useless. They can only give you answers" - Pablo 
 eliminate bizdev - https://twitter.com/reinpk/status/1496851108303568898?s=20&t=xRtL5kTe752RWHru3EPR_A twilio, stripe, plaid - just give api key. arcadia
 
 
+youtube thumbnail generator https://twitter.com/trungtphan/status/1445768087832182796?s=21&t=infs1FduwyjGsK3h8g69nw
+
 new audible
 https://twitter.com/newsyc300/status/1494214527759564802?s=21
 

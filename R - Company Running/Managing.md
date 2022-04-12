@@ -8,3 +8,8 @@ https://twitter.com/jspujji/status/1494743094813548544?s=21
 - https://twitter.com/jmwind/status/1493569398212157443?s=21
 - managing remote https://twitter.com/jobvo/status/1510285946285178887?s=21
 	- make it about meta, not status updates
+
+
+
+https://twitter.com/MrJacobEspi/status/1513509689236996097
+- leading a team

@@ -43,6 +43,11 @@ https://readyset.io/blog/%5Bslug%5D
 
 “people want holes, not drills”
 
+
+https://twitter.com/encoredotdev?s=21&t=EmRdzDL-iGr0d-fBe0ZtPQ
+
+https://news.ycombinator.com/item?id=30987472#30988301
+
 ### dx from first principles
 
 docs as part of dx

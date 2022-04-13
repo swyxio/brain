@@ -68,6 +68,23 @@ chats
 	- 5x revenue in 2020 - 5x revenue in 2021 - 3.5x in 2022
 		- 3x3x2x2x
 	- opportunistic
+	- reviews
+		- head of x
+		- 200k + 0.5%
+		- 6m -> 300-500m - 2m
+		- A: 70m -> 10m
+		- early exercises: 83b
+		- benefits: 10yr
+		- bay area
+		- reporting
+			- VP Sarah
+			- Angular Brad Green
+		- devrel
+			- education -> growth
+			- learning curve
+			- adjust any pieces
+			- 80/20 builder/oss - changed mind
+		- aristan and alex
 	- 2nd meeting
 		- https://vtex.com/us-en/cases/
 		- infoworld top companies

@@ -223,4 +223,20 @@ explore
 			- only attended 5 confs total
 			- hackathons, youtube (noah, antony)
 			- hacker house
+	- plasmic
+		- enterprise marketing teams
+		- seed stage. 10 folks
+		- perf -> for seo, conversions
+		- why cms space? 
+			- sanity, strapi good size biz
+			- heavier leaning
+			- them vs sanity
+			- 300m market size
+		- webflow -> won web designers and freelancers
+		- completely malleable visual builder builder
+			- focused on cms usecase, creating supabase fullstack apps
+			- supabase apps
+		- raymond cheng from mit
+		- cheng - idk
+		- monir - photon at facebook, power apps at msft
 		

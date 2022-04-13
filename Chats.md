@@ -153,6 +153,42 @@ chats
 				- jcrew estee lauder and fiverr
 			- ecommerce iterations - 60%-70% of revenue online
 				- 2xing online 
+			- chat with alex and ersin
+				- alex was fin
+				- ersin - microsaas, tired of coding another marketing page
+					- deep dive into builder
+					- pissed off with documentation
+					- 2 page forum post
+					- steve emailed
+					- speaks to inexperience
+					- raw leadership
+						- sarah - attuned at high level
+						- main problem is awareness
+						- establishing process, and cover
+						- empathetic and understanding, personal rapport, doesnt micromanage
+						- communicated v clearly not social copy all day long
+					- what do you want to work on all day long
+						- building out with people - discord, forums
+						- creating demos
+						- technical documentation
+						- what devrel means to me - mental healthcare, tremendous joy in programming. human aspect of code 
+						- "i see myself as a healer, as a safe space"
+					- broader narrative - role has shifted into marketing
+						- still on the founder path
+						- learn marketing - but its not connecting to my soul
+						- thats why "healer". "introspection". "therapy".
+					- whatve you done
+						- working on technical documentation. curmudgeonly - all the flaws
+						- but i have more to me.
+					- building community. "no code engineering"
+						- graphic designer and frontend
+						- defining a new segment of the job market
+						- sub discipline of software eng
+						- makerpad
+						- react -> reactive programming, unidirectional flow of data
+					- scalable devrel
+						- community becomes self forming
+						- everybody comfortable contributing blogposts 
 - ITA
 	- https://aleph.vc/
 - Tangram

@@ -36,7 +36,7 @@ Apr 10-17 open (echisa, jcoop, alokn, samecrowder, alexbowe SF)
 Apr 17-24 Miami (albion)
 Apr 24-May 6 SF (quinn/beyang, alok n)
 
-Jun 7-15 Lisbon
+Jun 7-15 Lisbon @_reznord
 Jun 15-20? Amsterdam
 
 aug-sep cascadia and infoshare

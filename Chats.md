@@ -13,6 +13,34 @@ chats
 		- entity regularización
 		- "white label integrations" - be clearbit for everyone else
 			- inspired by https://www.freshpaint.io/
+	- brandon
+		- 5tran AND airbyte. 
+		- builder.io
+			- front
+			- Series A
+		- $1 in snowflake - 5% in dbt, 5% in fivetran
+		- buf.build - unique assets
+			- ?
+		- chronosphere.io - next gen monitoring
+			- nobody built cloud native k8s monitoring solution - not built for scale and cardinality. HUGE DEMAND
+			- grafana vs chronosphere.
+				- not winners: ddog, signalfx
+			- unmet demand for this category
+		- huggingface
+			- no deep IP
+			- no on operational complexity
+			- 20/10 on community
+			- theyre in the content curation business
+			- fastest growing company. most strategic asset in all of ML
+			- weak on product
+			- no enterprise motion today. 0 to 10 last year. no competition.
+			- CNCF angle
+		- any successful company
+			- deep IP
+			- can you simplify operational complexity
+			- go to mkt/community wedge
+		- databases
+		- operating systems
 - prisma
 	- 
 - stackbit - sqspace for devs

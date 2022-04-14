@@ -19,7 +19,7 @@ chats
 			- front
 			- Series A
 		- $1 in snowflake - 5% in dbt, 5% in fivetran
-		- buf.build - unique assets
+		- buf.build - unique asset
 			- ?
 		- chronosphere.io - next gen monitoring
 			- nobody built cloud native k8s monitoring solution - not built for scale and cardinality. HUGE DEMAND

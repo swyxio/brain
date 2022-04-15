@@ -27,6 +27,12 @@ generative interview questions
 Modern Wisdom https://www.podcastrepublic.net/episode/11505159536 https://traffic.libsyn.com/secure/modernwisdom/Modern_Wisdom_Episode_263_-_Charlotte_Fox-Weber.mp3?dest-id=651923
 
 
+proustian questions from vanity fair
+minnie driver
+https://www.google.com/search?q=vanity%20fair%20proust%20questionnaire&ie=utf-8&oe=utf-8&client=firefox-b-1-m
+
+
+
 craziest rumor https://twitter.com/femeb/status/1405894897614393347?s=21
 
 "If you were a character in a book, what would your readers be yelling at you to do?"  — @ESYudkowsky

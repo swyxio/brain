@@ -1,6 +1,8 @@
 chats
 - sentry
 - airbyte
+	- discussion
+		- defensible moat
 	- chetan - instrumental
 	- business rev
 	- data and control separation

@@ -10,6 +10,12 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 
 ## general dump
 
+
+owning twitter
+- https://overcast.fm/+S_MNRg
+- https://overcast.fm/+OySdg2mIg
+- 3 cartoon avatars discussion
+
 expert blindness https://overcast.fm/+RCm27mAv4 25-35 mins
 
 

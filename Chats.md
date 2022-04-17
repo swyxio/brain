@@ -4,8 +4,15 @@ chats
 	- discussion
 		- defensible moat
 	- chetan - instrumental
+		- "system of record spend"
+		- optional 
+	- martin casado
+		- all the money is in legacy rdbms
+		- room enough for multiple players but 80% goes to fivetran
+	- most pple
+		- BM "Series A risk at pre-IPO price. You have to LOVE it and believe it's going to be a Snowflake sized company for the risk/reward to make sense."
 	- business rev
-	- data and control separation
+	- data and control plane separation
 	- strong y
 	- 5tran - 50k acv 89%
 	- michel 1000 integrations liveramp 38engs - get cdk great and it'll work
@@ -15,34 +22,6 @@ chats
 		- entity regularización
 		- "white label integrations" - be clearbit for everyone else
 			- inspired by https://www.freshpaint.io/
-	- brandon
-		- 5tran AND airbyte. 
-		- builder.io
-			- front
-			- Series A
-		- $1 in snowflake - 5% in dbt, 5% in fivetran
-		- buf.build - unique asset
-			- ?
-		- chronosphere.io - next gen monitoring
-			- nobody built cloud native k8s monitoring solution - not built for scale and cardinality. HUGE DEMAND
-			- grafana vs chronosphere.
-				- not winners: ddog, signalfx
-			- unmet demand for this category
-		- huggingface
-			- no deep IP
-			- no on operational complexity
-			- 20/10 on community
-			- theyre in the content curation business
-			- fastest growing company. most strategic asset in all of ML
-			- weak on product
-			- no enterprise motion today. 0 to 10 last year. no competition.
-			- CNCF angle
-		- any successful company
-			- deep IP
-			- can you simplify operational complexity
-			- go to mkt/community wedge
-		- databases
-		- operating systems
 - prisma
 	- 
 - stackbit - sqspace for devs
@@ -270,6 +249,10 @@ explore
 			- seed stage -> A stage
 	- graphcdn?
 	- astro?
+	- render
+		- heroku makes 500m/yr
+		- ease of use - "stripe for aws"?
+		- 1kmo custs are "large"?
 	- codesandbox
 	- quicknode
 		- blockchain 
@@ -306,3 +289,32 @@ explore
 		- cheng - idk
 		- monir - photon at facebook, power apps at msft
 		
+		
+- brandon reeves
+	- 5tran AND airbyte. 
+	- builder.io
+		- frontend?
+		- Series A
+	- $1 in snowflake - 5% in dbt, 5% in fivetran
+	- buf.build - unique asset
+		- ?
+	- chronosphere.io - next gen monitoring
+		- nobody built cloud native k8s monitoring solution - not built for scale and cardinality. HUGE DEMAND
+		- grafana vs chronosphere.
+			- not winners: ddog, signalfx
+		- unmet demand for this category
+	- huggingface
+		- no deep IP
+		- no on operational complexity
+		- 20/10 on community
+		- theyre in the content curation business
+		- fastest growing company. most strategic asset in all of ML
+		- weak on product
+		- no enterprise motion today. 0 to 10 last year. no competition.
+		- CNCF angle
+	- any successful company
+		- deep IP
+		- can you simplify operational complexity
+		- go to mkt/community wedge
+	- databases
+	- operating systems

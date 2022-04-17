@@ -121,6 +121,8 @@ https://nathanbarry.com/059-samir-chaudry-youtube-launch-creator-enterprise/ fin
 https://overcast.fm/+NBVvT7qiY youtube deep bench, quantity to get quality 20mins ish
 - 1.3m a month nas daily. 1000 video 1000 days https://overcast.fm/+borYakbl8
 
+https://overcast.fm/+IPH8QGS8U 10 mins pitch meeting ryan george origin
+
 ## audience building
 
 https://overcast.fm/+BlzFmmbag 7 mins cold start

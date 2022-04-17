@@ -4,11 +4,19 @@
 hiring first devrel
 - https://twitter.com/GergelyOrosz/status/1512041397259583491?s=20&t=1lJ6CQRZgcDnvKC8ZmSQKw
 
+
+## crossing the chasm and matching explanation
+
+- explaining benefits to later adopters
+- vs explaining how it works to early adopters
+
 ## breaking out of the devrel comfort zone
 
 - i didnt really think about headless ecommerce cms vs shopify
 	- 
 - stay within talking to js/react crew
+- how to break out and when?
+- tradeoffs
 
 
 ## the paas market

@@ -17,9 +17,9 @@ may 4 - acquiredfm seattle
 may 9 - john airbyte
 may 16-20 https://twitter.com/wordsesh/status/1509201593710878720?s=21 wordpress
 may 27 - not going - cityjs greece
-jun 2-3 craft-conf.com budapest - gergely hodicska
+jun 2-3 craft-conf.com budapest - gergely hodicska - proposed newtalk
 jun 7 jnation port -> https://www.flatio.com/
-jun 16 jsnation ams
+jun 16 jsnation ams -> 
 jun 25 cityjs singapore
 aug 26 temporalcon
 aug 29-sep5 cascadiajs bend OR

@@ -54,6 +54,7 @@
 		- exponential backoff https://622a7dcda0cc740008dd0443--blissful-borg-8305c0.netlify.app/tutorials/temporal/retry-policy
 	- timers
 		- custom functionality
+		- wf.condition -> mention acemarke
 	- signals & queries
 	- child workflows
 - How does it work?

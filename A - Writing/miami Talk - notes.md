@@ -22,7 +22,7 @@
 	- How do you solve this problem?
 		- "full stack uber clone"
 		- youtube: distributed media transcoding
-		- one click buy
+		- tweet undos https://twitter.com/swyx/status/1513301310434529288
 		- requirements - reliable (never lose user data), scalable, responsive...
 		- send people to temporal.io/react talk?
 	- state of solutions - bad problems

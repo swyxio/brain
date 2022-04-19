@@ -111,9 +111,9 @@ https://overcast.fm/+ycL9ybdsc 23 mins - 40 mins a defense of agile
 
 ## youtuber
 
-https://youtu.be/3A8kawxMOcQ mrbeast
-https://overcast.fm/+XptN-x7II 19 mins steal like an artist backstory
-***https://overcast.fm/+NBVuuQUhM 9mins mr beast***
+https://youtu.be/3A8kawxMOcQ mrbeast rogan
+
+https://overcast.fm/+NBVuuQUhM 9mins mr beast
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 https://nathanbarry.com/059-samir-chaudry-youtube-launch-creator-enterprise/ find format  and be consistent - 54 mins mark and there was a bit about the importance of finding format say at 20mins in
 - 10mins in https://overcast.fm/+NBVu0QSxE between two ferns wedge

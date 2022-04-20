@@ -204,6 +204,50 @@ chats
 	- talk thru what i could do
 
 explore
+	- crossplane
+		- the multicloud future
+			- 80b in 2020 - infra - ec2 etc
+			- 1.5tr in 2027 - snowflake, databricks, elastic, mongodb
+			- platform and infra services - gotto use best of breed services
+		- massive gaps
+			- time is split between working on service and integrating into the mothership
+			- they come together using glue scripts, terraform, ansible, ops, hiring devops, sre, etc
+		- everyone trying to build heroku. why dont we create a platform that lets you build your own heroku
+			- console
+			- cli
+			- api
+			- documentation
+			- control plane
+			- consuming backend services from aws etc
+			- customizable cloud platform for their own use
+		- similar: CRM - used oracle - coded your own java code
+		- realization: have to start with open source control plane. best kept secret in cloud - popular in hyperscalers, not very popular in enterprise
+		- oss governance, create 2 sided network -> vendors & users
+			- every new cloud service - as part
+			- hundreds of production deployments
+			- how much going thru crossplane
+		- part eng, organizational, foundation, devrel, community
+		- GOAL: all 1.5tr
+		- people resist being commoditized - represent them 1:1 - its not a problem for aws
+		- 3 of top 8 accounts at aws - only use crossplane
+		- 90% custs AWS
+		- k8s api but not k8s dependent
+			- k8s did 2 things: 
+			- container orchestration war
+				- won: control plane for 	containers
+				- built a better control plane for docker than docker did
+			- took control plane and made it extensible
+			- bassem worked on brook - control plane for storage
+			- inside of a k8s project
+		- upbound?
+			- crossplane is a framework for building ctrl plane
+			- upbound is a product that lets u DIY heroku that uses ctrl planes
+			- a set of management services
+			- IAM is to aws - cloudtrail, audit trail, logging, console, cli's, apis
+			- year 3
+		- control planes are a generational leap from infra as code
+			- terraform is at end of its cycle
+			- pulumi hitching on - diff engine, apply, drift world
 	- cloudflare
 	- replay?
 	- supabase?

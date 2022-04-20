@@ -1,3 +1,8 @@
+## the multicloud future
+- crossplane
+		- 80b in 2020 - infra - ec2 etc
+		- 1.5tr in 2027 - snowflake, databricks, elastic, mongodb
+		- platform and infra services - gotto use best of breed services
 
 
 
@@ -128,12 +133,13 @@ lace everything with cocaine
 - https://skamille.medium.com/product-for-internal-platforms-9205c3a08142
 	- But the platform team doesn’t build solutions for only one user. The whole value of a platform team is providing broadly-useful systems, so we are rarely presented with a well-specified need to fill.
 	-  In a perfect world, platform product managers are regularly using the products they support in order to identify pain points and gaps that engineers might miss and users may not complain about. In the real world it’s hard to find time to use your products in anger when you are also dealing with all the other parts of the PM job.
+-  control planes https://www.youtube.com/watch?v=mL0lWgPZrg4
 
-the authz as a service market
+### the authz as a service market
 - https://news.ycombinator.com/item?id=28543457
 
 
-the platform pivot
+### the platform pivot
 https://techcrunch.com/2021/03/22/zoom-introduces-new-sdk-to-help-developers-tap-into-video-services/
 
 

@@ -73,6 +73,7 @@ Daily stars
 - https://www.npmtrends.com/
 - https://npmcharts.com/
 - https://npm-stat.com/
+- npm module count growth vs other ecosystems https://twitter.com/dcorbacho/status/1516715605407191040?s=20&t=3-G8oAZk4KuLNX68XMyphw
 
 ## php
 

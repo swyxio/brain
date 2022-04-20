@@ -312,6 +312,35 @@ explore
 		- weak on product
 		- no enterprise motion today. 0 to 10 last year. no competition.
 		- CNCF angle
+		- julien
+			- transformers -> from dep learning, to audio, RL
+			- transformer architecture really central to ML
+			- huggingface hub
+			- still early but faster acceleration
+			- seriesC
+			- social network, collab layer
+			- 10yr
+			- ML as big as software eng
+			- what are pple paying for 
+				- monetization will change 
+				- right now a lot of enterprise custs - intel, qualcomm, etc - chips for ai - want pulse on the community
+				- experimenting with private model hub
+				- self serve saas product
+				- still learning
+				- intuition: when platform is much bigger - control of collab layer of ml - wont monetize collab layer - but seamless integration
+				- cloud distros - github couldve been gateway to frontend - wouldnt need to login to aws
+			- main barriers to get there
+				- build - interaction with community
+				- what has worked?
+				- hasnt been easy way to share NN models in the past - bc large files
+				- transformers
+				- gh -> visualizing layers of model, demos of models, streamlit
+				- acquired - gradial -> simpler streamlit
+					- pete pngwn
+				- talked about simon willison datasette
+			- still 1% of the way making ML truly accessible to a lot of people
+				- big challenge making ML as simple as possible for SWEs
+				- ideas
 	- any successful company
 		- deep IP
 		- can you simplify operational complexity

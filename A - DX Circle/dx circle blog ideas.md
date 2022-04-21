@@ -101,6 +101,41 @@ https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-adv
 			- "how we mapped game state"
 			- X without Y category
 - no theory, just do https://twitter.com/buildingwaves/status/1509231891039272964?s=21
+- # Content sync (04/20/2022)
+
+## Goal
+
+Identify high leverage pieces of content that require the least amount of time and effort to produce. Ideally we would focus on repurposing well established but minimally visible content.
+
+## Content areas
+
+-   Education
+    -   Example: [](https://docs.temporal.io/blog/dominik-workflow-part-1/)[https://docs.temporal.io/blog/dominik-workflow-part-1/](https://docs.temporal.io/blog/dominik-workflow-part-1/)
+    -   Example: [](https://www.youtube.com/watch?v=2HjnQlnA5eY)[https://www.youtube.com/watch?v=2HjnQlnA5eY](https://www.youtube.com/watch?v=2HjnQlnA5eY)
+    -   Example: [](https://www.youtube.com/watch?v=taKrIWt6KMY)[https://www.youtube.com/watch?v=taKrIWt6KMY](https://www.youtube.com/watch?v=taKrIWt6KMY)
+-   Application development with Temporal
+    -   Example: [](https://docs.temporal.io/blog/build-an-ecommerce-app-with-temporal-part-1)[https://docs.temporal.io/blog/build-an-ecommerce-app-with-temporal-part-1](https://docs.temporal.io/blog/build-an-ecommerce-app-with-temporal-part-1)
+    -   Example: [](https://www.youtube.com/watch?v=fN5bIL7wc5M)[https://www.youtube.com/watch?v=fN5bIL7wc5M](https://www.youtube.com/watch?v=fN5bIL7wc5M)
+-   Operations and deployment with Temporal
+    -   Example: [](https://mikhail.io/2021/05/choose-the-number-of-shards-in-temporal-history-service/)[https://mikhail.io/2021/05/choose-the-number-of-shards-in-temporal-history-service/](https://mikhail.io/2021/05/choose-the-number-of-shards-in-temporal-history-service/)
+    -   Example: [](https://mikhail.io/2020/11/how-to-deploy-temporal-to-azure-kubernetes-aks/)[https://mikhail.io/2020/11/how-to-deploy-temporal-to-azure-kubernetes-aks/](https://mikhail.io/2020/11/how-to-deploy-temporal-to-azure-kubernetes-aks/)
+    -   Example: [](https://docs.temporal.io/blog/auto-setup)[https://docs.temporal.io/blog/auto-setup](https://docs.temporal.io/blog/auto-setup)
+    -   Example: [](https://www.youtube.com/watch?v=bKRIkbxrVjs)[https://www.youtube.com/watch?v=bKRIkbxrVjs](https://www.youtube.com/watch?v=bKRIkbxrVjs)
+-   Architecture
+    -   Example: [](https://www.youtube.com/watch?v=KZFeHxdyers)[https://www.youtube.com/watch?v=KZFeHxdyers](https://www.youtube.com/watch?v=KZFeHxdyers)
+    -   Example: [](https://www.youtube.com/watch?v=t524U9CixZ0)[https://www.youtube.com/watch?v=t524U9CixZ0](https://www.youtube.com/watch?v=t524U9CixZ0)
+-   Temporal patterns and best practices
+    -   Example: [](https://docs.temporal.io/blog/workers-in-production/)[https://docs.temporal.io/blog/workers-in-production/](https://docs.temporal.io/blog/workers-in-production/)
+-   Personal post
+    -   Example: [](https://docs.temporal.io/blog/charles-zedlewski-why-i-joined-temporal/)[https://docs.temporal.io/blog/charles-zedlewski-why-i-joined-temporal/](https://docs.temporal.io/blog/charles-zedlewski-why-i-joined-temporal/)
+-   Integration
+    -   Example: [](https://aiven.io/blog/just-plug-it-in-aiven-and-temporal)[https://aiven.io/blog/just-plug-it-in-aiven-and-temporal](https://aiven.io/blog/just-plug-it-in-aiven-and-temporal)
+-   Benchmarking and performance
+    -   Example: [](https://manuel.bernhardt.io/2021/04/25/tour-of-temporal-performance/)[https://manuel.bernhardt.io/2021/04/25/tour-of-temporal-performance/](https://manuel.bernhardt.io/2021/04/25/tour-of-temporal-performance/)
+-   Thought leadership
+    -   Example: [](https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/)[https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/](https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/)
+    -   Example: [](https://www.youtube.com/watch?v=ohNzymi4hXA)[https://www.youtube.com/watch?v=ohNzymi4hXA](https://www.youtube.com/watch?v=ohNzymi4hXA)
+    -   Example: [](https://docs.temporal.io/blog/sergey-inversion-of-execution)[https://docs.temporal.io/blog/sergey-inversion-of-execution](https://docs.temporal.io/blog/sergey-inversion-of-execution)
 
 
 ### Build vs Buy Media Companies?

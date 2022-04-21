@@ -1,3 +1,7 @@
+## the deno gtm strategy
+
+
+
 ## the multicloud future
 - crossplane
 		- 80b in 2020 - infra - ec2 etc

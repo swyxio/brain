@@ -248,6 +248,86 @@ explore
 		- control planes are a generational leap from infra as code
 			- terraform is at end of its cycle
 			- pulumi hitching on - diff engine, apply, drift world
+		- chat with sumbry
+			- airbnb
+				- some director of eng
+				- https://www.linkedin.com/in/sumbry/
+				- built own platform with k8s - a whole interface called onetouch - abstract away
+				- amount of context needed was insane
+			- uber
+				- reliability
+				- believer in cadence
+			- twilio
+				- platform team at twlo
+				- when you joined twlo you had to be part of the telcom space
+				- moved to bay area for it
+				- started to get it for texting - but actually cloud comms api, and it was the platform
+				- it was developer evangelist group
+			- why crossplane
+				- control plane tech
+				- what are all the applications we have for this
+			- challenges: need to continue building out the upbound product, but also do education about the space
+				- custs: how do i best use this
+				- evangelism - new product
+				- building stuff for 2 sets of custs
+				- takes 3 months to get really good at it
+				![[Pasted image 20220420212254.png]]
+				- 4 concepts
+					- universal api <- start here
+					- composable resources
+						- make arbitrary api's/resources
+							- give you ability to easily mode
+						- app store for the cloud
+						- like a whole marketplace
+						- databases, logging systems, pricing
+					- universal packages
+					- crossplane control plane
+				- k8s vs crossplane - unopinionated
+					- xplane is not a platform, we give you the ability to become a platform
+				- use this tech to build your own platform
+				- build a lot of powerful stuff on top of api
+					- building resource discovery system
+					- can talk to k8s api - to commercial product 
+				- xplane framework created around k8s - makes it easy to have a console, cli, etc
+					- directly use kubectl to see status
+				- mgmt services - what we are now building for upbound 2.0
+					- if xplane is a framework, anytime you need to support sth new eg. bringing your own secret store
+					- create extension points to xplane itself
+					- lots of different integrations
+					- open observability system 
+					- low level 
+					- one of the risk of the company is someone coming along with higher level stuff
+				- even with UIs you can annotate
+				- support - control
+			- standalone product and cloud product as well
+				- host and run all control planes
+				- agent that you may run in a cluster <- upbound 2 agent
+				- no visibility into anything else at all
+			- wants: keep swapping out different components they need
+			- stuff you dont do?
+				- having a box of lego bricks
+				- doesnt have any instructions
+				- reference any instructions
+			- he asked me what you think the role is
+				- community
+				- registry
+					- otel system
+			- demo of product doing something
+				- twlo - 5mins -> get it down - create use resources
+			- heroku -> shipyard
+			- ![[Pasted image 20220420214917.png]]
+			- use cases
+				- manage k8s
+				- developerportals
+				- cloud aggregation
+					- see all resources across cloud env
+			- 5k community, 3k followers, 3k slack
+				- ![[Pasted image 20220420215026.png]]
+			- how to add support into xplane for anything
+			- its an abstraction layer for anything with a public api
+				- its SaaS companies - you can model twlo with xplane
+				- its hybrid cloud - anything with a public api
+				- configure the whole IT stack for a company
 	- cloudflare
 	- replay?
 	- supabase?

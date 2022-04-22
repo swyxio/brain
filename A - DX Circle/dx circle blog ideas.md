@@ -1,3 +1,10 @@
+
+## the postgres - analytics pivot
+
+start with postgres _ take 2 years to add analytics and shift to data warehouse
+casey from accel https://www.accel.com/noteworthy/welcome-casey-aylward
+
+
 ## the deno gtm strategy
 
 

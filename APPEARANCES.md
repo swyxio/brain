@@ -18,7 +18,7 @@ may 9 - john airbyte
 may 16-20 https://twitter.com/wordsesh/status/1509201593710878720?s=21 wordpress
 may 27 - not going - cityjs greece
 jun 2-3 craft-conf.com budapest - gergely hodicska - proposed newtalk
-jun 2-3 jsworld / jos
+jun 1-3 jsworld / jos
 jun 7 jnation port -> https://www.flatio.com/
 jun 16 jsnation ams -> withdraw
 jun 25 cityjs singapore

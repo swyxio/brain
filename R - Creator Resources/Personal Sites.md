@@ -55,6 +55,7 @@
 	- https://www.jamesqquick.com/courses
 	- https://www.no.lol/
 	- https://www.theengineeringmanager.com
+	- https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/
 
 Corporate
 - https://www.gatsbyjs.com/blog/

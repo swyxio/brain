@@ -1,4 +1,12 @@
 
+## what devrel does
+
+- speaking
+- demos
+- podcast 
+- 
+
+
 ## the postgres - analytics pivot
 
 start with postgres _ take 2 years to add analytics and shift to data warehouse

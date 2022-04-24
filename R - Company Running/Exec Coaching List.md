@@ -2,6 +2,11 @@
 
 
 
+## exec assistant 
+
+- https://twitter.com/sullybusiness?s=21&t=57na8HknRwHb5qg4HhOrmQ
+- withdouble
+
 
 
 jerry neumann

@@ -382,6 +382,27 @@ see linked landing pages above
   - pricing: https://chl.st/6ZJg--z0N/
   - images: https://chl.st/RheVCrXQT/
   - prelaunch: https://chl.st/-Xfs0vIDM/
+- design details gut-check checklist for apps https://designdetails.fm/episodes/wWCM6QBx
+	-   Talk to eng!
+	-   Design systems!
+	-   Retrospectives and learning from mistakes
+	-   No data, some data, lots of data
+	-   Long strings, short strings, emoji, other user generated content
+	-   New user (to product and to feature)
+	-   Network status — offline state / network change
+	-   Loading states
+	-   Error states
+	-   Screen sizes / orientation
+	-   Accessibility settings (text size, contrast modes, voiceover)
+	-   Entry points (deep link, email)
+	-   Signed in, signed out, other authentication states
+	-   Permissions status
+	-   Color themes
+	-   Performance
+	-   Metrics / analytics
+	-   Product-specific settings
+	-   Product-specific plans (free, pro, etc.)
+	-   Product-specific content (moderation, pending requests, etc.)
 - https://landingpage.fyi/
 	- https://landingpage.fyi/landing-page-checklist.html
 - FAQ Footers: https://onepagelove.com/tag/whitespace

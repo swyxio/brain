@@ -39,6 +39,7 @@ I put together a 90 minute Egghead.io [Course](https://egghead.io/courses/build-
 - [**arg**](https://github.com/vercel/arg): Built by [Vercel](https://github.com/vercel), used by `vercel`, `ncc`, `micro`, `serve`, and many others. Key Feature: [tiny](https://packagephobia.now.sh/result?p=arg)
 - [**cac**](https://github.com/cacjs/cac): Built by [Egoist](https://github.com/egoist), used by `create-nuxt-app` and many others.
 - Pastel for React-ink - used in Twilio <https://www.twilio.com/blog/building-conference-cli-in-react>
+- https://www.textualize.io/ - Python utils for pretty printing, syntax highlighting, nice display
 
 > New: see CLUI <https://blog.repl.it/clui>
 

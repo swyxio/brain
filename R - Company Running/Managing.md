@@ -11,6 +11,9 @@ https://twitter.com/jspujji/status/1494743094813548544?s=21
 	- https://twitter.com/mrechs/status/1516024322409832450?s=21&t=P8Z-yg3ypI0yw5a2xwKPAw
 
 
+https://acjay.com/2022/03/11/11-principles-of-engineering-management/
+good response https://news.ycombinator.com/item?id=31154738
+
 
 https://twitter.com/MrJacobEspi/status/1513509689236996097
 - leading a team

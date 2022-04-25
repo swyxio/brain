@@ -1,6 +1,8 @@
 https://twitter.com/theryanking/status/1475122757117653003?s=21
 
 
+https://growth.eladgil.com/
+
 profit sharing
 https://twitter.com/nathanbarry/status/1491429183977050114?s=21
 

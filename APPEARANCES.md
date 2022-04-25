@@ -1,4 +1,4 @@
-
+compressedfm https://overcast.fm/+s3Urc2IAY
 
 ## speaking
 
@@ -54,6 +54,8 @@ rtfeldman https://www.listennotes.com/podcasts/software-unscripted/crossing-the-
 meta muse https://museapp.com/podcast/53-career/
 
 livestream with hasura
+
+compressedfm https://overcast.fm/+s3Urc2IAY
 
 some livestrwam i did on RSCs https://youtu.be/qIPWzRvPSxk
 

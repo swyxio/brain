@@ -154,6 +154,9 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project - 18mins
 https://overcast.fm/+HhhiZISrU be rhe driver 18mins
 
+
+not being a founder and minimalism https://overcast.fm/+JEN0VljwU/20:44 19 mins to 23 mins
+
 ## cal newport
 
 https://overcast.fm/+b1V3EeycY deep work 6:30mins

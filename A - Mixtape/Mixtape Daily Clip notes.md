@@ -11,10 +11,6 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 ## general dump
 
 
-owning twitter
-- https://overcast.fm/+OySdg2mIg https://www.youtube.com/watch?v=EHTvN0ux3W0 2mins in
-- https://overcast.fm/+S_MNRg - TED 2022 https://www.youtube.com/watch?v=cdZZpaB2kDM 11mins in
-- 3 cartoon avatars discussion
 
 expert blindness https://overcast.fm/+RCm27mAv4 25-35 mins
 

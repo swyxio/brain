@@ -1,0 +1,64 @@
+Originals
+
+- If the First Age was about building out a language, and the Second Age was about users exploring and expanding the language, the Third Age is about clearing away legacy assumptions and collapsing layers of tooling.
+- In summary: Third Age JS tools will be
+	-   Faster
+	-   ESM first
+	-   Collapsed Layers (One thing doing many things well instead of many things doing one thing well)
+	-   Typesafe-er (built with a strongly typed language at core, and supporting TS in user code with zero config)
+	-   Secure-er (from dependency attacks, or lax permissions)
+	-   Polyglot
+	-   Neo-Isomorphic (recognizing that much, if not most, JS should run first at buildtime or on server-side before ever reaching the client)
+- The result of all of this work is **both a better developer experience** (faster builds, industry standard tooling) and **user experience** (smaller bundles, faster feature delivery). It is the final metamorphosis of JavaScript from site scripting toy language to full application platform.
+
+
+Points
+- VC funding
+- Rust won?
+	- but swc choosing go
+- Monorepos emerging
+	- turborepo
+	- nx
+- No SSGs
+	- eleventy
+	- gatsby v4
+- IE11 dead
+- React 18
+- React ecosystem
+	- npm charts/downloads https://twitter.com/swyx/status/1498761714153947137/photo/1
+- Tooling shift
+	- Node -> Deno
+		- https://github.com/elsaland/elsa
+		- https://github.com/boa-dev/boa
+	- Webpack -> Vite
+	- TypeScript
+	- Babel -> swc
+	- Jest -> vitest
+	- Prettier ->  dprint?
+	- eslint -> rslint?
+	- fnm
+	- bun: https://github.com/Jarred-Sumner/bun
+	- dprint / rslint
+	- Qwik, Solidjs
+- Rise of Web Standards
+	- clientside: Remix
+	- serverside: CF Workers and Deno
+- Death of SSG - Incremental First, Edge Second
+	- no need for node
+	- cheaper than lambda
+	- minimal build times
+- WASM
+	- https://suborbital.network/ vs fermyon? v different
+	- https://github.com/Zaplib/zaplib
+	- https://www.infoworld.com/article/3651503/the-rise-of-webassembly.html
+- React for everything else
+	- Dagster
+	- Temporal
+- Wordpress
+	- by 2025 more than 50%
+	- https://twitter.com/swyx/status/1507028477345558531
+- opportunities
+	- dev/prod isolation
+	- self provisioning runtimes
+	- telemetry back into dev - sentry, replay
+	- low code/no code

@@ -15,8 +15,6 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 expert blindness https://overcast.fm/+RCm27mAv4 25-35 mins
 
 
-https://overcast.fm/+sZZba3sKo 43 mins fast analaysis
-
 https://overcast.fm/+B1yJwoLjo 15ish mins origin of mailgun
 
 open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
@@ -58,6 +56,10 @@ https://overcast.fm/+rra5cp2f8 28 mins - cost of consultants
 
 
 https://overcast.fm/+vxHeQhSaU 22min amazon book monopoly 
+
+## startups
+
+why terminal why warp 12 mins https://overcast.fm/+HZUf-oI6A to 15 mins
 
 ## small projects
 

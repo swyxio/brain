@@ -41,7 +41,31 @@ chats
 	- do memoization relatively easily
 	- backfills are essential in data eng -> partioning
 	- late series A - 2019 14 @ 60, 2021 20 @ 300
-	- concern - 2 teams ->
+	- concern - small teams - big teams
+	- molly
+		- bias to action, autonomy, collaborative
+		- biggest issues
+			- content - post tutorial
+			- improve onboarding
+			- best practices - best way to organize xyz
+			- getting things off slack - https://www.linkedin.com/in/yuhan-luo/
+			- community - ambassador program
+			- team - docs writer,  yuhan, cloud team, open source team
+		- bandwidth to create content
+		- next launch in engineering
+		- dataviz meetup chicago -> vizfest -> dataviz society -> outlier conf - very pulled to community
+		- community stuff, teaching
+		- why elementl
+			- talked about nick + culture
+			- liked user centric culture - how many excited users they have
+				- aha user - super engaged -> dennis/dutchy/david wallace - delightful user interaction
+			- biotech company using dagster
+			- k-12 school data systems using dagstr
+			- goodeggs
+			- struggled with? no - but at netflix - data part of it
+		- observable - ceo micromang.
+		- questions
+			- philosophy of metrics
 - airbyte
 	- discussion
 		- defensible moat

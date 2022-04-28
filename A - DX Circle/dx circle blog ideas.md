@@ -5,6 +5,10 @@
 	- git push heroku main? https://twitter.com/craigkerstiens/status/1519496090646589440
 - https://twitter.com/sraney/status/1519516583042818049
 - what are the harder problems?
+
+quotes
+- https://twitter.com/monkchips/status/1368924845740810249?s=21&t=nccGOWiverP2Swdz-YzRfQ
+- https://twitter.com/adamhjk/status/1369704730218299392?s=21&t=nccGOWiverP2Swdz-YzRfQ
 - 
 
 ## what devrel does

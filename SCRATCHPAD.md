@@ -13,6 +13,8 @@ highpri watching
 
 related reads
 - https://maximebeauchemin.medium.com/the-downfall-of-the-data-engineer-5bfb701e5d6b
+- https://www.dataliftoff.com/data-warehouses-are-the-past-present-and-future/
+- https://semistructured.substack.com/p/why-i-joined-dbt-labs?s=r
 - https://towardsdatascience.com/airbyte-worth-the-hype-d2f25d0a7ca5
 - https://www.georgesequeira.com/writing/zapier-the-5b-unbundling-opportunity/
 - https://airbyte.com/blog/etl-framework-vs-etl-script

@@ -12,53 +12,90 @@ Originals
 - The result of all of this work is **both a better developer experience** (faster builds, industry standard tooling) and **user experience** (smaller bundles, faster feature delivery). It is the final metamorphosis of JavaScript from site scripting toy language to full application platform.
 
 
-Points
-- VC funding
-- Rust won?
-	- but swc choosing go
-- Monorepos emerging
-	- turborepo
-	- nx
-- No SSGs
-	- eleventy
-	- gatsby v4
-- IE11 dead
-- React 18
-- React ecosystem
-	- npm charts/downloads https://twitter.com/swyx/status/1498761714153947137/photo/1
-- Tooling shift
-	- Node -> Deno
-		- https://github.com/elsaland/elsa
-		- https://github.com/boa-dev/boa
-	- Webpack -> Vite
-	- TypeScript
-	- Babel -> swc
-	- Jest -> vitest
-	- Prettier ->  dprint?
-	- eslint -> rslint?
-	- fnm
-	- bun: https://github.com/Jarred-Sumner/bun
-	- dprint / rslint
-	- Qwik, Solidjs
-- Rise of Web Standards
-	- clientside: Remix
-	- serverside: CF Workers and Deno
-- Death of SSG - Incremental First, Edge Second
-	- no need for node
-	- cheaper than lambda
-	- minimal build times
-- WASM
-	- https://suborbital.network/ vs fermyon? v different
-	- https://github.com/Zaplib/zaplib
-	- https://www.infoworld.com/article/3651503/the-rise-of-webassembly.html
-- React for everything else
-	- Dagster
-	- Temporal
-- Wordpress
-	- by 2025 more than 50%
-	- https://twitter.com/swyx/status/1507028477345558531
+Framework for new developments
+- 1. Validation of current bets
+	- IE11 deader
+	- State of JS 2021
+		- React ecosystem npm charts/downloads https://twitter.com/swyx/status/1498761714153947137/photo/1
+		- Redwood and Blitz
+	- eng manager whose #1 priority is reducing yarn start time from minutes to seconds
+- 2. Incrementally adoptable tools and Upgrades to tools you use today
+	- - Tooling shift
+		- Node -> Deno
+			- https://github.com/elsaland/elsa
+			- https://github.com/boa-dev/boa
+		- Webpack -> Vite
+		- Babel -> swc
+		- Jest -> vitest
+		- Prettier ->  dprint?
+		- eslint -> rslint?
+		- fnm
+		- bun: https://github.com/Jarred-Sumner/bun
+		- dprint / rslint
+		- TypeScript -> notypescript??
+			- Prisma
+			- edgedb builder https://www.edgedb.com/
+		- Rust won?
+			- but swc choosing go
+			- https://leerob.io/blog/rust
+		- Qwik, Solidjs
+		- Partytown
+	- Browser IDEs
+		- Stackblitz - WebContainers
+		- Gitpod
+		- GH Codespaces https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/
+		- Coder.com, Replit
+	- Monorepos emerging
+		- turborepo
+		- nx
+- 3. New architectures
+	- VC funding
+	- "Neo-isomorphic": ISR, bootloaders, No SSGs
+		- eleventy
+		- gatsby v4
+		- React 18/server components
+	- Smart client vs Smart servers
+		- https://www.swyx.io/client-server-battle
+		- https://github.com/jlongster/absurd-sql
+	- Incremental First, Edge Second
+		- no need for node
+		- cheaper than lambda
+		- minimal build times
+	- Rise of Web Standards
+		- clientside: Remix
+		- serverside: CF Workers and Deno- Wordpress
+		- by 2025 more than 50%
+		- https://twitter.com/swyx/status/1507028477345558531
+- 4. New languages
+	- WASM
+		- https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en
+		- https://suborbital.network/ vs fermyon? v different
+		- https://github.com/Zaplib/zaplib
+		- https://www.infoworld.com/article/3651503/the-rise-of-webassembly.html
+			- https://medium.com/disney-streaming/introducing-the-disney-application-development-kit-adk-ad85ca139073
+	- Blazor/.NET
+	- Flutter/Dart
+	- Liveview/Phoenix
+	- Hotwire/Rails
+	- Streamlit/Python
+	- React for everything else
+		- Dagster
+		- Temporal
+
 - opportunities
 	- dev/prod isolation
+	- BaaS
+		- supabase, convex, hasura, xata, 
+		- planetscale
 	- self provisioning runtimes
-	- telemetry back into dev - sentry, replay
-	- low code/no code
+		- serverless cloud
+	- telemetry back into dev - sentry, replay, apollo engine
+		- https://www.apollographql.com/docs/devtools/editor-plugins/#performance-insights
+	- low code/no code - budibase, builder.io, prismic/plasmic/stackblitz
+		- "visual basic for React"  utopia.app
+	- Teach
+		- scrimba
+		- courselift ryan chenkie
+		- josh comeau
+		- egghead
+		- frontendmasters

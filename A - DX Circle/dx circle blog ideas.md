@@ -1,4 +1,12 @@
 
+## heroku for x, so what?
+
+- what does it really mean to be "heroku for x"
+	- git push heroku main? https://twitter.com/craigkerstiens/status/1519496090646589440
+- https://twitter.com/sraney/status/1519516583042818049
+- what are the harder problems?
+- 
+
 ## what devrel does
 
 - speaking

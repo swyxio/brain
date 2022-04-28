@@ -1,4 +1,4 @@
-Original talk
+## Original talk
 
 - If the First Age was about building out a language, and the Second Age was about users exploring and expanding the language, the Third Age is about clearing away legacy assumptions and collapsing layers of tooling.
 - In summary: Third Age JS tools will be
@@ -12,14 +12,12 @@ Original talk
 - The result of all of this work is **both a better developer experience** (faster builds, industry standard tooling) and **user experience** (smaller bundles, faster feature delivery). It is the final metamorphosis of JavaScript from site scripting toy language to full application platform.
 
 
-Updated talk
+## Updated talk
 
 Framework for new developments
 - 1. Validation of current bets
+	- ESM is growing
 	- IE11 deader
-	- JS weight - 500kb https://httparchive.org/reports/state-of-javascript - rising 19% in 2020
-		- 36% unused https://almanac.httparchive.org/en/2021/javascript#fig-4
-		- 84% jquery 8% react https://almanac.httparchive.org/en/2021/javascript#fig-25
 	- State of JS 2021
 		- React ecosystem npm charts/downloads https://twitter.com/swyx/status/1498761714153947137/photo/1
 		- Nextjs default
@@ -104,6 +102,9 @@ Framework for new developments
 		- dev/prod isolation??
 	- Advanced: **Bring back the open web**
 		- wordpress https://twitter.com/swyx/status/1507028477345558531
+			- JS weight - 500kb https://httparchive.org/reports/state-of-javascript - rising 19% in 2020
+				- 36% unused https://almanac.httparchive.org/en/2021/javascript#fig-4
+				- 84% jquery 8% react https://almanac.httparchive.org/en/2021/javascript#fig-25
 			- low code/no code - budibase, builder.io, prismic/plasmic/stackblitz
 			- "visual basic for React"  utopia.app
 		- desktop vs mobile

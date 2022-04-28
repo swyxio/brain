@@ -47,7 +47,7 @@ the trust equation https://overcast.fm/+OozM5Blcw 25 mins
 gates explains internet https://youtu.be/fs-YpQj88ew
 
 
-bolt guy https://three-cartoon-avatars.simplecast.com/episodes/ep-10-interview-with-ryan-breslow-the-silicon-valley-mob-twilio-insider-trading-and-why-onlyfans-cant-find-investors
+
 
 
 oligarch yachts https://overcast.fm/+BmH2Cs0ig 35mins
@@ -238,6 +238,7 @@ uncovering dao hack https://overcast.fm/+O-dbduSYI
 	- 45 mins knowing the stack
 - 4 stages if the ownership economy https://overcast.fm/+YNeSoJsXs 36mins
 - k8s documentary https://overcast.fm/+B1yJZf4lw 7mins
+- bolt guy https://three-cartoon-avatars.simplecast.com/episodes/ep-10-interview-with-ryan-breslow-the-silicon-valley-mob-twilio-insider-trading-and-why-onlyfans-cant-find-investors
 
 
 

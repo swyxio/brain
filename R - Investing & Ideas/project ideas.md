@@ -27,6 +27,7 @@ Personal data warehouse
 neutral OSS telemetry provider
 - trusted for privacy
 - free for many OSS
+- https://about.scarf.sh/ started!!
 
 
 roth ira startup

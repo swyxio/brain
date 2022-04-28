@@ -9,7 +9,7 @@
 quotes
 - https://twitter.com/monkchips/status/1368924845740810249?s=21&t=nccGOWiverP2Swdz-YzRfQ
 - https://twitter.com/adamhjk/status/1369704730218299392?s=21&t=nccGOWiverP2Swdz-YzRfQ
-- 
+- https://redmonk.com/sogrady/2021/06/23/aws-heroku/
 
 ## what devrel does
 

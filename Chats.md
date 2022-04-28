@@ -1,5 +1,47 @@
 chats
 - sentry
+- elementl
+	- 25custs -> 50
+	- 600k arr -> 2m arr
+	- cloud GA
+	- 1300 weekly active
+	- heterogeonous - loom, duchy, gopuff but also united site services - maybe shell, hasbro, kraft
+	- acv's - 100k's
+	- category - only manages retries - but with SDAs, pushing up stack to observability, lineage
+	- highly valued product
+	- SDAs
+		- concept: solid -> renamed to op
+		- platform for software structured data assets
+		- dbt seed round
+		- dbt specialized for sql - now python
+		- originally pure software layer over airflow
+		- airbyte -> asset oriented technology
+		- dbt -> specialized
+		- continual in ML space - some system that connects everything that is sensible for coherent platform
+		- had a built in asset catalog that had lineage etc - users found that useful if they took the effort
+	- amount of insight out of orchestration layer has gone down
+		- 5tran airbyte dbt - no system that has visibility
+		- people have overlapping cron jobs
+		- no system of record for data assets
+		- MDS - wanna write some python - no way to write it in dbt-airbyte - python is 2nd class citizen in MDS. SDA's defined in python elevates that. build ML training pipelines that are rich and easy to developer
+			- analytics persona -> dbt
+			- modern data eng persona -> dagster
+		- dbt cloud -> dagster cloud - technology solution
+	- biggest risk -
+		-  acvs may not go high enough - upper 5figs now. 
+			- budget? data platform teams - people responsible for snowflake
+		- dont figure out positioning viz airflow. perception value prop not high enough
+		- our next step - default thing to use for forward leaning position
+	- prefect 
+		- focused/narrow view of orchestration - only about scheduling and retries, positive/negative workflows
+		- target data science persona - but dagster buildilng general platform usecase
+	- DAG -> visualize everything prior to computation - easily compute and display asset lineage
+		- express how assets are interrelated to each other
+		- use information to look it up in dagster, when it was last touched
+	- do memoization relatively easily
+	- backfills are essential in data eng -> partioning
+	- late series A - 2019 14 @ 60, 2021 20 @ 300
+	- concern - 2 teams ->
 - airbyte
 	- discussion
 		- defensible moat

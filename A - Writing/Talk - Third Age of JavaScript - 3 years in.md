@@ -1,3 +1,6 @@
+
+https://share.icloud.com/photos/01721IYGavAAYFR_x8SRw-nbg
+
 ## Original talk
 
 - If the First Age was about building out a language, and the Second Age was about users exploring and expanding the language, the Third Age is about clearing away legacy assumptions and collapsing layers of tooling.

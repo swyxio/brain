@@ -77,7 +77,6 @@ Framework for new developments
 	- WASM
 		- https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en
 		- https://suborbital.network/ vs fermyon? v different
-		- https://github.com/Zaplib/zaplib
 		- https://www.infoworld.com/article/3651503/the-rise-of-webassembly.html
 			- https://medium.com/disney-streaming/introducing-the-disney-application-development-kit-adk-ad85ca139073
 	- Blazor/.NET

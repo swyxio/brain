@@ -34,6 +34,11 @@
       "type": "file",
       "title": "Launch Cheatsheet",
       "path": "R - Product/Launch Cheatsheet.md"
+    },
+    {
+      "type": "file",
+      "title": "Talk - Third Age of JavaScript - 3 years in",
+      "path": "A - Writing/Talk - Third Age of JavaScript - 3 years in.md"
     }
   ]
 }

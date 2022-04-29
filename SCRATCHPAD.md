@@ -133,3 +133,303 @@ need it, and then remove it.
 - todo: try veed.io
 
 - read: <http://www.craftinginterpreters.com/contents.html>
+
+
+
+### substack pubs
+
+Lenny's Newsletter
+Lenny's Newsletter
+Paid Subscriber
+
+Edit
+Alex Danco's Newsletter
+Alex Danco's Newsletter
+Free Subscriber
+
+Edit
+The Analytics Engineering Roundup
+The Analytics Engineering Roundup
+Free Subscriber
+
+Edit
+A
+Art Dev
+Free Subscriber
+
+Edit
+The Bear Cave
+The Bear Cave
+Free Subscriber
+
+Edit
+C
+Calvin's Field Notes
+Free Subscriber
+
+Edit
+Check your Pulse
+Check your Pulse
+Free Subscriber
+
+Edit
+chiefofstuff
+chiefofstuff
+Free Subscriber
+
+Edit
+Chinese Characteristics
+Chinese Characteristics
+Free Subscriber
+
+Edit
+Cloud Irregular
+Cloud Irregular
+Free Subscriber
+
+Edit
+C
+Community Playbooks
+Free Subscriber
+
+Edit
+Constine's Newsletter
+Constine's Newsletter
+Free Subscriber
+
+Edit
+The Curiosity Chronicle
+The Curiosity Chronicle
+Free Subscriber
+
+Edit
+CWS Market Review
+CWS Market Review
+Free Subscriber
+
+Edit
+Default Wisdom
+Default Wisdom
+Free Subscriber
+
+Edit
+The Diff
+The Diff
+Free Subscriber
+
+Edit
+Drawing Links
+Drawing Links
+Free Subscriber
+
+Edit
+E
+Editorial’s Newsletter
+Free Subscriber
+
+Edit
+An Engineering Self-Study
+An Engineering Self-Study
+Free Subscriber
+
+Edit
+EthHub
+EthHub
+Free Subscriber
+
+Edit
+Fact of the Day 1
+Fact of the Day 1
+Free Subscriber
+
+Edit
+First 1000
+First 1000
+Free Subscriber
+
+Edit
+The Flywheel
+The Flywheel
+Free Subscriber
+
+Edit
+Gwern.net Newsletter
+Gwern.net Newsletter
+Free Subscriber
+
+Edit
+H
+Harvey Multani
+Free Subscriber
+
+Edit
+Inverted Passion Community Newsletter
+Inverted Passion Community Newsletter
+Free Subscriber
+
+Edit
+J
+Jeff’s Newsletter
+Free Subscriber
+
+Edit
+J
+Julie Young's Newsletter
+Free Subscriber
+
+Edit
+L
+Lessons From The Crisis
+Free Subscriber
+
+Edit
+Lolita's Newsletter
+Lolita's Newsletter
+Free Subscriber
+
+Edit
+luttig's learnings
+luttig's learnings
+Free Subscriber
+
+Edit
+M
+Midnight on the Market Momentum
+Free Subscriber
+
+Edit
+Net Interest
+Net Interest
+Free Subscriber
+
+Edit
+Newcomer
+Newcomer
+Free Subscriber
+
+Edit
+no-code report
+no-code report
+Free Subscriber
+
+Edit
+Noahpinion
+Noahpinion
+Free Subscriber
+
+Edit
+Normcore Tech
+Normcore Tech
+Free Subscriber
+
+Edit
+Not Boring by Packy McCormick
+Not Boring by Packy McCormick
+Free Subscriber
+
+Edit
+On Substack
+On Substack
+Free Subscriber
+
+Edit
+P
+Plasmic’s Newsletter
+Free Subscriber
+
+Edit
+The Premoney List
+The Premoney List
+Free Subscriber
+
+Edit
+Product Lessons
+Product Lessons
+Free Subscriber
+
+Edit
+Programming Feedback for Advanced Beginners
+Programming Feedback for Advanced Beginners
+Free Subscriber
+
+Edit
+Quick Brown Fox by Salman Ansari
+Quick Brown Fox by Salman Ansari
+Free Subscriber
+
+Edit
+R
+Recommender Alignment Newsletter
+Free Subscriber
+
+Edit
+Reflect Changelog
+Reflect Changelog
+Free Subscriber
+
+Edit
+Remains of the Day
+Remains of the Day
+Free Subscriber
+
+Edit
+Software at Scale
+Software at Scale
+Free Subscriber
+
+Edit
+Sriram Krishnan -  Montage Sequence
+Sriram Krishnan - Montage Sequence
+Free Subscriber
+
+Edit
+TJCX
+TJCX
+Free Subscriber
+
+Edit
+TK News by Matt Taibbi
+TK News by Matt Taibbi
+Free Subscriber
+
+Edit
+Trove Dispatch
+Trove Dispatch
+Free Subscriber
+
+Edit
+T
+Tyler’s Musings
+Free Subscriber
+
+Edit
+Week in Clubhouse
+Week in Clubhouse
+Free Subscriber
+
+Edit
+The Weekly Shuffle
+The Weekly Shuffle
+Free Subscriber
+
+Edit
+Wellness Wisdom by Patricia Mou
+Wellness Wisdom by Patricia Mou
+Free Subscriber
+
+Edit
+W
+wongmjane
+Free Subscriber
+
+Edit
+W
+World Builders
+Free Subscriber
+
+Edit
+Y
+Yehuda Katz
+Free Subscriber
+
+Edit

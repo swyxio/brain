@@ -125,17 +125,12 @@ https://overcast.fm/+IPH8QGS8U 10 mins pitch meeting ryan george origin
 
 https://overcast.fm/+BlzFmmbag 7 mins cold start
 
-https://overcast.fm/+L7tg4SiaI dont build media companies 9mins
-
-audience building is overrated
--  https://twitter.com/robwalling/status/1306591312498405376?s=21
-- https://twitter.com/jakobgreenfeld/status/1471521359977013250?s=21
 
 how nate berkopec found his niche https://overcast.fm/+gJ-XO33X4 10mins
 
 ## writing
 
-- fight club  https://youtu.be/GiOuUP9z7l4
+
 - https://www.3books.co/chapters/22 chef vs cook tim urban 1hr mark
 - https://overcast.fm/+YQ473Uv6w rank self publish book on amazon 30 mins
 - writers block https://youtu.be/Xb_S4kH0WdE

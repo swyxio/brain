@@ -47,3 +47,5 @@ growth marketing
 people need to hear about you 12 times
 https://twitter.com/david_perell/status/1496510931848740865?s=21
 
+## seo
+- https://overcast.fm/+os2akmeNM

@@ -16,8 +16,6 @@ pink what about us https://youtu.be/DBbOGtpAUHA
 
 britney 15mins https://overcast.fm/+F-Fw36FH8
 
-postmodern jukebox https://youtu.be/aLnZ1NQm2uk
-
 boyce ave https://www.youtube.com/watch?v=Sv8XHiTkDYg
 
 story swimming https://overcast.fm/+lXsYeE 35 mins

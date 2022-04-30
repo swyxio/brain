@@ -2,6 +2,16 @@ https://youtu.be/27zuReojDVw
 
 
 
+## the tradeoffs of open source
+
+mergent conversafion with james martinez vs what we learned at temporal
+building 2 of everything
+tendency to make it as hard to use as possible
+devrel for open source
+https://overcast.fm/+oUqDfS8Eo
+bun is not open source
+
+
 ## heroku for x, so what?
 
 - what does it really mean to be "heroku for x"

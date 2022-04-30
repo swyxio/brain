@@ -8,26 +8,29 @@ apr 18-19 react miami
 apr 20 - devx conf talk
 apr 24 sf
 Apr 24 deadline for reactathon recording
-apr 25 sf temporal dinner/meetup?
-apr 26/27 benghamine din
 apr 28 alana din
-apr 29-30? sf temporal dinner/meetup?
 may 2-5 reactathon - may 4 3.35pm -> multiverse of madness
-may 4 - acquiredfm seattle
 may 9 - john airbyte
 may 16-20 https://twitter.com/wordsesh/status/1509201593710878720?s=21 wordpress
+may 16-20 airbyte nyc
+may 23 - airflow summit
 may 27 - not going - cityjs greece
-jun 2-3 craft-conf.com budapest - gergely hodicska - proposed newtalk
+jun 2-3 craft-conf.com budapest - withdraw
 jun 1-3 jsworld / jos
 jun 7 jnation port -> https://www.flatio.com/
+jun 13-16 snowflake summit
 jun 16 jsnation ams -> withdraw
 jun 25 cityjs singapore
+jun 27-30 - data/ai summit
+jul 12 - AWS summit nyc
 aug 26 temporalcon
 aug 29-sep5 cascadiajs bend OR
 sept 8-9 stockholm svelte
+sept 21 - big data london
 sep 19-20 zadar infobip
 oct 6-7 infoshare 2022 gdansk
 oct 27 - porto tech hub rejecred
+nov 8 - airbyte conf
 nov lagos? jan?
 dec allscope
 

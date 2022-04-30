@@ -6,13 +6,15 @@ The Circles
 - docs
 - content
 - community
-- UGC
+- UGC/ecosystem
 
-TALK ABOUT SVELTE SOCIETY STORY
+key tlaking points
+- TALK ABOUT SVELTE SOCIETY STORY
+- kevin kwok/ecosystem play
 
 Dimensions of the Circles
 - negative engineering? or dev exceptions
-- onboarding -> production -> prod-dev -> billing -?
+- onboarding/development -> production/scaling -> monitoring/observability -> billing/security
 
 Other definitions of devx
 - single command do a lot -> until too magic

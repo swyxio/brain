@@ -5,6 +5,7 @@
 - categorized index, "best", and "popular"
 - Resources page
 - newsletter link page
+- https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/
 
 ## Wows
 

@@ -1,6 +1,19 @@
 https://youtu.be/27zuReojDVw
 
 
+## stripe lessons
+
+
+t1 decisions (eg cross teams ) - review after 1-3-9 months
+
+writing/documentation culture
+
+no feature flags
+
+gavel process - most junior to most senior bc everyone has voice in
+
+lunch time no decision
+
 
 ## the tradeoffs of open source
 

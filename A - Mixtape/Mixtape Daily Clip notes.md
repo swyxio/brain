@@ -202,6 +202,8 @@ airdrop https://overcast.fm/+YNeRIK5jg 56mins - backwards causation
 
 uncovering dao hack https://overcast.fm/+O-dbduSYI
 
+solana thesis 10 mins to 15 mins https://overcast.fm/+SMFtx_DUo from first principles 
+
 # deadpool
 
 - https://designdetails.fm/episodes/7RL459Ke  8 minutes - proof of curiosity - learn in public

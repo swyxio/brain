@@ -66,6 +66,35 @@ chats
 		- observable - ceo micromang.
 		- questions
 			- philosophy of metrics
+	- phone chat w nick 
+		- shifts in goal setting: output -> input
+		- OSS 15%mom growth - but want more vanity
+		- Commercial is fine
+		- weekly active repos
+		- monthly uniques no docs
+		- want to prove: winning the airflow problem
+			- content
+			- usecases
+			- public perception undersells the true strengths
+		- airflow's the jquery, perception - "react of data"
+		- 2 notions to the react pitch
+			- vibe - default
+			- technical artefact
+				- SDA's are critical to long term differentiation + up the value chain - long term observability
+		- molly - people management, process, energy
+			- yuhan - writer, docs, automation of community (internal app to manage support), expert
+			- get in front of audiences and get people excited
+			- content strategy
+				- writing own stuff
+				- conduit, working with others to write and produce
+			- practicing data engineer - hard to find/get up to speed
+				- finding data engineers - stay stuff that is cringe
+			- sandy, jr devs -> lot of raw talent.
+			- domain expertise
+		- comp -> high level ic - company level goals
+			- 220k - 70k opts, 0.40%
+		- what do i need in order to get conviction
+			- we problem to see
 - airbyte
 	- discussion
 		- defensible moat

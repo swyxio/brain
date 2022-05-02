@@ -2,6 +2,8 @@
 
 matthew dicks 20 mins https://overcast.fm/+kfErcA
 
+omegle guy https://youtu.be/7VSDVQFQNWk
+
 fight club https://www.youtube.com/watch?v=GiOuUP9z7l4&list=WL&index=2
 
 anne marie https://youtu.be/u3ePPA0yzSU

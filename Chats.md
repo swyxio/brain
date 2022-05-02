@@ -138,7 +138,17 @@ chats
 	- sandy and owen
 		- sandy - leading open source
 		- owen - yelp - things broke all the time, run script after another
-		- 
+		- temporal vs dagster - big data - delegated to spark job
+			- batch model - flexible abstractions for what reading and writing looks like
+				- IO managers
+			- doesnt care whats going on - exposing metadata - log and data
+				- compute log manager abstraction
+		-  what dont people get - more directly solving problem
+			- airflow is a couple steps away
+	- mollie and pete
+		- netlify
+		- aws
+		- temporal
 - airbyte
 	- discussion
 		- defensible moat

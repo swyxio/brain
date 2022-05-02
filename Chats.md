@@ -121,6 +121,17 @@ chats
 		- smart company
 		- positive int
 		- most impt thing? onboarding, tooling, docs
+	- nick strategy
+		- dagster - next 6 months
+		- interview customers
+		- demo - 
+		- not more - journey
+		- influencers, communities, events
+			- devrel 
+			- not reject
+			- bumped 4 weeks
+		- formulating goals
+			- 
 - airbyte
 	- discussion
 		- defensible moat

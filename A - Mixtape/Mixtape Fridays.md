@@ -13,6 +13,8 @@ conan live https://overcast.fm/+zneb7lxko 1h33mins
 unchained melody https://youtu.be/GrHfWKeTDEI
 
 laufey https://youtu.be/issStxOM5kw
+- sunny side https://youtu.be/BsEFFaboTAM
+- https://youtu.be/TQtXo4tiZxs
 
 moana https://youtu.be/Bum4936KgOo
 

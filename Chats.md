@@ -135,6 +135,10 @@ chats
 	- customer support
 		- open source
 		- incentive alignment
+	- sandy and owen
+		- sandy - leading open source
+		- owen - yelp - things broke all the time, run script after another
+		- 
 - airbyte
 	- discussion
 		- defensible moat

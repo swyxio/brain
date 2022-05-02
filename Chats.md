@@ -131,7 +131,10 @@ chats
 			- not reject
 			- bumped 4 weeks
 		- formulating goals
-			- 
+			- devrel measuring blogpost
+	- customer support
+		- open source
+		- incentive alignment
 - airbyte
 	- discussion
 		- defensible moat

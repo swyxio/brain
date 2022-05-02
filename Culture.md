@@ -1,6 +1,10 @@
 
 https://review.firstround.com/80-of-Your-Culture-is-Your-Founder
 
+https://blog.chander.app/2020/10/25/stripe.html
+
+https://slab.com/blog/stripe-writing-culture/
+
 ## effective culture
 
 https://twitter.com/danluu/status/1493963774478348291?s=21

@@ -95,6 +95,32 @@ chats
 			- 220k - 70k opts, 0.40%
 		- what do i need in order to get conviction
 			- we problem to see
+	- yuhan
+		- yelp - automating processes at yelp
+			- data quality issues
+			- where is the source of data, where is it going to
+			- calibra - data governance/cataloging tool - owned by BI 
+				- BI analysts define data lineage after that process
+				- aims to be single pane of glass, but another noisy point of failure
+				- after set up, still have to go into this tool to make another source of truth
+			- airflow, prefect - operationally managed pipelines, but doesnt solve data lineage
+				- dagster -> pipeline - writing regular python methods
+				- just the inputs and outputs - works on data dependencies
+				- vs task 1 vs task 2
+		- most impt thing to succeed? dev advocates
+			- so much product to do 
+			- telling a good story around this feature set
+		- airbyte has pmf. but doesnt do lineage. and not every one uses datawarehouse
+		- best practice
+			- listener based sensor - kick off a run based on external status change? but github action is good enough?
+			- sensors as microbatching - kind of realtime. vague boundaries, dagster can do, but maybe not the best
+			- ci/cd: from dev box -> staging -> prod? how to help users -  vercel has good practice - deploy previews
+		- streaming/realtime
+	- ben pankow
+		- immediate user empathy
+		- smart company
+		- positive int
+		- most impt thing? onboarding, tooling, docs
 - airbyte
 	- discussion
 		- defensible moat

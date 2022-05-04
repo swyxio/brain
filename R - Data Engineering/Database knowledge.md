@@ -4,4 +4,5 @@ bigquery https://overcast.fm/+5PHEijBNg
 - active data warehouse is under 100gb
 - snowflake vs redshift was 30tb but only large custs do that
 - 90% queries under 100mb
-- 
+
+how to do db replication https://twitter.com/teej_m/status/1521300456483352576?s=21&t=bSCCzeDkGxb-QNornEz5Qg

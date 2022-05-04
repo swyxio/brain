@@ -135,8 +135,6 @@ how nate berkopec found his niche https://overcast.fm/+gJ-XO33X4 10mins
 
 - https://www.3books.co/chapters/22 chef vs cook tim urban 1hr mark
 - https://overcast.fm/+YQ473Uv6w rank self publish book on amazon 30 mins
-- writers block https://youtu.be/Xb_S4kH0WdE
-- idea generator 10mins in https://overcast.fm/+2E1Xs4sx0
 
 https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 

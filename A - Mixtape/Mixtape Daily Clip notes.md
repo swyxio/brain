@@ -74,6 +74,8 @@ viral on purpose https://overcast.fm/+RWpsctwxM
 
 16 steps credibility 37mins https://overcast.fm/+IxBMXwmXY 
 
+https://overcast.fm/+rTsWA7cLo 35mins viral marketing
+
 
 https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins 
 

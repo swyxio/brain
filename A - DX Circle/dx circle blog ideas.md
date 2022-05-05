@@ -1,6 +1,10 @@
 https://youtu.be/27zuReojDVw
 
 
+## why livestream
+
+why livestream
+
 ## stripe lessons
 
 

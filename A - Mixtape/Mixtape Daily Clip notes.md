@@ -11,6 +11,8 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 ## general dump
 
 
+why cal open source https://overcast.fm/+HbN4bIcIg 50 mins
+
 
 expert blindness https://overcast.fm/+RCm27mAv4 25-35 mins
 

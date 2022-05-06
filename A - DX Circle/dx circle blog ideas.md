@@ -1,9 +1,48 @@
 https://youtu.be/27zuReojDVw
 
 
+## the data privacy sector
+
+
+ask sean faulkner
+
+skyflow - full 
+- polymorphic encryption- not homomorpjoc - too slow - eagerly encrypted 
+
+tokenization
+vgs
+tokenx
+
+
+data residenxy
+incountry
+
+
+## taylor barnett 
+
+solo devrel - only one on the team, how to say no
+community/produt focused devrel
+offer anonymojs because she needs plusbile deniability from prev job
+
+## the overly discerning developer
+
+- lots of reasons why the mass market thing isnt good enough
+- uses the niche thing
+- isnt 
+
+## what it feels like to be early
+
+- “this wasnt even a job”
+- your friends getting higher pay doing something else
+- adhoc scripts
+- one person doing the job holding all the context
+- theres a utility library for it
+- theres a framework for it
+
+
 ## why livestream
 
-why livestream
+why livestream - no views. but reacting live
 
 ## stripe lessons
 

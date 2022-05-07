@@ -6,7 +6,7 @@ chats
 	- cloud GA
 	- 1300 weekly active
 	- heterogeonous - loom, duchy, gopuff but also united site services - maybe shell, hasbro, kraft
-	- acv's - 100k's
+	- acv's - 45k now, could grow to upper 6figs
 	- category - only manages retries - but with SDAs, pushing up stack to observability, lineage
 	- highly valued product
 	- SDAs
@@ -149,6 +149,45 @@ chats
 		- netlify
 		- aws
 		- temporal
+	- nick
+		- https://dagster.io/blog/dagster-airflow
+		- https://hightouch.io/blog/airflow-alternatives-a-look-at-prefect-and-dagster/
+		- 180 + 50bps
+		- TAM - irrelevant. Facts - 
+			- every company has a data platform (management of data once its removed from system of record - take the data away from the cocoon of software around it), building out this infra teams
+				- - some subset needs coherent control plane
+			- data being operationalized - also interesting
+		- to make it supervaluable - make it more of a utility, data management platform that has orchestration at its spine
+			- lineage, observability
+		- core of the data mgmt lifecycle - is multistakeholder, so valuable
+			- data platform control plane is as central as the data warehouse
+				- willingness to pay - v1 of usage based pricing by july
+				- pricing is the final boss
+				- graduated approach - to total amount of runtime pple execute
+				- considered charging for logs and metadata streamed back
+		- coinbase spends 60m/yr on datadog
+		- value composition
+			- eliminate headcount - staffing up data platform teams/devops
+				- no k8s - ecs preferred
+			- productivity gains - data/ml engs more productive
+			- data management piece - other stakeholders
+				- goodeggs - show nontechnical stakeholders
+				- ingest google sheets -> dagster -> DWH - to retry pipeline runs
+			- API driven aspects into apps
+				- coterra - integrated dagster into tools for geoscientists
+				- geologists can start those runs from directly inside the apps
+				- populated live into internal apps
+				- native dagster UIs to see what went wrong
+				- not application path -  productized pipelining for geoscience. geologists.
+		- temporal vs dagster
+			- more constrained model -> sacrifice latency for operational isolation run things in different containers
+				- spins up new process
+			- specialize in visualizing relationships between diff assets
+				- ESPECIALLY previz code
+				- dags become assets/system of record for data platform - not just a viz standpoint - allows you to bake that into observability tools so you can display asset lineage
+		- leveling - head of dept
+			- director/principal territory
+		- 
 - airbyte
 	- discussion
 		- defensible moat

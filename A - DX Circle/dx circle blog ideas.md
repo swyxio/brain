@@ -154,6 +154,12 @@ hospital with no patients https://youtu.be/x-5zEb1oS9A
 Ambassador Labs (formerly Datawire), the cloud native developer experience leader, enables developers to code, ship, and run applications faster and easier than ever.
 
 
+
+virtasant
+https://www.virtasant.com/
+global diverse team of cloud experts 
+
+
 https://www.magidandco.com/blog/the-two-sentence-description
 
 https://readyset.io/blog/%5Bslug%5D 
@@ -166,6 +172,11 @@ https://readyset.io/blog/%5Bslug%5D
 https://twitter.com/encoredotdev?s=21&t=EmRdzDL-iGr0d-fBe0ZtPQ
 
 https://news.ycombinator.com/item?id=30987472#30988301
+
+
+good examples
+- graphql
+- https://www.jasper.ai/
 
 ### dx from first principles
 

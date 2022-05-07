@@ -17,18 +17,13 @@
     },
     {
       "type": "file",
-      "title": "The Investment Case for Temporal",
-      "path": "2022 - Archive/The Investment Case for Temporal.md"
-    },
-    {
-      "type": "file",
       "title": "Mixtape Fridays",
       "path": "A - Mixtape/Mixtape Fridays.md"
     },
     {
       "type": "file",
       "title": "dx circle blog ideas",
-      "path": "A - DX Circle/dx circle blog ideas.md"
+      "path": "A - DX Circle/DX Tips blog ideas.md"
     },
     {
       "type": "file",
@@ -38,7 +33,7 @@
     {
       "type": "file",
       "title": "Talk - Third Age of JavaScript - 3 years in",
-      "path": "A - Writing/Talk - Third Age of JavaScript - 3 years in.md"
+      "path": "2022 - Archive/Talk - Third Age of JavaScript - 3 years in.md"
     }
   ]
 }

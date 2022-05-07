@@ -1,5 +1,4 @@
 
-https://share.icloud.com/photos/01721IYGavAAYFR_x8SRw-nbg
 
 ## Original talk
 

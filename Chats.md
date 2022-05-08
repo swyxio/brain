@@ -2,7 +2,7 @@ chats
 - sentry
 - elementl
 	- 25custs -> 50
-	- 600k arr -> 2m arr
+	- 600k arr -> 2m
 	- cloud GA
 	- 1300 weekly active
 	- heterogeonous - loom, duchy, gopuff but also united site services - maybe shell, hasbro, kraft

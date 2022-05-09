@@ -8,6 +8,7 @@
 - [gethuman](https://gethuman.com/) - Help for customer service
 - [pickfu](https://www.pickfu.com/) - Market feedback from US consumers 
 - [Gosquaredaway](https://www.gosquaredaway.com/)- military spouse personal assistants
+- how to assistant https://overcast.fm/+qm8_sCMzs 
 
 ## code
 

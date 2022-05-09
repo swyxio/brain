@@ -1,10 +1,15 @@
 https://youtu.be/27zuReojDVw
 
 
+## swag ideas 
+
+vercel - hyperspecific
+
+
 ## the data privacy sector
 
 
-ask sean faulkner
+ask sean faulkner skyflow
 
 skyflow - full 
 - polymorphic encryption- not homomorpjoc - too slow - eagerly encrypted 

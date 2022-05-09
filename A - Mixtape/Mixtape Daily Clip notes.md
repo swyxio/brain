@@ -59,9 +59,16 @@ https://overcast.fm/+rra5cp2f8 28 mins - cost of consultants
 
 https://overcast.fm/+vxHeQhSaU 22min amazon book monopoly 
 
+## quotes 
+
+https://overcast.fm/+qm88_q1tw 40mins on bezos overhead of
+
 ## startups
 
 why terminal why warp 12 mins https://overcast.fm/+HZUf-oI6A to 15 mins
+
+https://overcast.fm/+qm89pCIRo 1h 8 mins saas business 4-10x, content 2.5-4x, ecomm 2.5-5x annual sales
+
 
 ## small projects
 

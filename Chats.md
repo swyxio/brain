@@ -1,6 +1,6 @@
 chats
 - sentry
-- elementl
+- elementl/dagster
 	- 25custs -> 50
 	- 600k arr -> 2m
 	- cloud GA
@@ -187,6 +187,19 @@ chats
 				- dags become assets/system of record for data platform - not just a viz standpoint - allows you to bake that into observability tools so you can display asset lineage
 		- leveling - head of dept
 			- director/principal territory
+		- 
+	- nick2
+		- dagster cloud sandboxing - agent in vpc to behave as its on your laptop
+			- standardize python environments across everyone
+			- introduce the system to tons of people
+			- SDA package
+				- imperative jobs - existing code will exist
+		- early june: change docs/content/tutorials - lead with SDAs and experimental feature
+		- launch in july
+		- timeline
+			- prototyping cloud in early 2021
+			- summer 2021
+			- GA launch
 		- 
 - airbyte
 	- discussion

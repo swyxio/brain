@@ -560,6 +560,25 @@ explore
 				- "wasmcloud" - dont want to steal their thunder
 			- seed stage -> A stage
 	- graphcdn?
+		- sue
+			- founder - people first culture
+			- amazing progress in 12 months
+			- started with the problem space, not the solution
+			- what keeps me here is humble founders. keeps customers close. only a matter of time.
+			- why hire 50 people? now 9-10.
+				- hiring against OKRs
+				- mapped out 26 roles which are critical to the vision
+			- one job one pay - org structure
+				- location independent
+			- operational cadence
+				- allhands every other week
+				- learning & development - L&D'ing each other
+					- what is feedback? feedback = opportunity for growth
+					- feeling safe to try/fail/learn
+				- every other week - no work meeting
+					- panda sanctuary
+					- meditation session
+					- silly games
 	- astro?
 	- render
 		- heroku makes 500m/yr

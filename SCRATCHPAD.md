@@ -12,6 +12,7 @@ highpri watching
 - https://www.youtube.com/watch?v=kIFjDV_zHaQ
 
 related reads
+- https://news.ycombinator.com/item?id=31217448
 - https://cloudedjudgement.substack.com/p/the-modern-data-cloud-warehouse-vs?s=r
 - https://rakgarg.substack.com/p/the-great-splunkbundling?s=r
 - https://maximebeauchemin.medium.com/the-downfall-of-the-data-engineer-5bfb701e5d6b

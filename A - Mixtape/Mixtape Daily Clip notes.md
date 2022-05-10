@@ -14,6 +14,8 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 why cal open source https://overcast.fm/+HbN4bIcIg 50 mins
 
 
+why blue screens blue https://youtu.be/KgqJJECQQH0
+
 expert blindness https://overcast.fm/+RCm27mAv4 25-35 mins
 
 

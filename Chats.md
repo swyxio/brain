@@ -201,6 +201,12 @@ chats
 			- summer 2021
 			- GA launch
 		- 
+	- nick3 
+		- greenfield bakeoffs - SDA's
+		- mapbox compile to airflow
+			- original conception
+		- stage 1
+		- requires more education of the user
 - airbyte
 	- discussion
 		- defensible moat

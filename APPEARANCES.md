@@ -20,7 +20,7 @@ may 23 - airflow summit
 may 27 - not going - cityjs greece
 jun 2-3 craft-conf.com budapest - withdraw
 jun 1-3 jsworld / jos - withdraw
-jun 7 jnation port -> https://www.flatio.com/
+jun 7 jnation port - withdraw
 jun 13-16 snowflake summit
 jun 16 jsnation ams -> withdraw
 jun 25 cityjs singapore

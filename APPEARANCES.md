@@ -16,11 +16,10 @@ apr 28 alana din
 may 2-5 reactathon - may 4 3.35pm -> multiverse of madness
 may 9 - john airbyte
 may 16-20 https://twitter.com/wordsesh/status/1509201593710878720?s=21 wordpress
-may 16-20 airbyte nyc. jackmccloy bday may 19
 may 23 - airflow summit
 may 27 - not going - cityjs greece
 jun 2-3 craft-conf.com budapest - withdraw
-jun 1-3 jsworld / jos
+jun 1-3 jsworld / jos - withdraw
 jun 7 jnation port -> https://www.flatio.com/
 jun 13-16 snowflake summit
 jun 16 jsnation ams -> withdraw

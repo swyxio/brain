@@ -31,8 +31,6 @@ https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
 
 https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 
-https://overcast.fm/+YsrbSkH4U 55 mins paw patrol 
-
 https://overcast.fm/+a0BqUPDr0 danco
 - tech strategy summary about 30 mins in
 - investing spectrum about 1h in
@@ -41,7 +39,7 @@ https://overcast.fm/+OOu8ERt88 community led growth
 
 https://overcast.fm/+maz1Gg lin manuel story
 
-https://overcast.fm/+YsrbaSq74 coinbase 1h10mins
+https://overcast.fm/+YsrbaSq74 coinbase 1h10mins - leadership/management - misison focused company
 
 space industry 15 mins https://overcast.fm/+a0BromYiY
 

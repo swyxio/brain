@@ -2,7 +2,11 @@
 
 matthew dicks 20 mins https://overcast.fm/+kfErcA
 
-omegle guy https://youtu.be/7VSDVQFQNWk
+
+harry mack https://youtu.be/t_JrcAOfAp4
+- miami one
+- collab https://youtu.be/t_JrcAOfAp4
+- eminem https://youtu.be/pwn1UsNNmZE
 
 fight club https://www.youtube.com/watch?v=GiOuUP9z7l4&list=WL&index=2
 

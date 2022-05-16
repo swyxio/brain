@@ -1,6 +1,10 @@
 https://youtu.be/27zuReojDVw
 
 
+## living in the future
+
+https://allaboutstevejobs.com/verbatim/interviews/playboy_1985
+
 ## swag ideas 
 
 vercel - hyperspecific

@@ -3,16 +3,13 @@
 
 metamuse  https://museapp.com/podcast/53-career/
 
-rtfeldman https://www.listennotes.com/podcasts/software-unscripted/crossing-the-chasm-1-dDJwWER37/ 
- 
+
 
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
 
 michelle hansen chat
 
 - uibreakfast https://uibreakfast.com/223-how-to-market-yourself-with-shawn-swyx-wang/
-
-jsparty https://changelog.com/jsparty/208
 
 https://dev.to/devteam/devdiscuss-is-back-for-season-8-4knb
 

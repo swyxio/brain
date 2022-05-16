@@ -1,6 +1,10 @@
 https://youtu.be/27zuReojDVw
 
 
+## control plane
+
+https://youtu.be/KWwIE7lwBS8
+
 ## living in the future
 
 https://allaboutstevejobs.com/verbatim/interviews/playboy_1985

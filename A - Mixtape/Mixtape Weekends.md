@@ -1,9 +1,12 @@
 > longform/swyx content to resyndicate  on weekends
 
 
+educative https://www.podbean.com/media/share/pb-n2ntb-1208ead https://www.youtube.com/watch?v=NqAGxYWgYZk
+
+
 metamuse  https://museapp.com/podcast/53-career/
 
-
+compressedfm https://overcast.fm/+s3Urc2IAY
 
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
 

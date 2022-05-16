@@ -1,6 +1,4 @@
-compressedfm https://overcast.fm/+s3Urc2IAY
 
-educative https://www.podbean.com/media/share/pb-n2ntb-1208ead https://www.youtube.com/watch?v=NqAGxYWgYZk
 
 eddie hinkle web joy
 

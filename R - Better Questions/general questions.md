@@ -10,6 +10,9 @@ my 12 questions
 
 ## Uncategorized
 
+ask “how do you think about X” instead if specific numbers on X https://overcast.fm/+rTsXiMAKU 12 mins in
+
+
 bad questions https://twitter.com/heyblake/status/1499150072080220163?s=21
 
 https://twitter.com/SciBry/status/1339017829643919360?s=20

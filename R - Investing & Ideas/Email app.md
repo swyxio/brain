@@ -5,6 +5,11 @@
 - calendly pain point - no way to create multiple instances of one event type - solved by luma
 - calendly pain point - no way to invite preapproved list of attendees - solved by luma
 
+signup hack - get users to email you to join newsletter
+- solve deliverability
+- get users to answer qtn - more personal
+- pple tired of filling out input forms to join funnel
+
 mailchimp pain point - 2fa code not received no fallback
 
 

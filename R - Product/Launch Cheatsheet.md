@@ -328,6 +328,96 @@ Warm wishes,
 
 </details>
 
+
+
+<details>
+<summary>
+oreilly quote guide: https://docs.google.com/document/d/1vrG-XuFLWMU7ycpn-wAHgqSs2_sp2gTtVK5VlReY0Kw/edit
+</summary>
+
+**
+
+Thank you for your willingness to write a praise quote (sometimes called a “blurb”) for this O’Reilly book! Your quote may be edited for length and for grammar/spelling. Here are some tips.
+
+  
+
+-   Keep it short. No more than one or two sentences is best. Please use no more than 40 words.
+    
+-   Focus on the book’s main selling point(s). Does this book offer something readers won’t find anywhere else? Is it particularly helpful to beginners, or especially insightful about an important trend? Is it a book every data scientist (or software architect, or CTO, etc.) should read?
+    
+-   Be specific. “This is a good book” isn’t as helpful as “This book will help any developer write clear, easily extensible Python code.”
+    
+-   Be positive—and honest. Of course the point of a praise quote is to praise the book, but over-the-top gushing can appear insincere. Don’t say it’s the best thing you’ve ever read on a topic unless that’s really true. It’s better to write about one thing you really like (“The advice on refactoring is especially invaluable”).
+    
+-   If you’re not sure, try two. We’ll only put one quote on the cover, but if you’re having trouble deciding, it’s fine to submit more than one and let us pick!
+    
+-   Tell us who you are. Please be sure to include your name, title, and any affiliations exactly as you would like them to appear on the book cover. Make sure they are spelled correctly. If your job title or affiliation changes before the book is published, please let us know right away. 
+    
+-   Feel free to shout it from the rooftops. If you like the book, please feel free to tweet or post on LinkedIn and other social media about it!  You can tag us at @oreillymedia. 
+    
+
+  
+
+Your name:
+
+  
+
+Your title:
+
+  
+
+Your company or organization: 
+
+  
+
+Your email:
+
+  
+
+Your mailing address and telephone number (for a complimentary copy of the book): 
+
+  
+
+Your Twitter handle:
+
+  
+
+Book title:
+
+  
+
+Your quote(s):
+
+  
+  
+  
+  
+
+Examples:
+
+  
+
+“There’s wisdom here: a balanced embrace of old and new methodologies and best practices, informed by long experience. Best of all, Strengholt demonstrates that next-generation enterprise data management is a team sport, and solutions need to embrace and connect all the players.” 
+
+(Joe Hellerstein, Cofounder and CSO, Trifecta, on Data Management at Scale by Piethein Strengholt)
+
+  
+
+“Head First Java transforms the printed page into the closest thing to a GUI you’ve ever seen. In a wry, hip manner, the authors make learning Java an engaging, ‘what’re they gonna do next?’ experience.” 
+
+(Warren Keuffel, Software Development magazine, on Head First Java by Kathy Sierra and Bert Bates)
+
+  
+
+“Learning Python is at the top of my list for anyone wanting to start programming with Python.” 
+
+(Doug Hellman, senior software engineer, Racemi, Inc., on Learning Python)
+
+  
+**
+
+</details>
+
 ### Testimonial paid services
 
 more for b2b saas

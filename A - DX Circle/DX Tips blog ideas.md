@@ -221,8 +221,11 @@ https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-adv
 			- "how we mapped game state"
 			- X without Y category
 - no theory, just do https://twitter.com/buildingwaves/status/1509231891039272964?s=21
-- # Content sync (04/20/2022)
+- title formats
+- https://databand.ai/blog/the-top-data-quality-metrics-you-need-to-know-with-examples/
 
+
+# content writeup
 ## Goal
 
 Identify high leverage pieces of content that require the least amount of time and effort to produce. Ideally we would focus on repurposing well established but minimally visible content.

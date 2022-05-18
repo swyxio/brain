@@ -1,7 +1,5 @@
 ## mixtape normal
 
-luna week
-- https://overcast.fm/+nRGxfu-p0 15 mins
 
 ## ramp week
 
@@ -88,6 +86,9 @@ https://overcast.fm/+rTsWA7cLo 35mins viral marketing
 https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins 
 
 ## technical
+
+
+benefits of go 1.18 https://overcast.fm/+ur1GgzMqs 15ish mins 
 
 ebpf https://overcast.fm/+wtIPwx_jA
 

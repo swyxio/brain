@@ -6,3 +6,8 @@ bigquery https://overcast.fm/+5PHEijBNg
 - 90% queries under 100mb
 
 how to do db replication https://twitter.com/teej_m/status/1521300456483352576?s=21&t=bSCCzeDkGxb-QNornEz5Qg
+
+
+time series data
+- https://questdb.io/blog/2020/07/01/we-put-a-sql-database-on-the-internet/
+- timescale db

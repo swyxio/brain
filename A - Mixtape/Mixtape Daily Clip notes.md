@@ -66,6 +66,7 @@ https://overcast.fm/+qm88_q1tw 40mins on bezos overhead of
 
 https://overcast.fm/+qm89pCIRo 1h 8 mins saas business 4-10x, content 2.5-4x, ecomm 2.5-5x annual sales
 
+origin of okta 15 mins https://overcast.fm/+yYPOSfU9I 40 min auth0 acquisition
 
 ## small projects
 
@@ -87,6 +88,10 @@ https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins
 
 ## technical
 
+
+closing open source https://overcast.fm/+oUqCrYCdE 15mins
+
+wasm good overview of wasm cloud tooling  on <@405426635857461249> ‘s podcast https://oss-startup-podcast.launchnotes.io/announcements/episode-34-open-source-webassembly-tools-with-fermyon 30 mins in the description of wasm component model is compelling
 
 benefits of go 1.18 https://overcast.fm/+ur1GgzMqs 15ish mins 
 

@@ -1,5 +1,16 @@
 # icebreaker questions
 
+
+airbyte onboarding questions
+- Name a place to visit on your bucket list and why
+- What is one thing you wished you had learned sooner in life?
+- Name 1 thing you absolutely rock at and one that you absolutely suck at
+- What's the name of one song that makes you have to sing along out loud?
+- What is the most difficult thing you've had to learn how to do recently?
+- What's one food you couldn't live without?
+- What does an awesome day at work look like?
+- If you could have unlimited supply of one thing for the rest of your life, what would it be? (not money or lifespan)
+
 -   1.  Do you have anything special planned (vacations, big projects, etc.) for this summer?
     2.  What reality show would you want to be on?
     3.  If you could have any unlimited supply of one thing for the rest of your life, what would you pick?

@@ -9,6 +9,8 @@ harry mack https://youtu.be/t_JrcAOfAp4
 - miami one
 - collab https://youtu.be/t_JrcAOfAp4
 - eminem https://youtu.be/pwn1UsNNmZE
+- 420 onomatopoeia https://youtu.be/BNC68gQluSE
+- doubel time https://youtu.be/Js2Q8tJLgig
 
 fight club https://www.youtube.com/watch?v=GiOuUP9z7l4&list=WL&index=2
 

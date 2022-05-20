@@ -88,6 +88,7 @@ https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins
 
 ## technical
 
+https://overcast.fm/+cV8rkoLOk 19 mins how mac won developers 
 
 closing open source https://overcast.fm/+oUqCrYCdE 15mins
 

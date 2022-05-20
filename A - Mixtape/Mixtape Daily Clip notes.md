@@ -198,20 +198,7 @@ https://overcast.fm/+os2YsOhgA 30-45mins levels story
 https://overcast.fm/+os2YU2gSU 10mins changed foods to 16mins
 
 
-## crypto corner
 
-
-vitalik what is eth https://overcast.fm/+Q4m6kgTKA 5-10ish mins
-
-https://overcast.fm/+qdIBj-7hw 20mins the graph 
-
-https://overcast.fm/+TRbX793DU 32 mins what is dao until 50ish mins
-
-6529 https://overcast.fm/+nRGzZ7yqs
-
-uncovering dao hack https://overcast.fm/+O-dbduSYI
-
-solana thesis 10 mins to 15 mins https://overcast.fm/+SMFtx_DUo from first principles 
 
 # deadpool
 
@@ -272,5 +259,10 @@ solana thesis 10 mins to 15 mins https://overcast.fm/+SMFtx_DUo from first princ
 	- https://overcast.fm/+QLdt2a4yQ 45 mins condao leader
 	- https://overcast.fm/+FaxkphON4 32 mins SBF talking about loss covering until 45mins
 	- https://www.youtube.com/watch?v=Dur918GqDIw&list=WL&index=18&t=244s pseudonymity  balajis
+	- vitalik what is eth https://overcast.fm/+Q4m6kgTKA 5-10ish mins
+	- https://overcast.fm/+qdIBj-7hw 20mins the graph 
+	- https://overcast.fm/+TRbX793DU 32 mins what is dao until 50ish mins
+	- 6529 https://overcast.fm/+nRGzZ7yqs
+	- uncovering dao hack https://overcast.fm/+O-dbduSYI
 
 

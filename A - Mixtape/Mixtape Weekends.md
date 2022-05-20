@@ -3,6 +3,7 @@
 
 educative https://www.podbean.com/media/share/pb-n2ntb-1208ead https://www.youtube.com/watch?v=NqAGxYWgYZk
 
+https://jsparty.fm/226
 
 metamuse  https://museapp.com/podcast/53-career/
 

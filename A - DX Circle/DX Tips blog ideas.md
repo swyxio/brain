@@ -371,6 +371,8 @@ cf sarah cataranzo convo
 https://twitter.com/theandreboso/status/1480495875520667648?s=21
 
 
+pulumi grind https://overcast.fm/+oUqDT8v74 20ish mins
+
 ## abramov distance
 
 distance 0,0,0 and optimizing for change

@@ -29,6 +29,7 @@ I always need to grab developer industry stats. Here's a reference list to find 
 - 18 million https://www.sequoiacap.com/article/rise-of-the-developer
 - 21 million https://en.wikipedia.org/wiki/Software_engineering_demographics
 - 27 million (EDC estimate) https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/
+- 31 million - Slashdata 1Q22 https://developer-economics.cdn.prismic.io/developer-economics/f99dc570-f8f4-41f0-bc3b-808b2dcdb6cb_Slashdata+-+22nd+edition+of+The+State+of+the+Developer+Nation+%28Q1+2022%29.pdf
 - 56 million (GitHub users) https://octoverse.github.com/ (projected to 100m)
 
 confusion: 
@@ -149,6 +150,7 @@ https://medium.com/electric-capital/electric-capital-developer-report-2021-f3787
 i have no idea where to put these
 
 - cloudflare web statistics https://radar.cloudflare.com/?date_filter=last_30_days
+- language popularity https://developer-economics.cdn.prismic.io/developer-economics/f99dc570-f8f4-41f0-bc3b-808b2dcdb6cb_Slashdata+-+22nd+edition+of+The+State+of+the+Developer+Nation+%28Q1+2022%29.pdf
 - thoughtworks tech radar in JSON format https://www.thoughtworks.com/internal/api/radar/blips
 - https://slashdata.co/free-resources
 - web framework benchmarks https://www.techempower.com/benchmarks/#section=data-r19&hw=ph&test=composite

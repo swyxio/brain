@@ -12,7 +12,7 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 
 why cal open source https://overcast.fm/+HbN4bIcIg 50 mins
 
-
+ziprecruiter remote work 15 or 18ish mins https://overcast.fm/+zcV-figiI
 
 
 why blue screens blue https://youtu.be/KgqJJECQQH0

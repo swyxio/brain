@@ -8,6 +8,9 @@ bigquery https://overcast.fm/+5PHEijBNg
 how to do db replication https://twitter.com/teej_m/status/1521300456483352576?s=21&t=bSCCzeDkGxb-QNornEz5Qg
 
 
+sqlite problems
+https://news.ycombinator.com/item?id=31340253
+
 time series data
 - https://questdb.io/blog/2020/07/01/we-put-a-sql-database-on-the-internet/
 - timescale db

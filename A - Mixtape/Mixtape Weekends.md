@@ -5,7 +5,6 @@ educative https://www.podbean.com/media/share/pb-n2ntb-1208ead https://www.youtu
 
 https://jsparty.fm/226
 
-metamuse  https://museapp.com/podcast/53-career/
 
 compressedfm https://overcast.fm/+s3Urc2IAY
 

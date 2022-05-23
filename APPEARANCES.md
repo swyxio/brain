@@ -2,6 +2,8 @@ corey quinn screaming in the cloud
 
 https://jsparty.fm/226
 
+march 31 https://museapp.com/podcast/53-career/
+
 eddie hinkle web joy test recording
 
 ## speaking

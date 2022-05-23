@@ -178,6 +178,8 @@ live longer 1:57 mins https://overcast.fm/+eZyDf2uBs
 
 exercise for life https://youtu.be/92kYDVjX0G0
 
+exercise for 30 mins https://overcast.fm/+2-B9vxWnc - at 31 min mark about bdnf
+
 ## Product
 
 https://overcast.fm/+HZUeNoxeQ 30 mins biz model of open source

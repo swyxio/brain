@@ -1,6 +1,13 @@
 https://youtu.be/27zuReojDVw
 
 
+## devtools inventory list
+
+- newsletters
+- conferences
+- podcasts
+- influencers
+
 ## control plane
 
 https://youtu.be/KWwIE7lwBS8

@@ -174,7 +174,6 @@ https://overcast.fm/+b1V16Bf_I baby steps
 
 ## health 
 
-live longer 1:57 mins https://overcast.fm/+eZyDf2uBs
 
 exercise for life https://youtu.be/92kYDVjX0G0
 

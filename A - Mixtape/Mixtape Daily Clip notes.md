@@ -1,6 +1,13 @@
 ## mixtape normal
 
 
+## health 
+
+
+exercise for 30 mins https://overcast.fm/+2-B9vxWnc - at 31 min mark about bdnf
+
+
+
 ## ramp week
 
 https://overcast.fm/+hTZcSfoq0 ramp packy
@@ -171,13 +178,6 @@ https://overcast.fm/+b1V3EeycY deep work 6:30mins
 https://overcast.fm/+b1V00pzUU capture configure control
 
 https://overcast.fm/+b1V16Bf_I baby steps
-
-## health 
-
-
-exercise for life https://youtu.be/92kYDVjX0G0
-
-exercise for 30 mins https://overcast.fm/+2-B9vxWnc - at 31 min mark about bdnf
 
 ## Product
 

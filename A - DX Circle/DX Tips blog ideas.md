@@ -154,6 +154,7 @@ hiring first devrel
 
 - explaining benefits to later adopters
 - vs explaining how it works to early adopters
+- later adopters - no reason why not - pareto optimal - boring https://benn.substack.com/p/the-end-of-big-data
 
 ## breaking out of the devrel comfort zone
 

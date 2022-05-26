@@ -21,6 +21,12 @@ https://principles.planetscale.com/
 12 factor app
 jamstack
 
+## lightboarding
+
+https://youtu.be/_lqdfq2c9cQ
+ibm channel
+
+
 ## devtools inventory list
 
 - newsletters

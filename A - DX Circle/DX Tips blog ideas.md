@@ -1,5 +1,25 @@
 https://youtu.be/27zuReojDVw
 
+## devtools second acts
+
+- marketplace as second act
+	- AWS marketplace as 1.5 act https://techcrunch.com/2021/12/21/newly-minted-unicorn-tackle-plans-to-use-100-million-series-c-to-accelerate-the-future-of-software-sales/
+- financing as second act (https://www.bvp.com/atlas/state-of-the-cloud-2022#The-power-of-the-cloud-model, angela strange thesis)
+- low code/no code as second act
+
+
+## where should support and community live?
+
+https://www.getdbt.com/blog/bringing-back-the-magic-to-the-dbt-community-part-one/
+temporal move
+discourse vs discord
+slack vs discord
+
+## principles as a means of advocacy
+
+https://principles.planetscale.com/
+12 factor app
+jamstack
 
 ## devtools inventory list
 

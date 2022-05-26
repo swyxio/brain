@@ -1,5 +1,7 @@
 # icebreaker questions
 
+What's the most interesting statistic you know https://reddit.com/r/AskReddit/comments/uxeni4/what_is_the_most_interesting_statistic_you_know/
+
 
 airbyte onboarding questions
 - Name a place to visit on your bucket list and why

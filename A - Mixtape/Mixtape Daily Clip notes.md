@@ -108,6 +108,9 @@ https://overcast.fm/+3D5Lzp4uM origin of excel 8mins
 
 https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda and pip and python 2-3 move
 
+origin of replit 50mins https://overcast.fm/+hTZfriwzQ llvm story - diversion resume at 1h 4 mins
+
+
 https://overcast.fm/+MZ3SQEwtw 15 mins origin story of hashicorp consul
 
 https://overcast.fm/+TEKFtB2do 15 mins rust rewrite of tor 

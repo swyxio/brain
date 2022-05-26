@@ -1,6 +1,12 @@
 https://youtu.be/27zuReojDVw
 
 
+## lightboarding
+
+https://youtu.be/_lqdfq2c9cQ
+ibm channel
+
+
 ## devtools inventory list
 
 - newsletters

@@ -1,12 +1,6 @@
 ## mixtape normal
 
 
-## health 
-
-
-exercise for 30 mins https://overcast.fm/+2-B9vxWnc - at 31 min mark about bdnf
-
-
 
 ## ramp week
 

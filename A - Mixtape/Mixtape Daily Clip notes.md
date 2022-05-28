@@ -120,6 +120,8 @@ harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 
+vitess features https://overcast.fm/+HZUc8rncY 15ish mins
+
 https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
 
 jevons paradox and snowflake https://overcast.fm/+B1yJf5_3g f word warning

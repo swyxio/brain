@@ -1,6 +1,8 @@
 https://twitter.com/theryanking/status/1475122757117653003?s=21
 
 
+airbyte leadership reading list https://docs.google.com/document/d/1_hRIhQ9dtsnruytGkIWjSmxqh-lyc7SiomIHXjEnUz0/edit
+
 https://growth.eladgil.com/
 
 profit sharing

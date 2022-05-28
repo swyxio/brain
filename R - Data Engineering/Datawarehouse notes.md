@@ -5,3 +5,4 @@
 
 nice ecosystem overview https://greylock.com/greymatter/the-next-cloud-data-platform/
 
+delta lake https://databricks.com/blog/2017/10/25/databricks-delta-a-unified-management-system-for-real-time-big-data.html

@@ -23,6 +23,7 @@ slack vs discord
 https://principles.planetscale.com/
 12 factor app
 jamstack
+https://principledgraphql.com/
 
 ## lightboarding
 

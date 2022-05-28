@@ -5,14 +5,9 @@ educative https://www.podbean.com/media/share/pb-n2ntb-1208ead https://www.youtu
 
 https://jsparty.fm/226
 
-
-compressedfm https://overcast.fm/+s3Urc2IAY
-
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
 
 michelle hansen chat
-
-- uibreakfast https://uibreakfast.com/223-how-to-market-yourself-with-shawn-swyx-wang/
 
 https://dev.to/devteam/devdiscuss-is-back-for-season-8-4knb
 

@@ -1,5 +1,8 @@
 https://youtu.be/27zuReojDVw
 
+## devmarketing interview
+this guy https://twitter.com/ramiro__nd/status/1530179468895178753?s=21&t=4mn4rYiIfeslwCDjA2Fljw
+
 ## devtools second acts
 
 - marketplace as second act

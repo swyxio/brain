@@ -2,9 +2,6 @@
 
 matthew dicks 20 mins https://overcast.fm/+kfErcA
 
-adele tiny desk https://youtu.be/XfzpYcwiUrA
-
-
 fight club https://www.youtube.com/watch?v=GiOuUP9z7l4&list=WL&index=2
 
 anne marie https://youtu.be/u3ePPA0yzSU
@@ -33,7 +30,7 @@ boyce ave https://www.youtube.com/watch?v=Sv8XHiTkDYg
 
 story swimming https://overcast.fm/+lXsYeE 35 mins
 
-Glee picks https://youtu.be/LUyfiicklk0 https://youtu.be/TlWHTfrGhoY https://youtu.be/ERQ7wZgMjBc https://youtu.be/TYXYQRU2i7c https://youtu.be/keXMU5DjHjE
+
 
 Witcher https://youtu.be/waMkFIzvDpE
 

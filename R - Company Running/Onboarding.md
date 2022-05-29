@@ -1,3 +1,10 @@
+Eugeneyan onboarding https://news.ycombinator.com/item?id=31540909
+- https://hbr.org/2021/11/how-to-succeed-quickly-in-a-new-role
+-  "The first 90 days" by Michael Watkins.
+- https://leadership.garden/onboarding-engineers/
+
+---
+
 Onboarding Template
 
 ### _Make a copy of this template (hover over page name in the left-hand toolbar > click on the “...” > duplicate) and customize it to fit your newest team member! Feel free to make changes as you see fit._

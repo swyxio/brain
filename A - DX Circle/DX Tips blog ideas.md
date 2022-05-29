@@ -1,5 +1,14 @@
 https://youtu.be/27zuReojDVw
 
+## types of devrel setups
+
+- 0 to 1 devrel (kin)
+- service devrel (solana)
+- fill-in devrel (sentry)
+2x2 based on existing growth vs centricity (focused on demoing platform or teaching code)
+
+inspired by kin vs solana story https://chase.hashnode.dev/an-unorthodoxed-developer-relations-journey
+
 ## devmarketing interview
 this guy https://twitter.com/ramiro__nd/status/1530179468895178753?s=21&t=4mn4rYiIfeslwCDjA2Fljw
 

@@ -1,5 +1,9 @@
 ## Music and entertainment picks
 
+tiktok picks https://youtu.be/QgqLJzmgPs8
+
+
+
 matthew dicks 20 mins https://overcast.fm/+kfErcA
 
 fight club https://www.youtube.com/watch?v=GiOuUP9z7l4&list=WL&index=2

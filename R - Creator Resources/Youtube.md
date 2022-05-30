@@ -1,0 +1,1 @@
+https://tclarkmedia.substack.com/p/most-podcasts-suck-at-youtube-this

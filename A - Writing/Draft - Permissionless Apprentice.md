@@ -1,0 +1,49 @@
+Permissionless Apprentice notes
+
+- "Arbitrage is the difference between what you can do and what someone else can't, won't, or doesn't do." You capture value by demonstrating your ability to do something for someone that they didn't know was possible (until you make it abundantly clear by showing them, which is what this workshop is all about).
+- the definition of apprenticeship: “A person who works for another in order to learn a trade.”
+- Things you don’t need:
+	- Permission
+	- Certification
+	- Six-figure tuition 
+- Things you do need:
+	- Patience
+	- Practice
+	- Skill
+	- Consistency
+- Things you cannot buy:
+	- Social proof
+	- Experience
+	- Proof of work
+	- Network
+- The apprenticeship model makes you valuable to people that have a problem.
+- Pay in Proof - Cold Email Template
+- How do you make connections with people whose time is valuable? Do The Work First
+	- By clearly articulating your ability.
+	- By clearly articulating their upside.
+	- Upsides:
+	- More attention on their work? 
+	- Doing something you saw them ask for? 
+	- Building them a tool that saves them time?
+	- Introducing them to someone that can help them?
+	- Showing them a specific untapped opportunity?
+- Open Networks. Twitter lets you:
+	- Build a resume of "how you think"
+	- Solve problems with full transparency
+	- Grow a network of people interested in the above
+	- Twitter acts as a voting machine for ideas - your feed is living, breathing proof-of-work.
+- Ensure we win even if no one sees or responds to our work
+	- personal desire:
+	- "I want access to brilliant people, so I started a podcast."
+	- "I want to be a better designer, so I publish every day."
+	- "I want to be a better writer, so I write every day."
+	- Think of yourself as an early investor in an asset class that is not yet publicly traded. It's your job to increase the value of the asset in order to attract investment from other people.
+- Concentration - create more opportunity by serving fewer people
+	- A pool of 100 people that need exactly what you do outweighs 10,000 indifferent spectators.
+- Consensual Collaboration - dont publish without asking
+- Most of us don't know what's missing because no one else has shown us. That's all the Permissionless Apprenticeship is.
+- Figure out what's missing, make it and show people.
+- https://docs.google.com/document/d/1UV4qv-jmhydFO2SwkFaJJMUJp0QD45hrohCfy9ITw0M/edit?usp=sharing
+- 
+
+

@@ -1,0 +1,10 @@
+personal notes on movies. all spoilers!
+
+
+
+- Matrix Resurrections (1/5)
+	- Starts off promising, with a satirical/meta take on the industry of rebooting the Matrix. started really going downhill with the action scenes when it became clear Keanu was just going to be old and slow and not have his powers (they kinda reduced him to Violet from the Incredibles lol). New Morpheus kinda incongruent, and New Smith didn't seem menacing. It's kind of not clear what Neil Patrick Harris' character wants beyond having Neo and Trinity back in his Matrix which isn't happening. Bugs (who plays Colleen Wing) probably the most compelling new character, but also doesnt really matter in the third act. Third act somehow devolves into a zombie movie, and the action climax is some kind of helicopter shootout with no enemies we care about. and Trinity flies now? probably an expression of some fulfilment Lana Wachowski wanted, that Lilly has made very clear she wants nothing to do with. a mess of a show. 
+	- Watched on HBO Max
+- Spider-Man: No Way Home (4/5)
+	- Couldve gone very wrong with the sheer amount of actors in this thing but it mostly worked! very gratifying to see the 3 spideys meet and work together, and most importantly to me, Tom Holland's personal growth as the result of tragedy established the "Home" movies as his origin story, when we all thought that they had skipped it. Meme callbacks were fun and Willem Dafoe and Andrew Garfield's performances were as solid as everyone says. not a 5/5 because the nerfing of Strange was clumsy, May was fridged, and its kinda unclear why all the bad guys would travel to Ellis Island together to fight Spidey, particularly Sandman who seemed pretty chill?
+	- Watched opening day, lots of whoops particularly with Daredevil cameo. Kinda didnt like the Strange 2 post credits trailer.

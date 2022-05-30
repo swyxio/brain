@@ -1,0 +1,5 @@
+- If a thing takes less than 2 minutes to do, just do it immediately.
+- Don't try to remember the things you need to do in your head, write them down.
+- A weekly(-ish) review. Things happen, and things will get disorganized, but spending some time to reorganize things again really helps to keep it from spiraling out of control.
+- Inbox zero (emails). I chuck things into "Action", "Waiting", "References" or "Archive" instead of letting them pile up in the inbox making me stressed.
+- projects really just consist of "the next step". What do I need to do to advance this project/assignment/thing by one step? Define that and put it away to act on at some point.

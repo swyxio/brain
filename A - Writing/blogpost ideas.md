@@ -1,6 +1,10 @@
 # blogpost ideas
 
+## lessons from the plaid-stripe debate
 
+shreyas lessons
+- hiring
+- attention
 
 ## the problems orchestration solves
 

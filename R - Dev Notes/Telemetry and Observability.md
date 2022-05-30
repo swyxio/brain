@@ -1,0 +1,49 @@
+https://www.se-radio.net/2021/04/episode-455-jamie-riedesel-on-software-telemetry/
+
+- What is it?
+	- software telemetry is what we all use to figure out what our software’s actually doing.
+	- Software telemetry tells you what’s going on in the black box we’re building.
+- 4 Major Styles
+	- Centralized logging
+		- **all text based** - rarely more than 30-60 days
+		- ELK stack
+		- all logs in central place, graphical UI, search, bisect/resect
+	- Metrics
+		- **numbers based** - more compact
+		- counters and timers (how often, how long)
+		- can store for 10 years
+	- Traces
+		- **GUI based**
+		- use SDK to instrument code - open trace, do work, close trace
+		- reassemble a stack trace for your distsys
+	- SEIM - Security Event Information Management
+- Concepts
+	- Cardinality
+	- Observability
+		- Logs, Metrics, Traces working together
+	- Push based monitoring vs pull based
+		- "give me your status" on a schedule vs "i did a thing" whenever
+		- network switches, infra monitoring, hardware mostly done by pull based - they dont have ability to push
+			- use CollectD or Telegraph to do polling
+			- Payload: small (<2kb), mostly JSON (serializes fast), some protobufs (controversial bc very static format, rigid schema... but integration with gRPC, versioning).
+- OpenTelemetry
+	- Transmission protocol for traces for the distributed tracing product. 
+	- And they have this idea that they can extend it to do things like logging and metrics along the same protocol. 
+- StatsD
+	- 2010 - small Daemon UDP based that could take statistics information coming from software as a firehose and just send that into whatever your backend was.
+- modern infrastructure
+	- converged infra - single interface (grafana) gets you network port information, logs, execution rates for given functions in a DC or rack
+- distributed tracing - 2015
+	- high cardinality metrics to trace execution across 50-100 microservices 
+- Jaeger
+	- for tracing, also uses ES for datastore
+	- can also use Cassandra for very large systems, but ES preferred for their indexing
+- Crash reporting
+	- the bare minimum you need eg if everything else is anonymized for privacy you still want this
+	- different log stream than the others
+	- iOS offers dedicated apis for this
+- GDPR and Toxic Data
+	- email address is PII
+	- handle carefully
+	- Amazon Macy can help, Azure also - built on ML models
+	- Telemetry systems are business records and can be subpoenaed

@@ -5,7 +5,6 @@
 ## human
 
 - [fancyhands](https://www.fancyhands.com/) - US virtual assistant
-- https://www.athenago.com/ - fulltime remote EA https://www.ejorgenson.com/podcast/athena
 - [gethuman](https://gethuman.com/) - Help for customer service
 - [pickfu](https://www.pickfu.com/) - Market feedback from US consumers 
 - [Gosquaredaway](https://www.gosquaredaway.com/)- military spouse personal assistants

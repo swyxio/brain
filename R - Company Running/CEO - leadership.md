@@ -1,6 +1,8 @@
 https://twitter.com/theryanking/status/1475122757117653003?s=21
 
 
+**optimism shapes reality.** https://alexw.substack.com/p/optimism-shapes-reality?s=r
+
 https://growth.eladgil.com/
 
 profit sharing

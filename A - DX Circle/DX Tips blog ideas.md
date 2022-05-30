@@ -164,11 +164,6 @@ casey from accel https://www.accel.com/noteworthy/welcome-casey-aylward
 		- platform and infra services - gotto use best of breed services
 
 
-
-hiring first devrel
-- https://twitter.com/GergelyOrosz/status/1512041397259583491?s=20&t=1lJ6CQRZgcDnvKC8ZmSQKw
-
-
 ## crossing the chasm and matching explanation
 
 - explaining benefits to later adopters

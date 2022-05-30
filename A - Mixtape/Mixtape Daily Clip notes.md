@@ -73,6 +73,7 @@ origin of okta 15 mins https://overcast.fm/+yYPOSfU9I 40 min auth0 acquisition
 
 https://overcast.fm/+JaI5qMWzE wordle juice ui
 
+https://overcast.fm/+R_DjzB3z0 35 mins buying domains advice 
 
 ## marketing
 

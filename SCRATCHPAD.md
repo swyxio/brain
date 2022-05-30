@@ -3,22 +3,7 @@ created: 2021-12-01 01:35
 updated: 2022-04-26 12:12
 ---
 
-## airbyte carryovers
-
-- onboarding to watch https://docs.google.com/document/d/11du6cI_MEjniY5NhrK4s_zAzpWKdkD8JzIGSwHqh2CM/edit#heading=h.yjl0jah2n16g
-	- https://drive.google.com/file/d/1V_icVD8C_LiBlVJBOt1DHwCZB36Tj_mX/view
-	- https://drive.google.com/file/d/1nGvCr1WbZ9KoRMlCwAbI_VeEBfAps2jD/view
-	- https://docs.google.com/document/d/1UhU1Qgn_WkmHLOjPyMZNeSPY-OuFVAtF_JdLTeeHXXU/edit
-- gong https://app.gong.io/home
-- gonto ari https://docs.google.com/document/d/1gub-i_fM0HP3QXr2kvCZDQ5qejjf81ppZz9Hf3HA8JA/edit#
-- docs reading 
-	- https://docs.airbyte.com/understanding-airbyte/airbyte-specification/
-	- https://docs.google.com/document/d/1ctrj3Yh_GjtQ93aND-WH3ocqGxsmxyC3jfiarrF6NY0/edit#heading=h.nktmxbx2ya9y
-	- https://docs.google.com/document/d/1n5SOkUM9Ef04cLhshEcTe5NAamiMC24TVQ3UKg6kVTE/edit#heading=h.2l4saj87bpep
-- maintainer program
-	- https://www.notion.so/Maintainer-Program-Overview-831c162c7f0646c6824afa2765d4cdb7
-
-
+Screenflow 9
 
 ## old laptop ground
 

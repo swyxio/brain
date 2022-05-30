@@ -1,7 +1,5 @@
 corey quinn screaming in the cloud
 
-https://jsparty.fm/226
-
 eddie hinkle web joy test recording
 
 ## speaking

@@ -100,6 +100,7 @@ linkedin, tiktok and twitter are at 20-something% of general population, but you
 
 lang agnostic 
 
+- https://retool.com/reports/state-of-engineering-time-2022/
 - Stackoverflow survey
    - 2020 https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents
    - 2021 https://insights.stackoverflow.com/survey/2021

@@ -49,7 +49,7 @@ the trust equation https://overcast.fm/+OozM5Blcw 25 mins
 gates explains internet https://youtu.be/fs-YpQj88ew
 
 
-
+https://overcast.fm/+YNeR0nNT4 26 mins some internet history on origin of internet and web 3
 
 
 oligarch yachts https://overcast.fm/+BmH2Cs0ig 35mins

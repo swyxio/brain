@@ -10,7 +10,8 @@ how to do db replication https://twitter.com/teej_m/status/1521300456483352576?s
 apache pinot [https://youtu.be/_lqdfq2c9cQ](https://youtu.be/_lqdfq2c9cQ)
 
   
-
+htap ecosystem
+- https://overcast.fm/+H1YOVNmx0
   
 
 sqlite problems

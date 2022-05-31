@@ -210,11 +210,11 @@ Ambassador Labs (formerly Datawire), the cloud native developer experience leade
 
 
 https://news.ycombinator.com/item?id=23331804
-- WTF DOES IT DO?
+- "WTF DOES IT DO?"
 
 virtasant
 https://www.virtasant.com/
-global diverse team of cloud experts 
+"global diverse team of cloud experts ""
 
 
 https://www.magidandco.com/blog/the-two-sentence-description

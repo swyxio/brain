@@ -2,6 +2,9 @@ corey quinn screaming in the cloud
 
 eddie hinkle web joy test recording
 
+
+https://www.thecloudcast.net/2022/01/2022-look-ahead-developer-careers.html
+
 ## speaking
 
 apr 4-8 temporal allhands

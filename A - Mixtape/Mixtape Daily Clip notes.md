@@ -15,7 +15,6 @@ why cal open source https://overcast.fm/+HbN4bIcIg 50 mins
 
 ziprecruiter remote work 15 or 18ish mins https://overcast.fm/+zcV-figiI
 
-
 why blue screens blue https://youtu.be/KgqJJECQQH0
 
 expert blindness https://overcast.fm/+RCm27mAv4 25-35 mins
@@ -90,7 +89,6 @@ https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins
 
 ## technical
 
-https://overcast.fm/+cV8rkoLOk 19 mins how mac won developers 
 
 closing open source https://overcast.fm/+oUqCrYCdE 15mins
 
@@ -132,6 +130,8 @@ https://overcast.fm/+ycL9ybdsc 23 mins - 40 mins a defense of agile
 - 45 mins why  estimating software is hard
 
 ## youtuber
+
+https://overcast.fm/+NBVvkPZyc trendjacking/prediction 1h in
 
 https://youtu.be/3A8kawxMOcQ mrbeast rogan
 

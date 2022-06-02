@@ -1,5 +1,9 @@
 https://youtu.be/27zuReojDVw
 
+## other definitions of dx index
+
+https://everydeveloper.com/developer-experience/
+
 ## types of devrel setups
 
 - 0 to 1 devrel (kin)

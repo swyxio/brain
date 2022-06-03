@@ -89,9 +89,6 @@ https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins
 
 ## technical
 
-
-closing open source https://overcast.fm/+oUqCrYCdE 15mins
-
 wasm good overview of wasm cloud tooling  on <@405426635857461249> ‘s podcast https://oss-startup-podcast.launchnotes.io/announcements/episode-34-open-source-webassembly-tools-with-fermyon 30 mins in the description of wasm component model is compelling
 
 benefits of go 1.18 https://overcast.fm/+ur1GgzMqs 15ish mins 
@@ -105,8 +102,6 @@ birth of the internet https://overcast.fm/+Fd_qCtBD8 10mins
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 
 https://overcast.fm/+3D5Lzp4uM origin of xbox 8-18ishmins
-
-https://overcast.fm/+eZyA0p5FQ 2h1min hard problem of package management conda and pip and python 2-3 move
 
 origin of replit 50mins https://overcast.fm/+hTZfriwzQ llvm story - diversion resume at 1h 4 mins
 

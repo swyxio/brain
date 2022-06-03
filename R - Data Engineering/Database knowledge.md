@@ -9,7 +9,25 @@ how to do db replication https://twitter.com/teej_m/status/1521300456483352576?s
 
 apache pinot [https://youtu.be/_lqdfq2c9cQ](https://youtu.be/_lqdfq2c9cQ)
 
-  
+
+3 types of data (vinoth hudi)
+- postgres - mutability
+- event stream - support deduplication - high scale
+- api - smaller scale, but high variety - salesforce, hubspot etc
+
+
+large tech co
+- CDC streams 
+	- flink stream processing
+	- send to CDW
+- flexible between batch and stream
+- fivetran - lock this stream in - not possible to get stream out into kafka topic
+- onehouse focuses on actual storage management
+	- gave up query layer - have people who ran presto for 2.5 yrs
+
+
+
+
 htap ecosystem
 - https://overcast.fm/+H1YOVNmx0
   

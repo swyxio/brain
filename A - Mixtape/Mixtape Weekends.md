@@ -1,6 +1,9 @@
 > longform/swyx content to resyndicate  on weekends
 
 
+third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
+
+
 educative https://www.podbean.com/media/share/pb-n2ntb-1208ead https://www.youtube.com/watch?v=NqAGxYWgYZk
 
 https://jsparty.fm/226

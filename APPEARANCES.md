@@ -36,6 +36,7 @@ oct 6-7 infoshare 2022 gdansk
 oct 27 - porto tech hub rejecred
 nov 8 - airbyte conf
 nov lagos? jan?
+nov 9-10 github universe submitted
 dec allscope
 
 Apr 5-5 New York

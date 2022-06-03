@@ -89,6 +89,8 @@ https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins
 
 ## technical
 
+https://overcast.fm/+w94UZeKb0 6mins origin od clickhouse
+
 wasm good overview of wasm cloud tooling  on <@405426635857461249> ‘s podcast https://oss-startup-podcast.launchnotes.io/announcements/episode-34-open-source-webassembly-tools-with-fermyon 30 mins in the description of wasm component model is compelling
 
 benefits of go 1.18 https://overcast.fm/+ur1GgzMqs 15ish mins 

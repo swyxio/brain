@@ -6,7 +6,9 @@
 
 https://overcast.fm/+hTZcSfoq0 ramp packy
 
+## writing
 
+https://overcast.fm/+3Ag_8mpmc 48 mins origin of may levine
 
 ## general dump
 

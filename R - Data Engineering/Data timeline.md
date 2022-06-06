@@ -7,3 +7,7 @@
 	- https://benn.substack.com/p/the-end-of-big-data/comment/5957489?s=r
 	- I'll age myself by saying that I remember Impala, and also was at the first Databricks Strata tutorial circa 2014. I started using both Databricks and Snowflake relatively early on--2016/2017. And while I love, love, LOVE your posts, I think there's one thing you get wrong here. Before roughly 2019, Databricks wasn't at all "a big, fast database that you can write SQL and Python against." Yes, you could query tables with SQL, but all of the underlying stuff you had to do with s3 and cluster management made it feel a lot more like Hadoop than Redshift or Snowflake. So much so that my DS/ML teams used Databricks because we liked python, but it was totally infeasible to make our Analytics team use it instead of Snowflake.
 	- That all changed in 2020 when Databricks released Delta and very slowly integrated it into their product offering. Delta is basically OSS Snowflake, and since then, Databricks and Snowflake have been slowly converging. Finally in the last year or so Delta feels a lot like Snowflake (with a nice UI, simplified SQL clusters like Snowflake warehouses, etc.). So it really is a big, fast database that you can program with python, scala, SQL.
+
+
+2019 acquisitions - looker google 2.6b and tableau salesforce 15.7b
+https://www.getdbt.com/blog/a-wave-of-acquisitions-in-business-intelligence/

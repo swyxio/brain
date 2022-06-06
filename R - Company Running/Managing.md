@@ -13,6 +13,15 @@ https://twitter.com/jspujji/status/1494743094813548544?s=21
 
 
 
+6 roles of managing
+- https://twitter.com/johncutlefish/status/1533661807029563392?s=21&t=WJORvdw2EyoLB1ChjQ8NpA
+- goal setter
+- goal tracker
+- shield/proxy
+- champion/sponsor
+- expert/upskiller
+- role model
+- motivator/coach
 
 https://acjay.com/2022/03/11/11-principles-of-engineering-management/
 good response https://news.ycombinator.com/item?id=31154738

@@ -13,6 +13,9 @@ https://overcast.fm/+3Ag_8mpmc 48 mins origin of may levine
 ## general dump
 
 
+LNO framework shreyas https://overcast.fm/+6K1FK0ntg 35 mins
+
+
 why cal open source https://overcast.fm/+HbN4bIcIg 50 mins
 
 ziprecruiter remote work 15 or 18ish mins https://overcast.fm/+zcV-figiI

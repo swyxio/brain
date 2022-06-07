@@ -36,10 +36,12 @@ In [my original tweet](https://twitter.com/swyx/status/1533910738942562304) call
 Conveniently, they are all under attack (did i miss any? please let me know):
 
 - Editing code and Running code remotely: GitHub Codespaces, Replit, Coder.com, CodeSandbox, Gitpod
-- Editing code locally while it runs on a Remote server: VSCode + [Azure VMs](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) or VSCode + [Amazon Workspaces](https://dev.to/aws/how-to-live-stream-meetups-on-twitch-without-any-special-equipment-56cb) or [Jetbrains Fleet](https://www.jetbrains.com/fleet/) "Distributed IDE"
+- Editing code locally while it runs on a Remote server: VSCode + [Azure VMs](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) or VSCode + [Amazon Workspaces](https://dev.to/aws/how-to-live-stream-meetups-on-twitch-without-any-special-equipment-56cb) or [Jetbrains Fleet](https://www.jetbrains.com/fleet/) "Distributed IDE" or [Okteto Sync](https://twitter.com/rberrelleza/status/1534241206514749441?s=20&t=sNeNXfaWqhc2VzuUnSZ7uw)
 - Editing code while it runs in a lightweight [JavaScript container](https://tinyclouds.org/javascript_containers) in the browser: Stackblitz
 - Running code remotely: [Brev.dev](https://www.brev.dev/)
-- Staging resources to code against: Planetscale [Branches](https://docs.planetscale.com/concepts/branching), Stripe [Test mode keys](https://stripe.com/docs/keys#test-live-modes), Railway [Ephemeral Environments](https://docs.railway.app/develop/environments#ephemeral-environments), 
+- Staging resources to code against: Planetscale [Branches](https://docs.planetscale.com/concepts/branching), Stripe [Test mode keys](https://stripe.com/docs/keys#test-live-modes), Railway [Ephemeral Environments](https://docs.railway.app/develop/environments#ephemeral-environments), [Okteto environments](https://www.okteto.com/)
+
+So no matter what you're doing in `localhost`, there's probably a well-funded startup or Amazon/Microsoft tool that does it better in the cloud.
 
 ## But I Need To Code on a Plane?
 
@@ -60,26 +62,30 @@ One of the ironic tensions of humanity is that we **say** we want free will, pri
 To argue *against* `localhost` eventually going the way of the Dodo is to do the developer equivalent of asserting that most people want to run their own generators or grow their own food.
 
 
-## Developers Are Already Reliant on The Cloud
+## The "Inner Loop" Argument
 
-Now, you might argue that developers take so much pride in their tools that they will go out of their way to be self sufficient in them. And yet:
+You might argue that developers take so much pride in their tools that they will go out of their way to be self sufficient in them. And yet:
 
 - Every [Slack](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=status.slack.com&sort=byPopularity&type=story) and [GitHub](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=github%20is%20down&sort=byPopularity&type=story) outage is basically celebrated as a Developer "Snow Day" (unscheduled holiday due to acts of god)
-- Most companies run separate Build/CI/CD infrastructure anyway - in other words most apps don't get *deployed* without first going through some cloud infra
+- Most companies run separate Build/CI/CD infrastructure anyway - in other words most apps don't get *deployed* without first going through some cloud infra as part of the critical path
+
+I will grant that there's a difference between "I use CircleCI" and "let's kill localhost". The term of art the industry has adopted to describe this difference in dev tooling is the [Dev "Outer Loop" vs "Inner Loop"](https://twitter.com/beyang/status/1530589936361119744) - the Outer Loop taking the git commit as the atomic unit of developer productivity, and the Inner Loop being everything that happens between commits. And yes
+
+
+
 - With Sourcegraph, developers are effectively saying a remote service can do a better job of *searching* their code than they can locally
 - With GitHub Copilot, even *autocomplete* is being made better by being cloud-enabled
 
-There's a difference between "I use CircleCI"
 
-
-Dev inner loop
-
+## The "Future is Just Not Evenly Distributed" Argument
 
 Bigcos: 
 - Tesla: https://twitter.com/charmcgi/status/1534182983837618176
 - FB ondemand https://twitter.com/threepointone/status/1533971160005738496?s=20&t=FBNMNXzv8v6vwAdSzkTxDw https://twitter.com/gwenshap/status/1533956840240779264?s=20&t=FBNMNXzv8v6vwAdSzkTxDw 
 - Google Cider https://www.quora.com/What-does-Googles-web-IDE-look-like
 - Palantir https://blog.palantir.com/the-benefits-of-remote-ephemeral-workspaces-1a1251ed6e53 (thanks [Ben Potter](https://twitter.com/bpmct/status/1533932035147980802?s=20&t=FBNMNXzv8v6vwAdSzkTxDw))
+- Shopify https://shopify.engineering/cloud-load-modular-code-shopify-2022  (thanks [David Stosik](https://twitter.com/davidstosik/status/1533981379209613312?s=20&t=shjhKXR3Gtrtr54iSqHPnA))
+- Github
 
 
 ## Serverless and Edge

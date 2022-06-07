@@ -101,6 +101,7 @@ offer anonymojs because she needs plusbile deniability from prev job
 - one person doing the job holding all the context
 - theres a utility library for it
 - theres a framework for it
+- lots of startups https://stratechery.com/2020/the-end-of-the-beginning/ - pmarca says no startups are wrong
 
 
 ## why livestream

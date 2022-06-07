@@ -40,7 +40,6 @@ https://overcast.fm/+OOu8ERt88 community led growth
 
 https://overcast.fm/+maz1Gg lin manuel story
 
-https://overcast.fm/+YsrbaSq74 coinbase 1h10mins - leadership/management - misison focused company
 
 space industry 15 mins https://overcast.fm/+a0BromYiY
 

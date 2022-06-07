@@ -91,6 +91,9 @@ https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins
 
 ## technical
 
+
+Origin of visicalc https://youtu.be/YDvbDiJZpy0
+
 https://overcast.fm/+w94UZeKb0 6mins origin od clickhouse  25 mins secret sauce
 
 wasm good overview of wasm cloud tooling  on <@405426635857461249> ‘s podcast https://oss-startup-podcast.launchnotes.io/announcements/episode-34-open-source-webassembly-tools-with-fermyon 30 mins in the description of wasm component model is compelling

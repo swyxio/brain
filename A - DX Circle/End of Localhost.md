@@ -1,5 +1,8 @@
 
 # The End of Localhost
+**All the Cloud's A Stage, and All the Laptops Merely Clients**
+
+---
 
 **It looks likely that most development will *not* be done on `localhost` in future.**
 
@@ -20,18 +23,31 @@ To [paraphrase Bob Metcalfe](https://www.wired.com/2012/04/ff-andreessen/), if t
 
 [INSERT MEME: My machine can't simulate the cloud - then we'll make you work on the cloud]
 
-In [my original tweet](https://twitter.com/swyx/status/1533910738942562304) calling out this trend
+That's it, that's the blogpost. The rest of this article is elaborating with subpoints, examples, trends, and anecdata.
 
-That's it, that's the blogpost. The rest of this article is elaborating with examples, trends, and anecdata.
+## Jobs to Be Done of Localhost
 
+In [my original tweet](https://twitter.com/swyx/status/1533910738942562304) calling out this trend I actually conflated different usages of local development (as [Anil Dash observed](https://twitter.com/anildash/status/1534177596593917954)):
+
+- Editing code in a local IDE
+- Running code cloned to a local file directory
+- Spinning up a local database instance/cluster of services to code against
+
+Conveniently, they are all under attack (did i miss any? please let me know):
+
+- Editing code and Running code remotely: GitHub Codespaces, Replit, Coder.com, CodeSandbox, Gitpod
+- Editing code locally while it runs on a Remote server: VSCode + [Azure VMs](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) or VSCode + [Amazon Workspaces](https://dev.to/aws/how-to-live-stream-meetups-on-twitch-without-any-special-equipment-56cb) or [Jetbrains Fleet](https://www.jetbrains.com/fleet/) "Distributed IDE"
+- Editing code while it runs in a lightweight [JavaScript container](https://tinyclouds.org/javascript_containers) in the browser: Stackblitz
+- Running code remotely: [Brev.dev](https://www.brev.dev/)
+- Staging resources to code against: Planetscale [Branches](https://docs.planetscale.com/concepts/branching), Stripe [Test mode keys](https://stripe.com/docs/keys#test-live-modes), Railway [Ephemeral Environments](https://docs.railway.app/develop/environments#ephemeral-environments), 
 
 ## But I Need To Code on a Plane?
 
 Maybe stop flying so much. Or get a good audiobook and rest your eyes. Maybe even talk to your neighbor! (if they seem social)
 
-## Inevitability by Human History
+## The Inevitability Argument
 
-One of the ironic tensions of humanity is that we **say** we want free will, self sufficiency and decentralization, but our **actions** tend toward the hive mind, interdependence and central infrastructure. 
+One of the ironic tensions of humanity is that we **say** we want free will, privacy, self sufficiency and decentralization, but our **actions** tend toward the hive mind, convenience, interdependence and central infrastructure. My theory for this is that social psychology, economics and technology are very powerful centralizing forces.
 
 - There are a long list of critical life essentials on which we are not self sufficient. Many historians mark agriculture as a starting point of civilization - meaning that *centralizing our food source* helped us move past a subsistence agriculture. Water supply and sanitation centralized [in the 1700s](https://en.wikipedia.org/wiki/History_of_water_supply_and_sanitation). Electricity has basically been centralized from the start.
 - Closer to modern times we're also seeing everything we use move to the cloud, from movies/TV (from huge VHS and DVD libraries to a monthly Netflix/Disney/HBO subscription), games (from box games to free-to-play MOBAs and MMORPGs, Google Stadia, xCloud and PS Now), and knowledge (from Encyclopaedia to Wikipedia)
@@ -49,7 +65,9 @@ To argue *against* `localhost` eventually going the way of the Dodo is to do the
 Now, you might argue that developers take so much pride in their tools that they will go out of their way to be self sufficient in them. And yet:
 
 - Every [Slack](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=status.slack.com&sort=byPopularity&type=story) and [GitHub](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=github%20is%20down&sort=byPopularity&type=story) outage is basically celebrated as a Developer "Snow Day" (unscheduled holiday due to acts of god)
-- Most companies run separate Build/CI/CD infrastructure anyway - in other words most apps don't get *deployed* without first going through some cloud infra.
+- Most companies run separate Build/CI/CD infrastructure anyway - in other words most apps don't get *deployed* without first going through some cloud infra
+- With Sourcegraph, developers are effectively saying a remote service can do a better job of *searching* their code than they can locally
+- With GitHub Copilot, even *autocomplete* is being made better by being cloud-enabled
 
 There's a difference between "I use CircleCI"
 
@@ -57,12 +75,55 @@ There's a difference between "I use CircleCI"
 Dev inner loop
 
 
+Bigcos: 
+- Tesla: https://twitter.com/charmcgi/status/1534182983837618176
+- FB ondemand https://twitter.com/threepointone/status/1533971160005738496?s=20&t=FBNMNXzv8v6vwAdSzkTxDw https://twitter.com/gwenshap/status/1533956840240779264?s=20&t=FBNMNXzv8v6vwAdSzkTxDw 
+- Google Cider
+- Palantir https://blog.palantir.com/the-benefits-of-remote-ephemeral-workspaces-1a1251ed6e53 (thanks [Ben Potter](https://twitter.com/bpmct/status/1533932035147980802?s=20&t=FBNMNXzv8v6vwAdSzkTxDw))
 
-things that are no longer local
 
-- Thin platforms https://news.ycombinator.com/item?id=31571566
-- browser (mighty app)
-- production infrastructure
-- CI/CD
-- caching of builds with turborepo
-- dropbox
+## Serverless and Edge
+
+- Tim Wagner
+- Serverless cloud https://twitter.com/emrahsamdan/status/1533912205594353676?s=20&t=FBNMNXzv8v6vwAdSzkTxDw
+- Anil Dash
+	- https://twitter.com/anildash/status/1534177596593917954?s=20&t=FBNMNXzv8v6vwAdSzkTxDw
+- Cloudflare
+	- - cloud wrangler https://twitter.com/threepointone/status/1533914337290735616?s=20&t=FBNMNXzv8v6vwAdSzkTxDw
+
+disbelievers
+- netlify dev
+- begin sandbox
+- amplify cli
+
+
+## Pushback: It's Still Not Good Enough
+
+- my struggle with cloud dev
+
+## Other Pushback
+
+- Centralization to private platforms https://twitter.com/sgwil/status/1534068485273305089?s=20&t=FBNMNXzv8v6vwAdSzkTxDw
+- 
+
+
+## Other Notable responses
+
+
+People have very extreme
+- positive views: https://twitter.com/wolftivy/status/1533934249673228288?s=20&t=FBNMNXzv8v6vwAdSzkTxDw
+	- https://twitter.com/roopakv/status/1533916592085422080?s=20&t=FBNMNXzv8v6vwAdSzkTxDw
+- and negative views: https://twitter.com/coolpatiens/status/1533958291931512832?s=20&t=FBNMNXzv8v6vwAdSzkTxDw
+	- https://twitter.com/zetalyrae/status/1533920071130955776
+
+Dan Abramov:
+
+https://twitter.com/dan_abramov/status/1533912835096465408?s=20&t=FBNMNXzv8v6vwAdSzkTxDw
+
+Paul Biggar of Dark:
+
+https://twitter.com/paulbiggar/status/1534185221955932161
+
+Patio11: 
+
+https://twitter.com/patio11/status/1533958144090460161?s=20&t=FBNMNXzv8v6vwAdSzkTxDw

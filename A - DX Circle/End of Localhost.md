@@ -78,7 +78,7 @@ Dev inner loop
 Bigcos: 
 - Tesla: https://twitter.com/charmcgi/status/1534182983837618176
 - FB ondemand https://twitter.com/threepointone/status/1533971160005738496?s=20&t=FBNMNXzv8v6vwAdSzkTxDw https://twitter.com/gwenshap/status/1533956840240779264?s=20&t=FBNMNXzv8v6vwAdSzkTxDw 
-- Google Cider
+- Google Cider https://www.quora.com/What-does-Googles-web-IDE-look-like
 - Palantir https://blog.palantir.com/the-benefits-of-remote-ephemeral-workspaces-1a1251ed6e53 (thanks [Ben Potter](https://twitter.com/bpmct/status/1533932035147980802?s=20&t=FBNMNXzv8v6vwAdSzkTxDw))
 
 
@@ -127,3 +127,5 @@ https://twitter.com/paulbiggar/status/1534185221955932161
 Patio11: 
 
 https://twitter.com/patio11/status/1533958144090460161?s=20&t=FBNMNXzv8v6vwAdSzkTxDw
+
+[Julius Gamanyi](https://twitter.com/juliusgb2k/status/1534154613682757635?s=20&t=oquJNGbOl2U8ZLfTR_fMUA) - wardley mapping: https://juliusgamanyi.com/2018/03/16/learning-to-map-cloud-ides-developer-workspaces-fast-time-to-first-line-of-code/

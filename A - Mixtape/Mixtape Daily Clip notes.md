@@ -8,7 +8,7 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 
 ## writing
 
-https://overcast.fm/+3Ag_8mpmc 48 mins origin of may levine
+https://overcast.fm/+3Ag_8mpmc 48 mins origin of matt levine
 
 ## general dump
 
@@ -94,7 +94,6 @@ https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins
 ## technical
 
 
-Origin of visicalc https://youtu.be/YDvbDiJZpy0
 
 https://overcast.fm/+w94UZeKb0 6mins origin od clickhouse  25 mins secret sauce
 

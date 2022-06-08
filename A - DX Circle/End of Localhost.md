@@ -97,6 +97,12 @@ Bigcos:
 - Cloudflare
 	- - cloud wrangler https://twitter.com/threepointone/status/1533914337290735616?s=20&t=FBNMNXzv8v6vwAdSzkTxDw
 
+
+sympathy 
+- https://twitter.com/royalicing/status/1534289848370352128?s=21&t=XrMtpxYKXroVa45238TsGA
+- https://twitter.com/nickhudkins/status/1534344248987897856?s=21&t=XrMtpxYKXroVa45238TsGA
+
+
 disbelievers
 - netlify dev
 - begin sandbox

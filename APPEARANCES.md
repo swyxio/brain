@@ -1,4 +1,4 @@
-corey quinn screaming in the cloud
+https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-with-swyx/
 
 eddie hinkle web joy test recording
 

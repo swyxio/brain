@@ -10,6 +10,9 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 
 https://overcast.fm/+3Ag_8mpmc 48 mins origin of matt levine
 
+https://youtu.be/uL0atQFZzL8 storytelling
+
+
 ## general dump
 
 

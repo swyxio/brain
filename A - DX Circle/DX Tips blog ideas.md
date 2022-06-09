@@ -1,5 +1,10 @@
 https://youtu.be/27zuReojDVw
 
+
+## guillermo thoughts 
+
+https://console.dev/podcast/s03e01-dev-infrastructure-guillermo-rauch/
+
 ## other definitions of dx index
 
 https://everydeveloper.com/developer-experience/

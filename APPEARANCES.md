@@ -107,3 +107,5 @@ make sure os of you https://youtu.be/IzK4IxHv3W0
 - scrimba podcast https://selftaughttxg.com/2021/07-21/Swyx-ActionableTactics/
 - thunder nerds https://twitter.com/thundernerds/status/1444725115766415364?s=20
 - devtea podcast https://www.listennotes.com/podcasts/developer-tea/learning-in-public-w-shawn-Q2S4e9qJDpu/
+- metamuse
+- screaming in the cloud https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-with-swyx/

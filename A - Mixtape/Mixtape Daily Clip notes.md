@@ -52,10 +52,6 @@ space industry 15 mins https://overcast.fm/+a0BromYiY
 
 the trust equation https://overcast.fm/+OozM5Blcw 25 mins 
 
-gates explains internet https://youtu.be/fs-YpQj88ew
-
-
-https://overcast.fm/+YNeR0nNT4 26 mins some internet history on origin of internet and web 3
 
 
 oligarch yachts https://overcast.fm/+BmH2Cs0ig 35mins
@@ -110,11 +106,9 @@ ebpf https://overcast.fm/+wtIPwx_jA
 
 3mins browser user agent https://overcast.fm/+LfVNDuulU
 
-birth of the internet https://overcast.fm/+Fd_qCtBD8 10mins
 
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 
-https://overcast.fm/+3D5Lzp4uM origin of xbox 8-18ishmins
 
 origin of replit 50mins https://overcast.fm/+hTZfriwzQ llvm story - diversion resume at 1h 4 mins
 

@@ -452,6 +452,7 @@ Nice Landing page templates
   - https://demos.onepagelove.com/html/devbook/
   - https://carrd.co/build#landing (i dont love these)
   - https://onepagelove.com/tag/book 
+  - https://www.buildingasecondbrain.com/pre-order
 
 see linked landing pages above
 

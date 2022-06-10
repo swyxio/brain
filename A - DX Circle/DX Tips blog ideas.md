@@ -1,3 +1,12 @@
+## how stripe does community experts
+
+send email to interview them?
+- carol
+- christrag
+- case study with launching stripe apps
+
+## distributed computing future
+
 https://youtu.be/27zuReojDVw
 
 

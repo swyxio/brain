@@ -6,6 +6,8 @@
 
 https://overcast.fm/+hTZcSfoq0 ramp packy
 
+https://overcast.fm/+3Ag-CJFnE/1:20:59 paribus origin
+
 ## writing
 
 https://overcast.fm/+3Ag_8mpmc 48 mins origin of matt levine

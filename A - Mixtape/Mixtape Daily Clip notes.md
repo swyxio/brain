@@ -79,6 +79,10 @@ https://overcast.fm/+JaI5qMWzE wordle juice ui
 
 https://overcast.fm/+R_DjzB3z0 35 mins buying domains advice 
 
+
+motionographer https://overcast.fm/+nQuqA2tdM 43mins stats of motion
+
+
 ## marketing
 
 orange juice rebrand fail https://overcast.fm/+B2HpKXM8Q

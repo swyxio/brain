@@ -119,3 +119,9 @@ export function uuid() {
   import { v4 as uuidv4 } from 'uuid';
   uuidv4(); // ⇨ '9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d'
   ```
+
+
+- TUID
+> A TUID is like a UUID (it conforms to UUID v4) but instead of being fully random (except for 6 bits for the version) it is prefixed with the time since epoch in microseconds
+
+https://github.com/tanglebones/pg_tuid

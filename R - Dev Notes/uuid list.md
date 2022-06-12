@@ -45,40 +45,31 @@ list of unique id implementations, design considerations, and resources. may als
   - *MySQL is clustered by default on the primary key which means inserts have to be ordered, so UUID (random in nature) has bad performance in MySQL.*
 
 
-## Impls
+## Simple UID Impls
 
-grab n go: https://www.uuidgenerator.net/
-
-super simple dumb unique id
-
-```js
-function id () {
-  return Math.random().toString(36).substring(2) + Date.now().toString(36);
-}
-```
-
-better uuid?
-
-```js
-https://www.w3resource.com/javascript-exercises/javascript-math-exercise-23.php
-export function uuid() {
-  var dt = new Date().getTime()
-  var uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(
-    c
-  ) {
-    var r = (dt + Math.random() * 16) % 16 | 0
-    dt = Math.floor(dt / 16)
-    // eslint-disable-next-line
-    return (c == 'x' ? r : (r & 0x3) | 0x8).toString(16)
-  })
-  return uuid
-}
-```
-
-
-- Twitter Snowflake (2010-2014) https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html
-- ULID https://github.com/ulid/spec ([security concern](https://news.ycombinator.com/item?id=25871981))
-- Timeflake https://github.com/anthonynsimon/timeflake ([not for security](https://news.ycombinator.com/item?id=25872009))
+- grab n go a single ID: https://www.uuidgenerator.net/
+- super simple dumb unique id function
+  ```js
+  function id () {
+    return Math.random().toString(36).substring(2) + Date.now().toString(36);
+  }
+  ```
+- simple uuid function
+  ```js
+  // https://www.w3resource.com/javascript-exercises/javascript-math-exercise-23.php
+  export function uuid() {
+    var dt = new Date().getTime()
+    var uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(
+      c
+    ) {
+      var r = (dt + Math.random() * 16) % 16 | 0
+      dt = Math.floor(dt / 16)
+      // eslint-disable-next-line
+      return (c == 'x' ? r : (r & 0x3) | 0x8).toString(16)
+    })
+    return uuid
+  }
+  ```
 - fast random ID: 
   - https://github.com/lukeed/uid A tiny (134B) and fast utility to generate random IDs of fixed length
     
@@ -104,6 +95,10 @@ export function uuid() {
     import { nanoid } from 'nanoid'
     model.id = nanoid() //=> "V1StGXR8_Z5jdHi6B-myT"
     ```
+
+## Production quality UUID approaches
+
+
 - uuid/v4:
   - [as of Node v14.17](https://nodejs.org/en/blog/release/v14.17.0/#uuid-support-in-the-crypto-module) you can generate UUID4's with the crypto module:
     ```js
@@ -114,14 +109,44 @@ export function uuid() {
   - https://digitalbunker.dev/2020/09/30/understanding-how-uuids-are-generated/
   - https://github.com/lukeed/uuid
   - https://github.com/uuidjs/uuid
-  
-  ```js
-  import { v4 as uuidv4 } from 'uuid';
-  uuidv4(); // ⇨ '9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d'
-  ```
+    ```js
+    import { v4 as uuidv4 } from 'uuid';
+    uuidv4(); // ⇨ '9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d'
+    ```
+- ULID - Universally Unique Lexicographically Sortable Identifier https://github.com/ulid/spec ([security concern](https://news.ycombinator.com/item?id=25871981))
+    UUID can be suboptimal for many use-cases because:
 
+    - It isn't the most character efficient way of encoding 128 bits of randomness
+    - UUID v1/v2 is impractical in many environments, as it requires access to a unique, stable MAC address
+    - UUID v3/v5 requires a unique seed and produces randomly distributed IDs, which can cause fragmentation in many data structures
+    - UUID v4 provides no other information than randomness which can cause fragmentation in many data structures
 
-- TUID
-> A TUID is like a UUID (it conforms to UUID v4) but instead of being fully random (except for 6 bits for the version) it is prefixed with the time since epoch in microseconds
+    Instead, herein is proposed ULID:
 
-https://github.com/tanglebones/pg_tuid
+    ```javascript
+    ulid() // 01ARZ3NDEKTSV4RRFFQ69G5FAV
+    ```
+
+    - 128-bit compatibility with UUID
+    - 1.21e+24 unique ULIDs per millisecond
+    - Lexicographically sortable!
+    - Canonically encoded as a 26 character string, as opposed to the 36 character UUID
+    - Uses Crockford's base32 for better efficiency and readability (5 bits per character)
+    - Case insensitive
+    - No special characters (URL safe)
+    - Monotonic sort order (correctly detects and handles the same millisecond)
+- Timeflake https://github.com/anthonynsimon/timeflake ([not for security](https://news.ycombinator.com/item?id=25872009))
+  -  Timeflake is a 128-bit, roughly-ordered, URL-safe UUID. Inspired by Twitter's Snowflake, Instagram's ID and Firebase's PushID.
+  - **Fast.** Roughly ordered (K-sortable), incremental timestamp in most significant bits enables faster indexing and less fragmentation on database indices (vs UUID v1/v4).
+  - **Unique enough.** With 1.2e+24 unique timeflakes per millisecond, even if you're creating 50 million of them *per millisecond* the chance of a collision is still 1 in a billion. You're likely to see a collision when creating 1.3e+12 (one trillion three hundred billion) timeflakes per millisecond.*
+  - **Efficient.** 128 bits are used to encode a timestamp in milliseconds (48 bits) and a cryptographically generated random number (80 bits).
+  - **Flexible.** Out of the box encodings in 128-bit unsigned int, hex, URL-safe base62 and raw bytes. Fully compatible with uuid.UUID.
+- TUID https://github.com/tanglebones/pg_tuid 
+  - "A TUID is like a UUID (it conforms to UUID v4) but instead of being fully random (except for 6 bits for the version) it is prefixed with the time since epoch in microseconds."
+  - Note that the JS implementation uses `Math.random`, making it less secure than UUID which uses the crypto module. [More info from @nosovk and @kurtextrem]([url](https://github.com/sw-yx/brain/pull/36)).
+    
+## Older stuff
+
+keeping purely for learning/historical context
+
+- Twitter Snowflake (2010-2014) https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html

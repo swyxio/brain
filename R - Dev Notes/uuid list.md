@@ -45,6 +45,9 @@ list of unique id implementations, design considerations, and resources. may als
   - *MySQL is clustered by default on the primary key which means inserts have to be ordered, so UUID (random in nature) has bad performance in MySQL.*
 
 
+**Cutting edge** as of 2021-2022 the IETF is currently working on standardizing UUIDv6, v7, v8, and Max UUID: https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html (this URL may break)
+
+
 ## Simple UID Impls
 
 - grab n go a single ID: https://www.uuidgenerator.net/
@@ -150,3 +153,19 @@ list of unique id implementations, design considerations, and resources. may als
 keeping purely for learning/historical context
 
 - Twitter Snowflake (2010-2014) https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html
+-    [[ULID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#ULID)] by A. Feerasta[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.1.1)    
+-   [[LexicalUUID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#LexicalUUID)] by Twitter[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.2.1)
+-   [[Snowflake](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#Snowflake)] by Twitter[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.3.1)
+-   [[Flake](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#Flake)] by Boundary[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.4.1)
+-   [[ShardingID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#ShardingID)] by Instagram[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.5.1)
+-   [[KSUID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#KSUID)] by Segment[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.6.1)
+-   [[Elasticflake](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#Elasticflake)] by P. Pearcy[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.7.1)    
+-   [[FlakeID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#FlakeID)] by T. Pawlak[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.8.1)
+-   [[Sonyflake](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#Sonyflake)] by Sony[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.9.1)
+-   [[orderedUuid](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#orderedUuid)] by IT. Cabrera[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.10.1)
+-   [[COMBGUID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#COMBGUID)] by R. Tallent[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.11.1)
+-   [[SID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#SID)] by A. Chilton[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.12.1)
+-   [[pushID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#pushID)] by Google[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.13.1)
+-   [[XID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#XID)] by O. Poitrey[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.14.1)
+-   [[ObjectID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#ObjectID)] by MongoDB[](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#section-1-6.15.1)  
+-   [[CUID](https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html#CUID)] by E. Elliott

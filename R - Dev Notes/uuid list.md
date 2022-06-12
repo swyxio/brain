@@ -19,7 +19,8 @@ list of unique id implementations, design considerations, and resources. may als
 - secure/good entropy
   - non-secure = `Math.random` + `Date.now`
   - cryptographically secure = CSPRNG - use `crypto` module in node.js
-  - ?
+  - dont leak MAC address
+- opacity
 - inputs:
   - timestamp
   - string?
@@ -30,12 +31,15 @@ list of unique id implementations, design considerations, and resources. may als
 
 - A brief history of the UUID https://segment.com/blog/a-brief-history-of-the-uuid/
 - https://en.wikipedia.org/wiki/Universally_unique_identifier
+- comparisons of UUID impls https://encore.dev/blog/go-1.18-generic-identifiers
 - RFC: A Universally Unique IDentifier (UUID) URN Namespace - https://tools.ietf.org/html/rfc4122
 - k-sorting http://ci.nii.ac.jp/naid/110002673489/
 
     > We’re aiming to keep our k below 1 second, meaning that tweets posted within a second of one another will be within a second of one another in the id space too.
 
-- KSUID https://github.com/segmentio/ksuid (from [Segment](https://segment.com/blog/a-brief-history-of-the-uuid/)) - KSUID is for K-Sortable Unique IDentifier. It is a kind of globally unique identifier similar to a RFC 4122 UUID, built from the ground-up to be "naturally" sorted by generation timestamp without any special type-aware logic. In short, running a set of KSUIDs through the UNIX sort command will result in a list ordered by generation time.
+- KSUID https://github.com/segmentio/ksuid (from [Segment](https://segment.com/blog/a-brief-history-of-the-uuid/))
+  - KSUID is for K-Sortable Unique IDentifier. It is a kind of globally unique identifier similar to a RFC 4122 UUID, built from the ground-up to be "naturally" sorted by generation timestamp without any special type-aware logic. In short, running a set of KSUIDs through the UNIX sort command will result in a list ordered by generation time.
+  - WARNING: the string encoding of KSUID uses Base-62 encoding, and so has both uppercase and lowercase letters; this means depending on your string sorting, you might sort the identifiers differently - i.e. we lose our requirement for sortability depending on the system. For instance, Postgres sorts lowercase before uppercase, whereas most algorithms sort uppercase before lowercase, which could lead to some very nasty & hard-to-identity bugs. (It's worth noting that this impacts any encoding scheme which uses both upper and lower case letters, so it isn't just limited to KSUID) https://encore.dev/blog/go-1.18-generic-identifiers
 - FUUID https://github.com/kpdemetriou/fuuid UUIDs are compatible with regular UUIDs but are naturally ordered by generation time, collision-free and support succinct representations such as raw binary and base58-encoded strings.
   - Warning - not mature https://news.ycombinator.com/item?id=27030088
 - ulid's https://github.com/ulid/spec ([instagram](http://instagram-engineering.tumblr.com/post/10853187575/sharding-ids-at-instagram), [firebase](https://firebase.googleblog.com/2015/02/the-2120-ways-to-ensure-unique_68.html))
@@ -148,7 +152,10 @@ list of unique id implementations, design considerations, and resources. may als
 - TUID https://github.com/tanglebones/pg_tuid 
   - "A TUID is like a UUID (it conforms to UUID v4) but instead of being fully random (except for 6 bits for the version) it is prefixed with the time since epoch in microseconds."
   - Note that the JS implementation uses `Math.random`, making it less secure than UUID which uses the crypto module. [More info from @nosovk and @kurtextrem]([url](https://github.com/sw-yx/brain/pull/36)).
-    
+- XID https://github.com/rs/xid
+  - https://encore.dev/blog/go-1.18-generic-identifiers
+
+   
 ## Older stuff
 
 keeping purely for learning/historical context

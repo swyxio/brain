@@ -28,13 +28,14 @@ list of unique id implementations, design considerations, and resources. may als
   
 ## Concepts
 
+- A brief history of the UUID https://segment.com/blog/a-brief-history-of-the-uuid/
 - https://en.wikipedia.org/wiki/Universally_unique_identifier
 - RFC: A Universally Unique IDentifier (UUID) URN Namespace - https://tools.ietf.org/html/rfc4122
 - k-sorting http://ci.nii.ac.jp/naid/110002673489/
 
     > We’re aiming to keep our k below 1 second, meaning that tweets posted within a second of one another will be within a second of one another in the id space too.
 
-- KSUID's https://github.com/segmentio/ksuid (segment)
+- KSUID https://github.com/segmentio/ksuid (from [Segment](https://segment.com/blog/a-brief-history-of-the-uuid/)) - KSUID is for K-Sortable Unique IDentifier. It is a kind of globally unique identifier similar to a RFC 4122 UUID, built from the ground-up to be "naturally" sorted by generation timestamp without any special type-aware logic. In short, running a set of KSUIDs through the UNIX sort command will result in a list ordered by generation time.
 - FUUID https://github.com/kpdemetriou/fuuid UUIDs are compatible with regular UUIDs but are naturally ordered by generation time, collision-free and support succinct representations such as raw binary and base58-encoded strings.
   - Warning - not mature https://news.ycombinator.com/item?id=27030088
 - ulid's https://github.com/ulid/spec ([instagram](http://instagram-engineering.tumblr.com/post/10853187575/sharding-ids-at-instagram), [firebase](https://firebase.googleblog.com/2015/02/the-2120-ways-to-ensure-unique_68.html))

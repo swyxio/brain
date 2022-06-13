@@ -100,7 +100,8 @@ https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins
 
 ## technical
 
-
+https://youtu.be/IhdH-nU8XBI service as a platform sunil pai 31mins - 
+kenton varda function as a service as a service
 
 https://overcast.fm/+w94UZeKb0 6mins origin od clickhouse  25 mins secret sauce
 

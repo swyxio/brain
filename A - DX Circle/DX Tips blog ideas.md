@@ -330,6 +330,8 @@ Identify high leverage pieces of content that require the least amount of time a
 
 ### Build vs Buy Media Companies?
 
+
+https://twitter.com/dharmesh/status/1313859320493285376?lang=en
 SaaS companies with media companies
 - cloudflare tv
 - robinhood snacks

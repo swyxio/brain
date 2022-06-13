@@ -62,3 +62,13 @@ notes are incomplete, up to the 25 min mark in the podcast
 
 
 - ask yourself - who is the big bad?
+	- heroes are as good as their villains
+- set of requirements
+
+examples
+- 12factor
+- enterpriseready
+
+- create user advisory board
+	- help create movement
+	- get them all in a room

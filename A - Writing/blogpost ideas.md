@@ -4,6 +4,8 @@
 
 transcribe and expand upon educative podcast
 
+hollowed out company https://twitter.com/Austen/status/1536400914486943745?s=20&t=62LMwMZXTyu-1v8pXViAqQ
+
 ## the problems orchestration solves
 
 - overlapping crons

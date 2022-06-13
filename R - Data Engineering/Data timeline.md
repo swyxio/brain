@@ -11,3 +11,8 @@
 
 2019 acquisitions - looker google 2.6b and tableau salesforce 15.7b
 https://www.getdbt.com/blog/a-wave-of-acquisitions-in-business-intelligence/
+
+
+https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/
+- from Hive
+- to Iceberg, Hudi, Delta Lake

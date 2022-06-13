@@ -1,10 +1,8 @@
 # blogpost ideas
 
-## lessons from the plaid-stripe debate
+## angel investing your time
 
-shreyas lessons
-- hiring
-- attention
+transcribe and expand upon educative podcast
 
 ## the problems orchestration solves
 

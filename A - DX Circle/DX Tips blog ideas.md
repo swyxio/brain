@@ -1,3 +1,9 @@
+## low code comes for the developers
+
+- https://www.moment.dev/about
+- retool
+- budibase
+
 ## how stripe does community experts
 
 send email to interview them?

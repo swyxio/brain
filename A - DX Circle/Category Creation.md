@@ -60,3 +60,5 @@ notes are incomplete, up to the 25 min mark in the podcast
 	- sales tend to be too decoupled from reality
 	- 
 
+
+- ask yourself - who is the big bad?

@@ -27,10 +27,15 @@ I always need to grab developer industry stats. Here's a reference list to find 
 
 - 10 million https://matt-rickard.com/2021-state-of-developers/
 - 18 million https://www.sequoiacap.com/article/rise-of-the-developer
+- 17 million on stackoverflow
 - 21 million https://en.wikipedia.org/wiki/Software_engineering_demographics
 - 27 million (EDC estimate) https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/
+- 28 million by apple?
 - 31 million - Slashdata 1Q22 https://developer-economics.cdn.prismic.io/developer-economics/f99dc570-f8f4-41f0-bc3b-808b2dcdb6cb_Slashdata+-+22nd+edition+of+The+State+of+the+Developer+Nation+%28Q1+2022%29.pdf
-- 56 million (GitHub users) https://octoverse.github.com/ (projected to 100m)
+- 56 million (GitHub users) https://octoverse.github.com/ (projected to 100m) - now 72m
+
+various company sizes https://www.1milliondeveloperclub.com/_files/ugd/998325_a35cf364c9a346b39f1649d0d9de6d0c.pdf
+with sources
 
 confusion: 
 

@@ -9,6 +9,7 @@ https://twitter.com/jspujji/status/1494743094813548544?s=21
 - managing remote https://twitter.com/jobvo/status/1510285946285178887?s=21
 	- make it about meta, not status updates
 	- https://twitter.com/mrechs/status/1516024322409832450?s=21&t=P8Z-yg3ypI0yw5a2xwKPAw
+	- https://twitter.com/shpigford/status/1536787705413132291?s=21&t=ItCQ5ZlnvoTEEoxWtyla8g
 
 
 

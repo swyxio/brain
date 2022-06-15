@@ -195,6 +195,8 @@ https://overcast.fm/+b1V16Bf_I baby steps
 
 https://overcast.fm/+HZUeNoxeQ 30 mins biz model of open source
 
+data driven vs opinion driven tony fadell https://overcast.fm/+eZyDEXhvA 1h 20mins
+
 ## pricing
 
 ## marketing

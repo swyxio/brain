@@ -58,6 +58,7 @@ Why planetscale not postgres
 
 problems with postgress
 https://twitter.com/kylelf_/status/1536687193430818818?s=21&t=FifLwSLw3DOD7qOzV5uSOw
+serverless postgres https://neon.tech/blog/hello-world/
 
 ## postgres ecosystem
 

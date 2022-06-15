@@ -19,7 +19,7 @@ https://twitter.com/jspujji/status/1494743094813548544?s=21
 - goal setter
 - goal tracker
 - shield/proxy
-- champion/sponsor
+- champion/sponsor el
 - expert/upskiller
 - role model
 - motivator/coach

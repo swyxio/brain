@@ -169,6 +169,8 @@ how nate berkopec found his niche https://overcast.fm/+gJ-XO33X4 10mins
 
 https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
+problem with multiverse https://overcast.fm/+vxHfil-wM 20mins
+
 ## Life
 
 - https://overcast.fm/+olfN7lGho 20 mins social butterfly gary vee problems  + 50 mins introvert strategy

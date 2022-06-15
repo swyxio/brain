@@ -1,6 +1,8 @@
 > longform/swyx content to resyndicate  on weekends
 
 
+codingcat temporal https://codingcat.dev/podcast/2-21-linking-your-microservices-with-workflows
+
 third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
 
 

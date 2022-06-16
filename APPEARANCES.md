@@ -26,9 +26,9 @@ jun 13-16 snowflake summit
 jun 16 jsnation ams -> withdraw
 jun 25 cityjs singapore
 jun 27-30 - data/ai summit
-jul 1-26 3 weeks in israel
 jul 12 - AWS summit nyc
 jul 17-22 London airbyte
+aug 6-29 stay with Kumar miami
 aug 26 temporalcon
 aug 29-sep5 cascadiajs bend OR
 sept 8-9 stockholm svelte

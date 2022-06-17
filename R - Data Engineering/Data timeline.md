@@ -16,3 +16,9 @@ https://www.getdbt.com/blog/a-wave-of-acquisitions-in-business-intelligence/
 https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/
 - from Hive
 - to Iceberg, Hudi, Delta Lake
+
+
+https://news.ycombinator.com/item?id=18990469
+history of postgres as ingres vs oracle
+unforking of citus data and acquisition by msft
+jun 2022 open source enterprise features

@@ -1,3 +1,31 @@
+## post launch drumbeat / cadence
+
+- why us?
+- meta - 'build in public' 
+	- stats
+	- vc help
+	- founder advice
+	- mistakes i made
+-  announcements
+	- chainalysis
+	- TRM
+	- lit protocol
+	- lens protocol
+	- cyberconnect
+- web3identity
+- now:
+	- authn
+	- onboarding
+	- authz
+- wallets:
+	- auth
+	- payment
+	- data storage
+- future
+	- nft gating
+	- payments
+	- zero knowledge proofs
+
 ## low code comes for the developers
 
 - https://www.moment.dev/about

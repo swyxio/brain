@@ -12,6 +12,7 @@ list of unique id implementations, design considerations, and resources. may als
   - lexicographically/alphabetically sortable? (k-sortable?)
 - speed
    - [completely random hurts perf](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
+   - another perf discussion on hn https://news.ycombinator.com/item?id=31721983
 - string qualities
   - case insensitive
   - URL safe
@@ -103,6 +104,9 @@ list of unique id implementations, design considerations, and resources. may als
     import { nanoid } from 'nanoid'
     model.id = nanoid() //=> "V1StGXR8_Z5jdHi6B-myT"
     ```
+  - A maintained ulid generator in Node https://www.npmjs.com/package/ulidx
+  - Faster nanoid generator https://github.com/rustq/napi-nanoid
+  - Yet another random ID generator https://www.npmjs.com/package/hyperid
 
 ## Production quality UUID approaches
 

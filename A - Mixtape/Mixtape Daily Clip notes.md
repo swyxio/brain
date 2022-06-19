@@ -162,6 +162,9 @@ https://overcast.fm/+BlzFmmbag 7 mins cold start
 
 how nate berkopec found his niche https://overcast.fm/+gJ-XO33X4 10mins
 
+
+market snacks formula 15 mins https://overcast.fm/+NBVvqLLK0 
+
 ## writing
 
 

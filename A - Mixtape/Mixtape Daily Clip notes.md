@@ -104,6 +104,8 @@ kenton varda function as a service as a service
 
 https://overcast.fm/+w94UZeKb0 6mins origin od clickhouse  25 mins secret sauce
 
+https://overcast.fm/+IexfM_7bs origin of snowflake 23mins
+
 https://overcast.fm/+qMcQjNZoA why clickhouse enables
 
 wasm good overview of wasm cloud tooling  on <@405426635857461249> ‘s podcast https://oss-startup-podcast.launchnotes.io/announcements/episode-34-open-source-webassembly-tools-with-fermyon 30 mins in the description of wasm component model is compelling

@@ -42,6 +42,10 @@ time series data
 - timescale db
 
 
+k/v stores 
+- https://news.ycombinator.com/item?id=31796311 comparison of 4 incl redis
+
+
 ## comparisons
 - https://docs.yugabyte.com/latest/comparisons/
 

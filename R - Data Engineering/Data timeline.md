@@ -1,3 +1,17 @@
+https://matt-rickard.com/diseconomies-of-scale-at-google/
+- 2004 - map reduce
+- 2003 - google file system
+- 2006 - hadoop and hdfs
+- spawned cloudera, hortonworks, databricks
+- 2017 - cloudera ipo https://news.crunchbase.com/business/morning-report-ahead-clouderas-ipo-pricing-key-slides-roadshow/ from 4bn to 2bn
+- 2018 - merged https://news.crunchbase.com/venture/the-ever-cheaper-cloudera-hortonworks-merger/
+
+
+https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/
+2011-2013 rise of data engineer
+
+https://overcast.fm/+IexfoKBtc/27:33 airflow copied fb data swarm and data bee
+
 - https://fly.io/blog/all-in-on-sqlite-litestream/
 	- In the beginning of our story, back in the '70s, there were [Codd's rules,](https://www.oreilly.com/library/view/sql-in-a/9780596155322/ch01s01s01.html) defining what we now call "[relational databases](https://en.wikipedia.org/wiki/Relational_database)", also known today as "databases". You know them, even if you don't: all data lives in tables; tables have columns, and rows are addressable with keys; C.R.U.D.; schemas; a textual language to convey these concepts. The language, of course, is SQL, which prompted a Cambrian explosion of SQL databases, from Oracle to DB2 to Postgres to MySQL, throughout the '80s and '90s.
 	- It hasn't all been good. The 2000s got us XML databases. But our industry atoned by building some [great columnar databases](https://www.vertica.com/secrets-behind-verticas-performance/) during the same time. By the 2010s, we saw dozens of large-scale, open-source distributed database projects come to market. Now anyone can spin up a cluster and query terabytes of data.

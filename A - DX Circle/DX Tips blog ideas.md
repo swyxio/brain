@@ -151,6 +151,10 @@ offer anonymojs because she needs plusbile deniability from prev job
 - theres a framework for it
 - lots of startups https://stratechery.com/2020/the-end-of-the-beginning/ - pmarca says no startups are wrong
 
+computing used to be hobbyist, then it was ruthlessly corporatised with microsoft
+
+iphone tried to be invented with general magic and one other company i cant remember 
+
 
 ## why livestream
 

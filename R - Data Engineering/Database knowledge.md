@@ -73,3 +73,8 @@ serverless postgres https://neon.tech/blog/hello-world/
 	- why time series special category? https://www.xaprb.com/blog/2014/06/08/time-series-database-requirements/
 - OLAP
 	- Clickhouse
+
+
+## nosql
+
+nodql base and bugs - bitcoin havk https://martin.kleppmann.com/2014/11/25/hermitage-testing-the-i-in-acid.html

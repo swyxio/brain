@@ -2,6 +2,7 @@ https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-
 
 eddie hinkle web joy test recording
 
+aws.fm thing
 
 https://www.thecloudcast.net/2022/01/2022-look-ahead-developer-careers.html
 

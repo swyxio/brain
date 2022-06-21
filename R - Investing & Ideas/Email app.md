@@ -14,6 +14,7 @@ mailchimp pain point - 2fa code not received no fallback
 
 
 converkit compliment - image callout in app https://overcast.fm/+YQ47yN0n8 neville medhora
+https://overcast.fm/+YQ45El_jw more convertkit likes by neville (built in image editor, autorespond editing, reporting)
 
 https://overcast.fm/+VbWAKb_YQ 25mins custom newsletter stack
 

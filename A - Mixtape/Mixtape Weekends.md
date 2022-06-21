@@ -10,6 +10,8 @@ freecodecamp pod https://www.freecodecamp.org/news/shawn-wang-podcast-interview/
 
 corey quinn pod
 
+awsfm pod
+
 https://jsparty.fm/226
 
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins

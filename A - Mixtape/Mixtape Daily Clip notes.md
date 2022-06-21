@@ -102,9 +102,10 @@ open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
 https://youtu.be/IhdH-nU8XBI service as a platform sunil pai 31mins - 
 kenton varda function as a service as a service
 
-https://overcast.fm/+w94UZeKb0 6mins origin od clickhouse  25 mins secret sauce
+https://overcast.fm/+w94UZeKb0 6mins origin of clickhouse  25 mins secret sauce
 
 https://overcast.fm/+IexfM_7bs origin of snowflake 23mins
+
 
 https://overcast.fm/+IexfoKBtc why airflow 24 mins
 
@@ -138,7 +139,6 @@ vitess features https://overcast.fm/+HZUc8rncY 15ish mins
 
 https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
 
-jevons paradox and snowflake https://overcast.fm/+B1yJf5_3g f word warning
 
 
 https://overcast.fm/+ycL9ybdsc 23 mins - 40 mins a defense of agile

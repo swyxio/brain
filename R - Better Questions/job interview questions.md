@@ -1,6 +1,7 @@
 
 - https://review.firstround.com/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like
 - https://jacobian.org/series/unpacking-interview-questions/
+- https://party.pro/icebreakers-work/
 
 
 flip the interview https://www.holloway.com/b/ask-me-this-instead

@@ -1,5 +1,32 @@
 # icebreaker questions
 
+https://party.pro/icebreakers/
+- introduce the structure: name, job, icebreaker
+	- simple: fave breakfast food?
+	- What was the first job that you ever got paid to do?
+	-  What was your first online screen name and why did you choose it?
+	-  What’s one of your favorite drinks, with or without alcohol?
+- "i'll go first, then go to you" - set direction
+- add "secret ingredient" to get people to try harder
+- speed https://party.pro/speed-icebreakers/
+	- What was your first job?
+	-   Have you ever met anyone famous?
+	-   What are you reading right now?
+	-   What’s left on your bucket list?
+	-   What was your first screen name and why?
+	-   If you were to do a first citywide poll, what would you want to learn?
+	-   If you could be guaranteed one thing in life besides money, what would it be?
+	-   Brag to your partner about the best things going on in your life in the past 30 days.
+	-   If you had kids, would you want them to be smart or good-looking and why?
+	-   What’s one bad habit that you’re trying to get rid of?
+	-   What’s one great habit that you’re really proud of?
+	-   What’s a compliment someone gave you that you still think about?
+	-   Ten years ago, what was your favorite band?
+	-   What’s your favorite family tradition?
+	-   What’s something you want to do in the next few years that you’ve never done?
+	-   Do you have a favorite charity that you wish more people knew about?
+	-   Do you collect anything, or did you ever?
+
 What's the most interesting statistic you know https://reddit.com/r/AskReddit/comments/uxeni4/what_is_the_most_interesting_statistic_you_know/
 
 airbyte onboarding questions

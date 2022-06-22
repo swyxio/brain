@@ -205,6 +205,9 @@ https://overcast.fm/+HZUeNoxeQ 30 mins biz model of open source
 
 data driven vs opinion driven tony fadell https://overcast.fm/+eZyDEXhvA 1h 20mins
 
+
+origin of twitter pagination  20 mins https://overcast.fm/+4jBE47JkU fbomb
+
 ## pricing
 
 ## marketing

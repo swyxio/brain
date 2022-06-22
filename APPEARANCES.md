@@ -37,6 +37,7 @@ sept 8-9 stockholm svelte
 sept 21 - big data london
 sep 19-20 zadar infobip
 oct 6-7 infoshare 2022 gdansk
+oct 24-28 qcon sf
 oct 27 - porto tech hub rejecred
 nov 8 - airbyte conf
 nov lagos? jan?

@@ -4,7 +4,7 @@
 - Fast
 	- benchmarks/social proof - "at", "since", "during",  "behind"
 	- tagline - x without y, mission - "with", "without", "in ? secs"
-	- analogies - "for", "from"
+	- analogies - "X for Y", "from"
 - Medium
 	- storytelling/storybrand
 	- nerd snipe - magic demo with "wow"

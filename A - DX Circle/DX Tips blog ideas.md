@@ -1,3 +1,8 @@
+## company newsletter/slack strategy
+
+- goodreads
+- slack <--> newsletter
+
 ## post launch drumbeat / cadence
 
 - why us?

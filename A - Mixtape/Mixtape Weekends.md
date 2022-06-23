@@ -6,6 +6,8 @@ codingcat temporal https://codingcat.dev/podcast/2-21-linking-your-microservices
 third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
 
 
+webjoy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx
+
 freecodecamp pod https://www.freecodecamp.org/news/shawn-wang-podcast-interview/
 
 corey quinn pod

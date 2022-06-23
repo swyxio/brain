@@ -1,6 +1,6 @@
 https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-with-swyx/
 
-eddie hinkle web joy test recording
+eddie hinkle web joy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx
 
 aws.fm thing
 

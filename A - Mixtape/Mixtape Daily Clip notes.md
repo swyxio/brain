@@ -104,9 +104,6 @@ kenton varda function as a service as a service
 
 https://overcast.fm/+w94UZeKb0 6mins origin of clickhouse  25 mins secret sauce
 
-https://overcast.fm/+IexfM_7bs origin of snowflake 23mins
-
-
 https://overcast.fm/+IexfoKBtc why airflow 24 mins
 
 https://overcast.fm/+qMcQjNZoA why clickhouse enables
@@ -139,10 +136,10 @@ vitess features https://overcast.fm/+HZUc8rncY 15ish mins
 
 https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
 
-
-
 https://overcast.fm/+ycL9ybdsc 23 mins - 40 mins a defense of agile
 - 45 mins why  estimating software is hard
+
+
 
 ## youtuber
 

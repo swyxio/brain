@@ -55,6 +55,11 @@ https://twitter.com/mscccc/status/1476246801174966272?s=20
 - MySQL - simpler, easier to operate, backups, replication, failover, upgrades (infra engs like)
 - Postgres - postgis, jsonb, hstore (product engs like)
 
+https://percona.podbean.com/e/all-things-open-source-database-advocacy-and-alloydb-percona-database-podcast-76-w-gabe-weiss/
+- some people dont like oracle tech
+- postgres truly vendor neutral  - more supportive of plugins like alloydb - google’s scalable postgres backend
+-  turns postgres into HTAP - 45mins in - analytics stuff on postgres
+
 Why planetscale not postgres
 - https://twitter.com/rbranson/status/1461031251691773953
 - Both Postgres and MySQL not addressing needs like schema evolution, data migrations, understanding cost and performance factors, operational overhead, scalability, compliance, integration, and geographically diverse deployments.

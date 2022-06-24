@@ -34,3 +34,4 @@ https://codingcareer.circle.so/c/future-content/senior-dev-ten-things-you-need-t
 
 - ways to stand out without resume 
 - https://twitter.com/SahilBloom/status/1399375061111382022?s=20
+- https://twitter.com/thatroblennon/status/1539609085649117184

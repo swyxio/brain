@@ -1,5 +1,14 @@
 # blogpost ideas
 
+## writing value chain
+
+- tiago forte creator labs podcast
+- CODE
+- Source
+	- doing projects
+	- talking to others
+	- 
+
 ## angel investing your time
 
 transcribe and expand upon educative podcast

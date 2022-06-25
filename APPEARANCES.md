@@ -26,10 +26,12 @@ jun 7 jnation port - withdraw
 jun 13-16 snowflake summit
 jun 16 jsnation ams -> withdraw
 jun 25 cityjs singapore
+*********
 jun 27-30 - data/ai summit
-jul 1-11 - miami
+jul 1-11 - miami booking
 jul 12 - AWS summit nyc
 jul 17-22 London airbyte
+jul 23-30
 aug 6-29 stay with Kumar miami
 aug 26 temporalcon
 aug 29-sep5 cascadiajs bend OR

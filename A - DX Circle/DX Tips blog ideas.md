@@ -1,3 +1,11 @@
+## Matching Reasons to write to the platform
+
+- Get Famous (multiplayer)
+- Cache output (small group)
+- get feedback before publish? (smallest group)
+- Organize thoughts, take notes (single)
+
+
 ## company newsletter/slack strategy
 
 - goodreads

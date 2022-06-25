@@ -28,14 +28,15 @@ jun 16 jsnation ams -> withdraw
 jun 25 cityjs singapore
 *********
 jun 27-30 - data/ai summit
-jul 1-11 - miami booking
-jul 12 - AWS summit nyc
+jul 1-10 - miami booking
+jul 10-17 - AWS summit nyc
 jul 17-22 London airbyte
-jul 23-30
+jul 23-30 holiday?
 aug 6-29 stay with Kumar miami
 aug 26 temporalcon
 aug 29-sep5 cascadiajs bend OR
 sept 8-9 stockholm svelte
+sep 8-10 sam morrill dania beach
 sept 21 - big data london
 sep 19-20 zadar infobip
 oct 6-7 infoshare 2022 gdansk

@@ -36,3 +36,7 @@ https://news.ycombinator.com/item?id=18990469
 history of postgres as ingres vs oracle
 unforking of citus data and acquisition by msft
 jun 2022 open source enterprise features
+
+https://news.ycombinator.com/item?id=31848594
+big data became data
+- pii issues

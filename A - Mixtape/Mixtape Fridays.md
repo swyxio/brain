@@ -1,28 +1,10 @@
-theme
 
-## Theme Colors
-
-Background ColorMain background color of site
-#F6C15F
-Highlight ColorSecondary color of site
-#FFA90A
-Text ColorMain body text color
-#222222
-Link ColorMain body links color
-#110766
-## Player Colors
-
-Player BackgroundBackground color of audio player
-#222222
-Player ColorButton and text color of audio player
-#FFA90A
 
 ## Music and entertainment picks
 
 
 backstreetboys song exploded https://overcast.fm/+EwEztt3eg 10mins
 
-tiktok picks https://youtu.be/QgqLJzmgPs8
 
 https://youtu.be/vUnWFsc5WBU coldplay
 
@@ -38,9 +20,6 @@ laufey
 - Laufey https://www.youtube.com/watch?v=JIGiPrejRi4
 
 piano guys https://youtu.be/D7SqPiohNDU
-
-there’se curatolo https://youtu.be/bEVVs9bA9f4
-- https://youtu.be/qXPEoYkIqHU
 
 moana https://youtu.be/Bum4936KgOo
 

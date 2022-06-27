@@ -9,8 +9,6 @@ github paid issues -  autoclose issues unless the person sponsors
 - from sam selikoff at react miami dinner
 
 
-
-
 youtube thumbnail generator https://twitter.com/trungtphan/status/1445768087832182796?s=21&t=infs1FduwyjGsK3h8g69nw
 
 new audible

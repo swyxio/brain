@@ -12,17 +12,10 @@ https://twitter.com/jspujji/status/1494743094813548544?s=21
 	- https://twitter.com/shpigford/status/1536787705413132291?s=21&t=ItCQ5ZlnvoTEEoxWtyla8g
 
 
+Exec 101 
+- https://sriramk.com/exec-101-first-thirty-days
 
-
-6 roles of managing
-- https://twitter.com/johncutlefish/status/1533661807029563392?s=21&t=WJORvdw2EyoLB1ChjQ8NpA
-- goal setter
-- goal tracker
-- shield/proxy
-- champion/sponsor el
-- expert/upskiller
-- role model
-- motivator/coach
+6 roles of managing - https://www.swyx.io/the-8-jobs-of-management
 
 https://acjay.com/2022/03/11/11-principles-of-engineering-management/
 good response https://news.ycombinator.com/item?id=31154738

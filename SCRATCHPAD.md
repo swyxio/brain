@@ -10,6 +10,7 @@ Screenflow 9
 highpri watching
 - https://www.loom.com/share/6b38e6382a9c46e1936d6076b9faf685
 - https://www.youtube.com/watch?v=kIFjDV_zHaQ
+- https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmware-kubernetes-up-running-dive-into-the-future-of-infrastructure.pdf
 
 related reads
 - https://news.ycombinator.com/item?id=31217448

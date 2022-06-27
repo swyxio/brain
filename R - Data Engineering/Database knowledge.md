@@ -9,6 +9,9 @@ how to do db replication https://twitter.com/teej_m/status/1521300456483352576?s
 
 apache pinot [https://youtu.be/_lqdfq2c9cQ](https://youtu.be/_lqdfq2c9cQ)
 
+things to know about databases https://news.ycombinator.com/item?id=31895623
+- 
+
 
 3 types of data (vinoth hudi)
 - postgres - mutability

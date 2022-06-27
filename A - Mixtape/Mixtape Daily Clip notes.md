@@ -5,6 +5,11 @@
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code
 
+great discussion of broadcom
+https://overcast.fm/+RrTHlebk 10mins ish in
+
+https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queue - 2011 kafka, using zookeeper for leader election, now rolling out kRaft
+
 ## ramp week
 
 https://overcast.fm/+hTZcSfoq0 ramp packy
@@ -105,6 +110,13 @@ open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
 
 https://youtu.be/IhdH-nU8XBI service as a platform sunil pai 31mins - 
 kenton varda function as a service as a service
+https://twitter.com/threepointone/status/1541069324957491200?s=21&t=YlCoFbRAEDfumpbQ2dn2Kw
+
+
+https://greylock.com/greymatter/powering-the-multi-cloudparadigm/ decompsotions of cloud mcjannet
+
+
+explaining dbt https://overcast.fm/+389UaK4Z0/36:01 
 
 https://overcast.fm/+w94UZeKb0 6mins origin of clickhouse  25 mins secret sauce
 

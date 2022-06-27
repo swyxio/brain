@@ -83,3 +83,14 @@ serverless postgres https://neon.tech/blog/hello-world/
 ## nosql
 
 nodql base and bugs - bitcoin havk https://martin.kleppmann.com/2014/11/25/hermitage-testing-the-i-in-acid.html
+
+
+## build uour own baby database
+
+https://github.com/pingcap/talent-plan
+This series provides information on TinySQL and TinyKV, which are distributed databases in Go.
+
+Courses include:
+
+TP 301: TinySQL, a distributed relational database in Go
+TP 302: TinyKV, a distributed key value database in Go

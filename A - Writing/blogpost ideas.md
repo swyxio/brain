@@ -1,5 +1,10 @@
 # blogpost ideas
 
+
+## components of cloud
+
+space power and connectivity
+
 ## writing value chain
 
 - tiago forte creator labs podcast

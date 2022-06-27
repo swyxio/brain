@@ -28,7 +28,7 @@ jun 16 jsnation ams -> withdraw
 jun 25 cityjs singapore
 *********
 jun 27-30 - data/ai summit
-jul 1-10 - miami booking
+jul 1-10 - miami booking - Viajero Miami
 jul 10-17 - AWS summit nyc
 jul 17-22 London airbyte
 jul 23-30 holiday?

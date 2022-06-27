@@ -108,6 +108,9 @@ open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
 
 ## technical
 
+what shopify did right- narrow waists https://overcast.fm/+rra7_tTSw/10:00
+
+
 https://youtu.be/IhdH-nU8XBI service as a platform sunil pai 31mins - 
 kenton varda function as a service as a service
 https://twitter.com/threepointone/status/1541069324957491200?s=21&t=YlCoFbRAEDfumpbQ2dn2Kw

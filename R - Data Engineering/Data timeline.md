@@ -10,6 +10,12 @@ https://matt-rickard.com/diseconomies-of-scale-at-google/
 https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/
 2011-2013 rise of data engineer
 
+
+2019 - data mesh https://martinfowler.com/articles/data-monolith-to-mesh.html
+- response https://cnr.sh/essays/what-the-heck-data-mesh
+
+
+
 https://overcast.fm/+IexfoKBtc/27:33 airflow copied fb data swarm and data bee
 
 - https://fly.io/blog/all-in-on-sqlite-litestream/

@@ -60,14 +60,8 @@ porn dindustry interview 45mins https://overcast.fm/+5K6apFbnE
 
 oligarch yachts https://overcast.fm/+BmH2Cs0ig 35mins
 
-https://overcast.fm/+rra5cp2f8 28 mins - cost of consultants
+https://overcast.fm/+rra5cp2f8 28 mins - cost of consultants mckinsey
 
-
-https://overcast.fm/+vxHeQhSaU 22min amazon book monopoly 
-
-## quotes 
-
-https://overcast.fm/+qm88_q1tw 40mins on bezos overhead of
 
 ## startups
 
@@ -123,9 +117,10 @@ explaining dbt https://overcast.fm/+389UaK4Z0/36:01
 
 https://overcast.fm/+w94UZeKb0 6mins origin of clickhouse  25 mins secret sauce
 
-https://overcast.fm/+IexfoKBtc why airflow 24 mins
 
 https://overcast.fm/+qMcQjNZoA why clickhouse enables
+
+https://overcast.fm/+IexfoKBtc why airflow 24 mins
 
 wasm good overview of wasm cloud tooling  on <@405426635857461249> ‘s podcast https://oss-startup-podcast.launchnotes.io/announcements/episode-34-open-source-webassembly-tools-with-fermyon 30 mins in the description of wasm component model is compelling
 
@@ -134,14 +129,10 @@ benefits of go 1.18 https://overcast.fm/+ur1GgzMqs 15ish mins
 ebpf https://overcast.fm/+wtIPwx_jA
 12 mins https://overcast.fm/+wFc3d7pbo usecases off ebpf celium
 
-3mins browser user agent https://overcast.fm/+LfVNDuulU
-
 
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 
-
 origin of replit 50mins https://overcast.fm/+hTZfriwzQ llvm story - diversion resume at 1h 4 mins
-
 
 https://overcast.fm/+MZ3SQEwtw 15 mins origin story of hashicorp consul
 

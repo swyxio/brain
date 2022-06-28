@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "showFrontmatter": true,

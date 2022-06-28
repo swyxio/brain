@@ -2,9 +2,13 @@ https://matt-rickard.com/diseconomies-of-scale-at-google/
 - 2004 - map reduce
 - 2003 - google file system
 - 2006 - hadoop and hdfs
+- 2008 - google dremel - enterprise data warehouse https://overcast.fm/+IexeaWJgs/08:00
 - spawned cloudera, hortonworks, databricks
 - 2017 - cloudera ipo https://news.crunchbase.com/business/morning-report-ahead-clouderas-ipo-pricing-key-slides-roadshow/ from 4bn to 2bn
 - 2018 - merged https://news.crunchbase.com/venture/the-ever-cheaper-cloudera-hortonworks-merger/
+
+tristan timeline of MDS
+- https://www.getdbt.com/blog/future-of-the-modern-data-stack/
 
 
 https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/
@@ -14,6 +18,9 @@ https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/
 2019 - data mesh https://martinfowler.com/articles/data-monolith-to-mesh.html
 - response https://cnr.sh/essays/what-the-heck-data-mesh
 
+
+2010 - data lake https://www.dataversity.net/brief-history-data-lakes/
+2020 - lakehouse https://tdwi.org/articles/2020/03/10/arch-all-welcome-to-the-lakehouse.aspx
 
 
 https://overcast.fm/+IexfoKBtc/27:33 airflow copied fb data swarm and data bee

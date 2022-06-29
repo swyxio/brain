@@ -16,12 +16,6 @@ https://overcast.fm/+hTZcSfoq0 ramp packy
 
 https://overcast.fm/+3Ag-CJFnE/1:20:59 paribus origin
 
-## writing
-
-https://overcast.fm/+3Ag_8mpmc 48 mins origin of matt levine
-
-https://youtu.be/uL0atQFZzL8 storytelling
-
 
 ## general dump
 
@@ -186,6 +180,12 @@ https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
 problem with multiverse https://overcast.fm/+vxHfil-wM 20mins
 
+
+https://overcast.fm/+3Ag_8mpmc 48 mins origin of matt levine
+
+https://youtu.be/uL0atQFZzL8 storytelling
+
+
 ## Life
 
 - https://overcast.fm/+olfN7lGho 20 mins social butterfly gary vee problems  + 50 mins introvert strategy
@@ -193,7 +193,7 @@ problem with multiverse https://overcast.fm/+vxHfil-wM 20mins
 - https://overcast.fm/+b1V1guBD8 23 mins greg mckowen virality vs energy
 - 
 how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project - 18mins
-https://overcast.fm/+HhhiZISrU be rhe driver 18mins
+https://overcast.fm/+HhhiZISrU be the driver 18mins
 
 
 not being a founder and minimalism https://overcast.fm/+JEN0VljwU/20:44 19 mins to 23 mins

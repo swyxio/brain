@@ -1,4 +1,4 @@
-## mixtape normal
+- ## mixtape normal
 
 
 
@@ -228,7 +228,7 @@ https://overcast.fm/+R_DhngSBM beef marketing 25-30mins andrew gazdecki
 https://overcast.fm/+L7thOvHlg 5min sam parr marketing
 
 ## levels
-https://overcast.fm/+os2YsOhgA 30-45mins levels story
+
 https://overcast.fm/+os2YU2gSU 10mins changed foods to 16mins
 
 

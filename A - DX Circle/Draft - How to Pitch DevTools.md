@@ -1,6 +1,13 @@
 
 # 9 Ways to Pitch DevTools
 
+pitch for the small
+pitch for the very large
+
+example with lightstep - otel required rewrite - only for big teams
+
+
+
 - Fast
 	- benchmarks/social proof - "at", "since", "during",  "behind"
 	- tagline - x without y, mission - "with", "without", "in ? secs"

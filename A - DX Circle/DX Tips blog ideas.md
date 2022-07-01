@@ -1,3 +1,8 @@
+## corporate youtube code
+
+- good youtubers
+- https://www.youtube.com/c/RecallbyDataiku/videos
+
 ## Matching Reasons to write to the platform
 
 - Get Famous (multiplayer)

@@ -11,5 +11,9 @@ hiring a manager
 - https://twitter.com/mipsytipsy/status/1533621900575879168?s=20&t=wAVsBx_kPREo4PASVNHVOw
 
 
+hiring sales
+- https://bettsrecruiting.com/ matt from lightstep and then fivetran
+
+
 references 
 - https://greylock.com/greymatter/holly-rose-faith-greylock-executive-reference-checklist/

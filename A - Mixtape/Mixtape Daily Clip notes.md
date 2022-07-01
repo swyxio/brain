@@ -12,6 +12,9 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 ## ramp week
 
+
+paribus story https://overcast.fm/+EBTAOnG1Q
+
 https://overcast.fm/+hTZcSfoq0 ramp packy
 
 https://overcast.fm/+3Ag-CJFnE/1:20:59 paribus origin

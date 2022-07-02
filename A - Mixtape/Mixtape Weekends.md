@@ -4,6 +4,8 @@
 
 third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
 
+https://jsparty.fm/226
+
 webjoy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx
 
 freecodecamp pod https://www.freecodecamp.org/news/shawn-wang-podcast-interview/
@@ -12,14 +14,10 @@ corey quinn pod
 
 awsfm pod
 
-https://jsparty.fm/226
-
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
 
 michelle hansen chat
 
-
-devx pod https://devxpod.buzzsprout.com/1895030/10012425-the-radiating-circles-in-devx-with-swyx-head-of-developer-experience-temporal
 
 ## misc
 
@@ -36,8 +34,6 @@ harsh gupta, felvin https://youtu.be/pFZG-0TnIRc
 
 
 nish ithyakumar, nimbus, and cloud dev https://youtu.be/nOjm6YT-QyE
-
-purrfect https://www.youtube.com/watch?v=Q0P-Uod19NY
 
 robert zhu case against anti graphql https://youtu.be/djKPtyXhaNE
 

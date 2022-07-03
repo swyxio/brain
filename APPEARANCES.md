@@ -29,9 +29,13 @@ jun 25 cityjs singapore
 *********
 jun 27-30 - data/ai summit
 jul 1-10 - miami booking - Viajero Miami
+jul 10 - 6.45a MIA-EWR UA 1773
 jul 10-17 - AWS summit nyc
+jul 17 - 11pm EWR-LHR UA 146
 jul 17-22 London airbyte
-jul 23-30 holiday?
+jul 23-30 berlin
+jul 31 - 8am-11am LHR-EWR UA 883
+jul 31 - 2pm EWR-MIA UA 1252
 aug 6-29 stay with Kumar miami
 aug 26 temporalcon
 aug 29-sep5 cascadiajs bend OR

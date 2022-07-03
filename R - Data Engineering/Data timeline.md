@@ -1,3 +1,7 @@
+1990s
+- https://overcast.fm/+H1YPGUu6Q/11:00 - MDS - mainframe - teradata - cognos BI
+
+
 https://matt-rickard.com/diseconomies-of-scale-at-google/
 - 2004 - map reduce
 - 2003 - google file system

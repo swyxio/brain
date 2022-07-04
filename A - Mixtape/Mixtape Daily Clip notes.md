@@ -248,3 +248,5 @@ https://overcast.fm/+os2YU2gSU 10mins changed foods to 16mins
 
 
 
+https://overcast.fm/+os2ZP7-q8/1:00 keto story 
+- mitochondrial uncoupling 25mins

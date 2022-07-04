@@ -26,5 +26,9 @@ https://twitter.com/MrJacobEspi/status/1513509689236996097
 
 https://twitter.com/mrechs/status/1516024322409832450?s=21&t=P8Z-yg3ypI0yw5a2xwKPAw
 
+
+remote managing https://twitter.com/jobvo/status/1543157537222148096?s=21&t=2M6r1WnuFA4WJ90wiiETDQ
+
+
 ## general team mgmt
 https://twitter.com/bdarfler/status/1524501758935973892?s=21&t=kYW--rHcpBMM3IeIu9xObA

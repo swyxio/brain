@@ -1,6 +1,11 @@
 https://tclarkmedia.substack.com/p/most-podcasts-suck-at-youtube-this
 
 
+youtube ideation and thumbnail
+https://youtu.be/q4EGeonO6YI
+
+
+
 https://twitter.com/aliabdaal/status/1541799619801350144?s=21&t=e3MiDG2PURCo3TYdW65Ptw
 The HIVE Framework consists of 4 key parts: 
 1. Hook 

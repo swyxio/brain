@@ -2,6 +2,8 @@
 
 
 
+why starbucks failed in australia https://overcast.fm/+B1yJcFhN0
+
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code
 
@@ -60,11 +62,18 @@ oligarch yachts https://overcast.fm/+BmH2Cs0ig 35mins
 https://overcast.fm/+rra5cp2f8 28 mins - cost of consultants mckinsey
 
 
+explain alphafold https://overcast.fm/+eZyCx96Qo
+
 ## startups
 
 https://overcast.fm/+qm89pCIRo 1h 8 mins saas business 4-10x, content 2.5-4x, ecomm 2.5-5x annual sales
 
+https://overcast.fm/+PpI1OPekE/1:10:00 selling meetedgar process
+
 origin of okta 15 mins https://overcast.fm/+yYPOSfU9I 40 min auth0 acquisition
+
+
+
 
 ## small projects
 
@@ -187,6 +196,9 @@ problem with multiverse https://overcast.fm/+vxHfil-wM 20mins
 https://overcast.fm/+3Ag_8mpmc 48 mins origin of matt levine
 
 https://youtu.be/uL0atQFZzL8 storytelling
+
+
+https://overcast.fm/+L9fiEnXsc/30:00 don't be helpful be valuable
 
 
 ## Life

@@ -58,3 +58,10 @@ jun 2022 open source enterprise features
 https://news.ycombinator.com/item?id=31848594
 big data became data
 - pii issues
+
+
+
+## juicy stories
+
+- oracle paid people to sidetrack mysql?
+	- https://news.ycombinator.com/item?id=5435893

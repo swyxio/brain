@@ -1,6 +1,6 @@
 > longform/swyx content to resyndicate  on weekends
 
-
+https://syntax.fm/show/478/supper-club-developer-experience-with-shawn-wang
 
 third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
 

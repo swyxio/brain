@@ -153,7 +153,7 @@ vitess features https://overcast.fm/+HZUc8rncY 15ish mins
 https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
 
 https://overcast.fm/+ycL9ybdsc 23 mins - 40 mins a defense of agile
-- 45 mins why  estimating software is hard
+- 45 mins why estimating software is hard
 
 
 
@@ -243,8 +243,6 @@ https://overcast.fm/+R_DhngSBM beef marketing 25-30mins andrew gazdecki
 https://overcast.fm/+L7thOvHlg 5min sam parr marketing
 
 ## levels
-
-https://overcast.fm/+os2YU2gSU 10mins changed foods to 16mins
 
 
 

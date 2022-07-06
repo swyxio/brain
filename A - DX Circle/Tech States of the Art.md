@@ -7,6 +7,7 @@
 
 ## questions
 - is it more compute or understanding? half and half https://news.ycombinator.com/item?id=30232993
+- cost and carbon: https://twitter.com/tomgoldsteincs/status/1544370885213175808?s=21&t=zlYnsvdQHOwa0m7HVCYv2w
 
 ## generative stuff
 

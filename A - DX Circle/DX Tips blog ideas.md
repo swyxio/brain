@@ -159,7 +159,7 @@ offer anonymojs because she needs plusbile deniability from prev job
 - uses the niche thing
 - isnt 
 
-## what it feels like to be early
+## what it feels like to be early on a technology
 
 - “this wasnt even a job”
 - your friends getting higher pay doing something else

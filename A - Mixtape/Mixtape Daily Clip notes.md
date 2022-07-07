@@ -50,16 +50,9 @@ https://overcast.fm/+maz1Gg lin manuel story
 
 space industry 15 mins https://overcast.fm/+a0BromYiY
 
-
 the trust equation https://overcast.fm/+OozM5Blcw 25 mins 
 
 porn dindustry interview 45mins https://overcast.fm/+5K6apFbnE
-
-
-oligarch yachts https://overcast.fm/+BmH2Cs0ig 35mins
-
-https://overcast.fm/+rra5cp2f8 28 mins - cost of consultants mckinsey
-
 
 explain alphafold https://overcast.fm/+eZyCx96Qo
 

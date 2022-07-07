@@ -2,7 +2,6 @@
 
 
 
-why starbucks failed in australia https://overcast.fm/+B1yJcFhN0
 
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code

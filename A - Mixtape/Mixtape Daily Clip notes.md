@@ -122,6 +122,8 @@ https://overcast.fm/+IexfoKBtc why airflow 24 mins
 
 wasm good overview of wasm cloud tooling  on <@405426635857461249> ‘s podcast https://oss-startup-podcast.launchnotes.io/announcements/episode-34-open-source-webassembly-tools-with-fermyon 30 mins in the description of wasm component model is compelling
 
+https://overcast.fm/+ur1FOg0cM wasm potential explainer 
+
 benefits of go 1.18 https://overcast.fm/+ur1GgzMqs 15ish mins 
 
 ebpf https://overcast.fm/+wtIPwx_jA

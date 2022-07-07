@@ -162,6 +162,9 @@ offer anonymojs because she needs plusbile deniability from prev job
 ## what it feels like to be early on a technology
 
 - “this wasnt even a job”
+- having a special, analogous name for it
+	- “horseless carriages” - cars
+	- “virtual communities” - social network https://omny.fm/shows/odd-lots/the-moment-a-most-famous-dotcom-millionaire-knew-t
 - your friends getting higher pay doing something else
 - adhoc scripts
 - one person doing the job holding all the context

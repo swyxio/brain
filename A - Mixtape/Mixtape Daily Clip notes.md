@@ -45,7 +45,6 @@ https://overcast.fm/+a0BqUPDr0 danco
 
 https://overcast.fm/+OOu8ERt88 community led growth
 
-https://overcast.fm/+maz1Gg lin manuel story
 
 
 space industry 15 mins https://overcast.fm/+a0BromYiY

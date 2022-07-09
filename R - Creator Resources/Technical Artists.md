@@ -6,6 +6,7 @@
 - https://twitter.com/emilywithcurls graphql slides
 - hammer/sticker https://twitter.com/SoSplush
 - artstation - what geddski uses - 80-2k per illo
+- https://dribbble.com/shots/18695796-Directus <- this guy did illos for ben haynes at directus
 
 maggie's list
 

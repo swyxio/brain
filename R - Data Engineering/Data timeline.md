@@ -3,6 +3,10 @@
 - oracle, sap, businessobjects (BI)
 
 
+
+
+
+
 https://matt-rickard.com/diseconomies-of-scale-at-google/
 - 2004 - map reduce
 - 2003 - google file system
@@ -18,6 +22,9 @@ tristan timeline of MDS
 
 https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/
 2011-2013 rise of data engineer
+
+https://benn.substack.com/p/why-do-people-want-to-be-analytics
+rise of sexiness
 
 
 2019 - data mesh https://martinfowler.com/articles/data-monolith-to-mesh.html

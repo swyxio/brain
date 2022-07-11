@@ -2,6 +2,8 @@
 
 - good youtubers
 - https://www.youtube.com/c/RecallbyDataiku/videos
+- cutting edge techniques
+	- https://youtu.be/_lqdfq2c9cQ lightboard
 
 ## Matching Reasons to write to the platform
 

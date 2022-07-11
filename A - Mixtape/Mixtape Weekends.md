@@ -4,11 +4,6 @@ https://syntax.fm/show/478/supper-club-developer-experience-with-shawn-wang
 
 third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
 
-https://jsparty.fm/226
-
-webjoy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx
-
-freecodecamp pod https://www.freecodecamp.org/news/shawn-wang-podcast-interview/
 
 corey quinn pod
 

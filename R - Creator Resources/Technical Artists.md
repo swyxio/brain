@@ -48,6 +48,7 @@ misc
 - https://twitter.com/JrCasas_ josh pigford
 - https://twitter.com/thewomenwhodraw val giesler
 - https://twitter.com/i/lists/1471403440760889349
+- illustrations/artists - search #portfolioday https://twitter.com/hashtag/PortfolioDay?src=hashtag_click
 - more recs 
   - https://twitter.com/natalienagele/status/1326940815839682561?s=20
  - circus 

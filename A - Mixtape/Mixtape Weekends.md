@@ -13,6 +13,8 @@ software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
 
 michelle hansen chat
 
+keycuts https://www.thekeycuts.com/dear-analyst-50-walking-through-a-vba-script-for-trading-billions-of-dollars-worth-of-derivatives-with-shawn-wang/
+
 
 ## misc
 

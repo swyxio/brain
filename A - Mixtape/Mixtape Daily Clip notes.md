@@ -1,5 +1,12 @@
 - ## mixtape normal
 
+## cal newport
+
+https://overcast.fm/+b1V3EeycY deep work 6:30mins
+
+https://overcast.fm/+b1V00pzUU capture configure control
+
+https://overcast.fm/+b1V16Bf_I baby steps
 
 
 
@@ -206,13 +213,6 @@ https://overcast.fm/+HhhiZISrU be the driver 18mins
 
 not being a founder and minimalism https://overcast.fm/+JEN0VljwU/20:44 19 mins to 23 mins
 
-## cal newport
-
-https://overcast.fm/+b1V3EeycY deep work 6:30mins
-
-https://overcast.fm/+b1V00pzUU capture configure control
-
-https://overcast.fm/+b1V16Bf_I baby steps
 
 ## Product
 

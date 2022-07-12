@@ -1,14 +1,5 @@
 - ## mixtape normal
 
-## cal newport
-
-https://overcast.fm/+b1V3EeycY deep work 6:30mins
-
-https://overcast.fm/+b1V00pzUU capture configure control
-
-https://overcast.fm/+b1V16Bf_I baby steps
-
-
 
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code

@@ -8,6 +8,13 @@ my 12 questions
 - when do you work on the business vs work in the business? build product vs build platform?
 
 
+https://overcast.fm/+GQnQJRK7E 10 questions to ask creative people
+- proudest work
+- side project?
+- no constraints, what would you work on?
+- 
+
+
 ## Uncategorized
 
 ask “how do you think about X” instead if specific numbers on X https://overcast.fm/+rTsXiMAKU 12 mins in

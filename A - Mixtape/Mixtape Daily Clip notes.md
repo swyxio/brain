@@ -61,7 +61,7 @@ https://overcast.fm/+PpI1OPekE/1:10:00 selling meetedgar process
 
 origin of okta 15 mins https://overcast.fm/+yYPOSfU9I 40 min auth0 acquisition
 
-
+how airbnb handled crisis 15 mins https://overcast.fm/+yYPNPXP3w/15:00
 
 
 ## small projects

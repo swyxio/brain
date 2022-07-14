@@ -176,6 +176,7 @@ market snacks formula 15 mins https://overcast.fm/+NBVvqLLK0
 
 ## writing
 
+https://overcast.fm/+vxHfxq1v0/15:10 the best scene in fast and furious
 
 - https://overcast.fm/+YQ473Uv6w rank self publish book on amazon 30 mins
 

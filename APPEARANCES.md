@@ -51,6 +51,7 @@ oct 24-25
 oct 24-28 qcon sf
 oct 27 - porto tech hub rejecred
 nov 8 - airbyte conf
+nov 8-9 - deutsche telekom - 1hr
 nov lagos? jan?
 nov 9-10 github universe submitted
 dec allscope

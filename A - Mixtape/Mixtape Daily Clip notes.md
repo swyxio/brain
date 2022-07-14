@@ -1,6 +1,10 @@
 - ## mixtape normal
 
 
+origin of facebook newsfeed
+- https://overcast.fm/+SX-TvCaQM/08:06
+
+
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code
 

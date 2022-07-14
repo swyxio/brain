@@ -7,7 +7,7 @@ third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
 
 corey quinn pod
 
-awsfm pod
+awsfm pod https://aws.fm/episodes/episode-25-shawn-swyx-wang
 
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
 

@@ -109,6 +109,8 @@ kenton varda function as a service as a service
 https://twitter.com/threepointone/status/1541069324957491200?s=21&t=YlCoFbRAEDfumpbQ2dn2Kw
 
 
+https://overcast.fm/+NnQqRMJwY/30:40 separation of storage and compute
+
 https://greylock.com/greymatter/powering-the-multi-cloudparadigm/ decompsotions of cloud mcjannet
 
 

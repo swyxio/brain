@@ -7,6 +7,10 @@ general
 
 
 
+
+Who system for recruiting 
+- https://twitter.com/_shahedk/status/1547228369527324672?s=21&t=fL2gYbAiXFcWKKgGrvI4ew
+
 hiring product leader
 - https://docs.google.com/document/d/1VOltmpBrY81Awsv92ztGjJziVHYmxUArjyKZGCK-eEo/mobilebasic
 
@@ -17,6 +21,7 @@ hiring a manager
 
 hiring sales
 - https://bettsrecruiting.com/ matt from lightstep and then fivetran
+- vp sales https://www.saastr.com/the-48-types-of-vp-sales-make-deadly-sure-you-hire-the-right-one/
 
 
 references 

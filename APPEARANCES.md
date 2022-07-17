@@ -47,9 +47,10 @@ sep 8-10 sam morrill dania beach
 sept 21 - big data london
 sep 19-20 zadar infobip
 oct 6-7 infoshare 2022 gdansk
-oct 24-25 
+oct 17-21 dbt coalesce
+oct 24-25 ???
 oct 24-28 qcon sf
-oct 27 - porto tech hub rejecred
+oct 27 - porto tech hub rejected
 nov 8 - airbyte conf
 nov 8-9 - deutsche telekom - 1hr
 nov lagos? jan?

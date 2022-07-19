@@ -19,3 +19,6 @@ jerry neumann
 - petershallard.com "The Shrink for Entrepreneurs"
 - https://angelaparker.com/ rec from brandon bayer
 - strong recommendation from lola from base health — https://mobile.twitter.com/schlaf?lang=en
+
+
+there is a startup called Sounding Board that tracks exec coaching!

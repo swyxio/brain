@@ -1,3 +1,6 @@
+mascot name and history
+https://www.vertabelo.com/blog/the-history-of-slonik-the-postgresql-elephant-logo/
+
 
 - upgrading pain points
 	- https://news.ycombinator.com/item?id=31873063

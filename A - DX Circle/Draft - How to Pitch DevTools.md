@@ -4,6 +4,14 @@
 pitch for the small
 pitch for the very large
 
+
+late swyx notes: on pricing
+- cost factor, 
+- time to market
+- maybe talk about roadmap
+
+
+
 example with lightstep - otel required rewrite - only for big teams
 
 

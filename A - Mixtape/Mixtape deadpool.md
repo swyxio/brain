@@ -1,24 +1,17 @@
-theme
-
-## Theme Colors
-
-Background ColorMain background color of site
-#F6C15F
-Highlight ColorSecondary color of site
-#FFA90A
-Text ColorMain body text color
-#222222
-Link ColorMain body links color
-#110766
-## Player Colors
-
-Player BackgroundBackground color of audio player
-#222222
-Player ColorButton and text color of audio player
-#FFA90A
 
 
-## deadpool 2
+## Life
+
+- https://overcast.fm/+olfN7lGho 20 mins social butterfly gary vee problems  + 50 mins introvert strategy
+- https://youtu.be/oH9sJrAVeC0 Brandon Sanderson  life advice from 14 mins in. Goals, learn how you work, break it down 
+- https://overcast.fm/+b1V1guBD8 23 mins greg mckowen virality vs energy
+- how to be employee #8 at stripe https://overcast.fm/+sAoIh6me8 have side project - 18mins
+- https://overcast.fm/+HhhiZISrU be the driver 18mins
+
+
+not being a founder and minimalism https://overcast.fm/+JEN0VljwU/20:44 19 mins to 23 mins
+
+## misc
 
 https://overcast.fm/+IOVdeY 15 mins william hung
 
@@ -90,4 +83,25 @@ https://overcast.fm/+KebtSrIKA 40 mins about twitter epiphanies - naval
 	- https://overcast.fm/+TRbX793DU 32 mins what is dao until 50ish mins
 	- 6529 https://overcast.fm/+nRGzZ7yqs
 	- uncovering dao hack https://overcast.fm/+O-dbduSYI
+
+
+
+theme
+
+## Theme Colors
+
+Background ColorMain background color of site
+#F6C15F
+Highlight ColorSecondary color of site
+#FFA90A
+Text ColorMain body text color
+#222222
+Link ColorMain body links color
+#110766
+## Player Colors
+
+Player BackgroundBackground color of audio player
+#222222
+Player ColorButton and text color of audio player
+#FFA90A
 

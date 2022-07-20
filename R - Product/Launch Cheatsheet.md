@@ -640,7 +640,7 @@ once purchased, move customer to a different list! don't keep selling sth they b
 - Proofreading
   - Tech Resume Inside Out - 1.25c per word, $800 for 80k words
   - [Zero to Sold](https://thebootstrappedfounder.com/how-i-self-published-zero-to-sold-a-bestselling-book-on-bootstrapping/) - Reedsy 100k words for $3k + 2.3k final editor + 800 for proofreader
-- [[Write Useful Books]] <- Rob Fitzpatrick's process for the Mom Test
+- [[Write Useful Books]]  Rob Fitzpatrick's process for the Mom Test
 	
 ### advice from big creators
 
@@ -667,7 +667,9 @@ once purchased, move customer to a different list! don't keep selling sth they b
 - Philip Kiely
   - https://philipkiely.com/wfsd/
  
+## Courses
 
+https://www.nateliason.com/blog/lifestyle-business
 
 ## Saas
 

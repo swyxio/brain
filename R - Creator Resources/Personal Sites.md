@@ -13,6 +13,7 @@
 - https://www.theengineeringmanager.com
 - https://philcoffman.com/about/ beautiful writing theme
 - https://www.ggunn.com/resources great resources page
+- https://nat.org/ nat friedman - [focus](https://twitter.com/rauchg/status/1549823811167457285)
 
 ## Profiles
 
@@ -83,6 +84,7 @@ dont imitate but still notable
 - https://www.gatesnotes.com/Books/Why-We-Sleep
 - https://www.weekendavisen.dk/2020-15/kultur/fellinis-fantastiske-landskaber
 - vitalik.ca
+- https://dustinbrett.com/
 
 ## lists
 - https://godly.website/

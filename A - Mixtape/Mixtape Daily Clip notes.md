@@ -180,6 +180,9 @@ how nate berkopec found his niche https://overcast.fm/+gJ-XO33X4 10mins
 
 market snacks formula 15 mins https://overcast.fm/+NBVvqLLK0 
 
+the last movie star https://overcast.fm/+4IPRVMzPk/06:41
+
+
 ## writing
 
 https://overcast.fm/+vxHfxq1v0/15:10 the best scene in fast and furious

@@ -125,4 +125,6 @@ Is it more important to get on well with your team or to challenge them? Would y
 
 
 
+## thiel wiestions
 
+https://twitter.com/thealexbanks/status/1550476410115919872?s=21&t=zALdiqO8FWGox3yc-rtNyQ

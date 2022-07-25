@@ -2,6 +2,8 @@
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code
 
+output before input https://overcast.fm/+6Z2pphyiU/25:00 
+
 
 ## small projects
 
@@ -60,6 +62,8 @@ https://youtu.be/uL0atQFZzL8 storytelling
 
 https://overcast.fm/+L9fiEnXsc/30:00 don't be helpful be valuable
 
+
+https://overcast.fm/+GQnSxeuZw/25:56 anyhony bourdain oyster story
 
 
 ## youtuber

@@ -39,6 +39,7 @@ example with lightstep - otel required rewrite - only for big teams
 ---
 
 - Storytelling - telling relatable personal/origin story
+	- https://twitter.com/nathanbaugh27/status/1550822914823491584?s=21&t=__V2E370IrSJL1RpBm-WNw
 	- trungtphan "public narrative" https://twitter.com/trungtphan/status/1362787679696416772
 - Nerd snipe - magic solution to an important problem
     -   a weaponised form of pitching-by-usecases. Takes 3 steps:

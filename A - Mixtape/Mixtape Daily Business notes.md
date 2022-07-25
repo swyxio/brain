@@ -22,6 +22,8 @@ porn dindustry interview 45mins https://overcast.fm/+5K6apFbnE
 
 ## technibiz
 
+
+how open source ate saas https://overcast.fm/+03pxlHKTU/13:08 sam ramji
 why cal open source https://overcast.fm/+HbN4bIcIg 50 mins
 open core ventures https://overcast.fm/+OozNF5Gws 31 mins in
 

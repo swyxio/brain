@@ -13,6 +13,8 @@ regex muting https://twitter.com/leoebfolsom/status/1531888370145644546?s=21&t=W
 limited muting https://twitter.com/buildsghost/status/1507943417715703812?s=21
 
 
+video playing at 2x https://twitter.com/MarceloPLima/status/1551717203245940736
+
 engagement bait 
 - https://twitter.com/stewfortier/status/1490131640097648641?s=21
 - https://twitter.com/harrystebbings/status/1490516792615313412?s=21

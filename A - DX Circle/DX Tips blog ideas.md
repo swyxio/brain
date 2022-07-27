@@ -1,3 +1,10 @@
+platform engineering - dead or alive
+- negative engineering https://overcast.fm/+TTMycnKgU/23:46
+- platforms are dead tweet
+- platforms are future https://mobile.twitter.com/sidpalas/status/1551936840453820417
+- 
+
+
 ## Devtools growth loops
 
 https://docs.google.com/document/d/1iVDiEizqstHqjHIg0kVEJxBHjZ2KW6ncoK7dT0DZr7c/edit#heading=h.c8d4qbje1xe8
@@ -468,6 +475,17 @@ cf sarah cataranzo convo
 - oso's post on why authz is hard
 - scrapingbee scraping
 - greenspunning https://news.ycombinator.com/item?id=29891428#29921433
+- #1 problem of prefect is home grown solutions 
+	- https://overcast.fm/+TTMycnKgU/30:30
+- give develoeprs the tools to evaluate their own solutions
+	- scheduler
+	- retries
+	- jitter
+	- backfill
+	- auth/permissions
+	- secrets mgmt
+	- etc
+
 
 ## growing UGC at devtools
 - job postings

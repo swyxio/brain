@@ -39,6 +39,8 @@ notes are incomplete, up to the 25 min mark in the podcast
 		- educate DBAs of the world that Hadoop is just a database
 		- educate decisionmakers that Hadoop is impt for them - run marketing org like a magazine
 		- most effective - cheatsheet for common sql queries vs common Hadoop queries
+	- negative engineering
+		- jeremiah https://overcast.fm/+TTMycnKgU/23:46
 - Tips and Tricks
 	- Repetition to align everybody, saying over and over
 	- Category has to be in simple terms

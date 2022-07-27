@@ -3,6 +3,31 @@ created: 2021-12-01 01:35
 updated: 2022-04-26 12:12
 ---
 
+## tldraw visit
+
+okso.app
+trbl.dev
+globs.design
+
+faasaas -> the intermediate cloud
+- you want something in between my cloud and your client
+
+ideas for tldraw
+- myspace - url component
+- subdomakns and custom domaisn for tldraw
+- okso.app embeddable pages with navigation and breadcrumbs
+- code editor and code hosting - dont need to edit tldraw source code to contribute custom components
+- interactive/learnable programming - connectable components 
+- icon library
+- marketing 
+	- rotation
+	- things you take for granted/cant unsee
+- read - 
+	- crdts go brr - 5000x faster than automerge
+	- seth and james from melbourne
+
+
+
 Screenflow 9
 
 ## old laptop ground

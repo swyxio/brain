@@ -2,7 +2,7 @@ platform engineering - dead or alive
 - negative engineering https://overcast.fm/+TTMycnKgU/23:46
 - platforms are dead tweet
 - platforms are future https://mobile.twitter.com/sidpalas/status/1551936840453820417
-- 
+- https://twitter.com/danielbryantuk/status/1494614250567966732 make sure to run it by daniel as he has Opinions 
 
 
 ## Devtools growth loops

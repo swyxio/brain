@@ -30,6 +30,7 @@ blender/animations
 
 - leifpixel did the anims for frontendhorse stream https://twitter.com/joshwcomeau/status/1473692320042258437?s=21
 - https://www.ordinaryfolk.co/ did [the spline.design intro video](https://twitter.com/splinetool/status/1500916639629549573?s=20&t=nLHvmBJpIaJgwWymOkzNrw)
+- corey quinn animated aws music videos https://twitter.com/evilscribbles/status/1552739758148710401?s=21&t=4Q5R-8npOPpEUVq3Km6m3Q
 
 music
 - composer https://twitter.com/brysocki/status/1534722638802714624?s=21&t=9M97pYAvkQtRQptcb40VkA

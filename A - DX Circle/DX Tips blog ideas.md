@@ -1,4 +1,23 @@
-platform engineering - dead or alive
+## why edge wins
+
+- latency
+- security
+- cost
+- faasas
+
+‪
+
+## path to data driven apps
+
+- human int he loop
+	- a/b test 
+	- pm decides
+	- implement
+- code driven
+- personalized?
+
+
+## platform engineering - dead or alive
 - negative engineering https://overcast.fm/+TTMycnKgU/23:46
 - platforms are dead tweet
 - platforms are future https://mobile.twitter.com/sidpalas/status/1551936840453820417
@@ -9,12 +28,6 @@ platform engineering - dead or alive
 
 https://docs.google.com/document/d/1iVDiEizqstHqjHIg0kVEJxBHjZ2KW6ncoK7dT0DZr7c/edit#heading=h.c8d4qbje1xe8
 
-## corporate youtube code
-
-- good youtubers
-- https://www.youtube.com/c/RecallbyDataiku/videos
-- cutting edge techniques
-	- https://youtu.be/_lqdfq2c9cQ lightboard
 
 ## Matching Reasons to write to the platform
 

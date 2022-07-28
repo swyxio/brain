@@ -1,3 +1,7 @@
+infoq podcast coming
+kp podcast coming
+
+
 https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-with-swyx/
 
 

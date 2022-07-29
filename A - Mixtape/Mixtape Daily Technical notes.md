@@ -58,6 +58,8 @@ why blue screens blue https://youtu.be/KgqJJECQQH0
 expert blindness https://overcast.fm/+RCm27mAv4 25-35 mins
 
 
+quic and http3 https://overcast.fm/+mBhkjQW9w/08:00
+
 ebpf https://overcast.fm/+wtIPwx_jA
 12 mins https://overcast.fm/+wFc3d7pbo usecases off ebpf celium
 

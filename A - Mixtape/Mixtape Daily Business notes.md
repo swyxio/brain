@@ -12,6 +12,8 @@ https://overcast.fm/+OOu8ERt88 community led growth
 
 media company - ho90 scale https://overcast.fm/+QN1p98M4o/45:01
 
+
+
 space industry 15 mins https://overcast.fm/+a0BromYiY
 
 the trust equation https://overcast.fm/+OozM5Blcw 25 mins 

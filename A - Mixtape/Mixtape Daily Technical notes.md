@@ -16,12 +16,6 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 
 
-
-https://overcast.fm/+w94UZeKb0 6mins origin of clickhouse  25 mins secret sauce
-
-
-https://overcast.fm/+qMcQjNZoA why clickhouse enables
-
 harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
 
 

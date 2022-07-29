@@ -1,12 +1,3 @@
-## why edge wins
-
-- latency
-- security
-- cost
-- faasas
-
-‪
-
 ## path to data driven apps
 
 - human int he loop

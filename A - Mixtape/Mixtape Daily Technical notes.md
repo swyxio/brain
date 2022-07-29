@@ -16,20 +16,24 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 
 
-explaining dbt https://overcast.fm/+389UaK4Z0/36:01 
 
 https://overcast.fm/+w94UZeKb0 6mins origin of clickhouse  25 mins secret sauce
 
 
 https://overcast.fm/+qMcQjNZoA why clickhouse enables
 
+harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
+
+
+vitess features https://overcast.fm/+HZUc8rncY 15ish mins
+
 https://overcast.fm/+IexfoKBtc why airflow 24 mins
 
-harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
+explaining dbt https://overcast.fm/+389UaK4Z0/36:01 
+
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 
-vitess features https://overcast.fm/+HZUc8rncY 15ish mins
 
 https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
 

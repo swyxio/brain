@@ -1,4 +1,5 @@
 
+
 design https://twitter.com/thelifeofrishi/status/1411547063095988231?s=20
 
 organize bookmarks 
@@ -21,6 +22,8 @@ engagement bait
 - https://twitter.com/the_mmw/status/1504102712052494343?s=21
 
 https://thesephist.com/posts/lucerne/
+
+https://apps.apple.com/app/tweaks-for-twitter-mobile/id1582826292?mt=8
 
 profile notes https://twitter.com/jessfromonline/status/1375456777983115267?s=21
 

@@ -5,7 +5,22 @@
 - cost
 - faasas
 
-‪
+## misc
+
+steve jobs pitching OOP
+https://youtu.be/GRHHOI-WvVc 25mins
+
+## papercuts
+
+https://twitter.com/rmurphey/status/1557045725447569411?s=21&t=FcT0zAhIFTPddjDKKXMppg
+
+
+## the case for small data
+
+https://twitter.com/swyx/status/1557028733478920195?s=21&t=4m1YG56zX4Bs_c68n5439w
+
+https://overcast.fm/+w94WYoAHg/44:41 tristan dbt distro
+
 
 ## path to data driven apps
 

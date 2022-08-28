@@ -79,6 +79,7 @@ More:
 - AI email composer <https://compose.ai/>
 - AI video creator <https://www.synthesia.io/>
 - <https://www.copysmith.ai/> "This startup is using GPT-3 for content marketing, just tried it out and it's surprisingly good at generating 2-3 sentence pitches (going off of some key words and a brief description)"
+- write in my voice https://writer.com/product/cowrite/
 - Philosopher.ai philosopher prompting
 
 ## Code

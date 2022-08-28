@@ -4,6 +4,9 @@
 	- massively parallel features, fully relational 
 	- ingest semi structured data, write sql against it
 
+snowflake costs
+ - https://news.ycombinator.com/item?id=32551212
+
 - invented new data type
 - 3 years in stealth
 - GA in 2015

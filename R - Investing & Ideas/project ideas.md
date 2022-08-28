@@ -28,11 +28,23 @@ neutral OSS telemetry provider
 - https://about.scarf.sh/ started!!
 
 
+"rippling of machine learning"
+- parker conrad thesis https://youtu.be/H0c640t8dp0?t=5430
+- every company is building a ML model of who you are
+- this is back to front - there should be one digital twin of you that you grant permissions to every company
+- isnt this google sso? basically yes? but bigger - take in all the other data
+- maybe the api is "would you like this" and "from a scale of 1 to 5" or "x or y?"
+- what would it take for every human on earth to have their own api that any system can plug into and request data from
+
+
+
+
 roth ira startup
 - https://twitter.com/jsyversen/status/1485095375933427716?s=21
 
 github search chrome extension
 - https://docs.github.com/en/search-github/searching-on-github/searching-code#search-by-file-location
+- https://twitter.com/amasad/status/1556495643589222400
 
 headline generator
 - https://copywritingcourse.com/copywriting-headlines-that-sell/

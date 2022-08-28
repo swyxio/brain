@@ -1,5 +1,8 @@
 # email-tools-list
 
+
+https://twitter.com/adamwathan/status/1559897519932448768?s=20&t=n7AV_gfE0I9XNVQspcuOQw
+
 Light newsletter
 
 - https://tinyletter.com/
@@ -29,3 +32,4 @@ Self hosted
 - style emails with Tailwind https://maizzle.com/
 - mjml
 - parcel.io
+

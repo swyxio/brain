@@ -26,3 +26,12 @@ hiring sales
 
 references 
 - https://greylock.com/greymatter/holly-rose-faith-greylock-executive-reference-checklist/
+
+
+
+https://overcast.fm/+rTsUmPDu8/23:32
+screen for
+- weirdness
+- high wattage/bias to action
+- degenerates - weird obsession - just want to win
+- 

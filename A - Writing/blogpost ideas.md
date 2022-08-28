@@ -254,7 +254,8 @@ build a media company
 	- tweet + blog
 	- project based (conf speaking)
 	- youtube/podcast
-	- 
+- https://twitter.com/volodarik/status/1553030445352329217
+- https://www.profitwell.com/recur/all/pth-b-side-hubspot-and-the-hustle
 
 a16z bear hug
 - https://www.drorpoleg.com/pulling-a-bezos/

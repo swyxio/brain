@@ -1,11 +1,18 @@
-## why edge wins
 
-- latency
-- security
-- cost
-- faasas
+steve jobs pitching OOP
+https://youtu.be/GRHHOI-WvVc 25mins
 
-‪
+## papercuts
+
+https://twitter.com/rmurphey/status/1557045725447569411?s=21&t=FcT0zAhIFTPddjDKKXMppg
+
+
+## the case for small data
+
+https://twitter.com/swyx/status/1557028733478920195?s=21&t=4m1YG56zX4Bs_c68n5439w
+
+https://overcast.fm/+w94WYoAHg/44:41 tristan dbt distro
+
 
 ## path to data driven apps
 
@@ -16,12 +23,12 @@
 - code driven
 - personalized?
 
-
 ## platform engineering - dead or alive
 - negative engineering https://overcast.fm/+TTMycnKgU/23:46
 - platforms are dead tweet
 - platforms are future https://mobile.twitter.com/sidpalas/status/1551936840453820417
 - https://twitter.com/danielbryantuk/status/1494614250567966732 make sure to run it by daniel as he has Opinions 
+- https://twitter.com/robbowley/status/1494982092211593219
 
 
 ## Devtools growth loops
@@ -273,6 +280,10 @@ casey from accel https://www.accel.com/noteworthy/welcome-casey-aylward
 - explaining benefits to later adopters
 - vs explaining how it works to early adopters
 - later adopters - no reason why not - pareto optimal - boring https://benn.substack.com/p/the-end-of-big-data
+- early: the tech is the story
+	- cost doesnt matter
+- late: the result is the story
+	- cost optimisation
 
 ## breaking out of the devrel comfort zone
 
@@ -312,7 +323,7 @@ hospital with no patients https://youtu.be/x-5zEb1oS9A
 
 
 https://garden.io/
-You _can_ have the best of both worlds, but it takes a new kind of DevOps tool, truly **designed for the modern cloud.**
+You _can_ have the best of both worlds, but it takes a new kind of DevOps tool, truly **designed for the modern cloud.**
 
 Ambassador Labs (formerly Datawire), the cloud native developer experience leader, enables developers to code, ship, and run applications faster and easier than ever.
 
@@ -329,7 +340,7 @@ https://www.magidandco.com/blog/the-two-sentence-description
 
 https://readyset.io/blog/%5Bslug%5D 
 - Our mission is to help developers build faster applications without writing extra code.
-- ReadySet is building a SQL caching engine that sits in front of existing databases and dramatically improves database performance by accelerating reads. It supports millions of queries per second with sub-millisecond latencies on a single node, all while keeping cached state up-to-date automatically. Any time a write changes the data in the underlying database ReadySet automatically updates any affected cached query results. ReadySet is wire-compatible with MySQL and Postgres and can be used with existing applications without code changes. It is a simpler and more cost effective alternative to homegrown caching layers and read replica hierarchies. See our documentation for more information!
+- ReadySet is building a SQL caching engine that sits in front of existing databases and dramatically improves database performance by accelerating reads. It supports millions of queries per second with sub-millisecond latencies on a single node, all while keeping cached state up-to-date automatically. Any time a write changes the data in the underlying database ReadySet automatically updates any affected cached query results. ReadySet is wire-compatible with MySQL and Postgres and can be used with existing applications without code changes. It is a simpler and more cost effective alternative to homegrown caching layers and read replica hierarchies. See our documentation for more information!
 
 “people want holes, not drills”
 
@@ -428,7 +439,9 @@ SaaS companies with media companies
 - https://blog.coinbase.com/announcing-coinbase-fact-check-decentralizing-truth-in-the-age-of-misinformation-757d2392d61a
 - https://news.ycombinator.com/item?id=30684594
 	- DO vs linode strategy
-
+- https://twitter.com/volodarik/status/1553030445352329217
+	- lemon.io
+	- https://twitter.com/volodarik/status/1553030459130613760?s=20&t=VQBGoVxpZyhkd_QuGJuyUw
 
 
 ### a modest proposal for developer experience

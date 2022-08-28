@@ -5,6 +5,9 @@ https://blog.chander.app/2020/10/25/stripe.html
 
 https://slab.com/blog/stripe-writing-culture/
 
+https://a16z.com/2022/08/19/ben-horowitz-on-how-the-best-leaders-build-culture/
+
+
 ## effective culture
 
 https://twitter.com/danluu/status/1493963774478348291?s=21

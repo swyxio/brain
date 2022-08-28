@@ -1,6 +1,8 @@
 https://twitter.com/theryanking/status/1475122757117653003?s=21
 
 
+wade foster/groupon lessons https://news.ycombinator.com/item?id=32473112
+
 **optimism shapes reality.** https://alexw.substack.com/p/optimism-shapes-reality?s=r
 
 https://growth.eladgil.com/
@@ -15,6 +17,17 @@ slootman notes
 - 3. sharpen your focus 
 - 4. pick up the pace 
 - 5. transform your strategy
+
+
+
+cofounder relationship
+https://greylock.com/greymatter/how-to-be-a-founder/
+
+
+RACI vs DACI
+- https://www.kevanlee.com/articles/daci-raci-frameworks
+
+board meeting https://twitter.com/rebeccakaden/status/1557756528849027079?s=21&t=askhtBd1PRp_vD9sblIoQQ
 
 
 dont prioritize autonomy over alignment

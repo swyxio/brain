@@ -32,3 +32,4 @@ remote managing https://twitter.com/jobvo/status/1543157537222148096?s=21&t=2M6r
 
 ## general team mgmt
 https://twitter.com/bdarfler/status/1524501758935973892?s=21&t=kYW--rHcpBMM3IeIu9xObA
+

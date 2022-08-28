@@ -27,6 +27,7 @@ list of unique id implementations, design considerations, and resources. may als
   - string?
 - no dependencies
 - no need for coordination (among different clients generating uuid's)
+	- recent discussion https://twitter.com/davidfowl/status/1563728728802619393
   
 ## Concepts
 
@@ -44,6 +45,7 @@ list of unique id implementations, design considerations, and resources. may als
 - FUUID https://github.com/kpdemetriou/fuuid UUIDs are compatible with regular UUIDs but are naturally ordered by generation time, collision-free and support succinct representations such as raw binary and base58-encoded strings.
   - Warning - not mature https://news.ycombinator.com/item?id=27030088
 - ulid's https://github.com/ulid/spec ([instagram](http://instagram-engineering.tumblr.com/post/10853187575/sharding-ids-at-instagram), [firebase](https://firebase.googleblog.com/2015/02/the-2120-ways-to-ensure-unique_68.html))
+	- C#/.Net impl https://github.com/Cysharp/Ulid
 - c4 ID's http://www.cccc.io/
 - MongoDB ObjectID: https://www.mongodb.com/blog/post/generating-globally-unique-identifiers-for-use-with-mongodb
 - guid alternatives https://www.softwareatscale.dev/p/guids-are-not-enough
@@ -98,7 +100,7 @@ list of unique id implementations, design considerations, and resources. may als
     ```
   - https://github.com/lukeed/hexoid like (uid but >3x faster due to different api)
   - https://github.com/ericelliott/cuid Collision-resistant ids optimized for horizontal scaling and binary search lookup performance.
-  - https://github.com/ai/nanoid A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript. [Comparison vs uuid](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
+  - https://github.com/ai/nanoid A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript. https://zelark.github.io/nano-id-cc/  [Comparison vs uuid](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
     
     ```js
     import { nanoid } from 'nanoid'
@@ -107,6 +109,8 @@ list of unique id implementations, design considerations, and resources. may als
   - A maintained ulid generator in Node https://www.npmjs.com/package/ulidx
   - Faster nanoid generator https://github.com/rustq/napi-nanoid
   - Yet another random ID generator https://www.npmjs.com/package/hyperid
+
+
 
 ## Production quality UUID approaches
 
@@ -147,17 +151,26 @@ list of unique id implementations, design considerations, and resources. may als
     - Case insensitive
     - No special characters (URL safe)
     - Monotonic sort order (correctly detects and handles the same millisecond)
+- **Snowflake IDs**
+	- created by [Twitter, used at Discord/Instagram](https://en.wikipedia.org/wiki/Snowflake_ID)
+	- 64 bits - time sortable, with machine ID ([may be PII](https://twitter.com/osterman/status/1563740738684620800?s=20&t=1EW4Du5AJ9aLBzE7C1vNng)) 
+	- Impl: https://github.com/RobThree/IdGen
 - Timeflake https://github.com/anthonynsimon/timeflake ([not for security](https://news.ycombinator.com/item?id=25872009))
   -  Timeflake is a 128-bit, roughly-ordered, URL-safe UUID. Inspired by Twitter's Snowflake, Instagram's ID and Firebase's PushID.
   - **Fast.** Roughly ordered (K-sortable), incremental timestamp in most significant bits enables faster indexing and less fragmentation on database indices (vs UUID v1/v4).
   - **Unique enough.** With 1.2e+24 unique timeflakes per millisecond, even if you're creating 50 million of them *per millisecond* the chance of a collision is still 1 in a billion. You're likely to see a collision when creating 1.3e+12 (one trillion three hundred billion) timeflakes per millisecond.*
   - **Efficient.** 128 bits are used to encode a timestamp in milliseconds (48 bits) and a cryptographically generated random number (80 bits).
   - **Flexible.** Out of the box encodings in 128-bit unsigned int, hex, URL-safe base62 and raw bytes. Fully compatible with uuid.UUID.
+- NewId: https://github.com/phatboyg/NewId
+	- A sequential id generator that works across nodes with no collisions
+	- an embedded unique ID generator that produces 128 bit (16 bytes) sequential IDs. It is inspired from snowflake and flake
 - TUID https://github.com/tanglebones/pg_tuid 
   - "A TUID is like a UUID (it conforms to UUID v4) but instead of being fully random (except for 6 bits for the version) it is prefixed with the time since epoch in microseconds."
   - Note that the JS implementation uses `Math.random`, making it less secure than UUID which uses the crypto module. [More info from @nosovk and @kurtextrem]([url](https://github.com/sw-yx/brain/pull/36)).
 - XID https://github.com/rs/xid
   - https://encore.dev/blog/go-1.18-generic-identifiers
+- Internal Google ID system
+	- "IIRC internally google used an ID for logging events that was a combo of Mac address and microsecond time. There might have been something in there for cpuid. Leaked data but was internal only so not a problem." - [Joe Beda](https://twitter.com/jbeda/status/1563729743224373249?s=20&t=1EW4Du5AJ9aLBzE7C1vNng)
 
    
 ## Older stuff

@@ -1,12 +1,5 @@
 {
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "-"
-    }
-  ],
+  "editor:toggle-bullet-list": [],
   "editor:fold-all": [
     {
       "modifiers": [

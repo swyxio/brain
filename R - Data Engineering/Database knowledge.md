@@ -1,3 +1,13 @@
+write db from scratch
+- https://dbfromzero.com/
+- https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/
+- https://www.databass.dev/
+- https://www.awelm.com/posts/simple-db/
+- https://www.amazon.com/Database-System-Implementation-Hector-Garcia-Molina/dp/0130402648
+- http://www.databaselecture.com/
+- https://cstack.github.io/db_tutorial/
+- https://leanpub.com/how-query-engines-work
+
 bigquery https://overcast.fm/+5PHEijBNg 
 - bigquery had separation of storage and compute first before snowflake
 - data sharing - globally addressable data so stuff is not siloed
@@ -30,10 +40,20 @@ large tech co
 
 
 
+embedded key value db's
+https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html
 
-htap ecosystem
+
+HTAP ecosystem
 - https://overcast.fm/+H1YOVNmx0
-  
+- https://www.singlestore.com/blog/the-recipe-for-a-singlestore-database/
+	- http://nms.csail.mit.edu/~stavros/pubs/hstore.pdf
+- 
+
+
+benchmarks
+- https://benchmark.clickhouse.com/
+
 
 sqlite problems
 
@@ -71,16 +91,6 @@ Why planetscale not postgres
 problems with postgress
 https://twitter.com/kylelf_/status/1536687193430818818?s=21&t=FifLwSLw3DOD7qOzV5uSOw
 serverless postgres https://neon.tech/blog/hello-world/
-
-## postgres ecosystem
-
-- timeseries
-	- timescaledb
-		- https://news.ycombinator.com/item?id=29096541
-	- influx?
-	- why time series special category? https://www.xaprb.com/blog/2014/06/08/time-series-database-requirements/
-- OLAP
-	- Clickhouse
 
 
 ## nosql

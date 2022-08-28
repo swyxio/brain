@@ -5,6 +5,7 @@
 
 nice ecosystem overview https://greylock.com/greymatter/the-next-cloud-data-platform/
 
+data mesh organization https://martinfowler.com/articles/data-monolith-to-mesh.html
 
 why lakehouse https://overcast.fm/+lcqWQ6LV0/12:45
 - 2 usecases

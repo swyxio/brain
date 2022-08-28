@@ -26,6 +26,14 @@ I put together a 90 minute Egghead.io [Course](https://egghead.io/courses/build-
 - **Add a dry run mode for expensive commands** like [gatsby dry-run](https://github.com/gatsbyjs/gatsby/issues/16384)
 
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+- https://www.textualize.io/blog/posts/7-things-about-terminals
+	- Terminals are fast
+	- DictViews are amazing
+	- lru_cache is fast
+	- Immutable is best
+	- Unicode art is good
+	- Fractions are accurate
+	- Emojis are terrible
 
 ## Frameworks
 

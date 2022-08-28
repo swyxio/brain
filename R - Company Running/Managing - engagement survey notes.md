@@ -1,0 +1,56 @@
+
+## engagement surveys
+
+ - I would recommend Airbyte as a great place to work
+ - Airbyte motivates me to go beyond what I would in a similar role elsewhere
+ - I see myself still working at Airbyte in two years' time\n\nNeither agree nor disagree\nAdd comment
+ - My experience at Airbyte has been what I expected
+ - The products and services Airbyte provides are as good as, or better than, our main competitors
+ - Airbyte is in a position to really succeed over the next three years
+ - I have confidence in the leadership team at Airbyte
+ - The leadership team at Airbyte keeps people informed about what is happening    
+ - The leadership team at Airbyte demonstrates that people are important to the company's success    
+ - The leadership team at Airbyte has communicated a vision that motivates me    
+ - My manager gives me useful feedback on how well I am performing    
+ - My manager makes me feel valued    
+ - My manager helps me stay motivated to do my best work    
+ - My manager helps our team build momentum around a vision    
+ - My manager provides clear guidance and direction to our team when needed    
+ - My manager regularly celebrates our team's achievements    
+ - My manager makes time for 1:1s with me    
+ - My manager frequently recognizes progress I make, not just results    
+ - My manager helps me understand what progress I can make towards my career goals    
+ - The information and resources I need to do my job effectively are readily available    
+ - I have access to the things I need to do my job well    
+ - I have enough autonomy to perform my job effectively    
+ - Most of the systems and processes here support us getting our work done effectively    
+ - I understand how my work contributes to the goals of Airbyte    
+ - I am appropriately involved in decisions that affect my work, including decisions about our product and roadmap    
+ - I know what I need to do to be successful in my role    
+ - I am happy with my current role relative to what was described to me during the interview process    
+ - I believe my total compensation (base salary+any bonuses+benefits+equity) is fair, relative to similar roles at other companies    
+ - I receive appropriate recognition for good work at Airbyte    
+ - I have access to the learning and development I need to do my job well    
+ - I believe there are good career opportunities for me at Airbyte    
+ - I understand what I need to do in order to progress in my role at Airbyte    
+ - At Airbyte there is open and honest two-way communication    
+ - Generally, I believe my workload is reasonable for my role    
+ - Workloads are divided fairly among people where I work    
+ - At Airbyte we act on promising new or innovative ideas    
+ - Day-to-day decisions here demonstrate that quality and improvement are top priorities    
+ - We hold ourselves and our team members accountable for results
+ - Airbyte welcomes people of all different backgrounds, characteristics, and beliefs    
+ - I am kept up-to-date on what is happening at the company    
+ - I feel I am part of a team    
+ - I spend enough quality time interacting with my colleagues    
+ - I can be my authentic self while connecting with others at Airbyte    
+ - We have meaningful ways to stay connected while working from different locations    
+ - I know our company values    
+ - I have a good understanding of what our company values mean
+ - I believe our company values match our company culture    
+ - I believe employee wellbeing is a priority at Airbyte    
+ - The leadership team here demonstrates that employee wellbeing is important    
+ - People here maintain a healthy blend between work and personal life    
+ - I am able to take time off from work when I need to    
+ - I know where to raise any concerns I have in relation to my own or a colleague's wellbeing    
+ - I believe action will take place as a result of this survey"

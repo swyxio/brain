@@ -1,5 +1,23 @@
 > longform/swyx content to resyndicate  on weekends
 
+nystudio107 devmode.fm
+
+
+
+kp podcast coming https://www.youtube.com/watch?v=-oTmQhagN4k&feature=youtu.be
+https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-with-swyx/
+
+
+https://syntax.fm/show/478/supper-club-developer-experience-with-shawn-wang
+
+eddie hinkle web joy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx
+
+https://www.thecloudcast.net/2022/01/2022-look-ahead-developer-careers.html
+
+
+
+kp podcast https://share.transistor.fm/s/398dc0ca - backloaded creator stuff - machine SEO vs human SEO
+
 https://syntax.fm/show/478/supper-club-developer-experience-with-shawn-wang
 
 third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
@@ -7,9 +25,12 @@ third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
 
 corey quinn pod
 
-awsfm pod https://aws.fm/episodes/episode-25-shawn-swyx-wang
 
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
+
+
+
+cloudcast on me https://www.thecloudcast.net/2022/01/2022-look-ahead-developer-careers.html?m=1
 
 michelle hansen chat
 

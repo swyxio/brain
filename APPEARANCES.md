@@ -1,17 +1,8 @@
 infoq podcast coming
-kp podcast coming
+
+nystudio107 devmode.fm
 
 
-https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-with-swyx/
-
-
-https://syntax.fm/show/478/supper-club-developer-experience-with-shawn-wang
-
-eddie hinkle web joy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx
-
-aws.fm thing
-
-https://www.thecloudcast.net/2022/01/2022-look-ahead-developer-careers.html
 
 ## speaking
 
@@ -33,7 +24,6 @@ jun 7 jnation port - withdraw
 jun 13-16 snowflake summit
 jun 16 jsnation ams -> withdraw
 jun 25 cityjs singapore
-*********
 jun 27-30 - data/ai summit
 jul 1-10 - miami booking - Viajero Miami
 jul 10 - 6.45a MIA-EWR UA 1773
@@ -43,21 +33,29 @@ jul 17-22 London airbyte
 jul 23-30 berlin
 jul 31 - 8am-11am LHR-EWR UA 883
 jul 31 - 2pm EWR-MIA UA 1252
-aug 6-29 stay with Kumar miami
 aug 26 temporalcon
-aug 29-sep5 cascadiajs bend OR
+
+---
+
+aug 29 MIA-RDM 3pm UA 576, UA 649
+aug 30-sep2 cascadiajs bend OR
+sep 2 RDM-SFO UA 1986 6am!!!!
+sep 6 SK6791 MIA-EWR-CPH-ARN
 sept 8-9 stockholm svelte
-sep 8-10 sam morrill dania beach
-sept 21 - big data london
-sep 19-20 zadar infobip
-oct 6-7 infoshare 2022 gdansk
-oct 17-21 dbt coalesce <- 
-oct 24-25 ???
-oct 24-28 qcon sf
-oct 27 - porto tech hub rejected
+Sep 11 SK903 ARN-EWR-MIA
+sept 18-22? - zadar infobip <- BOOKING
+sept 21-22 - big data london
+NA --- September 18-23, 2022 in Puerto Vallarta, Mexico
+oct 5-7 infoshare 2022 gdansk
+October 9-14, 2022 in Puerto Vallarta, Mexico
+oct 15-17 orlando https://www.creativecityproject.com/immerse2021
+oct 17-21 dbt coalesce <- New Orleans
+oct 24dinner-25th nextjs conf <- SF
+NA --- oct 27 - porto tech hub decline
+nov 4 - airbyte in person board meeting
 nov 8 - airbyte conf
-nov 8-9 - deutsche telekom - 1hr
 nov lagos? jan?
+nov 7-11 DEV WRITERS RETREAT
 nov 9-10 github universe submitted
 dec allscope
 

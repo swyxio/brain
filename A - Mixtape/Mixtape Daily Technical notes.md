@@ -7,6 +7,9 @@ https://overcast.fm/+NnQqRMJwY/30:40 separation of storage and compute
 https://greylock.com/greymatter/powering-the-multi-cloudparadigm/ decompsotions of cloud mcjannet
 
 
+https://overcast.fm/+cEzDxujbc/12:52 end of localhost
+
+
 ## distsys
 
 https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queue - 2011 kafka, using zookeeper for leader election, now rolling out kRaft
@@ -14,17 +17,35 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 ## data
 
-
+neon database https://overcast.fm/+n6UYkhIo4/03:16
 
 harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
 
+planetscale vs cloudflare https://overcast.fm/+mBhm_ixng/12:00 
 
-vitess features https://overcast.fm/+HZUc8rncY 15ish mins
+the 5 ways data can break https://overcast.fm/+x8z-L-oRY/33:00
+
+what is a data warehouse by inmon https://youtu.be/Yr07Ntfysd8 5mins
+
+what is the metrics layer benn stancil https://overcast.fm/+PotAbVcZA/10:11
+
+origin of looker https://overcast.fm/+PotAbVcZA/35:00 benn stancil oh wow
+
+
+data
+prefect airlflow dagster https://overcast.fm/+H1YNrM6kU/50:00
+
 
 https://overcast.fm/+IexfoKBtc why airflow 24 mins
 
+vitess features https://overcast.fm/+HZUc8rncY 15ish mins
+
+
 explaining dbt https://overcast.fm/+389UaK4Z0/36:01 
 
+dbt as a standard https://overcast.fm/+skksvRJck/15:00
+
+criticism of dbt https://overcast.fm/+H1YOs51JQ/30:00
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 

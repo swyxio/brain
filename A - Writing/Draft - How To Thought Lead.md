@@ -1,3 +1,20 @@
+
+- know what people want
+	- immediate/instinctive response
+	- aspirational response
+	- humorous response
+- have better facts/history than anyone else
+- have better vision of the future than anyone
+	- articulate a trend/where people are going
+- clarify/express reality better than anyone
+	- be quotable
+	- draw the map https://nesslabs.com/thinking-in-maps
+	- define an equation
+- have an opinion on everything
+
+
+----
+
 defense to offense
 - cs - > CX https://www.intercom.com/blog/podcasts/nate-brown-on-why-proactive-cx-is-the-next-competitive-battleground/
 

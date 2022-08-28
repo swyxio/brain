@@ -5,6 +5,16 @@ tiago
 output before input https://overcast.fm/+6Z2pphyiU/25:00 
 
 
+
+https://overcast.fm/+DxP3_iEU4/5:50 chase dimon twitter content
+
+stebbings content https://overcast.fm/+OozML4vcU
+
+moloch https://overcast.fm/+eZyBjF53Y/1:29:19 ends about here
+
+
+fomo cold emailing story https://overcast.fm/+gFCuzHDTY/18:00 wendy betty etc to 25 mins
+
 ## small projects
 
 https://overcast.fm/+JaI5qMWzE wordle juice ui
@@ -14,18 +24,19 @@ https://overcast.fm/+R_DjzB3z0 35 mins buying domains advice
 
 motionographer https://overcast.fm/+nQuqA2tdM 43mins stats of motion
 
+cocktail party
+https://overcast.fm/+sOov0qRsE/02:14
+https://overcast.fm/+sOov0qRsE/30:00 icebreaker
+
 
 
 ## marketing
 
 orange juice rebrand fail https://overcast.fm/+B2HpKXM8Q
 
-viral on purpose https://overcast.fm/+RWpsctwxM
-
-16 steps credibility 37mins https://overcast.fm/+IxBMXwmXY 
-
 https://overcast.fm/+rTsWA7cLo 35mins viral marketing
 
+16 steps credibility 37mins https://overcast.fm/+IxBMXwmXY 
 
 https://overcast.fm/+rTsWtRfRc/34:18 copywriting 33mins 
 
@@ -43,6 +54,8 @@ market snacks formula 15 mins https://overcast.fm/+NBVvqLLK0
 
 the last movie star https://overcast.fm/+4IPRVMzPk/06:41
 
+
+https://overcast.fm/+G1DUaFyZk/10:00 content creation as part of your business 
 
 ## writing
 
@@ -81,3 +94,6 @@ https://overcast.fm/+NBVvT7qiY youtube deep bench, quantity to get quality 20min
 - 1.3m a month nas daily. 1000 video 1000 days https://overcast.fm/+borYakbl8
 
 https://overcast.fm/+IPH8QGS8U 10 mins pitch meeting ryan george origin
+
+
+impact of mrbeast on honey https://overcast.fm/+6Z2pfF3pQ/23:02

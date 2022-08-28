@@ -37,5 +37,6 @@
     "observability"
   ],
   "attachmentFolderPath": "./attachments",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": false
 }

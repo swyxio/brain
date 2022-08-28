@@ -16,15 +16,15 @@ example with lightstep - otel required rewrite - only for big teams
 
 
 
-- Fast
+- Fast (1 sentence)
 	- benchmarks/social proof - "at", "since", "during",  "behind"
 	- tagline - x without y, mission - "with", "without", "in ? secs"
 	- analogies - "X for Y", "from"
-- Medium
+- Medium (1 paragraph)
 	- storytelling/storybrand
 	- nerd snipe - magic demo with "wow"
 	- category, 2x2 map
-- Deep
+Deep (?)
 	- inevitability/opportunity
 	- argument by requirements
 	- sum of the parts/how it works
@@ -86,6 +86,12 @@ example with lightstep - otel required rewrite - only for big teams
             -   ...and reuse, test, version and migrate it.
         
         **Finally, you want all this to scale**. The same programming model going from small usecases to millions of users without re-platforming. Temporal is the best way to do all this — by writing idiomatic code known as **"workflows"**.
+        - manifestos
+	        - http://oldblog.antirez.com/post/redis-manifesto.html
+	        - https://principles.planetscale.com/
+					- 12 factor app
+					- jamstack
+					- https://principledgraphql.com/
 - Analogies (useful for nontechnical users)
     
     -   Lean on existing familiarity with other tools as a cognitive shortcut - We are “X for Y”. Downside - all analogies are flawed/incomplete. But - at least we grab attention fast.
@@ -156,3 +162,4 @@ example with lightstep - otel required rewrite - only for big teams
 
 -   Rhetoric - Ethos, Logos, Pathos
 - https://hooshmand.net/one-sentence-persuasion/ People will do anything for those who encourage their dreams, justify their failures, allay their fears, confirm their suspicions and help them throw rocks at their enemies.
+- https://www.ivp.com/saas-fundraising-handbook/#anchor-72

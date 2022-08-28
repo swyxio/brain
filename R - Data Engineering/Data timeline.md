@@ -4,8 +4,9 @@
 
 
 
-
-
+https://www.slideshare.net/HadoopSummit/the-ecosystem-is-too-damn-big
+2006-2016 hadoop
+problems with hadoop https://sapphireventures.com/blog/what-is-the-open-data-ecosystem-and-why-its-here-to-stay/
 
 https://matt-rickard.com/diseconomies-of-scale-at-google/
 - 2004 - map reduce
@@ -16,6 +17,11 @@ https://matt-rickard.com/diseconomies-of-scale-at-google/
 - 2017 - cloudera ipo https://news.crunchbase.com/business/morning-report-ahead-clouderas-ipo-pricing-key-slides-roadshow/ from 4bn to 2bn
 - 2018 - merged https://news.crunchbase.com/venture/the-ever-cheaper-cloudera-hortonworks-merger/
 
+
+“master data management collapsed under its own weight “
+https://overcast.fm/+x8z-L-oRY/27:00
+
+
 tristan timeline of MDS
 - https://www.getdbt.com/blog/future-of-the-modern-data-stack/
 
@@ -23,8 +29,12 @@ tristan timeline of MDS
 https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/
 2011-2013 rise of data engineer
 
+https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
+2016 
+
 https://benn.substack.com/p/why-do-people-want-to-be-analytics
 rise of sexiness
+
 
 
 2019 - data mesh https://martinfowler.com/articles/data-monolith-to-mesh.html
@@ -72,3 +82,6 @@ big data became data
 
 - oracle paid people to sidetrack mysql?
 	- https://news.ycombinator.com/item?id=5435893
+- 
+MDS is dead 
+- i think this is an important read and reflects the mood shift i’ve been seeing among MDS folks this year. important to not be caught off guard with our messaging. https://www.linkedin.com/posts/ethanaaron_snowflakesummit-data-analytics-activity-6942877586976890880-NvGT/?utm_source=linkedin_share&utm_medium=member_desktop_web

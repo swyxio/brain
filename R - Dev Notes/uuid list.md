@@ -1,8 +1,8 @@
-> this list used to be on https://github.com/sw-yx/uuid-list
-
 # uuid-list
 
 list of unique id implementations, design considerations, and resources. may also overlap somewhat with the topic of hashing
+
+> this list used to be on https://github.com/sw-yx/uuid-list
 
 ## Desirable Properties
 

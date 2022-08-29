@@ -49,6 +49,8 @@ list of unique id implementations, design considerations, and resources. may als
 ## Simple UID Impls
 
 - grab n go a single ID: https://www.uuidgenerator.net/
+- browser built in: `[window.crypto.randomUUID()](https://developer.mozilla.org/en-US/docs/Web/API/Crypto/randomUUID) // 36b8f84d-df4e-4d49-b662-bcde71a8764f`
+	- available on [Bun]([url](https://github.com/oven-sh/bun-types/blob/master/crypto.d.ts#L3627)), [Deno]([url](https://deno.land/std@0.151.0/uuid/v5.ts?s=validate)), [Nodejs]([url](https://nodejs.org/api/crypto.html#cryptorandomuuidoptions))
 - super simple dumb unique id function
   ```js
   function id () {

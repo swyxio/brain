@@ -11,6 +11,8 @@ late swyx notes: on pricing
 - maybe talk about roadmap
 
 
+pitching for employees
+- https://news.ycombinator.com/item?id=32566123
 
 example with lightstep - otel required rewrite - only for big teams
 
@@ -88,6 +90,7 @@ Deep (?)
         **Finally, you want all this to scale**. The same programming model going from small usecases to millions of users without re-platforming. Temporal is the best way to do all this — by writing idiomatic code known as **"workflows"**.
         - manifestos
 	        - http://oldblog.antirez.com/post/redis-manifesto.html
+	        - data obs https://www.montecarlodata.com/blog-what-is-data-observability/
 	        - https://principles.planetscale.com/
 					- 12 factor app
 					- jamstack
@@ -97,6 +100,7 @@ Deep (?)
     -   Lean on existing familiarity with other tools as a cognitive shortcut - We are “X for Y”. Downside - all analogies are flawed/incomplete. But - at least we grab attention fast.
     -   “React for the Backend” [works](https://changelog.com/jsparty/208) [very](https://docs.google.com/presentation/d/1AarTDS7Xf6twyPk45LhUWAY70KPKH1Vb6DFj4IZ-Nt0/edit) [well](https://docs.google.com/presentation/d/1sJSqNy-t-kVxzrWlqMTp_03nI7Zo8Znr7k0f0C6L9ig/edit) in JavaScript messaging (multiple confs/podcasters reaching out about it)
     -   “autosaving Google Docs” analogy
+    - "new relic for data" https://www.ivp.com/news/blog/the-data-doesnt-lie-monte-carlo-and-the-future-of-data-observability/
     -   “Evernote for apps” → app can leave notes for other apps (from Charles)
     -   Sidekiq, Bull.js, RabbitMQ on steroids
     -   “If-This-Then-That for Developers”. “Zapier for Developers”

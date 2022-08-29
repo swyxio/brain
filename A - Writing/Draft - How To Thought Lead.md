@@ -34,7 +34,9 @@ draw things
 
 map things https://nesslabs.com/thinking-in-maps
 
-what people want https://twitter.com/gregisenberg/status/1412074725195538441?s=21
+what people want 
+- https://twitter.com/gregisenberg/status/1412074725195538441?s=21
+- https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/
 
 
 equation - a+b = c

@@ -3,6 +3,16 @@ better question "Computers are useless. They can only give you answers" - Pablo 
 
 eliminate bizdev - https://twitter.com/reinpk/status/1496851108303568898?s=20&t=xRtL5kTe752RWHru3EPR_A twilio, stripe, plaid - just give api key. arcadia
 
+nuzzel clone https://daringfireball.net/linked/2021/05/05/nuzzel
+
+
+game to learn accounting
+- 3 financial statements
+- click button to change trajectory
+- realistic scenarios for tech companies
+
+
+youtube watchlist app https://twitter.com/mattgillooly/status/1564071324787642369?s=20&t=CSHyOt8mlwWqgRP4KOGXog
 
 
 github paid issues -  autoclose issues unless the person sponsors 

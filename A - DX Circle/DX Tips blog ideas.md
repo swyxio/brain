@@ -1,8 +1,23 @@
+## bicycles for the mind
+
+- 2 approaches to ai
+	- facebook/google - we decide for you
+	- jobs - bicycles
+- robots can understand us in 2 ways now
+	- fill in the blanks
+	- upscale our art
+	- text to image
+
+
 ## what does well on HN
 
 - https://news.ycombinator.com/item?id=30070287
 > Stripe succeeded on HN because they were favored by the _community_ for many years. They are one of a small number of startups who have reached what you could call 'community darling' status on HN. It's true that this is incredibly hard to do. Another startup that managed it, around the same time, was Cloudflare (not a YC startup). Startups achieve this by doing three things: producing products that the community considers good, producing articles that the community finds interesting, and mastering the art of interacting with the community. You need all three.
 
+
+## say old things in new ways
+
+https://twitter.com/swyx/status/1496333806420492295?s=20&t=21H8v9f7KNp6nUeeckp_gA
 
 
 ## why edge wins

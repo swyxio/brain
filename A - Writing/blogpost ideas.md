@@ -363,6 +363,11 @@ stages of software engineering
 general theory of software systems
 
 
+https://tailscale.com/blog/modules-monoliths-and-microservices/
+> Depending which branch of programming you go down, you then discover recursive functions, combinators, static function prototypes, libraries (statically or runtime-linked), objects (OOP), coroutines, protected virtual memory, processes, threads, JITs, namespaces, sandboxes, chroots, jails, containers, virtual machines, supervisors, hypervisors, microkernels, and [unikernels](https://en.wikipedia.org/wiki/Unikernel).
+> 
+   And that's just the boxes! Once you have boxes isolated from each other, then you need to connect them with arrows. For that, we have ABIs, APIs, syscalls, sockets, RPCs, filesystems, databases, message passing systems, and "virtualized hardware."
+
 https://twitter.com/heyjulesfern/status/1487532312900222976?s=21
 https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf
 - proof of concept and intermingled

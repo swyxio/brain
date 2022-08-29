@@ -678,6 +678,10 @@ https://saasclub.io/322
 ## Post Launch
 
 - giveaway/pay what you want? https://news.ycombinator.com/item?id=23073126
+- set up monitoring
+	- professional level (probably overkill but something like this)
+		- https://littlewarden.com/features
+		- 
 
 ## Long Game
 

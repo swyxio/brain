@@ -76,6 +76,14 @@ https://news.ycombinator.com/item?id=31848594
 big data became data
 - pii issues
 
+## when is big data too big?
+- https://specbranch.com/posts/one-big-server/#the-capabilities-of-one-server
+- One server today is capable of:
+
+-   [Serving video files at 400 Gbps](https://people.freebsd.org/~gallatin/talks/euro2021.pdf) (now [800 Gbps](http://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf))
+-   [1 million IOPS on a NoSQL database](https://www.scylladb.com/2017/05/10/faster-and-better-what-to-expect-running-scylla-on-aws-i3-instances/)
+-   [70k IOPS in PostgreSQL](https://www.enterprisedb.com/blog/pgbench-performance-benchmark-postgresql-12-and-edb-advanced-server-12)
+
 
 
 ## juicy stories

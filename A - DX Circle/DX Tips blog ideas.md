@@ -1,3 +1,8 @@
+## software 3.0
+
+- prompt engineering
+	- https://twitter.com/goodside/status/1564503441908588544
+
 ## bicycles for the mind
 
 - 2 approaches to ai

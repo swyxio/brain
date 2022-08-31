@@ -4,7 +4,7 @@ tiago
 
 output before input https://overcast.fm/+6Z2pphyiU/25:00 
 
-
+pets can swear https://overcast.fm/+B2HrTZTvY/12:00 wrf 70 buttons
 
 https://overcast.fm/+DxP3_iEU4/5:50 chase dimon twitter content
 
@@ -12,6 +12,7 @@ stebbings content https://overcast.fm/+OozML4vcU
 
 moloch https://overcast.fm/+eZyBjF53Y/1:29:19 ends about here
 
+content hierarchy of bs https://overcast.fm/+6K1GCqY08/15:29 wes kao
 
 fomo cold emailing story https://overcast.fm/+gFCuzHDTY/18:00 wendy betty etc to 25 mins
 

@@ -2,6 +2,7 @@
 - https://appwrite-todo-with-svelte.vercel.app/#/todos so slow
 - how do you build this https://hacker-recommended-books.vercel.app/category/0/all-time/page/2/2
 - client-server => client-serverless-server
+- https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important
 
 
 shazam https://news.ycombinator.com/item?id=32520593

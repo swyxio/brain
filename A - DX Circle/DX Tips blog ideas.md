@@ -2,6 +2,7 @@
 
 - prompt engineering
 	- https://twitter.com/goodside/status/1564503441908588544
+	- https://twitter.com/fofrAI/status/1562042044578762752?s=20&t=7wLB2Sb-pjDtLljpdIKCyg
 
 ## bicycles for the mind
 

@@ -17,6 +17,12 @@ https://overcast.fm/+OOu8ERt88 community led growth
 media company - go90 scale https://overcast.fm/+QN1p98M4o/45:01
 
 
+how steve hobs pitched apple https://overcast.fm/+HBlo2i12M/24:50
+
+jobs buying pixar https://overcast.fm/+HBlo2i12M/39:00
+
+how good product companies turn bad https://overcast.fm/+6K1EZKMzc/15:00 marty cagan quoting steve jobs
+
 why ibm watson failed https://overcast.fm/+wcMo2qvqg/27:00
 
 

@@ -9,6 +9,7 @@ https://greylock.com/greymatter/powering-the-multi-cloudparadigm/ decompsotions 
 
 https://overcast.fm/+cEzDxujbc/12:52 end of localhost
 
+origin of gke https://overcast.fm/+Fd_pGJjHc/05:23 until 16min ish
 
 ## distsys
 
@@ -73,6 +74,9 @@ benefits of go 1.18 https://overcast.fm/+ur1GgzMqs 15ish mins
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 
 ## misc
+
+origin of markdown https://overcast.fm/+B7NBXY82A/10:00
+
 
 why blue screens blue https://youtu.be/KgqJJECQQH0
 

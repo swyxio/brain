@@ -5,23 +5,19 @@ why miami
 great discussion of broadcom
 https://overcast.fm/+RrTHlebk 10mins ish in
 
-https://youtu.be/MGsalg2f9js?t=300 facebook origin story from zuck
 
-origin of facebook newsfeed
-- https://overcast.fm/+SX-TvCaQM/08:06
-
-myspace friendster https://overcast.fm/+l2Gw8vCac/10:00
+facebook
+- https://youtu.be/MGsalg2f9js?t=300 facebook origin story from zuck
+- origin of facebook newsfeed https://overcast.fm/+SX-TvCaQM/08:06
+- myspace friendster https://overcast.fm/+l2Gw8vCac/10:00
 
 https://overcast.fm/+OOu8ERt88 community led growth
 
 media company - go90 scale https://overcast.fm/+QN1p98M4o/45:01
 
+jobs
 
-how steve hobs pitched apple https://overcast.fm/+HBlo2i12M/24:50
-
-jobs buying pixar https://overcast.fm/+HBlo2i12M/39:00
-
-how good product companies turn bad https://overcast.fm/+6K1EZKMzc/15:00 marty cagan quoting steve jobs
+- https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 
 why ibm watson failed https://overcast.fm/+wcMo2qvqg/27:00
 
@@ -41,6 +37,9 @@ porn dindustry interview 45mins https://overcast.fm/+5K6apFbnE
 
 plaid founder https://overcast.fm/+3Ag8wRimk/04:17
 - 25 mins - own the ui - 90% of valuation
+
+i am an infra maxi https://overcast.fm/+RWDXAIGEM/25:00
+
 
 origin of replit 50mins https://overcast.fm/+hTZfriwzQ llvm story - diversion resume at 1h 4 mins
 
@@ -102,7 +101,6 @@ andrew wilkinson hiring https://overcast.fm/+rTsXqf8r4 34 mins
 
 ## econ
 
-https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 
 https://overcast.fm/+a0BqUPDr0 danco
 - tech strategy summary about 30 mins in

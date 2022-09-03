@@ -29,7 +29,7 @@ cocktail party
 https://overcast.fm/+sOov0qRsE/02:14
 https://overcast.fm/+sOov0qRsE/30:00 icebreaker
 
-
+bored ape origin story https://overcast.fm/+37C6BSCbk/32:00
 
 ## marketing
 
@@ -57,6 +57,9 @@ the last movie star https://overcast.fm/+4IPRVMzPk/06:41
 
 
 https://overcast.fm/+G1DUaFyZk/10:00 content creation as part of your business 
+
+
+https://overcast.fm/+77t4shWpM/16:31 theo and bdougie
 
 ## writing
 

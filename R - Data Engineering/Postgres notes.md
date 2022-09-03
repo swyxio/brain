@@ -52,3 +52,8 @@ https://www.crunchydata.com/developers/playground/
   - `\pset pager 0` turns off pagination
   - `\timing` turns on a timer
   - `\q` quit
+
+
+- Postgres monitoring
+	- https://share.transistor.fm/s/7d72daf7
+	- https://docs.google.com/document/d/1VDMOQemf2XLWSD660GCMXSNC8tMY6Jg5K-nlxM2e2Ps/mobilebasic

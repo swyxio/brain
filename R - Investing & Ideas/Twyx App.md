@@ -9,6 +9,12 @@ Follow to buy with reminders - 3 mins in
 149: Check Your Business Privilege. Episode: https://artofproductpodcast.com/episode-149.
 
 
+
+buffer ux improvmemt
+- undecut
+- talk to feross
+- 
+
 regex muting https://twitter.com/leoebfolsom/status/1531888370145644546?s=21&t=WJORvdw2EyoLB1ChjQ8NpA
 
 limited muting https://twitter.com/buildsghost/status/1507943417715703812?s=21

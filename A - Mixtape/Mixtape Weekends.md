@@ -2,6 +2,7 @@
 
 nystudio107 devmode.fm
 
+INFOQ https://soundcloud.com/infoq-channel/interview-shawn-swyx-wang
 
 
 kp podcast coming https://www.youtube.com/watch?v=-oTmQhagN4k&feature=youtu.be

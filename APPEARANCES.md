@@ -54,6 +54,7 @@ oct 5-7 infoshare 2022 gdansk
 October 9-14, 2022 in Puerto Vallarta, Mexico
 oct 15-17 orlando https://www.creativecityproject.com/immerse2021
 oct 17-21 dbt coalesce <- New Orleans
+1896 Omalley House
 oct 24dinner-25th nextjs conf <- SF
 NA --- oct 27 - porto tech hub decline
 nov 4 - airbyte in person board meeting

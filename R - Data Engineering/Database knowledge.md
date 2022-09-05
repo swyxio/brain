@@ -8,6 +8,11 @@ write db from scratch
 - https://cstack.github.io/db_tutorial/
 - https://leanpub.com/how-query-engines-work
 
+what snowflake does ontop of just being a db
+- https://twitter.com/squarecog/status/1566472243399446528?s=21&t=cImxWUUEdJWHnQyrsmPXoA
+- metadata catalogs, user management, security, views
+
+
 bigquery https://overcast.fm/+5PHEijBNg 
 - bigquery had separation of storage and compute first before snowflake
 - data sharing - globally addressable data so stuff is not siloed

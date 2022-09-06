@@ -1,5 +1,6 @@
 https://klinger.io/posts/managing-people-%F0%9F%A4%AF
 
+ben horowitz - the number 1 thing ceos of all sizes do badly https://youtu.be/uVhTvQXfibU forget to consider how a decision looks from all angles
 
 https://twitter.com/jspujji/status/1494743094813548544?s=21
 

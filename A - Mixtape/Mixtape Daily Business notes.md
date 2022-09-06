@@ -15,7 +15,12 @@ https://overcast.fm/+OOu8ERt88 community led growth
 
 media company - go90 scale https://overcast.fm/+QN1p98M4o/45:01
 
-jobs
+
+ben horowitz on the origin of the 90 day exercise window
+https://youtu.be/uVhTvQXfibU 15 mins in
+
+
+jobsi
 
 - https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 

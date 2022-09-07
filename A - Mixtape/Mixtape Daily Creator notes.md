@@ -16,6 +16,8 @@ content hierarchy of bs https://overcast.fm/+6K1GCqY08/15:29 wes kao
 
 fomo cold emailing story https://overcast.fm/+gFCuzHDTY/18:00 wendy betty etc to 25 mins
 
+kobe mrbeast true commitment https://overcast.fm/+rTsUXmeS8/45:00
+
 ## small projects
 
 https://overcast.fm/+JaI5qMWzE wordle juice ui

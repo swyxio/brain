@@ -320,6 +320,7 @@ casey from accel https://www.accel.com/noteworthy/welcome-casey-aylward
 	- cost doesnt matter
 - late: the result is the story
 	- cost optimisation
+- 
 
 ## breaking out of the devrel comfort zone
 

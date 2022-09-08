@@ -16,9 +16,8 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 ## data
 
-neon database https://overcast.fm/+n6UYkhIo4/03:16
 
-harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
+
 
 
 the 5 ways data can break https://overcast.fm/+x8z-L-oRY/33:00

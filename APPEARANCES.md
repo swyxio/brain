@@ -34,12 +34,12 @@ jul 23-30 berlin
 jul 31 - 8am-11am LHR-EWR UA 883
 jul 31 - 2pm EWR-MIA UA 1252
 aug 26 temporalcon
-
----
-
 aug 29 MIA-RDM 3pm UA 576, UA 649
 aug 30-sep2 cascadiajs bend OR
 sep 2 RDM-SFO UA 1986 6am!!!!
+
+---
+
 sep 6 SK6791 MIA-EWR-CPH-ARN
 sept 8-9 stockholm svelte
 Sep 11 SK903 ARN-EWR-MIA

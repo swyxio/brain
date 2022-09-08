@@ -51,6 +51,7 @@
 			- Infinite list
 			- Tables
 			- Datepickers
+			- Modals
 			- Tooltips/Toasts
 			- nonsvelte
 				- D3

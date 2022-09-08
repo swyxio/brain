@@ -1,0 +1,49 @@
+- how we got here
+	- 1st october 2019 https://twitter.com/swyx/status/1176652330680426496
+		- https://www.swyx.io/starting-dev-community-meetup
+	- https://twitter.com/swyx/status/1411071913548414976
+	- 2021 10k members https://twitter.com/swyx/status/1411071913548414976
+	- kev fulltime https://twitter.com/kevmodrome/status/1463151477174714373
+	- 2021 recap https://twitter.com/swyx/status/1455962646537068545
+	- how started how going https://twitter.com/swyx/status/1543338895764606981
+- what we want
+	- ecosystem https://twitter.com/SvelteSociety/status/1390082681753374723
+	- types of chasms
+		- Rogers Curve: enthusiasts, visionaries, pragmatists, conservatives, skeptics
+		- other
+			- gartner hype cycle
+			- perez surge cycle
+			- wardley commoditization
+				- genesis
+				- custom built
+				- product
+				- commodity
+			- invisible asymptotes
+				- breaking through the next tier of users
+			- metalanguage
+				- https://cdn.hashnode.com/res/hashnode/image/upload/v1653866746845/iOPGgwHFJ.png
+		- early vs late
+			- the tech is the story vs the result is the story
+			- "because i can" vs "because there's money"
+- what we need
+	- Holotypes
+		- Content
+		- Ecommerce
+		- Dashboard - showing data, doing things
+		- Social network (HN, Slack clone)
+	- Building blocks
+		- bundler
+		- component framework
+		- ssr framework
+		- styling
+		- transitions & animations
+		- a11y
+		- state management
+		- misc: head management, class toggling
+	- ecosystem https://kwokchain.com/2021/02/05/atomic-concepts/
+		- evolution - growing a language 
+			- first you have a system
+			- then you have system with plugins
+			- then you dogfood system with plugins
+			- svelte is different. all functionality was plugins. svelte is a language
+	- ask not what svelte can do for you, ask instead what you can do with svelte

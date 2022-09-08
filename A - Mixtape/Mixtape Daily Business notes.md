@@ -40,8 +40,6 @@ porn dindustry interview 45mins https://overcast.fm/+5K6apFbnE
 
 ## technibiz
 
-plaid founder https://overcast.fm/+3Ag8wRimk/04:17
-- 25 mins - own the ui - 90% of valuation
 
 i am an infra maxi https://overcast.fm/+RWDXAIGEM/25:00
 

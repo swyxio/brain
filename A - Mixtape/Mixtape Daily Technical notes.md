@@ -7,9 +7,7 @@ https://overcast.fm/+NnQqRMJwY/30:40 separation of storage and compute
 https://greylock.com/greymatter/powering-the-multi-cloudparadigm/ decompsotions of cloud mcjannet
 
 
-https://overcast.fm/+cEzDxujbc/12:52 end of localhost
-
-origin of gke https://overcast.fm/+Fd_pGJjHc/05:23 until 16min ish
+https://overcast.fm/+cEzDxujbc/12:52 end of localhost - criticism
 
 ## distsys
 
@@ -22,7 +20,6 @@ neon database https://overcast.fm/+n6UYkhIo4/03:16
 
 harperdb origin 5mins https://overcast.fm/+H1YNgOWkc
 
-planetscale vs cloudflare https://overcast.fm/+mBhm_ixng/12:00 
 
 the 5 ways data can break https://overcast.fm/+x8z-L-oRY/33:00
 
@@ -33,8 +30,12 @@ what is the metrics layer benn stancil https://overcast.fm/+PotAbVcZA/10:11
 origin of looker https://overcast.fm/+PotAbVcZA/35:00 benn stancil oh wow
 
 
+
+https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
+
 data
 prefect airlflow dagster https://overcast.fm/+H1YNrM6kU/50:00
+
 
 
 https://overcast.fm/+IexfoKBtc why airflow 24 mins
@@ -50,8 +51,6 @@ criticism of dbt https://overcast.fm/+H1YOs51JQ/30:00
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 
-
-https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
 
 
 
@@ -88,7 +87,7 @@ quic and http3 https://overcast.fm/+mBhkjQW9w/08:00
 ebpf https://overcast.fm/+wtIPwx_jA
 12 mins https://overcast.fm/+wFc3d7pbo usecases off ebpf celium
 
-
+origin of gke https://overcast.fm/+Fd_pGJjHc/05:23 until 16min ish
 
 https://overcast.fm/+MZ3SQEwtw 15 mins origin story of hashicorp consul
 

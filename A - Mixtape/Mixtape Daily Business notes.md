@@ -72,6 +72,9 @@ origin of twitter pagination  20 mins https://overcast.fm/+4jBE47JkU fbomb
 
 ## startups
 
+origin of 99designs https://overcast.fm/+XptO0pwSo/10:00
+
+amazon just do it austin powers award https://overcast.fm/+s2u9FhVmY/43:00 mins bias for action
 
 https://overcast.fm/+MBmUOkQ6M 21:45 profitwell market analysis
 

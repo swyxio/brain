@@ -46,4 +46,13 @@
 			- then you have system with plugins
 			- then you dogfood system with plugins
 			- svelte is different. all functionality was plugins. svelte is a language
+		- types of 
+			- UI KIt
+			- Infinite list
+			- Tables
+			- Datepickers
+			- Tooltips/Toasts
+			- nonsvelte
+				- D3
+				- Three.js
 	- ask not what svelte can do for you, ask instead what you can do with svelte

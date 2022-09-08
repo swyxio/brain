@@ -24,6 +24,13 @@ the 5 ways data can break https://overcast.fm/+x8z-L-oRY/33:00
 
 what is a data warehouse by inmon https://youtu.be/Yr07Ntfysd8 5mins
 
+and again on data warehouse
+https://overcast.fm/+6w6hcIAfI/05:22
+
+inmon vs kimball https://overcast.fm/+6w6hcIAfI/14:01
+
+el but no t https://overcast.fm/+6w6hcIAfI/21:01
+
 what is the metrics layer benn stancil https://overcast.fm/+PotAbVcZA/10:11
 
 origin of looker https://overcast.fm/+PotAbVcZA/35:00 benn stancil oh wow

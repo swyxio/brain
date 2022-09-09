@@ -49,7 +49,8 @@
 		- types of 
 			- UI KIt
 				- https://react-spectrum.adobe.com/react-aria/
-				- 
+				- https://chakra-ui.com/docs/components
+				- https://mui.com/
 			- Infinite list
 			- Tables
 			- Datepickers

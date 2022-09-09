@@ -48,6 +48,8 @@
 			- svelte is different. all functionality was plugins. svelte is a language
 		- types of 
 			- UI KIt
+				- https://react-spectrum.adobe.com/react-aria/
+				- 
 			- Infinite list
 			- Tables
 			- Datepickers
@@ -55,5 +57,10 @@
 			- Tooltips/Toasts
 			- nonsvelte
 				- D3
+				- Greensock
 				- Three.js
+				- https://github.com/nosir/cleave.js
+				- https://github.com/daybrush/moveable/tree/master/packages/svelte-moveable
+				- rich text editing?
+				- Video player
 	- ask not what svelte can do for you, ask instead what you can do with svelte

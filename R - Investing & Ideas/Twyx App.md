@@ -1,4 +1,5 @@
-
+- twitterverse graph https://twitter.com/euxenus/status/1219777009737510912?s=20&t=2Sh9WhkF2-BSZ-6bPNRSEA
+- https://github.com/taspinar/twitterscraper
 
 design https://twitter.com/thelifeofrishi/status/1411547063095988231?s=20
 

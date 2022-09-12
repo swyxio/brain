@@ -13,6 +13,9 @@ facebook
 
 https://overcast.fm/+OOu8ERt88 community led growth
 
+dbt communiy origin story
+https://overcast.fm/+rNB9qSa2k/10:00
+
 media company - go90 scale https://overcast.fm/+QN1p98M4o/45:01
 
 

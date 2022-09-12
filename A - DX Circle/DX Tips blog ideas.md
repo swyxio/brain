@@ -320,6 +320,7 @@ casey from accel https://www.accel.com/noteworthy/welcome-casey-aylward
 	- cost doesnt matter
 - late: the result is the story
 	- cost optimisation
+- https://twitter.com/balajis/status/1569149096757280768?s=21&t=q-qB_CPXQwYvEkj_MxR9Tw going from art to science to unprofessional
 
 ## breaking out of the devrel comfort zone
 

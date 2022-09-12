@@ -14,6 +14,12 @@ https://overcast.fm/+cEzDxujbc/12:52 end of localhost - criticism
 https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queue - 2011 kafka, using zookeeper for leader election, now rolling out kRaft
 
 
+## ai
+
+https://overcast.fm/+amVMLsmZM/25:45
+- how to shrink huge models
+- at 30 mins goes into a stable diffusion explainer
+
 ## data
 
 

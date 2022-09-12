@@ -6,6 +6,7 @@ INFOQ https://soundcloud.com/infoq-channel/interview-shawn-swyx-wang
 
 
 kp podcast coming https://www.youtube.com/watch?v=-oTmQhagN4k&feature=youtu.be
+
 https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-with-swyx/
 
 
@@ -19,19 +20,12 @@ https://www.thecloudcast.net/2022/01/2022-look-ahead-developer-careers.html
 
 kp podcast https://share.transistor.fm/s/398dc0ca - backloaded creator stuff - machine SEO vs human SEO
 
-https://syntax.fm/show/478/supper-club-developer-experience-with-shawn-wang
 
 third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
 
 
-corey quinn pod
-
-
 software defined talk on me! https://overcast.fm/+B1yJEiGzo 10 mins
 
-
-
-cloudcast on me https://www.thecloudcast.net/2022/01/2022-look-ahead-developer-careers.html?m=1
 
 michelle hansen chat
 

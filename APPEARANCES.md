@@ -2,6 +2,8 @@ infoq podcast coming
 
 nystudio107 devmode.fm
 
+cascadiajs talk
+svelte summit talk
 
 
 ## speaking

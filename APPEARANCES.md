@@ -39,12 +39,12 @@ aug 26 temporalcon
 aug 29 MIA-RDM 3pm UA 576, UA 649
 aug 30-sep2 cascadiajs bend OR
 sep 2 RDM-SFO UA 1986 6am!!!!
-
----
-
 sep 6 SK6791 MIA-EWR-CPH-ARN
 sept 8-9 stockholm svelte
 Sep 11 SK903 ARN-EWR-MIA
+
+---
+
 Sep 17 TK0158 MIA-IST-ZAG 11.35am
 sept 18-20? - zadar infobip <- BOOKING
 sep 20 BA 0841 ZAG-LHR 8.20pm

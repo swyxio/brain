@@ -73,11 +73,7 @@ problem with multiverse https://overcast.fm/+vxHfil-wM 20mins
 
 - https://overcast.fm/+YQ473Uv6w rank self publish book on amazon 30 mins
 
-https://youtu.be/3A8kawxMOcQ mrbeast rogan
 
-https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
-
-https://overcast.fm/+3Ag_8mpmc 48 mins origin of matt levine
 
 
 https://youtu.be/uL0atQFZzL8 storytelling

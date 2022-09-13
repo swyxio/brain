@@ -28,7 +28,6 @@ https://overcast.fm/+JaI5qMWzE wordle juice ui
 
 https://overcast.fm/+R_DjzB3z0 35 mins buying domains advice 
 
-
 motionographer https://overcast.fm/+nQuqA2tdM 43mins stats of motion
 
 cocktail party
@@ -70,15 +69,16 @@ https://overcast.fm/+77t4shWpM/16:31 theo and bdougie
 ## writing
 
 https://overcast.fm/+vxHfxq1v0/15:10 the best scene in fast and furious
+problem with multiverse https://overcast.fm/+vxHfil-wM 20mins
 
 - https://overcast.fm/+YQ473Uv6w rank self publish book on amazon 30 mins
 
+https://youtu.be/3A8kawxMOcQ mrbeast rogan
+
 https://overcast.fm/+SMFtuuFq0 5-10mins lillian li background
 
-problem with multiverse https://overcast.fm/+vxHfil-wM 20mins
-
-
 https://overcast.fm/+3Ag_8mpmc 48 mins origin of matt levine
+
 
 https://youtu.be/uL0atQFZzL8 storytelling
 
@@ -86,14 +86,12 @@ https://youtu.be/uL0atQFZzL8 storytelling
 https://overcast.fm/+L9fiEnXsc/30:00 don't be helpful be valuable
 
 
-https://overcast.fm/+GQnSxeuZw/25:56 anyhony bourdain oyster story
 
 
 ## youtuber
 
 https://overcast.fm/+NBVvkPZyc trendjacking/prediction 1h in
 
-https://youtu.be/3A8kawxMOcQ mrbeast rogan
 
 https://overcast.fm/+NBVuuQUhM 9mins mr beast
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process

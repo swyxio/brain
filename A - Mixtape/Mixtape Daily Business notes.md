@@ -6,6 +6,9 @@ great discussion of broadcom
 https://overcast.fm/+RrTHlebk 10mins ish in
 
 
+ 
+
+
 facebook
 - https://youtu.be/MGsalg2f9js?t=300 facebook origin story from zuck
 - origin of facebook newsfeed https://overcast.fm/+SX-TvCaQM/08:06

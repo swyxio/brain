@@ -89,6 +89,8 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 origin of markdown https://overcast.fm/+B7NBXY82A/10:00
 
 
+ 
+
 why blue screens blue https://youtu.be/KgqJJECQQH0
 
 expert blindness https://overcast.fm/+RCm27mAv4 25-35 mins

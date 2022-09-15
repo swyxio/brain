@@ -18,3 +18,5 @@ and cold ice bath and thecoldplunge.com  up til 1hr mark
 ## food
 
 https://overcast.fm/+vpWbprX0s/1:10:00 main food levers up to 1:24
+
+teeth https://overcast.fm/+KebuAyTEQ/50:00 

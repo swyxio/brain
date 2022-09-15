@@ -6,6 +6,8 @@ list of unique id implementations, design considerations, and resources. may als
 
 ## Desirable Properties
 
+<a href="https://twitter.com/alexxubyte/status/1570430639836639239/photo/1"><img src="https://pbs.twimg.com/media/FctKVyQaIAINUk2?format=jpg&name=4096x4096" height=300 /> </a>
+
 - extremely low chance of collision
 - sorting
   - chronologically sortable

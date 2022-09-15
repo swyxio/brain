@@ -95,6 +95,7 @@ Deep (?)
 					- 12 factor app
 					- jamstack
 					- https://principledgraphql.com/
+					- https://www.reactivemanifesto.org/  for lightbend
 - Analogies (useful for nontechnical users)
     
     -   Lean on existing familiarity with other tools as a cognitive shortcut - We are “X for Y”. Downside - all analogies are flawed/incomplete. But - at least we grab attention fast.

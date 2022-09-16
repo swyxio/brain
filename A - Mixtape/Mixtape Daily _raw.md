@@ -5,3 +5,4 @@ https://overcast.fm/+QN1qQ6_SQ/47:00 google and facebook algorithm, side doors,m
 
 
 eth maxi https://overcast.fm/+nRGyVhzCc/20:00 why eth will win
+https://youtu.be/Nx-jYgI0QVI 2:16 what is the merge upto 2:32

@@ -9,7 +9,10 @@
 
 turn raw stuff into 3d vectors https://www.youtube.com/watch?v=7OnZ_I5dYgw
 ai upscaling from 80x80 using some kind of GAN?
+face correction gfpgan https://github.com/sd-webui/stable-diffusion-webui
+audio https://twitter.com/nearcyan/status/1567569044047384576
 pic to 3d https://twitter.com/arjunaskykok/status/1567191529915285504
+
 
 ## big list of naughty prompts
 

@@ -1,6 +1,12 @@
 # blogpost ideas
 
 
+## business models i like
+let non x do x
+- turn non x into professionals 
+
+
+
 ## components of cloud
 
 space power and connectivity

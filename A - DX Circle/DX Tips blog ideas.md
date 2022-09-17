@@ -322,6 +322,8 @@ casey from accel https://www.accel.com/noteworthy/welcome-casey-aylward
 	- cost optimisation
 - https://twitter.com/balajis/status/1569149096757280768?s=21&t=q-qB_CPXQwYvEkj_MxR9Tw going from art to science to unprofessional
 
+figma - first figure out the feature, others offer the feature as product
+
 ## breaking out of the devrel comfort zone
 
 - i didnt really think about headless ecommerce cms vs shopify

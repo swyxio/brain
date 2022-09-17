@@ -10,6 +10,8 @@ Follow to buy with reminders - 3 mins in
 149: Check Your Business Privilege. Episode: https://artofproductpodcast.com/episode-149.
 
 
+spamblock
+- https://twitter.com/fixitup2/status/1571196060994834435
 
 buffer ux improvmemt
 - undecut

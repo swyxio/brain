@@ -1,8 +1,29 @@
+
+## thin layers vs thick layers
+
+- github only 7.5b compared to all the value
+- smiling curve from ben thompson
+
+
+## the stablediffusion stack
+
+turn raw stuff into 3d vectors https://www.youtube.com/watch?v=7OnZ_I5dYgw
+ai upscaling from 80x80 using some kind of GAN?
+
+## big list of naughty prompts
+
+naughty prompts
+
+
 ## software 3.0
 
 - prompt engineering
 	- https://twitter.com/goodside/status/1564503441908588544
 	- https://twitter.com/fofrAI/status/1562042044578762752?s=20&t=7wLB2Sb-pjDtLljpdIKCyg
+
+open source, open model, open data
+
+multiverse, not metaverse
 
 ## bicycles for the mind
 

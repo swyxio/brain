@@ -94,7 +94,7 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 origin of markdown https://overcast.fm/+B7NBXY82A/10:00
 
 
- 
+ origin of k8s by yegge https://youtu.be/sKE1S7PK1fY 15 mins
 
 why blue screens blue https://youtu.be/KgqJJECQQH0
 

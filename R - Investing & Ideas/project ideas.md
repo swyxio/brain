@@ -3,6 +3,7 @@
 
 - duolingo for code
 - useless software
+	- https://twitter.com/threepointone/status/1571162461033664512
 - data startup
 	- use data catalog and semantic layer
 	- turn natural language into sql

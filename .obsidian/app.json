@@ -38,5 +38,6 @@
   ],
   "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "fileSortOrder": "byModifiedTime"
 }

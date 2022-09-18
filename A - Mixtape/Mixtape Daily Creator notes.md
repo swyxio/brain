@@ -1,7 +1,7 @@
 
 
-packy vs ben thompson
-https://overcast.fm/+3Ag8hvc7A/02:20
+thoreau and austin kleon https://overcast.fm/+Mf4ya71mQ/1:20:00 hntil 1h30mins
+
 
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code

@@ -5,6 +5,30 @@
 - smiling curve from ben thompson
 
 
+## new billing models for IaaS
+
+cf UBB blogpost
+
+problems unaddressed:
+- logo growth/churn vs dollar growth/churn
+- consumption
+- self serve vs enterprise
+- % of professional services
+- not all engineering is R&D
+- free tier accounting
+- lower margins
+- valuing the data asset
+
+usage based billing 
+- https://www.plangraph.io/
+	- https://temporal-io.zoom.us/rec/share/bUCtclOpSB86EmJgWzotJPjn9Xoph04agSq1IQaY6hRvWtaVsA3EsnM8xXFkLtff.QUN9AQw_2sBqzeDO Passcode: eHe0h?v#
+- revops
+	-  Copy the link below to share this recording with viewers:
+https://temporal-io.zoom.us/rec/share/G8nzTFKN9gzZS4RS9N73dfSWHxa7IPTGrdSoBtXmu0I8vyH-v2L_qXXv1aCg1j41.fV-7RdfdFfUKc1A0 Passcode: 9@Fqu*L&
+- emma tang https://temporal-io.zoom.us/rec/share/6WsyuUxHb0d9rVuiS720LbcEz05vU7WlMa7XeYBOuPSi_AUASye2zzneVc73riI.oW53ghU_y5Xkuk7p Passcode: fG#YK0r8
+
+
+
 ## the stablediffusion stack
 
 turn raw stuff into 3d vectors https://www.youtube.com/watch?v=7OnZ_I5dYgw

@@ -1,10 +1,53 @@
 # blogpost ideas
 
 
+## accidentally database
+
+- i can just store it in files
+	- need transactions
+- nosql 
+	- reference the reddit has two tables post
+- graphql
+	- query planning, caching, query cost, auth
+- redux
+	- oh im just doing optimistic updates for UX
+	- oh im just normalizing
+- route53 DNS
+
+
+## startup vs upstart 
+
+- hire fast vs hire right
+- time based vest vs milestone based vest
+- raise big vs raise often
+- apply sales playbook vs be a strategic challenger
+- long backlog vs shape up/motivation/opportunistic
+
+
 ## business models i like
 let non x do x
 - turn non x into professionals 
+- being the "home" for the profession, inventiong the profession
 
+unbundling
+- itunes: turn the bundle into individual songs
+- toyota: turned waterfall into JIT
+- shein: fast fashion
+- aws: cloud
+
+creator economy
+- help people make money and take a tax
+- build marketplace, two sided economy
+
+virtualize anything + write compiler/OS for it
+- react
+- snowflake
+- turborepo
+
+write a special purpose database
+- store stuff
+- compute/query
+- have a well known schema
 
 
 ## components of cloud
@@ -473,14 +516,6 @@ the strictness spectrum - strength of types
 
 time blocking
 - answer basb
-
-usage based billing 
-- https://www.plangraph.io/
-	- https://temporal-io.zoom.us/rec/share/bUCtclOpSB86EmJgWzotJPjn9Xoph04agSq1IQaY6hRvWtaVsA3EsnM8xXFkLtff.QUN9AQw_2sBqzeDO Passcode: eHe0h?v#
-- revops
-	-  Copy the link below to share this recording with viewers:
-https://temporal-io.zoom.us/rec/share/G8nzTFKN9gzZS4RS9N73dfSWHxa7IPTGrdSoBtXmu0I8vyH-v2L_qXXv1aCg1j41.fV-7RdfdFfUKc1A0 Passcode: 9@Fqu*L&
-- emma tang https://temporal-io.zoom.us/rec/share/6WsyuUxHb0d9rVuiS720LbcEz05vU7WlMa7XeYBOuPSi_AUASye2zzneVc73riI.oW53ghU_y5Xkuk7p Passcode: fG#YK0r8
 
 
 i quit finance 3 times

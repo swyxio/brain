@@ -1,4 +1,23 @@
+
+## aigrant
+
+- duolingo for code
+- useless software
+- data startup
+	- use data catalog and semantic layer
+	- turn natural language into sql
+	- offer numbers and charts inline
+
+## misc
+
 better question "Computers are useless. They can only give you answers" - Pablo Picasso (1964)
+
+atomic database
+- not row not column. but doubly linked row and column
+- run sql, support transactions
+- enables db forking bc everything immutable
+- research: "virtual datawarehouse" - just a view
+
 
 
 eliminate bizdev - https://twitter.com/reinpk/status/1496851108303568898?s=20&t=xRtL5kTe752RWHru3EPR_A twilio, stripe, plaid - just give api key. arcadia

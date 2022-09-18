@@ -1,3 +1,59 @@
+surprising facts
+- redshift fastest
+- montecarlo growth
+- snowflake investment
+
+
+familiar with
+- google analytics
+- search engine
+- ?
+
+lifecycle
+- make it analytical
+	- etl
+	- dwh - data formats
+		- db vs dwh: instead of taking in transactions, designed to do bulk queries fast
+	- bi
+- make it reliable and automate 
+	- data quality/observability - automated vs written tests
+	- data orchestration & monitoring
+- make it insightful
+	- EDA
+	- machine learning: boring vs exciting applications
+- make it operational
+	- scheduled outbound jobs
+	- reverse etl
+	- streaming/realtime
+- make it self serve - decentralize decisionmaking and modifications
+	- self serve bi?
+	- customer data platform - let marketers define segments and audiences independently
+	- a/b testing, feature flagging, with CMS
+	- sometimes: embedded data guy
+- make it scalable
+	- data catalog
+	- dwh star schema, inmon vs K?
+	- ELT
+		- mpp data platform
+		- separation of storage and compute
+		- cheap: $23 per TB per month across the big3 clouds
+		- serverless - eliminate idle cost
+		- "near infinit"
+		- used to take 12 hours to run on in memory on prem, went down to 12 minutes - (cf intrciity 101 ETL vs ELT video)		
+	- data mesh
+	- semantic layer/dbt - avoid data junkyard, data swamp
+	- data replication HVR
+	- data lake vs datawarehouse vs lakehouse
+
+
+
+see also
+- laurie voss article
+- we the purple people 
+
+
+
+
 
 - first start with blog search engine
 - then want to track search entries that are being typed but not answered

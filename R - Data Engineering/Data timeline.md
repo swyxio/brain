@@ -1,7 +1,7 @@
 1990s
 - https://overcast.fm/+H1YPGUu6Q/11:00 - MDS - mainframe - teradata - cognos BI
 - oracle, sap, businessobjects (BI)
-
+- olap invention https://overcast.fm/+x8z9ZeTiE . olap cubrs precalculate everything. pre indexing all the dimensions and measures (https://overcast.fm/+x8z_nL6u0). 7 dimsensions too much. dimensional relational model helps to do this for more dimensions (maybe columnar db)
 
 
 https://www.slideshare.net/HadoopSummit/the-ecosystem-is-too-damn-big

@@ -18,6 +18,8 @@ https://matt-rickard.com/diseconomies-of-scale-at-google/
 - 2018 - merged https://news.crunchbase.com/venture/the-ever-cheaper-cloudera-hortonworks-merger/
 
 
+2014 - https://benn.substack.com/p/how-fivetran-fails pre modern data stack era, inflexibility
+
 “master data management collapsed under its own weight “
 https://overcast.fm/+x8z-L-oRY/27:00
 

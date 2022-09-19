@@ -8,7 +8,9 @@ https://overcast.fm/+RrTHlebk 10mins ish in
 
 outliers relative age effect
 https://overcast.fm/+5WIMCDu6w/10:00 up to 25mins ish
- 
+
+product
+- black loop vs blue loop https://overcast.fm/+6K1Em7fIk/09:00 dont charge for edits
 
 
 facebook

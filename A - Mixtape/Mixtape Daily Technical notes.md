@@ -21,6 +21,8 @@ https://overcast.fm/+amVMLsmZM/25:45
 - how to shrink huge models
 - at 30 mins goes into a stable diffusion explainer
 
+https://overcast.fm/+6K1FhII5Y/10:00 copilot explanation
+
 ## data
 
 

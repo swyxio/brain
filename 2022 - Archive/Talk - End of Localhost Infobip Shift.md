@@ -1,0 +1,97 @@
+Structure
+
+- opening
+	- returning to the mainframe
+	- personal computer
+	- going back to the mainframe
+- personal story 1
+	- lets say you are a fullstack developer
+	- frontend and backend on laptop
+	- iteration speed fast
+	- 1.0 then you get serverless religion
+		- frontend on laptop, backend on cloud
+		- redeploy speed slow
+	- 1.1 create a local mock server - netlify-lambda
+		- ping the mock server
+		- CORS - proxy
+		- bugs:
+			- netlify identity
+			- netlify routing
+			- env variables
+	- 1.2 create a bigger mock server - netlify dev
+		- compile netlify routing engine to wasm
+		- pull down the env variables
+		- more bugs
+			- netlify forms
+			- netlify build
+- personal story 2
+	- aws - lambda and database
+	- local mock cli
+	- very slow deploy
+	- trigger only one at a time, and super slow
+	- so we built datastore - full clone
+	- redeploy was super slow <- look up my modernwebpodcast livestream?  https://www.youtube.com/watch?v=VA3TFymZlW4
+	- more broadly
+		- database replication
+		- faking, seeding
+		- stripping out PII
+- personal story 3 - temporal
+	- docker - works on machine, ship machine
+	- dont run docker compose in production
+	- ok... k8s?
+	- cant run k8s on the laptop
+	- wrong version of go, node, need to set up mTLS certs, etc
+	- saas service providers
+- summary
+	- if the browser reduced operating systems to "a poorly debugged set of device drivers", then **the cloud is reducing the dev machine to a poorly maintained set of environment mocks**.
+	- sisiphyean battle
+	- one clap if you ever worked on a system too big for one machine
+	- two clap if you ever had something work in dev and fail in prod
+	- three claps if you ever started a project and realized you had the wrong environment
+	- four claps if you ever wrote this kind of code - if localhost then x, then y
+- end of story time
+- start of endoflocalhost pitch
+- play clip of sam lambert 
+- tweeted this out and got a lot of responses
+	- i want to code  on a plane
+	- cold dead hands
+- Reason 1 - validation by others
+	- future is here, just not evenly distributed - list bigcos that have moved to remote dev
+	- guillermo ipad photo https://twitter.com/rauchg/status/1274766898530357249
+	- ok it works for bigcos but what about me
+- Reason 2 - ephemeral, powerful dev machines in the cloud
+	- power: resources, saas services
+	- bootstrapping: new machine
+	- control: locking down what devs do
+	- one solution that has all 3
+- Reason 3 - cloud eating outer loop vs inner loop
+	- deploy previews - netlify, vercel, heroku - useful?
+	- CI/CD - done deal (jenkins, circleci)
+	- latency: have you heard of the speed of light?
+		- outlook -> gmail
+		- game streaming, browser streaming
+		- movies/TV -> netflix
+		- adobe -> figma 
+		- sourcegraph, copilot
+	- independence
+		- food, water, electricity
+	- personal preferences
+		- having local dev but linking cloud dev
+- Solutions that are out there
+	- dont forget ivan's codeanywhere
+	- entirely in browser
+	- remote server, local editor
+	- branching environments
+- Still not good enough
+	- latency of netlify drop, cli
+	- branching is still quite new
+	- edge compute as the last mile?
+	- language server protocol shows you can have client diversity
+		- environment branching protocol???
+- Closing arguments
+	- not selling you anything
+	- git -> branches are throwaway
+	- branching for code vs branching for environments
+	- commoditization of technology
+		- from pets to cattle
+	- closing meme

@@ -64,6 +64,7 @@ Structure
 	- bootstrapping: new machine
 	- control: locking down what devs do
 	- one solution that has all 3
+	- access - 2k machine for AI SOTA. get it down to 200 chromebook.
 - Reason 3 - cloud eating outer loop vs inner loop
 	- deploy previews - netlify, vercel, heroku - useful?
 	- CI/CD - done deal (jenkins, circleci)
@@ -88,6 +89,9 @@ Structure
 	- edge compute as the last mile?
 	- language server protocol shows you can have client diversity
 		- environment branching protocol???
+- warnings
+	- 
+	- new privacy and security concerns
 - Closing arguments
 	- not selling you anything
 	- git -> branches are throwaway

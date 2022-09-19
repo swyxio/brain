@@ -13,6 +13,11 @@ product
 - black loop vs blue loop https://overcast.fm/+6K1Em7fIk/09:00 dont charge for edits
 
 
+public benefit corpoeation
+- https://overcast.fm/+HhzTVqEzs/1:25:00
+- b corp for anthropic ai
+
+
 facebook
 - https://youtu.be/MGsalg2f9js?t=300 facebook origin story from zuck
 - origin of facebook newsfeed https://overcast.fm/+SX-TvCaQM/08:06

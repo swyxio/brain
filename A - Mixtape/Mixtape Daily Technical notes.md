@@ -22,6 +22,7 @@ https://overcast.fm/+amVMLsmZM/25:45
 - at 30 mins goes into a stable diffusion explainer
 
 https://overcast.fm/+6K1FhII5Y/10:00 copilot explanation
+- copilot paper https://overcast.fm/+xs-qU9hPo/05:09
 
 ## data
 

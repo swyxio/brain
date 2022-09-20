@@ -11,6 +11,7 @@ https://overcast.fm/+5WIMCDu6w/10:00 up to 25mins ish
 
 product
 - black loop vs blue loop https://overcast.fm/+6K1Em7fIk/09:00 dont charge for edits
+- attention to detail https://overcast.fm/+2HnjIOtr4/12:00
 
 
 public benefit corpoeation

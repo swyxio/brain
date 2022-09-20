@@ -2,6 +2,14 @@ why miami
 - https://overcast.fm/+6K1FFySJU/08:00 ryan hoover
 
 
+
+
+the failure of isntagram reels
+https://overcast.fm/+43mcqo9GA/05:08
+
+
+
+
 great discussion of broadcom
 https://overcast.fm/+RrTHlebk 10mins ish in
 

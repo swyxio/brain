@@ -35,9 +35,6 @@ ben horowitz on the origin of the 90 day exercise window
 https://youtu.be/uVhTvQXfibU 15 mins in
 
 
-jobsi
-
-- https://overcast.fm/+rTsUE0ue8 tricks of jobs 1h 3mins
 
 why ibm watson failed https://overcast.fm/+wcMo2qvqg/27:00
 

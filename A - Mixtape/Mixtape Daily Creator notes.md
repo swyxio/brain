@@ -2,6 +2,9 @@
 
 thoreau and austin kleon https://overcast.fm/+Mf4ya71mQ/1:20:00 hntil 1h30mins
 
+fierce nerds https://overcast.fm/+rTsWDbyUc/10:04
+
+
 
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code

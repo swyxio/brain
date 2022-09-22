@@ -10,6 +10,8 @@ https://overcast.fm/+43mcqo9GA/05:08
 adam jacob on oss license https://overcast.fm/+oUqCvAw2g/25:00
 
 
+armon dadgar https://overcast.fm/+oUqDrVy5M/05:32 origin of vagrant and terraform cery slow start. and 35mins - hiring dave mcjannet
+
 great discussion of broadcom
 https://overcast.fm/+RrTHlebk 10mins ish in
 

@@ -7,7 +7,7 @@ why miami
 the failure of isntagram reels
 https://overcast.fm/+43mcqo9GA/05:08
 
-
+adam jacob on oss license https://overcast.fm/+oUqCvAw2g/25:00
 
 
 great discussion of broadcom

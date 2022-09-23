@@ -1,4 +1,20 @@
 
+## tldx - saroufim
+
+
+https://overcast.fm/+3lpUwbPG8/1:20:46
+devtools give you a feeling
+
+
+
+## faasaas market
+
+https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready
+cloudflare workers for platforms
+deno as a service
+
+what is the potential
+
 ## thin layers vs thick layers
 
 - github only 7.5b compared to all the value
@@ -63,6 +79,8 @@ multiverse, not metaverse
 	- fill in the blanks
 	- upscale our art
 	- text to image
+
+
 
 
 ## what does well on HN

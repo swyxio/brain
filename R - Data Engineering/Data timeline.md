@@ -17,6 +17,9 @@ https://matt-rickard.com/diseconomies-of-scale-at-google/
 - 2017 - cloudera ipo https://news.crunchbase.com/business/morning-report-ahead-clouderas-ipo-pricing-key-slides-roadshow/ from 4bn to 2bn
 - 2018 - merged https://news.crunchbase.com/venture/the-ever-cheaper-cloudera-hortonworks-merger/
 
+2008-2012 https://overcast.fm/+3lpWZ1nA8/17:32 coining of data scientist ferm by jeff hammerbacher and dj patil
+
+
 
 2014 - https://benn.substack.com/p/how-fivetran-fails pre modern data stack era, inflexibility
 

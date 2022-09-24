@@ -112,7 +112,6 @@ carry math https://overcast.fm/+3Ag_VWRTE/16:25 zach weinberg
 ## ramp week
 
 
-paribus story https://overcast.fm/+EBTAOnG1Q
 
 https://overcast.fm/+hTZcSfoq0 ramp packy
 

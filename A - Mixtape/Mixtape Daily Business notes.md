@@ -115,8 +115,6 @@ carry math https://overcast.fm/+3Ag_VWRTE/16:25 zach weinberg
 
 https://overcast.fm/+hTZcSfoq0 ramp packy
 
-https://overcast.fm/+3Ag-CJFnE/1:20:59 paribus origin
-
 ## career
 
 LNO framework shreyas https://overcast.fm/+6K1FK0ntg 35 mins

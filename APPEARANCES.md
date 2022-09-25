@@ -42,9 +42,6 @@ sep 2 RDM-SFO UA 1986 6am!!!!
 sep 6 SK6791 MIA-EWR-CPH-ARN
 sept 8-9 stockholm svelte
 Sep 11 SK903 ARN-EWR-MIA
-
----
-
 Sep 17 TK0158 MIA-IST-ZAG 11.35am
 sept 18-20? - zadar infobip <- BOOKING
 Ulica 1/151 HR-23231 Petrčane.
@@ -53,6 +50,9 @@ Tulip Boutique Hotel
 sept 21-22 - big data london
 Sep 23 TP1363 LHR-LIS-MIA 6am!
 NA --- September 18-23, 2022 in Puerto Vallarta, Mexico
+
+---
+
 oct 5-7 infoshare 2022 gdansk
 October 9-14, 2022 in Puerto Vallarta, Mexico
 oct 15-17 orlando https://www.creativecityproject.com/immerse2021

@@ -22,6 +22,7 @@ https://overcast.fm/+5WIMCDu6w/10:00 up to 25mins ish
 product
 - black loop vs blue loop https://overcast.fm/+6K1Em7fIk/09:00 dont charge for edits
 - attention to detail https://overcast.fm/+2HnjIOtr4/12:00
+- consistency over comprehensiveness https://overcast.fm/+6K1Em7fIk/45:34 to 57mins
 
 
 public benefit corpoeation
@@ -108,12 +109,6 @@ origin of okta 15 mins https://overcast.fm/+yYPOSfU9I 40 min auth0 acquisition
 how airbnb handled crisis 15 mins https://overcast.fm/+yYPNPXP3w/15:00
 
 carry math https://overcast.fm/+3Ag_VWRTE/16:25 zach weinberg
-
-## ramp week
-
-
-
-https://overcast.fm/+hTZcSfoq0 ramp packy
 
 ## career
 

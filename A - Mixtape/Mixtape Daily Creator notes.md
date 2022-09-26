@@ -4,7 +4,7 @@ thoreau and austin kleon https://overcast.fm/+Mf4ya71mQ/1:20:00 hntil 1h30mins
 
 fierce nerds https://overcast.fm/+rTsWDbyUc/10:04
 
-
+follow for your mind https://overcast.fm/+6K1FLrXMs/06:31 julian shapiro
 
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code

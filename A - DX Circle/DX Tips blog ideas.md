@@ -429,6 +429,8 @@ hospital with no patients https://youtu.be/x-5zEb1oS9A
 - replay launch week
 - supabase
 - cloudflare
+	- whats going with cloudflare https://news.ycombinator.com/item?id=33010744
+- https://nhost.io/launch-week
 
 ## meaningless taglines
 

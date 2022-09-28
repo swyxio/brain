@@ -56,6 +56,7 @@ https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
 data
 prefect airlflow dagster https://overcast.fm/+H1YNrM6kU/50:00
 
+https://overcast.fm/+x8z8x3HNc/07:22 orion from jeremiah lowin. at 18 nins what is orchestration until 27mins ish
 
 
 https://overcast.fm/+IexfoKBtc why airflow 24 mins

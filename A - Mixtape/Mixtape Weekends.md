@@ -5,6 +5,8 @@ nystudio107 devmode.fm
 INFOQ https://soundcloud.com/infoq-channel/interview-shawn-swyx-wang
 
 
+infoshare poland https://www.youtube.com/watch?v=aZnzzMbA7Vg
+
 kp podcast coming https://www.youtube.com/watch?v=-oTmQhagN4k&feature=youtu.be
 
 https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-with-swyx/

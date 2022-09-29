@@ -28,12 +28,6 @@ https://overcast.fm/+6K1FhII5Y/10:00 copilot explanation
 
 
 hadoop
-- 2012 what is https://overcast.fm/+x8z8Dw9RE maybe 2004??! nah
-- 2014 https://overcast.fm/+x8z8EoAjk scale
-- sql comparison https://overcast.fm/+x8z9ii4ls
-- how hadoop ends https://overcast.fm/+x8z9xWsZc 2017
-
-
 the 5 ways data can break https://overcast.fm/+x8z-L-oRY/33:00
 
 what is a data warehouse by inmon https://youtu.be/Yr07Ntfysd8 5mins

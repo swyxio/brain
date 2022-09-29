@@ -1,3 +1,8 @@
+## dont call me angel
+
+- sending intros to journos
+- work mentions into your talks and posts with disclosure
+
 
 ## tldx - saroufim
 

@@ -6,8 +6,17 @@ build the map from customer out
 
 ## dont call me angel
 
-- sending intros to journos
+
+- forms of value
+	- sending intros to journos
+	- 
 - work mentions into your talks and posts with disclosure
+- ability to go from 0 to 100 is key
+- ability to present your value in 30 mins is key
+- ability to decide in short amount of time is key
+	- price taker
+- try to be known for your investments and founders you have helped, rather than going "i have money hit me up"
+- equity advising > angel investing but really does take time
 
 
 ## tldx - saroufim

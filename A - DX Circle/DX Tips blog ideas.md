@@ -1,3 +1,9 @@
+## customer/developer profile
+
+https://twitter.com/_shahedk/status/1575563727994486784/photo/1
+
+build the map from customer out
+
 ## dont call me angel
 
 - sending intros to journos

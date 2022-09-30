@@ -8,6 +8,7 @@
 	- use data catalog and semantic layer
 	- turn natural language into sql
 	- offer numbers and charts inline
+- smart replies for support - in slack
 
 ## misc
 

@@ -2,6 +2,7 @@
 ## aigrant
 
 - duolingo for code
+	- problem - gpt3 and codex coming up with problems is not as good as curated problems
 - useless software
 	- https://twitter.com/threepointone/status/1571162461033664512
 - data startup
@@ -14,8 +15,8 @@
 	- earnings report generation?
 	- bullet point thesis expansion
 - twyxapp
-	- tweets summarization
-	- tweets generation
+	- tweets summarization - check
+	- tweets generation - 
 	- picture generation
 
 ## misc

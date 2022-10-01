@@ -1,3 +1,7 @@
+return distribution
+- https://www.ben-evans.com/benedictevans/2016/4/28/winning-and-losing
+- https://www.acceleratingasia.com/latest-news/vc-portfolios-bigger-the-better
+
 
 angel investing notes
 - https://twitter.com/maiab/status/1384173832429129734?s=20

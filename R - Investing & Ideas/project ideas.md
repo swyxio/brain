@@ -9,9 +9,14 @@
 	- turn natural language into sql
 	- offer numbers and charts inline
 - smart replies for support - in slack
-- finance 
-	- md&a
-	- 
+- copilot for finance 
+	- md&a, Q&A summary
+	- earnings report generation?
+	- bullet point thesis expansion
+- twyxapp
+	- tweets summarization
+	- tweets generation
+	- picture generation
 
 ## misc
 

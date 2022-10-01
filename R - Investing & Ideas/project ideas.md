@@ -1,6 +1,7 @@
 
 ## aigrant
 
+- company smart index https://www.swyx.io/smart-indexes/
 - duolingo for code
 	- problem - gpt3 and codex coming up with problems is not as good as curated problems
 - useless software
@@ -18,6 +19,7 @@
 	- tweets summarization - check
 	- tweets generation - 
 	- picture generation
+	- buffer with AI
 
 ## misc
 

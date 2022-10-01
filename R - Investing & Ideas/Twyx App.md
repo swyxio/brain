@@ -1,5 +1,9 @@
 - twitterverse graph https://twitter.com/euxenus/status/1219777009737510912?s=20&t=2Sh9WhkF2-BSZ-6bPNRSEA
 - https://github.com/taspinar/twitterscraper
+- https://github.com/twintproject/twint
+	- https://analyticsindiamag.com/complete-tutorial-on-twint-twitter-scraping-without-twitters-api/
+	- - [http://tweepdiff.com](https://t.co/y8aihxk07I) - Cool Twitter follower comparsion tool
+	- [http://metarational.net/lens/crypto_defi…](https://t.co/d0iJIQrKhl) - one of the coolest metaranking apps, reminds me [http://santiment.net](https://t.co/Ov37DV1dKV) and [http://moivre.xyz](https://t.co/6LhOVTK7W6) a b
 
 design https://twitter.com/thelifeofrishi/status/1411547063095988231?s=20
 
@@ -29,6 +33,7 @@ engagement bait
 - https://twitter.com/stewfortier/status/1490131640097648641?s=21
 - https://twitter.com/harrystebbings/status/1490516792615313412?s=21
 - https://twitter.com/the_mmw/status/1504102712052494343?s=21
+- https://twitter.com/isamlambert/status/1576266214380224512
 
 https://thesephist.com/posts/lucerne/
 

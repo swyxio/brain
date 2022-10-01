@@ -9,6 +9,9 @@
 	- turn natural language into sql
 	- offer numbers and charts inline
 - smart replies for support - in slack
+- finance 
+	- md&a
+	- 
 
 ## misc
 

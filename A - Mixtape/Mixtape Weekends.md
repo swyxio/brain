@@ -17,7 +17,6 @@ https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-
 
 eddie hinkle web joy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx
 
-https://www.thecloudcast.net/2022/01/2022-look-ahead-developer-careers.html
 
 
 

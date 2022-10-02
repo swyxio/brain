@@ -72,7 +72,12 @@ ai upscaling from 80x80 using some kind of GAN?
 face correction gfpgan https://github.com/sd-webui/stable-diffusion-webui
 	- Real-ESRGAN (standalone https://news.ycombinator.com/item?id=32628761) and GFPGAN
 audio https://twitter.com/nearcyan/status/1567569044047384576
-pic to 3d https://twitter.com/arjunaskykok/status/1567191529915285504
+pic to 3d https://twitter.com/arjunaskykok/status/1567191529915285504 
+
+making an outPainting UI
+https://www.reddit.com/r/StableDiffusion/comments/xogg2u/comment/iq2xcmz/?utm_source=reddit&utm_medium=web2x&context=3
+
+gppu rental https://www.reddit.com/r/StableDiffusion/comments/xo4onu/comment/ipygxgk/?utm_source=reddit&utm_medium=web2x&context=3
 
 
 ## big list of naughty prompts

@@ -7,6 +7,8 @@ postgres features - what does it mean to be "compatible" https://www.crunchydata
 postgres architecture https://twitter.com/samokhvalov/status/1326579896244527104/photo/1
 https://pgstats.dev/
 
+postgres data flow https://www.crunchydata.com/blog/postgres-data-flow
+
 postgres pain points https://www.socallinuxexpo.org/sites/default/files/presentations/solving-postgres-wicked-problems.pdf
 - upgrading pain points
 	- https://news.ycombinator.com/item?id=31873063

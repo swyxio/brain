@@ -101,7 +101,7 @@ naughty prompts
 
 open source, open model, open data
 
-multiverse, not metaverse
+controlling browsers https://twitter.com/AdeptAILabs/status/1570144499187453952
 
 ## bicycles for the mind
 

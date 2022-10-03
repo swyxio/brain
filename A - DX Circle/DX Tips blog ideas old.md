@@ -350,6 +350,7 @@ cf sarah cataranzo convo
 
 - answer what's the catch
 - hook into known hard problems eg cap theorem
+- dont give empty taglines https://news.ycombinator.com/item?id=30952871
 
 ## selling a programming paradigm
 - fp vs oop

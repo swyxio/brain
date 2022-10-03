@@ -70,9 +70,17 @@ https://temporal-io.zoom.us/rec/share/G8nzTFKN9gzZS4RS9N73dfSWHxa7IPTGrdSoBtXmu0
 turn raw stuff into 3d vectors https://www.youtube.com/watch?v=7OnZ_I5dYgw
 ai upscaling from 80x80 using some kind of GAN?
 face correction gfpgan https://github.com/sd-webui/stable-diffusion-webui
-	- Real-ESRGAN (standalone https://news.ycombinator.com/item?id=32628761) and GFPGAN
+	- Real-ESRGAN (standalone https://news.ycombinator.com/item?id=32628761) and [GFPGAN](https://github.com/TencentARC/GFPGAN) (facefix - https://www.reddit.com/r/GameUpscale/comments/o434yu/childhood_photo_of_mine_upscaled_using_gfpgan_no/)
+			- productized as https://letsenhance.io/
+		- explainers https://rentry.org/voldy
+		- https://rentry.org/GUItard
+		- more models https://upscale.wiki/wiki/Model_Database
+	- VQGAN https://github.com/Jack000/glid-3-xl-stable/wiki/Double-diffusion-for-more-detailed-upscaling
+	- https://github.com/awesome-stable-diffusion/awesome-stable-diffusion
 audio https://twitter.com/nearcyan/status/1567569044047384576
 pic to 3d https://twitter.com/arjunaskykok/status/1567191529915285504 
+
+classifier guided SD https://github.com/Jack000/glid-3-xl-stable/wiki/Classifier-guided-stable-diffusion
 
 making an outPainting UI
 https://www.reddit.com/r/StableDiffusion/comments/xogg2u/comment/iq2xcmz/?utm_source=reddit&utm_medium=web2x&context=3

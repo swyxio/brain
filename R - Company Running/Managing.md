@@ -13,6 +13,9 @@ https://twitter.com/jspujji/status/1494743094813548544?s=21
 	- https://twitter.com/shpigford/status/1536787705413132291?s=21&t=ItCQ5ZlnvoTEEoxWtyla8g
 
 
+mgmt first round https://news.ycombinator.com/item?id=32990472
+
+
 Exec 101 
 - https://sriramk.com/exec-101-first-thirty-days
 

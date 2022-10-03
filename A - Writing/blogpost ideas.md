@@ -28,12 +28,14 @@
 let non x do x
 - turn non x into professionals 
 - being the "home" for the profession, inventiong the profession
+	- analytics engineer
 
 unbundling
 - itunes: turn the bundle into individual songs
 - toyota: turned waterfall into JIT
 - shein: fast fashion
 - aws: cloud
+- data -> unbundling metrics layer https://pedram.substack.com/p/what-is-the-metrics-layer
 
 creator economy
 - help people make money and take a tax

@@ -1,5 +1,7 @@
 https://twitter.com/theryanking/status/1475122757117653003?s=21
 
+https://www.scaleworks.com/the-saas-playbook
+
 
 wade foster/groupon lessons https://news.ycombinator.com/item?id=32473112
 

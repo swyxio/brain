@@ -1,15 +1,11 @@
 
 
-thoreau and austin kleon https://overcast.fm/+Mf4ya71mQ/1:20:00 hntil 1h30mins
 
-fierce nerds https://overcast.fm/+rTsWDbyUc/10:04
-
-follow for your mind https://overcast.fm/+6K1FLrXMs/06:31 julian shapiro
 
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code
 
-output before input https://overcast.fm/+6Z2pphyiU/25:00 
+
 
 pets can swear https://overcast.fm/+B2HrTZTvY/12:00 wrf 70 buttons
 

@@ -21,6 +21,7 @@ slootman notes
 - 5. transform your strategy
 
 
+pur someone in charge of https://mollyg.substack.com/p/addition-vs-subtraction?s=r&utm_medium=web. subtraction 
 
 cofounder relationship
 https://greylock.com/greymatter/how-to-be-a-founder/

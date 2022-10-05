@@ -4,6 +4,14 @@ Hal Finney NFTs in 1993 https://twitter.com/NTmoney/status/1468738424043573249?s
 
 ## bad takes
 
+[](https://www.lesswrong.com/posts/BEtzRE2M5m9YEAQpX/there-s-no-fire-alarm-for-artificial-general-intelligence)
+In 1901, two years before helping build the first heavier-than-air flyer, Wilbur Wright told his brother that powered flight was [fifty years away](https://books.google.com/books?id=ldxfLyNIk9wC&pg=PA91&dq=%22i+said+to+my+brother+orville%22&hl=en&sa=X&ved=0ahUKEwioiseChcnWAhWL-VQKHab6AqMQ6AEIJjAA#v=onepage&q=%22i%20said%20to%20my%20brother%20orville%22&f=false).
+
+In 1939, three years before he personally oversaw the first critical chain reaction in a pile of uranium bricks, Enrico Fermi voiced [90% confidence](https://books.google.com/books?id=aSgFMMNQ6G4C&pg=PA813&lpg=PA813&dq=weart+fermi&source=bl&ots=Jy1pBOUL10&sig=c9wK_yLHbXZS_GFIv0K3bgpmE58&hl=en&sa=X&ved=0ahUKEwjNofKsisnWAhXGlFQKHbOSB1QQ6AEIKTAA#v=onepage&q=%22ten%20per%20cent%22&f=false) that it was [impossible](https://www.lesswrong.com/lw/h8m/being_halfrational_about_pascals_wager_is_even/) to use uranium to sustain a fission chain reaction. I believe Fermi also said a year after that, aka two years before the denouement, that _if_ net power from fission was even possible (as he then granted some greater plausibility) then it would be fifty years off; but for this I neglected to keep the citation.
+
+And of course if you're not the Wright Brothers or Enrico Fermi, you will be even more surprised. Most of the world learned that atomic weapons were now a thing when they woke up to the headlines about Hiroshima. T
+
+
 internet just a fad
 - https://twitter.com/ballmatthew/status/1472675649265545233?s=20
 - krugman fax machine quote https://twitter.com/BadfishRanch/status/1472788506120499200?s=20

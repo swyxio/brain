@@ -2,9 +2,14 @@
 
 dont do this https://twitter.com/themoonmidas/status/1576919275658366977?s=46&t=GmnzQTnPOi8_WAzA_Vdt_A
 
-adsk gpt
+ask gpt what it would say and try to be different
 
 
+## multimodality
+
+https://twitter.com/karpathy/status/1468370605229547522?s=20&t=y1cwKgffJt7gxxID2heA4A
+
+diffusers. assume we are multimodal... then what?
 
 ## customer/developer profile
 

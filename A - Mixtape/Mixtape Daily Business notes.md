@@ -1,6 +1,12 @@
 why miami
 - https://overcast.fm/+6K1FFySJU/08:00 ryan hoover
 
+levels community building principles https://overcast.fm/+os2Ygn-hY/30:00
+- education
+- identity
+- belonging
+- ritual 
+
 
 figma retro https://overcast.fm/+EPsLpsK0g/36:27
 

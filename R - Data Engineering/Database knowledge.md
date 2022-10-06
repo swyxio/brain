@@ -1,5 +1,8 @@
 the first SQL db - System R https://en.wikipedia.org/wiki/IBM_System_R
 
+db decision tree https://twitter.com/alexxubyte/status/1576961080454021121/photo/1
+
+
 write db from scratch
 - https://dbfromzero.com/
 - https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/

@@ -15,6 +15,8 @@ fidgeting https://overcast.fm/+2-B_5egSU/35:00
 and cold ice bath and thecoldplunge.com  up til 1hr mark
 
 
+blue blockers dont work https://overcast.fm/+23-dyloZg/1:10:00 until 1:20
+
 ## food
 
 https://overcast.fm/+vpWbprX0s/1:10:00 main food levers up to 1:24

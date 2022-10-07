@@ -77,6 +77,10 @@ https://temporal-io.zoom.us/rec/share/G8nzTFKN9gzZS4RS9N73dfSWHxa7IPTGrdSoBtXmu0
 - emma tang https://temporal-io.zoom.us/rec/share/6WsyuUxHb0d9rVuiS720LbcEz05vU7WlMa7XeYBOuPSi_AUASye2zzneVc73riI.oW53ghU_y5Xkuk7p Passcode: fG#YK0r8
 
 
+## ai scaling
+
+ - https://news.ycombinator.com/item?id=33123514 overview
+- discomfort https://www.reddit.com/r/MachineLearning/comments/wiqjxv/d_the_current_and_future_state_of_aiml_is/
 
 ## the stablediffusion stack
 

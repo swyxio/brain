@@ -100,6 +100,9 @@ launch weeks https://overcast.fm/+oUqBsHJWc/08:26
 
 ## Product
 
+making a marketplace
+https://overcast.fm/+6K1EVeMN4/30:00 lenny demand and supply constrained
+
 
 data driven vs opinion driven tony fadell https://overcast.fm/+eZyDEXhvA 1h 20mins
 

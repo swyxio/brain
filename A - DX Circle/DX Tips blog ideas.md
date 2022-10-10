@@ -1,3 +1,8 @@
+## underrated follows in ai twitter
+
+- https://twitter.com/MichaelTrazzi/status/1579179852670074880
+- 
+
 ## gpt basic
 
 dont do this https://twitter.com/themoonmidas/status/1576919275658366977?s=46&t=GmnzQTnPOi8_WAzA_Vdt_A

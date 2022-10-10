@@ -17,12 +17,13 @@ confrol plane vs data plane https://overcast.fm/+0TxaLBrX8/20:52 steve yegge
 
 ## ai
 
-https://overcast.fm/+amVMLsmZM/25:45
-- how to shrink huge models
-- at 30 mins goes into a stable diffusion explainer
 
 https://overcast.fm/+6K1FhII5Y/10:00 copilot explanation
 - copilot paper https://overcast.fm/+xs-qU9hPo/05:09
+- 
+
+
+
 
 ## data
 
@@ -68,11 +69,6 @@ https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 
 
 
-
-## machine learning
-
-
-explain alphafold https://overcast.fm/+eZyCx96Qo
 
 ## wasm
 

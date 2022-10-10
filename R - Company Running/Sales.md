@@ -6,6 +6,8 @@ https://twitter.com/samdblond/status/1508948647077109761?s=21
 the various kinds of sales channels
 https://twitter.com/buccocapital/status/1535960591067643904?s=21&t=t5cS9D_4EQoQISG4Xx8EFg
 
+sales calls
+https://www.sofuckingagile.com/blog/i-listened-to-1000-b2b-saas-sales-calls
 
 
 sales consultants

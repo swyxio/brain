@@ -5,3 +5,11 @@ https://twitter.com/samdblond/status/1508948647077109761?s=21
 
 the various kinds of sales channels
 https://twitter.com/buccocapital/status/1535960591067643904?s=21&t=t5cS9D_4EQoQISG4Xx8EFg
+
+
+
+sales consultants
+- https://www.forcemanagement.com/
+- they helped salesforce databricks scale sales
+- invented MEDDPICC
+	- https://twitter.com/reinpk/status/1483476836264906752?s=46&t=R6Ai-vCbOio5txP3SOOQQw

@@ -1,3 +1,8 @@
+Proof for SaaS
+- calculate amount of time saved, translate to dollars
+- calculate funnel and show benchmarks
+- show personalized recommendations
+
 
 ## aigrant
 

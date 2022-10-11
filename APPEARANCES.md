@@ -51,10 +51,11 @@ sept 21-22 - big data london
 Sep 23 TP1363 LHR-LIS-MIA 6am!
 NA --- September 18-23, 2022 in Puerto Vallarta, Mexico
 
----
-
 oct 5-7 infoshare 2022 gdansk
 October 9-14, 2022 in Puerto Vallarta, Mexico
+
+---
+
 oct 15-17 orlando https://www.creativecityproject.com/immerse2021
 oct 17-21 dbt coalesce <- New Orleans
 1896 Omalley House

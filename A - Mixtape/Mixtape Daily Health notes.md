@@ -11,6 +11,8 @@ https://overcast.fm/+os2ZP7-q8/1:00 keto story
 dont sit all day - 4h 4h https://overcast.fm/+0OUOvkmHw/21:32
 
 
+https://overcast.fm/+Fbuk_3PLY/40:00 losing sight
+
 fidgeting https://overcast.fm/+2-B_5egSU/35:00
 and cold ice bath and thecoldplunge.com  up til 1hr mark
 

@@ -99,6 +99,7 @@ face correction gfpgan https://github.com/sd-webui/stable-diffusion-webui
 		- more models https://upscale.wiki/wiki/Model_Database
 	- VQGAN https://github.com/Jack000/glid-3-xl-stable/wiki/Double-diffusion-for-more-detailed-upscaling
 	- https://github.com/awesome-stable-diffusion/awesome-stable-diffusion
+	- BLIP - img to text https://github.com/salesforce/BLIP
 audio https://twitter.com/nearcyan/status/1567569044047384576
 pic to 3d https://twitter.com/arjunaskykok/status/1567191529915285504 
 

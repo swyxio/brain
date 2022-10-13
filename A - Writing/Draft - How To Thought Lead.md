@@ -3,6 +3,7 @@
 	- immediate/instinctive response
 	- aspirational response
 	- humorous response
+	- answerthepublic.com
 - have better facts/history than anyone else
 - have better vision of the future than anyone
 	- articulate a trend/where people are going

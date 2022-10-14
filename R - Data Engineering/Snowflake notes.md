@@ -15,3 +15,6 @@ snowflake costs
 - 2019 - data sharehouse https://overcast.fm/+IexdlNmTQ/33:55 no need for export process
 - data exchange and data marketplace
 - snowpipe - serverless data loading
+
+
+diff between databricks and snowflake https://www.netlify.com/blog/2021/08/10/how-the-netlify-data-team-migrated-from-databricks-to-snowflake/

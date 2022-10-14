@@ -19,7 +19,10 @@ https://matt-rickard.com/diseconomies-of-scale-at-google/
 
 2008-2012 https://overcast.fm/+3lpWZ1nA8/17:32 coining of data scientist ferm by jeff hammerbacher and dj patil
 
+catalog timeline from atlan https://towardsdatascience.com/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf
 
+
+history of bi from preset https://preset.io/blog/dataset-centric-visualization/
 
 2014 - https://benn.substack.com/p/how-fivetran-fails pre modern data stack era, inflexibility
 

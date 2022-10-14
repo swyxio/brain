@@ -4,6 +4,7 @@ ben horowitz - the number 1 thing ceos of all sizes do badly https://youtu.be/uV
 
 https://twitter.com/jspujji/status/1494743094813548544?s=21
 
+
 1:1s
 - https://twitter.com/ramannoodlez/status/1492678565850189825
 - https://twitter.com/jmwind/status/1493569398212157443?s=21
@@ -20,6 +21,8 @@ Exec 101
 - https://sriramk.com/exec-101-first-thirty-days
 
 6 roles of managing - https://www.swyx.io/the-8-jobs-of-management
+
+managing managers https://overcast.fm/+Ux3Tok9Mw
 
 https://acjay.com/2022/03/11/11-principles-of-engineering-management/
 good response https://news.ycombinator.com/item?id=31154738

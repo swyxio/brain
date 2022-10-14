@@ -1,4 +1,7 @@
 
+stripped 5x5 http://newbie-fitness.blogspot.com/2007/01/stripped-5x5.html
+
+
 
 ## wholebody
 

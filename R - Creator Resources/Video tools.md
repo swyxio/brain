@@ -1,0 +1,1 @@
+https://www.fable.app/academy/fable-quick-start-course-part-2-of-3/

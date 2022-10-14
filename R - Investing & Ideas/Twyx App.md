@@ -4,6 +4,7 @@
 	  - profile notes https://twitter.com/jessfromonline/status/1375456777983115267?s=21
 	  - location search 
 		  - https://twitter.com/devonzuegel/status/1534595292485623808?lang=en
+		  - [https://smallworld.kiwi](https://smallworld.kiwi/)
 		  - location search https://hawkeye.sarv.repl.co/
 - Scale
 	- special "friends" notification tab https://twitter.com/ShaanVP/status/1435676868519227394

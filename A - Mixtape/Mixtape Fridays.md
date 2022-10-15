@@ -5,8 +5,6 @@
 
 backstreetboys song exploded https://overcast.fm/+EwEztt3eg 10mins
 
-song interpolation https://overcast.fm/+QN1oBpXn4/22:32
-- and voice effects 
 
 better call sail
 - titles https://overcast.fm/+ELPwzqEG0/1:00:00

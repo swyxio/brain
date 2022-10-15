@@ -15,6 +15,8 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 confrol plane vs data plane https://overcast.fm/+0TxaLBrX8/20:52 steve yegge
 
+data https://overcast.fm/+HZUdM_IVQ/15:00 seperate postgres serverless compute
+
 ## ai
 
 
@@ -78,6 +80,7 @@ wasm good overview of wasm cloud tooling  on <@405426635857461249> ‘s podcast 
 
 https://overcast.fm/+ur1FOg0cM wasm potential explainer 
 
+supabase wasm https://overcast.fm/+mBhk3IPz4/25:00
 
 benefits of go 1.18 https://overcast.fm/+ur1GgzMqs 15ish mins 
 

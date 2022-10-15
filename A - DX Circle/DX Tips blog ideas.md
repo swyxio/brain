@@ -190,6 +190,9 @@ https://overcast.fm/+w94WYoAHg/44:41 tristan dbt distro
 - https://twitter.com/danielbryantuk/status/1494614250567966732 make sure to run it by daniel as he has Opinions 
 - https://twitter.com/robbowley/status/1494982092211593219
 
+https://www.gartner.com/en/articles/what-is-platform-engineering
+https://www.infoq.com/news/2022/10/platform-devops-summary/
+
 
 ## Devtools growth loops
 

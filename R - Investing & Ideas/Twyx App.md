@@ -44,6 +44,7 @@
 	- https://twitter.com/lehrjulian/status/1291397928788135942?s=20 bullets 
 - see unfollows and muted https://overcast.fm/+SuyH7yKic 49mins
 - antitracking https://twitter.com/rauchg/status/1578409287746875392?s=46&t=DXymnS37h6tckjV5wdac2Q
+- long schedule reply https://twitter.com/sytses/status/1581069666025234432?s=46&t=cSXyz04d66zWjYgg0x6f6g
 
 ## Interesting user behavior to model
 

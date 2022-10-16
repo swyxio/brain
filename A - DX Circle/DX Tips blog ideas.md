@@ -10,12 +10,24 @@ soc2
 - https://twitter.com/MichaelTrazzi/status/1579179852670074880
 - 
 
-agi hard
+## agi hard
+
+broken barriers
+- general purpose instruction of same model
+- solve captchas
+
+- turn sideways - https://news.ycombinator.com/item?id=32384653 - or move out of the frame and back in
+- picture composition - r/stablediffusion
 - empathy 
 - therapy
 - theory of mind
 	- language training
 - quine llms
+- physics? time arrow?
+- common sense? conceptual intuition?
+
+- relationship with moravecs paradox
+- any reasonable intern could do
 
 
 

@@ -30,6 +30,8 @@ great discussion of broadcom
 https://overcast.fm/+RrTHlebk 10mins ish in
 
 
+platform based games publishing stratechery agggregators https://overcast.fm/+Lzu0O_oX0/17:28https://overcast.fm/+Lzu0O_oX0/15:00
+
 outliers relative age effect
 https://overcast.fm/+5WIMCDu6w/10:00 up to 25mins ish
 
@@ -79,8 +81,12 @@ porn dindustry interview 45mins https://overcast.fm/+5K6apFbnE
 ## technibiz
 
 
+https://overcast.fm/+Lzu2LUmvw/25:00 horizontal api-ification at 34 mins why modern data stack
+
 i am an infra maxi https://overcast.fm/+RWDXAIGEM/25:00
 
+
+what is scale ai https://overcast.fm/+Lzu3qV2Ok/30:36
 
 origin of replit 50mins https://overcast.fm/+hTZfriwzQ llvm story - diversion resume at 1h 4 mins
 

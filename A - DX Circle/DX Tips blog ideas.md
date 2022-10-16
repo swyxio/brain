@@ -1,7 +1,23 @@
+## standards that made things 100x easier
+
+SAFEs
+soc2
+
+
+
 ## underrated follows in ai twitter
 
 - https://twitter.com/MichaelTrazzi/status/1579179852670074880
 - 
+
+agi hard
+- empathy 
+- therapy
+- theory of mind
+	- language training
+- quine llms
+
+
 
 ## gpt basic
 

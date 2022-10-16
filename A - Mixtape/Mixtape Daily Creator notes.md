@@ -20,6 +20,8 @@ moloch https://overcast.fm/+eZyBjF53Y/1:29:19 ends about here
 extravagance 31 mins https://overcast.fm/+7IlJt8LaQ/31:00
 
 
+5k for 100 shorts https://overcast.fm/+L9fj6YUjI/10:00
+
 
 content hierarchy of bs https://overcast.fm/+6K1GCqY08/15:29 wes kao
 

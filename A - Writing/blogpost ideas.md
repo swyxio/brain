@@ -488,6 +488,13 @@ check - esbuild architecture
 	- if you give it objectives then it can handle the side effects
 	- at this point it becomes AI
 
+
+security
+- why cant u just run shit as root?
+- behold the package manager
+- apt get install
+- and git and docker
+
 # throw catch considered harmful
 - catch consolidates errors by default. keep errors local and automatically separated
 - theres no way to mark the difference between error and exception

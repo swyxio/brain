@@ -24,3 +24,5 @@ blue blockers dont work https://overcast.fm/+23-dyloZg/1:10:00 until 1:20
 https://overcast.fm/+vpWbprX0s/1:10:00 main food levers up to 1:24
 
 teeth https://overcast.fm/+KebuAyTEQ/50:00 
+
+7 day fasting https://overcast.fm/+HFHXvfI_w/59:03

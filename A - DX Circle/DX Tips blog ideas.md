@@ -2,7 +2,8 @@
 
 SAFEs
 soc2
-
+docker
+opentelemetry 
 
 
 ## underrated follows in ai twitter

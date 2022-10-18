@@ -21,4 +21,4 @@ team
 - https://www.getdbt.com/blog/we-the-purple-people/
 	- This metaphor paints a world where humans with a deep understanding of business context in a particular domain are called red people ❤️. And humans with a breadth of technical expertise are called blue people 💙. Purple people 💜 are the people in between — they have a little bit of both that enables them to translate between red and blue
 - https://erikbern.com/2021/07/07/the-data-team-a-short-story.html
-	- 
+- https://seldo.com/posts/what-i-ve-learned-about-data-recently

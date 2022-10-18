@@ -195,3 +195,7 @@ Much of this list derives from the ongoing UUIDv6 IETF draft: https://www.ietf.o
 	- "IIRC internally google used an ID for logging events that was a combo of Mac address and microsecond time. There might have been something in there for cpuid. Leaked data but was internal only so not a problem." - [Joe Beda](https://twitter.com/jbeda/status/1563729743224373249?s=20&t=1EW4Du5AJ9aLBzE7C1vNng)
 - MongoDB ObjectID: https://www.mongodb.com/blog/post/generating-globally-unique-identifiers-for-use-with-mongodb
    
+
+## Misc
+
+Time based OTP https://github.com/susam/mintotp

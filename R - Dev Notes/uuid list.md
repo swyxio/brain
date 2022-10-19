@@ -198,4 +198,5 @@ Much of this list derives from the ongoing UUIDv6 IETF draft: https://www.ietf.o
 
 ## Misc
 
-Time based OTP https://github.com/susam/mintotp
+- Time based OTP https://github.com/susam/mintotp
+- reverse image search https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934

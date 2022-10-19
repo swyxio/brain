@@ -4,6 +4,10 @@
 - olap invention https://overcast.fm/+x8z9ZeTiE . olap cubrs precalculate everything. pre indexing all the dimensions and measures (https://overcast.fm/+x8z_nL6u0). 7 dimsensions too much. dimensional relational model helps to do this for more dimensions (maybe columnar db)
 
 
+semantic layer timeline
+https://twitter.com/sspaeti/status/1579804903219687425?s=46&t=ZXSu0kx2Ycwwexz26_xyYQ
+
+
 https://www.slideshare.net/HadoopSummit/the-ecosystem-is-too-damn-big
 2006-2016 hadoop
 problems with hadoop https://sapphireventures.com/blog/what-is-the-open-data-ecosystem-and-why-its-here-to-stay/

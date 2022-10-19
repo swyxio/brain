@@ -88,6 +88,11 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 
 ## misc
 
+
+
+how podcast analytics work https://overcast.fm/+HaNM08aK4/12:08
+
+
 origin of markdown https://overcast.fm/+B7NBXY82A/10:00
 
 origin of FRP https://overcast.fm/+JrqYOftbw/21:00

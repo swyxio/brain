@@ -1,6 +1,6 @@
 
 
-vincent woo coderpad https://overcast.fm/+JmiM4xsGA/20:00
+vincent woo coderpad https://overcast.fm/+JmiM4xsGA/20:00. 41 mins hagiography lucky ones
 
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code

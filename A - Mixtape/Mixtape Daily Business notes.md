@@ -7,6 +7,11 @@ levels community building principles https://overcast.fm/+os2Ygn-hY/30:00
 - belonging
 - ritual 
 
+deel he says it was 20 months from 0 to 100m ARR
+10 mins ish
+https://overcast.fm/+TG-cOA4pM
+
+
 origin of shazam https://overcast.fm/+M5oxAr3NE/02:30 -> 35mins .  56mins followup
 
 origin of profitwell https://overcast.fm/+gFCvnAc18/15:00 til 32:30 - free pricing and founder regrets 

@@ -1,3 +1,9 @@
+## dx = speed
+
+sam lambert https://overcast.fm/+oUqBkopko/24:00 dx is not api or cli. its did they go fast
+
+
+
 ## standards that made things 100x easier
 
 SAFEs

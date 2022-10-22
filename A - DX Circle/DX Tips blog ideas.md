@@ -2,7 +2,7 @@
 
 sam lambert https://overcast.fm/+oUqBkopko/24:00 dx is not api or cli. its did they go fast
 
-
+cli commands https://twitter.com/MichaelDwan/status/1583557379677130752?s=20&t=aKevm3oGdJc7uuZFw9LonA
 
 ## standards that made things 100x easier
 

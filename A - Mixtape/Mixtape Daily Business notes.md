@@ -15,6 +15,7 @@ https://overcast.fm/+TG-cOA4pM
 origin of shazam https://overcast.fm/+M5oxAr3NE/02:30 -> 35mins .  56mins followup
 
 origin of profitwell https://overcast.fm/+gFCvnAc18/15:00 til 32:30 - free pricing and founder regrets 
+https://overcast.fm/+MBmUOkQ6M 21:45 profitwell market analysis
 
 figma retro https://overcast.fm/+EPsLpsK0g/36:27
 
@@ -26,6 +27,9 @@ adam jacob on oss license https://overcast.fm/+oUqCvAw2g/25:00
 amazon prfaq and soa move https://overcast.fm/+s2u9iW3f8/23:52
 
 amazon database catalog - reddit two tables story https://overcast.fm/+s2u97oNpc/30:00 (right after asin story)
+
+amazon just do it austin powers award https://overcast.fm/+s2u9FhVmY/43:00 mins bias for action
+
 
 copying amazkn prime https://overcast.fm/+4pgtbI8-4/17:00 - 28mins ish
 
@@ -124,9 +128,6 @@ origin of twitter pagination  20 mins https://overcast.fm/+4jBE47JkU fbomb
 
 origin of 99designs https://overcast.fm/+XptO0pwSo/10:00
 
-amazon just do it austin powers award https://overcast.fm/+s2u9FhVmY/43:00 mins bias for action
-
-https://overcast.fm/+MBmUOkQ6M 21:45 profitwell market analysis
 
 https://overcast.fm/+qm89pCIRo 1h 8 mins saas business 4-10x, content 2.5-4x, ecomm 2.5-5x annual sales
 

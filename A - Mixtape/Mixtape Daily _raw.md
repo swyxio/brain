@@ -11,3 +11,6 @@ https://youtu.be/Nx-jYgI0QVI 2:16 what is the merge upto 2:32
 career: should you be a manager - handling complaints and being a therapist https://overcast.fm/+0TxbQNBEI/12:00 data plane, sniffing packets
 
 seeing like a state and pseudonymous economy https://overcast.fm/+eZyAU-ayE/1:01:44
+
+
+guided metacognition. gay and happiness https://overcast.fm/+5K6YYLkro/27:45 until 38 mins megan phelps roper til 41mins end

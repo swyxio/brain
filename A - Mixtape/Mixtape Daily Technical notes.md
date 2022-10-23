@@ -30,6 +30,9 @@ https://overcast.fm/+6K1FhII5Y/10:00 copilot explanation
 ## data
 
 
+
+data apps, youtube convo with benn stancil https://overcast.fm/+rNB-JGk9Q/1:10:00
+
 hadoop
 the 5 ways data can break https://overcast.fm/+x8z-L-oRY/33:00
 

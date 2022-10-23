@@ -36,6 +36,9 @@ broken barriers
 - relationship with moravecs paradox
 - any reasonable intern could do
 
+ask followup questions in adjacent thing
+- https://news.ycombinator.com/item?id=33287952
+
 
 
 ## gpt basic

@@ -124,6 +124,14 @@ data driven vs opinion driven tony fadell https://overcast.fm/+eZyDEXhvA 1h 20mi
 
 origin of twitter pagination  20 mins https://overcast.fm/+4jBE47JkU fbomb
 
+
+4 tupes of product work https://overcast.fm/+6K1ECOh7Y/41:36
+- feature work
+- growth work
+- pmf expansion (diff product to same audience eg bundling, upsell, same product diff audience eg i18n, verticals)
+- scale work (technical scaling, trust and safety)
+
+
 ## startups
 
 origin of 99designs https://overcast.fm/+XptO0pwSo/10:00

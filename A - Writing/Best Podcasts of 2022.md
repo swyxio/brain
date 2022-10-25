@@ -20,3 +20,6 @@ still good
 - unthinkable
 
 
+
+founders senra
+invent like an owner 

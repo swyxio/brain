@@ -2,7 +2,7 @@ infoq podcast coming
 
 nystudio107 devmode.fm
 
-cascadiajs talk
+cascadiajs talk https://youtu.be/KsTAcQJ619o
 svelte summit talk
 
 

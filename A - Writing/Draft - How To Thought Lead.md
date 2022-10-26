@@ -38,6 +38,8 @@ map things https://nesslabs.com/thinking-in-maps
 what people want 
 - https://twitter.com/gregisenberg/status/1412074725195538441?s=21
 - https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/
+- Ralph Waldo Emerson Quotes
+Our chief want is someone who will inspire us to be what we know we could be
 
 
 equation - a+b = c

@@ -1,6 +1,5 @@
 karaoke list
 
-
 hey jude
 wanted dead or alive - bon jovi
 drops of jupiter - train
@@ -13,8 +12,8 @@ take me to church?
 
 
 fun
-wrecking ball
-
+- wrecking ball
+- Redbone - Come And Get Your Love Lyrics
 
 groups
 mr brightside (lots of unfamiliar breaks)

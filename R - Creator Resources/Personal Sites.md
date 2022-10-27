@@ -46,6 +46,7 @@
 - Designer-developer
 	- https://ibuildmyideas.com jordan singer
 	- https://www.cassie.codes/
+	- https://jasonlong.me/ github exdesigner
 	- https://www.joshwcomeau.com/ https://www.joshwcomeau.com/react/persisting-react-state-in-localstorage/
 	- https://brianlovin.com/writing/how-my-website-works
 - Plain Programmer profile

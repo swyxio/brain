@@ -9,6 +9,9 @@ tiago
 mr beast https://overcast.fm/+borZiAPiQ/5:00 money
 
 
+copywork https://overcast.fm/+L9fjEpsvw/12:00
+
+
 anchor on clubhouse https://overcast.fm/+3Ag9-yd20/59:53
 
 pets can swear https://overcast.fm/+B2HrTZTvY/12:00 wrf 70 buttons

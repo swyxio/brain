@@ -3,6 +3,110 @@ created: 2021-12-01 01:35
 updated: 2022-04-26 12:12
 ---
 
+
+## rishi raman
+ 
+ - quillsql
+ - embedded analytics
+	 - alerts
+	 - series A+ company to have real enterprise customers
+ - cofounders
+	 - S20, sean W20
+	 - working at toyota ventures right now
+	 - taking angel money, scout money
+	 - shut down due to call center
+	 - close to something
+	 - sell the product vs 
+ - second company
+ - dont tell brittnay
+ - raise seed in jan/feb
+ - dont want pple to know 
+	 - 
+
+## palette.dev - amila welihinda
+
+- YC got in
+- raised 1.3m
+- oss for 8 years
+	- electtron  react boilerplate
+		- consulting
+		- optimized shitty slow electron apps. used to take 20s to startup
+	- linting
+	- js infra background
+	- realized real user monitoring
+- perf eng at aws
+	- cut render time in half - not related to profiling, but learned to MEASURE EVERYTHING
+	- so many webapps slow, vscode
+	- biz interest to make these apps fasts
+- prototype of chrome devtools powered by end user session to make perf debugging really easy
+	- feels too easy
+	- session replay but from devtools
+	- replay frames, stack traces, profile the frontend with <1% overhead
+- tauri gonna run into a few issue
+	- have to rebuild chrome
+	- size of application being downloaded
+- traction
+	- past series B
+		- video conf platforms/whiteboarding
+		- will be integrating with steve ruiz
+		- some interest with notion
+			- we will be readdy for notion in 6 months 
+			- every click, function call
+				- between start/stop api
+				- decide sampling rate - 1%, 2%
+			- "we are like amplitude"
+- used firefox profiler to get it working
+- work in both the browser and electron
+	- tldraw
+	- leftonread (YC company)
+		electron
+		can see latency in render process
+- can see jank, render flamegraphs
+- have prototype working for serverless nodejs context
+	- no one is profiling nextjs in vercel, not even datadog
+- can offer serverside view and clientside view side by side
+- who are you competing with?
+	- competing with chrome devtools
+	- sentry doesnt profile the web. no company is profiling the web
+	- profiler is a program that samples the stack of a program at time intervers
+		- or tracing <- sentry does this
+	- "palette is a true profiling solution"
+		- you cant think of a profile without function calls
+	- replay.io -> doesnt profile produciton
+		- debugging, not performance
+- developers want a profiler
+	- in CI/CD
+	- based on real user data - the most valuable data
+	- anything other than real user metrics are proxy for UX
+- team
+	- first hire last week
+	- 1 contractor for a while
+	- hiring aggressively
+	- now because have demo
+- stack
+	- static analysis in TS
+	- migrating to rust
+	- graphql, prisma
+	- nextjs
+	- supabase
+		- pg+timescaledb => timescale cloud
+		- didnt like influxdb
+	- vitess thru planetscale
+		- moved off -> a lot of requirements for ts data
+	- why not clickhouse
+		- want to reduce tools that we use
+		- timescale can query 20m records in a second bc everything fetched from disk in materialized view
+		- didnt want all events in separate stack
+		- 2 weeks retention
+- deal -> SAFE
+- want VC?
+	- bootstrapped too slow
+- size of mkt - growing. increasing imptnce
+	- top new alternatives to ddog
+	- modern profiler - sentry kind of a toy
+	- profiling on the web
+
+
 ## tldraw visit
 
 okso.app

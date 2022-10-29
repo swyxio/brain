@@ -15,6 +15,7 @@
 	- twitter follower curation https://twitter.com/levelsio/status/1397841228079636484?s=21
 - Read experience
 	- search + autocategorize bookmarks 
+		- https://twitter.com/Rahuligma/status/1586140970927607808
 	- subscribe to tweet
 - Finite scrolling https://twitter.com/ded/status/1312944534146355203?s=20
 - - fix twitter Lists https://twitter.com/copyconstruct/status/1352676614341939201?s=20
@@ -25,6 +26,8 @@
 	- https://twitter.com/chrisjbakke/status/1355979441021702144?s=21
 	- https://twitter.com/Post_Market/status/1355973725187842051?s=20
 	- https://twitter.com/transitive_bs/status/1355967879175430144?s=20
+	- marking as unread https://twitter.com/tlakomy/status/1586229041467645952?s=20&t=sEMajB5b6p3ehD2PAfH9zA
+	- reaction emojis https://twitter.com/jhooks/status/1586388681375756288?s=20&t=sEMajB5b6p3ehD2PAfH9zA
 - spamblock
 	- https://twitter.com/fixitup2/status/1571196060994834435
 	- regex muting https://twitter.com/leoebfolsom/status/1531888370145644546?s=21&t=WJORvdw2EyoLB1ChjQ8NpA

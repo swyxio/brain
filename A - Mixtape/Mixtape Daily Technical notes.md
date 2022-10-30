@@ -20,16 +20,17 @@ data https://overcast.fm/+HZUdM_IVQ/15:00 seperate postgres serverless compute
 ## ai
 
 
-https://overcast.fm/+6K1FhII5Y/10:00 copilot explanation
-- copilot paper https://overcast.fm/+xs-qU9hPo/05:09
-- 
-
 
 
 
 ## data
 
 
+explaining dbt https://overcast.fm/+389UaK4Z0/36:01 
+
+dbt as a standard https://overcast.fm/+skksvRJck/15:00
+
+criticism of dbt https://overcast.fm/+H1YOs51JQ/30:00
 
 data apps, youtube convo with benn stancil https://overcast.fm/+rNB-JGk9Q/1:10:00
 
@@ -63,12 +64,6 @@ https://overcast.fm/+IexfoKBtc why airflow 24 mins
 
 vitess features https://overcast.fm/+HZUc8rncY 15ish mins
 
-
-explaining dbt https://overcast.fm/+389UaK4Z0/36:01 
-
-dbt as a standard https://overcast.fm/+skksvRJck/15:00
-
-criticism of dbt https://overcast.fm/+H1YOs51JQ/30:00
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 

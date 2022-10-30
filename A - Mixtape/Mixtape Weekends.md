@@ -14,7 +14,7 @@ stripe dev chat
 
 kp podcast coming https://www.youtube.com/watch?v=-oTmQhagN4k&feature=youtu.be
 
-https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/learning-in-public-with-swyx/
+
 
 
 eddie hinkle web joy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx

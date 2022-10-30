@@ -21,6 +21,7 @@ email marketing and automation
 
 - https://www.mailerlite.com/ can use for email course
 - klaviyo,  see [Sendlane](https://techcrunch.com/2021/07/22/sendlane-raises-20m-to-convert-shoppers-into-loyal-customers/), [Sendinblue](https://techcrunch.com/2020/09/30/frances-sendinblue-an-all-in-one-digital-marketing-platform-raises-160m/) and [Cordial](https://techcrunch.com/2022/07/26/cordial-which-personalizes-and-automates-cross-channel-messaging-campaigns-raises-50m/)
+- http://motionmailapp.com/ countdown timers , recommended by https://overcast.fm/+6Kv_YQr4g/25:00
 
 Self hosted
 

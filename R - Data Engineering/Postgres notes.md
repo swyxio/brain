@@ -28,6 +28,7 @@ https://news.ycombinator.com/item?id=32241820 with warnings
 	- timescaledb
 		- https://news.ycombinator.com/item?id=29096541
 	- influx?
+		- influxdb IOx the new rust + arrow core https://twitter.com/pauldix/status/1585291514728435712 not open source yet, cloud only
 	- why time series special category? https://www.xaprb.com/blog/2014/06/08/time-series-database-requirements/
 - OLAP
 	- Clickhouse

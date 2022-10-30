@@ -54,11 +54,13 @@ ffmpeg tools
 - https://github.com/cshum/imagorvideo
 - https://ffmpeg.guide/
 - http://dranger.com/ffmpeg/
+	- replaced by https://github.com/leandromoreira/ffmpeg-libav-tutorial
 - https://wiki.archlinux.org/title/FFmpeg
 - ffmpeg js http://bgrins.github.io/videoconverter.js/
-- https://github.com/leandromoreira/ffmpeg-libav-tutorial
+- 
 - https://twitter.com/ID_AA_Carmack/status/1258531455220609025
 - https://ffmpegfromzerotohero.com/
+- 
 
 
 

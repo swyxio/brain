@@ -11,6 +11,9 @@ mr beast https://overcast.fm/+borZiAPiQ/5:00 money
 
 copywork https://overcast.fm/+L9fjEpsvw/12:00
 
+substack recommendations
+https://overcast.fm/+6K1EndFmQ/22:59
+
 
 anchor on clubhouse https://overcast.fm/+3Ag9-yd20/59:53
 

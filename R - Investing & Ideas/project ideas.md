@@ -1,10 +1,23 @@
-Proof for SaaS
+Proof (useproof.com) for SaaS
 - calculate amount of time saved, translate to dollars
 - calculate funnel and show benchmarks
 - show personalized recommendations
 
+## devtools ideas
 
-## aigrant
+- error codes startup
+	- "new stackoverflow"
+	- every error should have a code, should have an immutable url, should have comments and decision tree
+	- useful for sentry?
+- i18n startup
+	- nobody wants to do i18n
+	- but everyone can throw money at it
+	- annoying to templatize all the things
+	- very impt to let readers contribute fixes easily
+	- i18n with ai?
+	- but not sure i care about this problem enough
+
+## aigrant ideas
 
 - company smart index https://www.swyx.io/smart-indexes/
 - duolingo for code
@@ -28,7 +41,8 @@ Proof for SaaS
 
 ## misc
 
-better question "Computers are useless. They can only give you answers" - Pablo Picasso (1964)
+better question startup
+- "Computers are useless. They can only give you answers" - Pablo Picasso (1964)
 
 atomic database
 - not row not column. but doubly linked row and column

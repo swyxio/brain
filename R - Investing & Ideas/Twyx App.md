@@ -39,6 +39,7 @@
 		- https://twitter.com/the_mmw/status/1504102712052494343?s=21
 		- https://twitter.com/isamlambert/status/1576266214380224512
 		- block visual memes https://www.theverge.com/2021/7/15/22579138/twitter-block-meme-feature-topics-photo-cannes-bill-murray
+	- mutes sometimes get dropped https://twitter.com/altluu/status/1505586471423545346?s=46&t=-MUEMOlvZ4PLBwaqtKMAiQ
 	- Twitter filter bot - #179 – Making $280k in Four Weeks with Traf. Episode: https://share.transistor.fm/s/270b855b. 
 - play video at 2x (this is slow: https://twitter.com/MarceloPLima/status/1551717203245940736)
 - filtered searches saved as channels https://thesephist.com/posts/lucerne/

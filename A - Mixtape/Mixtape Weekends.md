@@ -4,6 +4,8 @@ nystudio107 devmode.fm
 
 INFOQ https://soundcloud.com/infoq-channel/interview-shawn-swyx-wang
 
+cascadiajs talk
+
 mongodb podcast day https://podcasts.mongodb.com/public/115/The-MongoDB-Podcast-b02cf624/55dbf587
 
 infoshare poland https://www.youtube.com/watch?v=aZnzzMbA7Vg

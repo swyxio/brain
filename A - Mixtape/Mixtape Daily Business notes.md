@@ -24,11 +24,8 @@ https://overcast.fm/+43mcqo9GA/05:08
 
 adam jacob on oss license https://overcast.fm/+oUqCvAw2g/25:00
 
-amazon prfaq and soa move https://overcast.fm/+s2u9iW3f8/23:52
 
-amazon database catalog - reddit two tables story https://overcast.fm/+s2u97oNpc/30:00 (right after asin story)
 
-amazon just do it austin powers award https://overcast.fm/+s2u9FhVmY/43:00 mins bias for action
 
 
 copying amazkn prime https://overcast.fm/+4pgtbI8-4/17:00 - 28mins ish

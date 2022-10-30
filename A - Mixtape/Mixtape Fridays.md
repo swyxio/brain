@@ -55,7 +55,6 @@ https://youtu.be/8ZhjXnkwirM eva from cheryl potter
 
 Tim minchin thank you god https://youtu.be/IZeWPScnolo ginger https://youtu.be/KVN_0qvuhhw
 
-https://youtu.be/iOGsqVTy9qM Hits of 2019 | VoicePlay A Cappella
 
 - alicia https://youtu.be/obkrMiyDrbs
 	- love yourself https://youtu.be/iC_yRxEsbJM

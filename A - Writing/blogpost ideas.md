@@ -7,6 +7,7 @@
 	- need transactions
 - nosql 
 	- reference the reddit has two tables post
+	- https://news.ycombinator.com/item?id=32407873
 - graphql
 	- query planning, caching, query cost, auth
 - redux

@@ -26,10 +26,6 @@ data https://overcast.fm/+HZUdM_IVQ/15:00 seperate postgres serverless compute
 ## data
 
 
-explaining dbt https://overcast.fm/+389UaK4Z0/36:01 
-
-dbt as a standard https://overcast.fm/+skksvRJck/15:00
-
 criticism of dbt https://overcast.fm/+H1YOs51JQ/30:00
 
 data apps, youtube convo with benn stancil https://overcast.fm/+rNB-JGk9Q/1:10:00

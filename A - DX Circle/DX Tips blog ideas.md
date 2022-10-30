@@ -493,6 +493,9 @@ https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/
 - > More importantly, we believed that the history of desktop software contained clues to which types of software would be converted first: productivity applications (late 70s/early 80s), then enterprise applications, graphic design & desktop publishing, and finally personal finance
 - As someone who had spent significant time in grad school on computer graphics, my initial reaction was very negative. In my mind, graphic design was incredibly compute intensive, to the point where professionals used highly optimized $10K workstations, multiple GPUs, and optimized data storage to get the local performance they desired.
 
+- the subculture https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures
+
+
 ## breaking out of the devrel comfort zone
 
 - i didnt really think about headless ecommerce cms vs shopify

@@ -24,6 +24,7 @@ Proof (useproof.com) for SaaS
 	- problem - gpt3 and codex coming up with problems is not as good as curated problems
 - useless software
 	- https://twitter.com/threepointone/status/1571162461033664512
+	- anti active usage software https://www.youtube.com/watch?v=BT9hUusNKQ8&t=3s
 - data startup
 	- use data catalog and semantic layer
 	- turn natural language into sql

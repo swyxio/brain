@@ -13,11 +13,13 @@
 	- andy matuschak - brainstream safe twitter https://twitter.com/andy_matuschak/status/1388202710852423688?s=21
 - Antispam
 	- twitter follower curation https://twitter.com/levelsio/status/1397841228079636484?s=21
+	- byo algorithm https://twitter.com/fchollet/status/1586876392201125888?s=46&t=iXxtaylzz_34sIuiy1HhoA
 - Read experience
 	- search + autocategorize bookmarks 
 		- https://twitter.com/Rahuligma/status/1586140970927607808
 	- subscribe to tweet
 - Finite scrolling https://twitter.com/ded/status/1312944534146355203?s=20
+- search tweets you have seen https://twitter.com/bantablack/status/1586080710468648960?s=46&t=8OKLiuWuqo9rH2N_33wTKQ
 - - fix twitter Lists https://twitter.com/copyconstruct/status/1352676614341939201?s=20
 - paulg twitter 2.0 - edit button, real ID verification
 	- https://twitter.com/paulg/status/1329717349335920641?s=20
@@ -49,6 +51,7 @@
 - see unfollows and muted https://overcast.fm/+SuyH7yKic 49mins
 - antitracking https://twitter.com/rauchg/status/1578409287746875392?s=46&t=DXymnS37h6tckjV5wdac2Q
 - long schedule reply https://twitter.com/sytses/status/1581069666025234432?s=46&t=cSXyz04d66zWjYgg0x6f6g
+- drafts sucking xplatform https://twitter.com/orpheomancer/status/1586141063038881793?s=46&t=8OKLiuWuqo9rH2N_33wTKQ
 
 ## Interesting user behavior to model
 

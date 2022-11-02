@@ -16,3 +16,6 @@ seeing like a state and pseudonymous economy https://overcast.fm/+eZyAU-ayE/1:01
 
 
 guided metacognition. gay and happiness https://overcast.fm/+5K6YYLkro/27:45 until 38 mins megan phelps roper til 41mins end
+
+astronomer heidi
+https://overcast.fm/+Q_Ssok/20:00 fascinating person

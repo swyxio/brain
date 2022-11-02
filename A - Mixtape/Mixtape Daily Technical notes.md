@@ -9,6 +9,9 @@ https://greylock.com/greymatter/powering-the-multi-cloudparadigm/ decompsotions 
 
 https://overcast.fm/+cEzDxujbc/12:52 end of localhost - criticism
 
+https://overcast.fm/+g__4Z_-CM/37:00 modal infra from erik bernhardsson
+
+
 ## distsys
 
 https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queue - 2011 kafka, using zookeeper for leader election, now rolling out kRaft

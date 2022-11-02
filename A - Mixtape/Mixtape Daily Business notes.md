@@ -25,7 +25,7 @@ https://overcast.fm/+43mcqo9GA/05:08
 adam jacob on oss license https://overcast.fm/+oUqCvAw2g/25:00
 
 
-
+home depot and covid https://overcast.fm/+rra4FwC98/29:08
 
 
 copying amazkn prime https://overcast.fm/+4pgtbI8-4/17:00 - 28mins ish

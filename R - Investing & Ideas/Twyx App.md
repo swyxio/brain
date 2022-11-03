@@ -15,6 +15,7 @@
 	- twitter follower curation https://twitter.com/levelsio/status/1397841228079636484?s=21
 	- byo algorithm https://twitter.com/fchollet/status/1586876392201125888?s=46&t=iXxtaylzz_34sIuiy1HhoA
 		- https://twitter.com/amasad/status/1586078936143867904?s=20&t=l_wRFZNlyDgzFWYG7gm5cg
+		- https://news.ycombinator.com/item?id=33458815
 - Read experience
 	- search + autocategorize bookmarks 
 		- https://twitter.com/Rahuligma/status/1586140970927607808

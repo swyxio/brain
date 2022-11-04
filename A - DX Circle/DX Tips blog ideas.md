@@ -17,6 +17,11 @@ opentelemetry
 - https://twitter.com/MichaelTrazzi/status/1579179852670074880
 - 
 
+## prompt battles
+
+https://twitter.com/alexabruck/status/1587108608482869251
+
+
 ## agi hard
 
 broken barriers

@@ -162,3 +162,8 @@ Blogpost idea generator
 - dx hq - dx
 - emoji/clipboard thing
 - notion api thing
+
+
+infra company
+- [all the things stopping your from prototype to production ](https://twitter.com/jwynia/status/1587095193530023937)
+- 

@@ -4,6 +4,8 @@ sam lambert https://overcast.fm/+oUqBkopko/24:00 dx is not api or cli. its did t
 
 cli commands https://twitter.com/MichaelDwan/status/1583557379677130752?s=20&t=aKevm3oGdJc7uuZFw9LonA
 
+autoformatter https://notes.crmarsh.com/python-tooling-could-be-much-much-faster
+
 ## standards that made things 100x easier
 
 SAFEs
@@ -499,6 +501,14 @@ https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/
 - As someone who had spent significant time in grad school on computer graphics, my initial reaction was very negative. In my mind, graphic design was incredibly compute intensive, to the point where professionals used highly optimized $10K workstations, multiple GPUs, and optimized data storage to get the local performance they desired.
 
 - the subculture https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures
+
+
+late stage chasm
+- single verticcal
+- hortziontalised solution. landscape charts
+- then low code no code forms
+- apple integration forms
+
 
 
 ## breaking out of the devrel comfort zone

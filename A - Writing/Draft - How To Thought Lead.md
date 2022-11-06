@@ -30,6 +30,8 @@ remind people of what is most important than what they usually talk about
 mastery = consistently simplify correctly
 
 name things
+- trust thermocline https://twitter.com/garius/status/1588115310124539904
+- with good timing!!
 
 draw things
 

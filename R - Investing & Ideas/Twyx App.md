@@ -1,5 +1,7 @@
 ## Feature requests
 
+- verticalize twitter
+	- https://twitter.com/balajis/status/1588829269094207488?s=20&t=lBW9WX_zha0esD-ha0TlYQ
 - CRM
 	  - profile notes https://twitter.com/jessfromonline/status/1375456777983115267?s=21
 	  - location search 

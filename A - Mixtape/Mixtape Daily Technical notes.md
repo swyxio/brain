@@ -12,6 +12,8 @@ https://overcast.fm/+cEzDxujbc/12:52 end of localhost - criticism
 https://overcast.fm/+g__4Z_-CM/37:00 modal infra from erik bernhardsson
 
 
+openstack vs kubecon cncf https://overcast.fm/+RrQZlFWI
+
 ## distsys
 
 https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queue - 2011 kafka, using zookeeper for leader election, now rolling out kRaft
@@ -29,7 +31,7 @@ data https://overcast.fm/+HZUdM_IVQ/15:00 seperate postgres serverless compute
 ## data
 
 
-criticism of dbt https://overcast.fm/+H1YOs51JQ/30:00
+https://overcast.fm/+wcMr4E4dE/22:00 data ecosystem consolidation
 
 data apps, youtube convo with benn stancil https://overcast.fm/+rNB-JGk9Q/1:10:00
 

@@ -39,6 +39,12 @@ music
 - symphony orchestra https://twitter.com/cperciva/status/1534755878984855553?s=21&t=9M97pYAvkQtRQptcb40VkA
 - music commissioning calculators https://nmbx.newmusicusa.org/commissioning-fees-calculator/
 
+
+branding agencies
+
+- metalab
+- https://www.overnice.com/ - small agency that did brand design for Prisma and for GraphCDN/Stellate. Overnice will be doing all the design and most of the implementation.
+
 misc
 
 - https://mobile.twitter.com/tonika_carter worked on shanselman YouTube 

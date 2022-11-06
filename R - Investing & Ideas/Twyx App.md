@@ -78,6 +78,8 @@
 
 ## misc notes
 
+patticus feature ranking https://twitter.com/Patticus/status/1587848977826938882?s=20&t=5XgRsqxFmTEJJa0gTssZQQ
+
 https://youtu.be/7ID64AEbl-0
 
 ungroomed product twitter feedback https://twitter.com/michaelsayman/status/1511118331234893828?s=20&t=zA629sjDdf4TDtobuJSKsg

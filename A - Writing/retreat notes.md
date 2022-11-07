@@ -8,12 +8,15 @@ logistics
 - covid 
 - wifi. hashnode setup
 - code of conduct
-- Organise feedback sessions
+- -- Organise feedback sessions
 - evening
 - entertainment
 - discord
 - afternoon sessions
 - unconference on friday
+- numbering
+	- skip 5 and 14 and 18
+	- 
 
 
 exercise

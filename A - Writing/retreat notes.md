@@ -1,11 +1,14 @@
 objectives
-- not a workshop
+- not a workshop. **The main aim of a writing retreat is to write**.
 - here to get better and ship thing you wouldnt have
 - community of writers with similar goals
+- http://www.docs.hss.ed.ac.uk/iad/Researchers/Research_staff/Writing_facilitators%20guide_web.pdf
 
 logistics 
-- covid
+- covid 
+- wifi. hashnode setup
 - code of conduct
+- Organise feedback sessions
 - evening
 - entertainment
 - discord
@@ -18,7 +21,11 @@ exercise
 - write 
 1. ​What is one tech (large or small) that has changed your life?
 2. ​What are you weirdly expert about outside of work?
-3. ​What blogpost or article is permanently stuck in your head?
+3. ​What blogpost or article is permanently stuck in your head? 
+- why
+	- you can write interesting things in a very short time
+	- throwaway stuff
+	- but still publish!
 
 
 habits

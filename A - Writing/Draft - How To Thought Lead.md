@@ -14,6 +14,7 @@
 - have an opinion on everything
 
 
+
 ----
 
 defense to offense

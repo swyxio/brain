@@ -1,8 +1,12 @@
+## sticky
+
 objectives
 - not a workshop. **The main aim of a writing retreat is to write**.
 - here to get better and ship thing you wouldnt have
 - community of writers with similar goals
 - http://www.docs.hss.ed.ac.uk/iad/Researchers/Research_staff/Writing_facilitators%20guide_web.pdf
+
+## day 1
 
 logistics 
 - covid 
@@ -14,9 +18,6 @@ logistics
 - discord
 - afternoon sessions
 - unconference on friday
-- numbering
-	- skip 5 and 14 and 18
-	- 
 
 
 exercise
@@ -30,11 +31,58 @@ exercise
 	- throwaway stuff
 	- but still publish!
 
+## day 2 - titles, topics, and formats
+
+- morning - haiku exercise 1 https://docs.google.com/document/d/151YYn0KuWAcgY6Am1FeA0mGWnFgiTFu-mqpArU3k2tE/edit?usp=sharing
+- why titles impt
+	- show list of hn, js newsletter
+	- 60% of people only read headlines https://www.washingtonpost.com/news/the-fix/wp/2014/03/19/americans-read-headlines-and-not-much-else/?fbclid=IwAR0vtYoHeyDwBEapvzCPsnvn-L9vXAe8oJj5zvRbvjnWDN_ds-pftwcdou0
+	- word choice, syllable count matters
+	- setup slido
+		- articles on javascript
+		- articles on redesign
+		- attendee articles
+	- Good titles 
+		- The Day You Became A Better Writer
+		- Five Ways to Write Like The Economist
+		- 10 years of professional blogging – what I’ve learned
+		- The Most Successful Email I Ever Wrote
+		- 
+- today we're practicing titles
+	- titles help people decide whether to read
+	- titles help people share your work
+	- titles are a promise
+	- https://andrewchen.com/professional-blogging/
+		- > Titles are 80% of the work, but you write it as the very last thing. It has to be an compelling opinion or important learning
+		- Titles are often written as a vague pre-thought, but in fact, it’s the most important creative decision you’ll make. Titles are the text that’ll be featured prominently in every tweet, Facebook share, and link – and people will refer to it by name. Titles are best when they can pass the “naked share” test – imagine some text that’s so compelling that even if it’s not linked to anything, people will want to share it.
+		-  To pass the naked share test, this means a title should be an opinion on its own. Or be a factoid (like push notifs being 40%+ CTR) that’s fascinating and shareable. Or if that’s just too hard, the common “curiosity gap” pattern of a listicle can work too.
+- Exercise 2.2 write 3 titles for 3 articles you will write this week
+	- so total 9 titles
+- Topics
+	- Craft of Writing Effectively: code words that signal value
+	- first thing in the infra list: 
+- Formats
+	- Straightforward but address the primary concern
+		- The Guide to Remote Work That *Isn't Trying to Sell You Anything*
+		- How to Get Rich (*without getting lucky*)
+		- How to Market Yourself (without Being a Celebrity) https://twitter.com/swyx/status/1249793388037025797?lang=en
+	- **Superlatives**: An interesting story about the first/last/best/worst experience when you did X. You see a lot of these in Rachelbythebay's work ([https://hn.algolia.com/?dateRange=all&page=0&prefix=false&qu...](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=https%3A%2F%2Frachelbythebay.com%2F&sort=byPopularity&type=story)) . Mtlynch focuses more on documenting his journey semi-realtime ([https://hn.algolia.com/?dateRange=all&page=0&prefix=false&qu...](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=mtlynch.io&sort=byPopularity&type=story))
+	- **Data & News**: This is a lot of work but collect data for yourself and publish it for others and others will find that useful. This is the strategy I am adopting for AI stuff [https://lspace.swyx.io/p/open-source-ai](https://lspace.swyx.io/p/open-source-ai). Dan Luu does this a lot to back up his work [https://danluu.com/](https://danluu.com/) The cutting edge of data is news, and you can see this on Gergely's substack ([https://blog.pragmaticengineer.com/](https://blog.pragmaticengineer.com/)) but you're basically a journalist at that point
+	- **How $POPULAR_THING Works**: This is Fly.io's ([https://hn.algolia.com/?dateRange=all&page=0&prefix=true&que...](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=fly.io%20sqlite&sort=byPopularity&type=story)) and Alex Xu's strategy [https://blog.bytebytego.com/](https://blog.bytebytego.com/)
+	- **Listicle** works well :).. but an organized listicle is an overview
+	- **Overviews**: What your part of the dev ecosystem looks like to you. It'll never be perfect, it can't be. Some folks on HN will tear you to shreds for missing something obvious. But it will be immensely helpful to people just behind you in experience. See: How I write backends ([https://news.ycombinator.com/item?id=22106482](https://news.ycombinator.com/item?id=22106482)), The evolution of the data engineer ([https://news.ycombinator.com/item?id=33317126](https://news.ycombinator.com/item?id=33317126)), and my AWS vs Cloudflare post ([https://news.ycombinator.com/item?id=28903982](https://news.ycombinator.com/item?id=28903982)). Overviews become "Insights" when you can successfully reframe something in a new light that is useful for people to understand what is going on.
+	- **Predictions/Wishlists**: What is missing from your part of the ecosystem. The complement of the above. You can also invert it into a complaint post, like [https://circleci.com/blog/its-the-future/](https://circleci.com/blog/its-the-future/) or [https://hackernoon.com/how-it-feels-to-learn-javascript-in-2...](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f) but those are less constructive if entertaining
+	- Principles: Timeless things, a superset of the previous two points. See rauchg (Nextjs cocreator - [https://news.ycombinator.com/item?id=8559519](https://news.ycombinator.com/item?id=8559519)) and dan abramov (react core team - [https://news.ycombinator.com/item?id=18792373](https://news.ycombinator.com/item?id=18792373)
+	- "Beat up the biggest guy in the prison" https://stratechery.com/2013/clayton-christensen-got-wrong/
+	- Meme
+
+
+## infra list
 
 habits
 - second brain - notes, timelines, drafts, ideas
-- noticing what works
-- noticing what makes people click
+- noticing what topics work
+- noticing what titles make people click
 	- what does everyone want
 
 principles 

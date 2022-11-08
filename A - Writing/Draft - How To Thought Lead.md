@@ -2,6 +2,7 @@
 - know what people want
 	- immediate/instinctive response
 	- aspirational response
+		- - Ralph Waldo Emerson -Our chief want is someone who will inspire us to be what we know we could be
 	- humorous response
 	- in other words: https://twitter.com/chrishlad/status/1375501424830865415?s=20&t=_OvgUKJ6uzSJhOyK6vudow
 		- WOW: i didn't know this is a thing or they make that much $ 
@@ -11,7 +12,6 @@
 		- EPIC: trick shots 
 		- NSFW: sextape / crazy fight 
 		- OHH: finally understand what confused me
-	- Ralph Waldo Emerson -Our chief want is someone who will inspire us to be what we know we could be
 	- https://answerthepublic.com/ for SEO research version of this
 	- https://twitter.com/gregisenberg/status/1412074725195538441?s=21
 	- https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/

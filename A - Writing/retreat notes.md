@@ -101,14 +101,16 @@ Today is a 2-parter that makes sense as a whole. If people are interested, we mi
 
 First we study our Craft: elements of good writing from other authors.
 
-- David Perell - [Make it POP](https://perell.com/essay/the-ultimate-guide-to-writing-online/#make-it-pop)
-- Gary Provost - [This Sentence Has Five Words](https://www.aerogrammestudio.com/2014/08/05/this-sentence-has-five-words/)
 - Paul Graham - [How to Write Usefully](http://www.paulgraham.com/useful.html) (importance + novelty + correctness + strength)
 - Ahmed Soliman - [Writing tools I learned from The Economist](https://web.archive.org/web/20220206122727/https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
 - William Deresiewicz - [Solitude and Leadership](https://theamericanscholar.org/solitude-and-leadership/)
 - Julia Evans - [Write A Brag Document](https://jvns.ca/blog/brag-documents/)
 - Rachel Kroll - [RachelByTheBay](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rachelbythebay.com&sort=byPopularity&type=story) (see: [Duck](https://rachelbythebay.com/w/2013/06/05/duck/))
 - Antonio García Martínez - [Gonzo style](https://www.goodreads.com/author/quotes/14781763.Antonio_Garc_a_Mart_nez)
+
+
+- David Perell - [Make it POP](https://perell.com/essay/the-ultimate-guide-to-writing-online/#make-it-pop)
+- Gary Provost - [This Sentence Has Five Words](https://www.aerogrammestudio.com/2014/08/05/this-sentence-has-five-words/)
 - [Public Narrative](https://dash.harvard.edu/bitstream/handle/1/30760283/Public-Narrative-Worksheet-Fall-2013-.pdf) - [Obama](https://twitter.com/TrungTPhan/status/1362787684540801026), [Bezos](https://twitter.com/TrungTPhan/status/1362787689280327681), [Musk](https://twitter.com/TrungTPhan/status/1303038649349541888), [Tenev](https://twitter.com/TrungTPhan/status/1362787694418354179)
 
 Build a [Swipe File](https://smartblogger.com/swipe-file/) of your mentors!

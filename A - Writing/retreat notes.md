@@ -206,19 +206,20 @@ principles
 
 ## priority stack + jobs to be done
 
-- do interesting things offline + announce them
-- provide insights + state an opinion others can quote 
-- thought leading
-	- opinion on the future, present, past
-	- name things
-	- better facts than everyone else
-- do work for others
+- S: do interesting things offline + announce them
+- A:  provide insights + state an opinion others can quote 
+	- thought leading
+		- opinion on the future, present, past
+		- name things
+		- better facts than everyone else
+- B: do work for others
 	- news
 	- collect data
 - …
-- notes for past you (that are really others)
-- notes for future you
-- what you felt like doing today
+- C - self serving
+	- notes for past you (that are really others)
+	- notes for future you
+	- what you felt like doing today
 
 
 

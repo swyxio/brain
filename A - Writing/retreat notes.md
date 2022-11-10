@@ -180,7 +180,7 @@ Special AI workshop
 ## day 4 - Marketing and SEO
 
 - hub n spoke, light house, particle wave
-- bottom up idea exploration
+- [bottom up idea exploration](https://www.swyx.io/bottom-up-ideas)
 - https://bloggingfordevs.com/link-building-strategies/
 - https://backlinko.com/technical-seo-guide
 - Gonto checklist

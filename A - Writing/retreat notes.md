@@ -224,7 +224,7 @@ principles
 - B: do work for others
 	- news
 	- collect data
-- …
+- …[]()
 - C - self serving
 	- notes for past you (that are really others)
 	- notes for future you

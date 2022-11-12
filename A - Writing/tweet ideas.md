@@ -47,6 +47,9 @@ seeing the matrix moment as a developer
 - everything was made by people no smarter than you - jobs
 - node_modules
 
+
+personal time use https://twitter.com/sahilbloom/status/1591424548280610816?s=46&t=s1WuYqXIxZ7KIJ1T3J0NTg
+
 https://twitter.com/G_S_Bhogal/status/1225561131122597896
 https://twitter.com/G_S_Bhogal/status/1438972527838117895
 https://twitter.com/TheStoicEmperor/status/1307383169688117253

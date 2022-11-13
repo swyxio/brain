@@ -92,9 +92,11 @@ Deep (?)
 	        - http://oldblog.antirez.com/post/redis-manifesto.html
 	        - data obs https://www.montecarlodata.com/blog-what-is-data-observability/
 	        - https://principles.planetscale.com/
+	        - https://infinitecanvas.tools/
 					- 12 factor app
 					- jamstack
 					- https://principledgraphql.com/
+					- https://www.inkandswitch.com/local-first/
 					- https://www.reactivemanifesto.org/  for lightbend
 - Analogies (useful for nontechnical users)
     

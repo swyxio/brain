@@ -1,3 +1,11 @@
+## reasonable scale devtools
+
+https://towardsdatascience.com/ml-and-mlops-at-a-reasonable-scale-31d2c0782d9c
+
+
+
+
+
 ## dx = speed
 
 sam lambert https://overcast.fm/+oUqBkopko/24:00 dx is not api or cli. its did they go fast

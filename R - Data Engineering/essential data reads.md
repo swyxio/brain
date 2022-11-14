@@ -8,6 +8,7 @@ python vs sql
 concepts
 - Data Mesh https://martinfowler.com/articles/data-monolith-to-mesh.html
 - instrumenting event analytics https://www.reforge.com/blog/why-most-analytics-efforts-fail
+- feature store https://feast.dev/blog/what-is-a-feature-store/
 
 industry meta
 - https://benn.substack.com/p/analytics-is-at-a-crossroads

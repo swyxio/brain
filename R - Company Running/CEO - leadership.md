@@ -54,3 +54,8 @@ https://www.wave.com/en/blog/early-execution/
 -   Don’t do bullshit work
 -   Hold effective 1-on-1s
 -   Explain the reasoning, not just the outcome
+
+
+
+
+hired ceo comp https://twitter.com/girdley/status/1591797487756378113?s=46&t=tFHokfQEyiGQFzzReo4toA

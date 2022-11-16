@@ -1,3 +1,5 @@
+Mochary method ceo coaching https://docs.google.com/document/d/1fDVpl-9Rvq3uNHLhSb4v4x8l2uQKYbN6UN7QVwT-lfQ/edit?usp=sharing
+
 https://twitter.com/theryanking/status/1475122757117653003?s=21
 
 https://www.scaleworks.com/the-saas-playbook

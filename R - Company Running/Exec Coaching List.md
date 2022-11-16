@@ -20,5 +20,6 @@ jerry neumann
 - https://angelaparker.com/ rec from brandon bayer
 - strong recommendation from lola from base health — https://mobile.twitter.com/schlaf?lang=en
 
+Mochary method ceo coaching https://docs.google.com/document/d/1fDVpl-9Rvq3uNHLhSb4v4x8l2uQKYbN6UN7QVwT-lfQ/edit?usp=sharing
 
 there is a startup called Sounding Board that tracks exec coaching!

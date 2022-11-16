@@ -104,6 +104,7 @@ First we study our Craft: elements of good writing from other authors.
 - Paul Graham - [How to Write Usefully](http://www.paulgraham.com/useful.html) (importance + novelty + correctness + strength)
 - Ahmed Soliman - [Writing tools I learned from The Economist](https://web.archive.org/web/20220206122727/https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
 - William Deresiewicz - [Solitude and Leadership](https://theamericanscholar.org/solitude-and-leadership/)
+- Hillel Wayne - [Why do we call it Boilerplate?](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/) - (his [newsletter](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=buttondown.email%2Fhillelwayne&sort=byPopularity&type=story))
 - Julia Evans - [Write A Brag Document](https://jvns.ca/blog/brag-documents/)
 - Rachel Kroll - [RachelByTheBay](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rachelbythebay.com&sort=byPopularity&type=story) (see: [Duck](https://rachelbythebay.com/w/2013/06/05/duck/))
 - Antonio García Martínez - [Gonzo style](https://www.goodreads.com/author/quotes/14781763.Antonio_Garc_a_Mart_nez)

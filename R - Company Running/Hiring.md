@@ -6,7 +6,7 @@ general
 - https://carta.com/blog/how-to-hire/
 
 
-
+3 mistakes of hiring https://overcast.fm/+eZyBPHAXc/2:20:43
 
 Who system for recruiting 
 - https://twitter.com/_shahedk/status/1547228369527324672?s=21&t=fL2gYbAiXFcWKKgGrvI4ew

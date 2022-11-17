@@ -50,6 +50,8 @@ large tech co
 
 
 
+
+
 embedded key value db's
 https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html
 
@@ -59,7 +61,10 @@ HTAP ecosystem
 - https://www.singlestore.com/blog/the-recipe-for-a-singlestore-database/
 	- http://nms.csail.mit.edu/~stavros/pubs/hstore.pdf
 - 
-
+differential dataflow
+- http://michaelisard.com/pubs/differentialdataflow.pdf
+- https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly
+- https://news.ycombinator.com/item?id=33610996
 
 benchmarks
 - https://benchmark.clickhouse.com/

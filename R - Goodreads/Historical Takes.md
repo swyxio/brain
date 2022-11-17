@@ -2,7 +2,14 @@
 
 Hal Finney NFTs in 1993 https://twitter.com/NTmoney/status/1468738424043573249?s=20
 
+## retroactively boring
+
+https://www.openculture.com/2022/08/when-we-all-have-pocket-telephones.html
+- https://news.ycombinator.com/item?id=33591556
+
 ## bad takes
+
+(people who are wrong about the future)
 
 [](https://www.lesswrong.com/posts/BEtzRE2M5m9YEAQpX/there-s-no-fire-alarm-for-artificial-general-intelligence)
 In 1901, two years before helping build the first heavier-than-air flyer, Wilbur Wright told his brother that powered flight was [fifty years away](https://books.google.com/books?id=ldxfLyNIk9wC&pg=PA91&dq=%22i+said+to+my+brother+orville%22&hl=en&sa=X&ved=0ahUKEwioiseChcnWAhWL-VQKHab6AqMQ6AEIJjAA#v=onepage&q=%22i%20said%20to%20my%20brother%20orville%22&f=false).

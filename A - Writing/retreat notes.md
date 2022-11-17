@@ -191,6 +191,7 @@ Special AI workshop
 Exercises:
 - 🚨 Exercise 4.1: Visualize/Illustrate 1-3 of your articles/ideas, using Excalidraw, tldraw.com, or other tool of choice. If you need inspiration, illustrate someone else's essay.
 - 🚨 Exercise 4.2: Schedule 3 social media posts promoting the same article, on Typefully or Buffer. Do not repeat yourself. Use your visuals if it helps!
+	- try again https://twitter.com/Bonecondor/status/1590005373930733571
 - 🚨 Exercise 4.3a: Start a newsletter (Revue, Substack, Convertkit, Buttondown). If you have one already, take some tactics from the reading and apply them for your next issue.
 - 🚨 Exercise 4.3b: Start a writing infra repo. Add timeline, reference list, key tools, list communities, recommended reads.
 

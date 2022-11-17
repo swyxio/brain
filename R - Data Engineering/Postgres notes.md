@@ -62,3 +62,7 @@ https://www.crunchydata.com/developers/playground/
 - Postgres monitoring
 	- https://share.transistor.fm/s/7d72daf7
 	- https://docs.google.com/document/d/1VDMOQemf2XLWSD660GCMXSNC8tMY6Jg5K-nlxM2e2Ps/mobilebasic
+
+## scaling
+
+https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/

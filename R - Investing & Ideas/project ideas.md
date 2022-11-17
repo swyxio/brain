@@ -1,4 +1,7 @@
 
+form autofill
+- gpt3 autofill
+
 embeddable small language models
 - minGPT written in rust? pytorch rust?
 - power every textbox?

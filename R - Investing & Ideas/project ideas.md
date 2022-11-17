@@ -1,3 +1,9 @@
+
+embeddable small language models
+- minGPT written in rust? pytorch rust?
+- power every textbox?
+- power every list?
+
 Proof (useproof.com) for SaaS
 - calculate amount of time saved, translate to dollars
 - calculate funnel and show benchmarks

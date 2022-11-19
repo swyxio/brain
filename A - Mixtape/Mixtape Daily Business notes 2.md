@@ -11,10 +11,6 @@ deel he says it was 20 months from 0 to 100m ARR
 10 mins ish
 https://overcast.fm/+TG-cOA4pM
 
-blockbuster https://overcast.fm/+l2GyND71I/12:00
-
-larry ellison https://overcast.fm/+HBlq_hfIU/42:00 betting on the internet
-
 
 compound startups https://overcast.fm/+Lzu0nNwEk/15:00
 

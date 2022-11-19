@@ -1,3 +1,0 @@
-- https://latacora.micro.blog/2020/03/12/the-soc-starting.html
-- https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/
-- https://scrty.io/

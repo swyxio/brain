@@ -6,6 +6,9 @@ tiago
 - https://overcast.fm/+HFHVPz1co 27mins code
 
 
+gergely orosz https://overcast.fm/+6K1HkR-p0/54:54 how uou get 1k subscribers 
+
+
 mr beast https://overcast.fm/+borZiAPiQ/5:00 money
 
 mr money moustache https://overcast.fm/+6ZHzUap_c/2:04:00 until 2:12

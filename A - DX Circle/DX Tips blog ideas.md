@@ -3,6 +3,9 @@
 https://towardsdatascience.com/ml-and-mlops-at-a-reasonable-scale-31d2c0782d9c
 
 
+## dont call it generative ai
+
+ikya surskever - alex wang talk - 11min 30s - you need tonhave understanding
 
 
 

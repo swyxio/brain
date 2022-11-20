@@ -1,0 +1,52 @@
+https://softwareengineeringdaily.com/2021/08/30/argo-kubernetes-native-tools-with-alex-collins/
+
+- **Cleanup Time**: k8s tasks can be terminated at short notice, only have 30s cleanup time. Argo/Airflow run jobs to completion, take longer
+- **Data management**: batch processing job with large files, want to keep working on the file but the processing might be stopped at any time (can mitigate with retries, memoization, pod disruption budget)
+- **History** - Applatix 2016 acquired by Intuit. Workflow engine for K8S
+- **Why ArgoCD**: 3 things:
+	- Gitops - easy rollback, auditing
+	- Cloud/k8s native - store resources, build controllers, k8s rbac, scaling
+	- argocd adds multitenancy, multicloud capabilities
+- **Usecases for Argo Workflow**
+	- general wf execution platform from k8s
+	- scale - thousands, tens of thousands of tasks
+	- Kubeflow pipelines has argo wfs embedded in it
+	- large files (gb range) - good first class integration with buckets on Azure, GCP, AWS
+	- Infra automation - if ur already on k8s
+	- CI - move off jenkins (edge usecase)
+	- ETL, batch processing, general data handling
+	- ecosystem
+		- Argo Rollouts
+		- Argo CD
+		- Argo WFs
+		- Argo Events
+		- new product: Argo Dataflow - running forever - streaming/continuous workflow
+- **What qualities do people like**
+	- big fanout WFs, offload to cloud infrastructure that scales up 
+	- reliability - bcause k8s ephemeral
+	- easy to get started, dont need to learn a lot of new things beyond k8s, because know RBAC, deployment, pod, logs
+- How Intuit uses
+	- argo wf: just managed solution - just run the workflow
+	- argo cd: one click deploy
+- PreArgo vs Post Argo
+	- ArgoCD and Flux ushered in GitOps on K8s as a norm.
+	- Argo WFs - can check status of WFs via a K8S API, contrasted with k8s job (very simple, not massive fan out)
+- How Argo Works
+	- conroller backend - golang grpc
+	- frontend - react, scss
+	- on frontend - rendering library/suite of components in real time
+		- push based, animated fronted
+	- RESTish API first design, above gRPC
+	- lean heavily on K8s informers - in memory representation of a cluster
+	- k8s operators - listen to changes in cluster and react to them
+- How to define an Argo WF
+	- it is a k8s custom resource called a "workflow"
+		- metadata: namespace
+		- specification - some config for impl, garbage collection, what work it does and ordering
+		- each task has a template
+- Roadmap
+	- infinite workflows
+	- multicluster workflows
+- Comparison
+	- WFs: Temporal, Prefect, Luigi, Airflow
+	- CD: Flux

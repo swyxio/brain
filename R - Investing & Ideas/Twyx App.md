@@ -26,6 +26,7 @@
 - Finite scrolling https://twitter.com/ded/status/1312944534146355203?s=20
 - search tweets you have seen https://twitter.com/bantablack/status/1586080710468648960?s=46&t=8OKLiuWuqo9rH2N_33wTKQ
 	- generative search/semantic search https://twitter.com/ebadgio_/status/1587195731651141632
+	- https://twitter.com/realGeorgeHotz/status/1594790788168294404 request list
 - - fix twitter Lists https://twitter.com/copyconstruct/status/1352676614341939201?s=20
 - paulg twitter 2.0 - edit button, real ID verification
 	- https://twitter.com/paulg/status/1329717349335920641?s=20

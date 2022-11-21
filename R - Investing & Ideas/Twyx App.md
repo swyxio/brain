@@ -65,8 +65,8 @@
 - Run Twitter raffles and mass DMs for opt-in
 	- DM if interested https://twitter.com/JuliaLipton/status/1369347651846742019?s=20 
 - collect responses to a tweet to a CRM/spreadsheet https://twitter.com/galeforceVC/status/1333636385509662721
-
-
+- mastodon 
+	- https://twitter.com/kelseyhightower/status/1594476134296494082?s=46&t=zuG5GJ_BBZu9dom50GL4Zw
 
 
 

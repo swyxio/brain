@@ -26,11 +26,14 @@
 	- create an equation for your industry - a+b = c
 		- create formula https://twitter.com/RomeenSheth/status/1450621347328110593?s=20
 		- derek sivers: https://sive.rs/multiply ideas by execution
+	- add structure to unordered list https://ianmcallister.substack.com/p/what-distinguishes-the-top-1-of-product
 - have an opinion on everything
 	- be first to articulate opinion on everything new
 	- why popular thing everyone likes is actually bad
 	- what everyone gets wrong?
 	- what everyone doesnt understand
+	- how the top/worst performers do their job
+		- https://ianmcallister.substack.com/p/what-distinguishes-the-top-1-of-product
 - demonstrate mastery = consistently simplify correctly
 - name things
 	- with good timing!!
@@ -46,7 +49,6 @@
 	- inbound vs outbound
 	- people say they want X what they really want is Y
 	- remind people of what is most important than what they usually talk about
-- 
 
 
 

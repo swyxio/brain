@@ -6,6 +6,9 @@ ftx collapse https://overcast.fm/+9KZY7WCPk/13:17
 and followup ftx https://overcast.fm/+9KZbdGnvg
 
 
+7 habits review from abdaals https://overcast.fm/+iNRj7BEWc/47:23
+
+
 https://overcast.fm/+QN1qQ6_SQ/47:00 google and facebook algorithm, side doors,making home page, redesign
 
 sexy baby voice https://overcast.fm/+5IlB8K5-0/05:55 lake bell

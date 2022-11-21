@@ -18,6 +18,7 @@
 	- byo algorithm https://twitter.com/fchollet/status/1586876392201125888?s=46&t=iXxtaylzz_34sIuiy1HhoA
 		- https://twitter.com/amasad/status/1586078936143867904?s=20&t=l_wRFZNlyDgzFWYG7gm5cg
 		- https://news.ycombinator.com/item?id=33458815
+		- https://twitter.com/goldengateblond/status/1594435320195723265?s=46&t=_euQFrMMIMcz3nNZM0cy6Q
 - Read experience
 	- search + autocategorize bookmarks 
 		- https://twitter.com/Rahuligma/status/1586140970927607808

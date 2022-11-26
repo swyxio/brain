@@ -15,6 +15,7 @@
 	- https://answerthepublic.com/ for SEO research version of this
 	- https://twitter.com/gregisenberg/status/1412074725195538441?s=21
 	- https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/
+	- things that dont change https://collabfund.com/blog/betting-on-things-that-never-change/
 - have better facts/history than anyone else
 - have better vision of the future than anyone
 	- articulate a trend/where people are going

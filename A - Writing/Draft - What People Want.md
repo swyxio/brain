@@ -6,3 +6,4 @@ https://www.youtube.com/watch?v=XOU2ubWkoPw
 	- freedom, input, take a risk, make decisions
 	- significance, quality, progress, moving the needle
 	- meaning, purpose, legacy, greater good, changing the world
+- things that dont change https://collabfund.com/blog/betting-on-things-that-never-change/

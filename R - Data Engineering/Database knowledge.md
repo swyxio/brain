@@ -69,6 +69,12 @@ differential dataflow
 benchmarks
 - https://benchmark.clickhouse.com/
 
+desirable database properties https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications/
+- Horizontal vs vertical **scalability**
+- Column-oriented vs row-**oriented** storage
+- **Physical storage** choices
+- How to protect from data loss? replication, tiering, incremental backup/restore
+- How to make queries go fast? - query accelerator, planning, vectorized execution
 
 sqlite problems
 

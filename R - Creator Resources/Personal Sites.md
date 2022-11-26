@@ -80,14 +80,15 @@ Corporate
 
 ## special
 
-dont imitate but still notable
+dont imitate (because they arent succeeding because of their design) but still notable
 - https://www.allthingsdistributed.com/?
 - https://www.gatesnotes.com/Books/Why-We-Sleep
 - https://www.weekendavisen.dk/2020-15/kultur/fellinis-fantastiske-landskaber
-- vitalik.ca
+- https://vitalik.ca/
 - https://dustinbrett.com/
 
-## lists
+## other lists like these
+- https://github.com/stars/brianlovin/lists/personal-websites
 - https://godly.website/
 - https://github.com/emmabostian/developer-portfolios
 - https://humans.fyi/

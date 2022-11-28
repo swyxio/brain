@@ -61,6 +61,7 @@ atomic database
 - research: "virtual datawarehouse" - just a view
 
 ffmpeg tools
+- guide to ffmpeg https://img.ly/blog/ultimate-guide-to-ffmpeg/ https://news.ycombinator.com/item?id=33771445
 - https://github.com/cshum/imagorvideo
 - https://ffmpeg.guide/
 - http://dranger.com/ffmpeg/

@@ -149,3 +149,26 @@ what religious or spiritual beliefs were you raised with and how has it affected
 
 “whats a conversation you’ve been avoiding?”
 https://overcast.fm/+rTsWu_yOc
+
+
+https://www.neelnanda.io/blog/43-making-friends
+
+-   What’s the best way to get to know you as a person?
+    
+-   What’s your life story?
+    
+-   What traits do you envy/value in those around you?
+    
+-   What do you feel insecure about?
+    
+    -   This one is higher variance - I don’t recommend leading with it!
+        
+-   What do you value in friendships? What are the best ways they add to your life?
+    
+-   How, historically, have you become close to people?
+    
+-   If you could design a personal set of social norms for how your friends interact with you, what would they be? 
+    
+-   How would other people describe you? How does this compare to how you want to be perceived?
+    
+-   What in life do you get truly excited about?

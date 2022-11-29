@@ -52,6 +52,7 @@ misc
 - https://twitter.com/made_by_betty worked on rescript
 - https://www.illustratorhub.com/
 - https://twitter.com/Cornerstone_Vic
+- https://annieruygtillustration.com/ flyio illos https://news.ycombinator.com/item?id=14517502
 - https://twitter.com/JrCasas_ josh pigford
 - https://twitter.com/thewomenwhodraw val giesler
 - https://twitter.com/i/lists/1471403440760889349

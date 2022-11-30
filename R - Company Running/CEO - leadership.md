@@ -1,5 +1,7 @@
 Mochary method ceo coaching https://docs.google.com/document/d/1fDVpl-9Rvq3uNHLhSb4v4x8l2uQKYbN6UN7QVwT-lfQ/edit?usp=sharing
 
+https://www.google.com/url?q=https://www.amazon.com/Disciplines-Execution-Achieving-Wildly-Important/dp/145162705X&sa=D&source=docs&ust=1669839181040858&usg=AOvVaw2y3zdEdzuFKto96TzLw7AL jean lafleur - engagement and impact
+
 https://twitter.com/theryanking/status/1475122757117653003?s=21
 
 https://www.scaleworks.com/the-saas-playbook

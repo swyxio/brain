@@ -7,8 +7,6 @@
 
 https://overcast.fm/+QN1qQ6_SQ/47:00 google and facebook algorithm, side doors,making home page, redesign
 
-schmidt on ai https://youtu.be/UQkeRxeh34I
-
 
 
 career: should you be a manager - handling complaints and being a therapist https://overcast.fm/+0TxbQNBEI/12:00 data plane, sniffing packets

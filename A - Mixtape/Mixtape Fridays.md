@@ -3,15 +3,13 @@
 ## Music and entertainment picks
 
 
-backstreetboys song exploded https://overcast.fm/+EwEztt3eg 10mins
-
 
 better call sail
 - titles https://overcast.fm/+ELPwzqEG0/1:00:00
 
-chainsmokers selfie https://overcast.fm/+8Ldag5HWQ/25:00
 
-got me to the moon https://youtu.be/O1puRnV6gwE
+
+
 
 matthew dicks 20 mins https://overcast.fm/+kfErcA
 

@@ -1,3 +1,11 @@
+## annual recurring contnent
+
+- billie eilish youtuev 6 years straight
+- best x of 2022
+- semil shah picks of the year
+
+
+
 ## reasonable scale devtools
 
 https://towardsdatascience.com/ml-and-mlops-at-a-reasonable-scale-31d2c0782d9c

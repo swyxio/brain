@@ -69,6 +69,10 @@
 - collect responses to a tweet to a CRM/spreadsheet https://twitter.com/galeforceVC/status/1333636385509662721
 - mastodon 
 	- https://twitter.com/kelseyhightower/status/1594476134296494082?s=46&t=zuG5GJ_BBZu9dom50GL4Zw
+	- https://vitobotta.com/2022/11/12/setting-up-a-mastodon-twitter-crossposter/
+	- https://medium.com/@pimterry/sync-your-mastodon-back-to-twitter-3c72f2bc8626
+	- https://techcrunch.com/2022/11/08/what-is-mastodon/
+	- https://www.cnbc.com/2022/11/15/how-to-use-mastodon-twitter-alternative.html
 
 
 

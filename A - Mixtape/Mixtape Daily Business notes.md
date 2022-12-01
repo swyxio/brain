@@ -1,6 +1,9 @@
 why miami
 - https://overcast.fm/+6K1FFySJU/08:00 ryan hoover
 
+
+[](https://overcast.fm/+OozMjV28A) jason lemkin chat
+
 levels community building principles https://overcast.fm/+os2Ygn-hY/30:00
 - education
 - identity

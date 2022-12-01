@@ -5,6 +5,9 @@ vincent woo coderpad https://overcast.fm/+JmiM4xsGA/20:00. 41 mins hagiography l
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code
 
+how social viral wothout following https://overcast.fm/+2E1UbXk7A/13:00
+
+
 
 gergely orosz https://overcast.fm/+6K1HkR-p0/54:54 how uou get 1k subscribers 
 

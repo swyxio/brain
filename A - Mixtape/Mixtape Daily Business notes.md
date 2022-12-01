@@ -4,6 +4,9 @@ why miami
 
 [](https://overcast.fm/+OozMjV28A) jason lemkin chat
 
+https://overcast.fm/+gOxggkpgs/40:00 musicians hating record players
+and properly introduce yiurself https://overcast.fm/+gOxggkpgs/54:00 until 1hrish
+
 levels community building principles https://overcast.fm/+os2Ygn-hY/30:00
 - education
 - identity

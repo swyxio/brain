@@ -22,6 +22,9 @@ confrol plane vs data plane https://overcast.fm/+0TxaLBrX8/20:52 steve yegge
 
 data https://overcast.fm/+HZUdM_IVQ/15:00 seperate postgres serverless compute
 
+
+linear tech stack offline first https://overcast.fm/+t_0Z24im8/20:00
+
 ## ai
 
 

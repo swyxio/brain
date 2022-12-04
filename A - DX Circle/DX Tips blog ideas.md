@@ -1,7 +1,11 @@
+## apps vs infra
+
+- https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/
+
 ## annual recurring contnent
 
 - billie eilish youtuev 6 years straight
-- best x of 2022
+- best x of 2022wa
 - semil shah picks of the year
 
 

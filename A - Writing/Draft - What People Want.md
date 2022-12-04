@@ -7,3 +7,12 @@ https://www.youtube.com/watch?v=XOU2ubWkoPw
 	- significance, quality, progress, moving the needle
 	- meaning, purpose, legacy, greater good, changing the world
 - things that dont change https://collabfund.com/blog/betting-on-things-that-never-change/
+
+
+
+people like david vs goliath
+
+people dont want to lose things
+to make mistakes
+to lose time
+to be bored (not netlfix.. phones)

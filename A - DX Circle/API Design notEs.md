@@ -13,3 +13,6 @@ always use dates
 
 
 pg on good design http://www.paulgraham.com/taste.html
+
+
+fchollet progressive didclosure of complexity https://overcast.fm/+vScOQcIpg/10:00

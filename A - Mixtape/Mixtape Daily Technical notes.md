@@ -28,7 +28,7 @@ linear tech stack offline first https://overcast.fm/+t_0Z24im8/20:00
 ## ai
 
 
-
+fchollet progressive didclosure of complexity https://overcast.fm/+vScOQcIpg/10:00
 
 
 ## data

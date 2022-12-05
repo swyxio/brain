@@ -49,6 +49,8 @@
 	- positive and negative - prefect.io
 	- inbound vs outbound
 	- people say they want X what they really want is Y
+	- You might not need X
+	- X considered Harmful
 	- remind people of what is most important than what they usually talk about
 
 

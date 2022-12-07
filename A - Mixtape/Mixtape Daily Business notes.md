@@ -4,8 +4,6 @@ why miami
 
 [](https://overcast.fm/+OozMjV28A) jason lemkin chat
 
-https://overcast.fm/+gOxggkpgs/40:00 musicians hating record players
-and properly introduce yiurself https://overcast.fm/+gOxggkpgs/54:00 until 1hrish
 
 levels community building principles https://overcast.fm/+os2Ygn-hY/30:00
 - education
@@ -17,7 +15,7 @@ deel he says it was 20 months from 0 to 100m ARR
 10 mins ish
 https://overcast.fm/+TG-cOA4pM
 
-blockbuster https://overcast.fm/+l2GyND71I/12:00
+
 
 larry ellison https://overcast.fm/+HBlq_hfIU/42:00 betting on the internet
 

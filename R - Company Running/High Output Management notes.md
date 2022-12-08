@@ -27,3 +27,6 @@
 reads
 
 - https://tylerdevries.com/book-summaries/high-output-management/
+- https://friday.app/p/high-output-management
+- https://www.getstoryshots.com/books/high-output-management-summary/
+- https://medium.com/@iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63

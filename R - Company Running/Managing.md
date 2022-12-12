@@ -103,3 +103,8 @@ https://twitter.com/bdarfler/status/1524501758935973892?s=21&t=kYW--rHcpBMM3IeIu
 		- I - Influence - people focused
 		- S - Steadiness - supportive
 		- C - Compliance
+
+## Perf Review
+
+SEER technique
+- https://www.manager-tools.com/forums/seer

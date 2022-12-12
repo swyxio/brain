@@ -40,3 +40,17 @@ remote managing https://twitter.com/jobvo/status/1543157537222148096?s=21&t=2M6r
 ## general team mgmt
 https://twitter.com/bdarfler/status/1524501758935973892?s=21&t=kYW--rHcpBMM3IeIu9xObA
 
+## giving feedback
+
+- manager tools - giving effective feedback
+	- bad managers give specifics on success/failure - there is nothing you can do about stuff that passed
+	- punishment doesnt work - it causes future avoidance of punishment - people do same thing wrong again then spend time covering up/not communicating
+	- praise is fine, but doesnt work. tell people what you want more of, specifically what she did that can be repeated
+	- productive employees are much happier than unprod employees
+		- happiness does not drive productivity at all
+		- its the other way around
+	- only reason to talk is to encourage behavior that makes them more effective in the future
+- Hey X can I give you some feedback? When you do X, Y happens. Thank you, or can you do that differently.
+- "can i make an observation?" -> 
+- give it early - dont wait for repeated iterations
+- 

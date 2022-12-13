@@ -73,7 +73,7 @@ ffmpeg tools
 - 
 - https://twitter.com/ID_AA_Carmack/status/1258531455220609025
 - https://ffmpegfromzerotohero.com/
-- 
+- https://news.ycombinator.com/item?id=33969490 losslesscut
 
 
 

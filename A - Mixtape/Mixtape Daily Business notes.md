@@ -2,7 +2,7 @@ why miami
 - https://overcast.fm/+6K1FFySJU/08:00 ryan hoover
 
 
-[](https://overcast.fm/+OozMjV28A) jason lemkin chat
+jason lemkin chat https://overcast.fm/+OozMjV28A
 
 
 levels community building principles https://overcast.fm/+os2Ygn-hY/30:00
@@ -23,7 +23,6 @@ larry ellison https://overcast.fm/+HBlq_hfIU/42:00 betting on the internet
 compound startups https://overcast.fm/+Lzu0nNwEk/15:00
 
 
-origin of shazam https://overcast.fm/+M5oxAr3NE/02:30 -> 35mins .  56mins followup
 
 origin of profitwell https://overcast.fm/+gFCvnAc18/15:00 til 32:30 - free pricing and founder regrets 
 https://overcast.fm/+MBmUOkQ6M 21:45 profitwell market analysis

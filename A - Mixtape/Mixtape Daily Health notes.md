@@ -8,11 +8,9 @@ mental health - kelsey https://overcast.fm/+JEN0VljwU/20:44
 https://overcast.fm/+os2ZP7-q8/1:00 keto story 
 - mitochondrial uncoupling 25mins
 
-we dont know what causes obesity https://overcast.fm/+2-B88Fkz8/1:35:24
 
 keto diet and weight loss https://overcast.fm/+2-B88Fkz8/2:23:56
 
-dont sit all day - 4h 4h https://overcast.fm/+0OUOvkmHw/21:32
 
 
 https://overcast.fm/+Fbuk_3PLY/40:00 losing sight

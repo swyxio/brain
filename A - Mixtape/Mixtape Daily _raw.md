@@ -1,6 +1,8 @@
 ## mixtape raw dumps
 
 
+jury nullification https://overcast.fm/+E79hodmls/31:00 
+
 
 7 habits review from abdaals https://overcast.fm/+iNRj7BEWc/47:23
 

@@ -1,3 +1,45 @@
+
+## review
+
+- readings up front
+- indicate which to skim, which are word for word
+- bring prior work to review. 
+- setup personal website or newsletter.
+- titles more focused on topics we would publish as part of our jobs vs general interest
+- quiet room, big tables, coffee, presentation space
+- not as good:
+	- philip narrative exercise
+	- ai exercise 3's and 4's
+	- post scheduling exercise
+	- newsletter exercise
+- content calendar exercise instead of starting a newsletter -> maybe for special topic
+- more peer review opportunities
+- location
+	- miami good
+	- cabanas mixed
+	- organization great
+- misc
+	- a screen
+	- tables for writing
+	- inside vs outside
+	- Miami vs Miami Beach
+	- hard to focus, covid, cabanas
+- Respect, Connection, Respect, Food (vegan)!
+- glad they attended
+- DWR naming
+	- if more structured, can sponsored
+	- more structure there
+	- technical less promotional writing
+- future plans
+	- online - accessibility
+	- running that
+- finance wise
+	- +$3100
+	- budgeting was good
+	- third web and hashnode happy
+	- 10k
+
+
 ## sticky
 
 objectives

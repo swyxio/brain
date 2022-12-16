@@ -1,5 +1,9 @@
 infoq podcast coming
 
+changelog https://email.changelog.com/t/n/t-l-d6516f7e7d8011ed8ede88582dbe0ed1-l-r-r-l/
+
+scaling devtools
+
 nystudio107 devmode.fm
 
 cascadiajs talk https://youtu.be/KsTAcQJ619o

@@ -201,3 +201,4 @@ Much of this list derives from the ongoing UUIDv6 IETF draft: https://www.ietf.o
 - Time based OTP https://github.com/susam/mintotp
 - reverse image search https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934
 - Blurhashing https://github.com/woltapp/blurhash
+- Sha-1 phasing out in 2030 - https://news.ycombinator.com/item?id=34001347

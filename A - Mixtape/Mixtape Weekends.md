@@ -5,9 +5,6 @@ changelog https://email.changelog.com/t/n/t-l-d6516f7e7d8011ed8ede88582dbe0ed1-l
 
 scaling devtools
 
-nystudio107 devmode.fm
-
-INFOQ https://soundcloud.com/infoq-channel/interview-shawn-swyx-wang
 
 cascadiajs talk
 
@@ -17,15 +14,10 @@ infoshare poland https://www.youtube.com/watch?v=aZnzzMbA7Vg
 
 stripe dev chat
 
-kp podcast coming https://www.youtube.com/watch?v=-oTmQhagN4k&feature=youtu.be
-
-
 
 
 eddie hinkle web joy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx
 
-
-kp podcast https://share.transistor.fm/s/398dc0ca - backloaded creator stuff - machine SEO vs human SEO
 
 
 third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM

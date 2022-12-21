@@ -29,6 +29,14 @@ cli commands https://twitter.com/MichaelDwan/status/1583557379677130752?s=20&t=a
 
 autoformatter https://notes.crmarsh.com/python-tooling-could-be-much-much-faster
 
+
+https://news.ycombinator.com/item?id=33584958
+
+speed includes errors and failures
+- so this does include pit of success stuff
+
+
+
 ## standards that made things 100x easier
 
 SAFEs

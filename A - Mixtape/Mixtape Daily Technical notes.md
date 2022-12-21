@@ -11,6 +11,7 @@ https://overcast.fm/+cEzDxujbc/12:52 end of localhost - criticism
 
 https://overcast.fm/+g__4Z_-CM/37:00 modal infra from erik bernhardsson
 
+js containers https://overcast.fm/+HaNM7np5k/22:06
 
 openstack vs kubecon cncf https://overcast.fm/+RrQZlFWI
 
@@ -89,6 +90,8 @@ benefits of go 1.18 https://overcast.fm/+ur1GgzMqs 15ish mins
 https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 
 ## misc
+
+arc browser https://overcast.fm/+P2WxMElw8/05:08
 
 
 

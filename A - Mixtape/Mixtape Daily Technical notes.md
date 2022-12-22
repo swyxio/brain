@@ -18,13 +18,6 @@ openstack vs kubecon cncf https://overcast.fm/+RrQZlFWI
 
 https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queue - 2011 kafka, using zookeeper for leader election, now rolling out kRaft
 
-confrol plane vs data plane https://overcast.fm/+0TxaLBrX8/20:52 steve yegge
-
-data https://overcast.fm/+HZUdM_IVQ/15:00 seperate postgres serverless compute
-
-https://overcast.fm/+NnQqRMJwY/30:40 separation of storage and compute
-
-linear tech stack offline first https://overcast.fm/+t_0Z24im8/20:00
 
 ## ai
 

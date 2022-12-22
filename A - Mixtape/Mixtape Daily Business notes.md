@@ -16,6 +16,8 @@ deel he says it was 20 months from 0 to 100m ARR
 https://overcast.fm/+TG-cOA4pM
 
 
+bezos ted talk on electricity https://youtu.be/vMKNUylmanQ
+
 
 larry ellison https://overcast.fm/+HBlq_hfIU/42:00 betting on the internet
 

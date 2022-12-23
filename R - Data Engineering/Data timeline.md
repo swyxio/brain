@@ -57,6 +57,7 @@ rise of sexiness
 2020 - lakehouse https://tdwi.org/articles/2020/03/10/arch-all-welcome-to-the-lakehouse.aspx
 
 
+
 https://overcast.fm/+IexfoKBtc/27:33 airflow copied fb data swarm and data bee
 
 - https://fly.io/blog/all-in-on-sqlite-litestream/
@@ -105,3 +106,7 @@ big data became data
 - 
 MDS is dead 
 - i think this is an important read and reflects the mood shift i’ve been seeing among MDS folks this year. important to not be caught off guard with our messaging. https://www.linkedin.com/posts/ethanaaron_snowflakesummit-data-analytics-activity-6942877586976890880-NvGT/?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+## 2022 trends
+
+- saivc/redpoint trends https://twitter.com/SaiVC_/status/1529898644895412259

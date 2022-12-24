@@ -101,7 +101,9 @@ ungroomed product twitter feedback https://twitter.com/michaelsayman/status/1511
 	- - [http://tweepdiff.com](https://t.co/y8aihxk07I) - Cool Twitter follower comparsion tool
 	- [http://metarational.net/lens/crypto_defi…](https://t.co/d0iJIQrKhl) - one of the coolest metaranking apps, reminds me [http://santiment.net](https://t.co/Ov37DV1dKV) and [http://moivre.xyz](https://t.co/6LhOVTK7W6) a b
 
-tools https://github.com/p1atdev/twitterql/tree/a861667b647920d840b2bc80d80196482844f489
+tools 
+- https://github.com/p1atdev/twitterql/tree/a861667b647920d840b2bc80d80196482844f489
+- https://github.com/zedeus/nitter
 
 
 https://github.com/OliverJAsh/twitter-paper

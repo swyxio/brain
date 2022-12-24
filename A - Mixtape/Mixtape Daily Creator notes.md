@@ -7,7 +7,7 @@ tiago
 
 how social viral wothout following https://overcast.fm/+2E1UbXk7A/13:00
 
-
+khe hy email tricks https://overcast.fm/+ZYLHFcLV4/35:00
 
 gergely orosz https://overcast.fm/+6K1HkR-p0/54:54 how uou get 1k subscribers 
 

@@ -16,6 +16,8 @@ deel he says it was 20 months from 0 to 100m ARR
 https://overcast.fm/+TG-cOA4pM
 
 
+starting boom aero with no aero background https://overcast.fm/+Vl3uF3a1E/14:00 til the end ish
+
 bezos ted talk on electricity https://youtu.be/vMKNUylmanQ
 
 

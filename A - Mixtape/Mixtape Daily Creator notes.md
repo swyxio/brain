@@ -1,6 +1,14 @@
 
+moloch https://overcast.fm/+eZyBjF53Y/1:29:19 ends about here
 
-vincent woo coderpad https://overcast.fm/+JmiM4xsGA/20:00. 41 mins hagiography lucky ones
+https://overcast.fm/+L9fiEnXsc/30:00 don't be helpful be valuable
+
+anchor on clubhouse https://overcast.fm/+3Ag9-yd20/59:53
+
+
+
+===
+
 
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code
@@ -22,15 +30,12 @@ substack recommendations
 https://overcast.fm/+6K1EndFmQ/22:59
 
 
-anchor on clubhouse https://overcast.fm/+3Ag9-yd20/59:53
-
 pets can swear https://overcast.fm/+B2HrTZTvY/12:00 wrf 70 buttons
 
 https://overcast.fm/+DxP3_iEU4/5:50 chase dimon twitter content
 
 stebbings content https://overcast.fm/+OozML4vcU
 
-moloch https://overcast.fm/+eZyBjF53Y/1:29:19 ends about here
 
 extravagance 31 mins https://overcast.fm/+7IlJt8LaQ/31:00
 
@@ -100,8 +105,6 @@ problem with multiverse https://overcast.fm/+vxHfil-wM 20mins
 
 https://youtu.be/uL0atQFZzL8 storytelling
 
-
-https://overcast.fm/+L9fiEnXsc/30:00 don't be helpful be valuable
 
 
 

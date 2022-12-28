@@ -55,6 +55,8 @@ https://overcast.fm/+H1YO2iNcc workflow ecosystem summary 42mins ish
 data
 prefect airlflow dagster https://overcast.fm/+H1YNrM6kU/50:00
 
+dragster on orchestration https://overcast.fm/+-JIgAb93c/06:15
+
 https://overcast.fm/+x8z8x3HNc/07:22 orion from jeremiah lowin. at 18 nins what is orchestration until 27mins ish
 
 
@@ -86,7 +88,7 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 
 arc browser https://overcast.fm/+P2WxMElw8/05:08
 
-
+https://overcast.fm/+-SqAfL4gg/10:00 comma vs tesla vs waymo self driving unit economics until 16mins
 
 how podcast analytics work https://overcast.fm/+HaNM08aK4/12:08
 

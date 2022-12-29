@@ -12,6 +12,8 @@ kelsey https://overcast.fm/+34A287H6M/2:43:00 on speaking - 2h52min ish
 jury nullification https://overcast.fm/+E79hodmls/31:00 
 
 
+annual review https://overcast.fm/+BNTVoFNY/20:00
+
 7 habits review from abdaals https://overcast.fm/+iNRj7BEWc/47:23
 
 

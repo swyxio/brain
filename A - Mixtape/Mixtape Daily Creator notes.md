@@ -1,7 +1,6 @@
 
 moloch https://overcast.fm/+eZyBjF53Y/1:29:19 ends about here
 
-https://overcast.fm/+L9fiEnXsc/30:00 don't be helpful be valuable
 
 anchor on clubhouse https://overcast.fm/+3Ag9-yd20/59:53
 

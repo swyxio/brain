@@ -9,6 +9,7 @@ anchor on clubhouse https://overcast.fm/+3Ag9-yd20/59:53
 
 ===
 
+grow a 250k newsletter in 10 months https://overcast.fm/+L9fj1BPz0/08:11
 
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code

@@ -1,2 +1,93 @@
 - https://ahrefs.com/academy/blogging-for-business
-	- 
+
+jdnoc course
+- Keyword search on ahrefs https://twitter.com/jdnoc/status/1585639210174013440
+- value of traffic  https://twitter.com/jdnoc/status/1586000806754496512
+	- avg CPC is $1 in US but varies widely
+	- KW value is CPC x CTR x Clicks/month
+	- CTR of google front page is 43%, 37, 30, 20, 10
+- (impt) adding website to google search console https://twitter.com/jdnoc/status/1586322753195413505
+	- verify that you own your website. takes 1-2 weeks
+	- check performance (clicks/day, UX)
+	- check Perforamnce (CTR and avg position over time)
+	- Sitemaps - submit sitemaps (optional)
+	- Links - backlinks, text, etc <- useful
+- types of SEO https://twitter.com/jdnoc/status/1590088152857079809
+	- Volume-based SEO - most advice is for affiliate, banner ads, sponsorship revenue (news, recipes, product reviews)
+	- Intent-based SEO - sell products/services - optimize for quality of traffic before volume
+	- Programmatic SEO - focused on long tail
+	- Local SEO - phyiscal locations -> want foot traffic. Google Business Profile very impt.
+	- Platform SEO - Appstore, podcast store, extensions. keywords & reviews
+- "rank to sell" framework https://twitter.com/jdnoc/status/1590088154635460611
+	- educate the reader about how to do something manually
+	- pitch your product/service as best way to do automatically
+	- conversion: email list, fb retargeting, free trials/samples
+- SEO for ultracompetitive keywords https://twitter.com/jdnoc/status/1590088156086665216
+	- only CTA is get email address for chapter 1
+	- creates "SEO hubs" - pages with a lot of internal links
+		- "creativity" https://jamesclear.com/creativity -> links to all the other stuff
+		- all of the backlinks go to this one hub - all backlinks refer to hub
+		- hub pushes page authority to the other pages
+- content structure to rank for keywords https://twitter.com/jdnoc/status/1590088157575360512
+	- readability/physical structure
+		- nice clear titles
+		- short paragraphs
+		- images
+		- table of contents to jump straight to engage
+		- final thoughts with more internal links
+	- bounce rate -> 1 strategy is **internal links** to keep them on site
+	- long tail keywords in subtitles for content
+- Improving Title CTR https://twitter.com/jdnoc/status/1590088159211433985
+	- promise something, dont undersell yourself
+	- odd numbers do better than even numbers
+	- "10 **meaningful** ways to X" > "10 tips to X"
+	- "algorithm proof" > "brilliant"
+	- appeal to emotion, but also deliver on it
+	- (minor) URL structure - foo.com/bar not foo.com/blog/bar, make it seem like a resource not a blogpost - blogpost is more personal
+	- add most current year - drive up CTR
+- Siphoning brand traffic off another brand https://twitter.com/jdnoc/status/1590088160641699841
+	- ppl dont search "shoes", they search "Nike shoes"
+	- modifiers for content:
+		- vs
+		- review
+		- pricing
+		- how to
+		- free
+		- alternative
+- picking hosting platform: spend time publishing, not tweaking website
+	- speed
+	- structured data types
+	- simplicity
+	- customization
+	- mobile friendly
+- increase organic traffic 500% . shipbob example
+	- 2 years pumping organic content. authoritative, intent based
+	- content hubs
+	- build specific pages that are link magnets - resources page (guides and books, put in email) - acquire backlinks not traffic. valuable resource for ecomm stores to understand most reliable shipper in US
+- ranking factors
+	- not page speed (good for biz), wordcount (1-3k words), keyword in title (correlates with CTR).
+	- domain authority (google denies), page links (correlate to URL authority), content grade (clearscope.io), time on site (2 mins is good)
+- people first content https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+	- what people want to know
+	- give them opportunities
+	- go from nothing to something
+- converting traffic to customers
+	- write for ABSOLUTE beginners
+	- take them from beginner to expert
+	- or teach a process from start to finish
+	- use your product as solution
+	- help them
+		- make money
+		- save money
+		- save time
+		- automate
+	- example https://www.podia.com/how-to-create-sell-profitable-online-course - start from 0, profit from online course. low traffic but high conversion
+- helpful content update
+	- other review website -> personal authoritative review
+	- capterra -> every product has user reviews
+	- google fair reviews from real people
+- refreshing content
+	- put year in title on the blogpost
+	- look for best content - 
+		- go on google search console
+		- queries that get high impressions but low clicks

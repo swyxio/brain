@@ -1,8 +1,4 @@
 
-moloch https://overcast.fm/+eZyBjF53Y/1:29:19 ends about here
-
-
-anchor on clubhouse https://overcast.fm/+3Ag9-yd20/59:53
 
 
 

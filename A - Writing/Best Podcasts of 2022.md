@@ -10,6 +10,8 @@ strictlyvc https://overcast.fm/+XiHARMbFw
 - https://www.strictlyvc.com/
 
 
+machine learning stret talk
+
 techcrunch found podcast
 
 -- 

@@ -5,6 +5,8 @@ stackblitz endorsement https://overcast.fm/+KZ26H5GBs/40:00
 
 spotify ltv model https://overcast.fm/+yIRQTIaY8/31:23 10 mins to 33mins
 
+origin of stable diffusion https://overcast.fm/+yIRScD9fI/04:20
+
 
 ## cloud
 

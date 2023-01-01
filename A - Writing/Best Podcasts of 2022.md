@@ -1,27 +1,57 @@
-Digital Writing Podcast
-Levels podcast
+
+## best new tech podcasts in 2022
+
 compressed.fm james quick 
 
-tom lum https://overcast.fm/+zzxtpBRhg
+ai podcasts
+- inside view
+- the gradient podcats
+- vanishing gradients
+- yannic kilcher
+- machine learning stret talk
 
-working code podcast
+
+call out my data podcasts posts
+
+## best new business/crypto podcasts in 2022
+
+crypto cynics corner
 
 strictlyvc https://overcast.fm/+XiHARMbFw
 - https://www.strictlyvc.com/
 
-
-machine learning stret talk
-
 techcrunch found podcast
+
+founders senra
+invent like an owner amazon podcast
+
+## best new creator/general podcasts
+
+Digital Writing Podcast
+Levels podcast
+
+- unthinkable
+
+tom lum https://overcast.fm/+zzxtpBRhg
+
+hot money, who rules porn
+
+## good but dead
+
+## still good
+
+
+
+stevey's tech talk
+
+
+
+
+
 
 -- 
 
 
 
-still good
-- unthinkable
 
 
-
-founders senra
-invent like an owner 

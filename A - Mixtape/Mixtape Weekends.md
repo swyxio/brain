@@ -5,6 +5,7 @@ changelog https://email.changelog.com/t/n/t-l-d6516f7e7d8011ed8ede88582dbe0ed1-l
 
 scaling devtools
 
+software unscripted https://www.listennotes.com/podcasts/software-unscripted/crossing-the-chasm-1-dDJwWER37/
 
 cascadiajs talk
 

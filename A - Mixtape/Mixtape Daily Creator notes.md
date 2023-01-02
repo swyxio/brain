@@ -5,7 +5,7 @@
 ===
 
 
-quitting twitter https://overcast.fm/+2-B-5-7ec/3:57:15
+
 
 grow a 250k newsletter in 10 months https://overcast.fm/+L9fj1BPz0/08:11
 

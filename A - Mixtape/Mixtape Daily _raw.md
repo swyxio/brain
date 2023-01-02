@@ -9,6 +9,10 @@ kelsey https://overcast.fm/+34A287H6M/1:10:00 manager and hands on keyboard time
 
 kelsey https://overcast.fm/+34A287H6M/2:43:00 on speaking - 2h52min ish
 
+
+what it waa like to be early figma https://overcast.fm/+3u0JQWsNE/21:06 inflection point
+
+
 jury nullification https://overcast.fm/+E79hodmls/31:00 
 
 

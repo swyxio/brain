@@ -7,6 +7,8 @@ the story of gmail https://youtu.be/TCPjk8Tpb5c early days
 jason lemkin chat https://overcast.fm/+OozMjV28A
 
 
+mailchimp saas and freemium https://overcast.fm/+ZJRjHLQnQ/13:44 to 25’ins ish
+
 levels community building principles https://overcast.fm/+os2Ygn-hY/30:00
 - education
 - identity

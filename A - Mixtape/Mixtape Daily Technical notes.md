@@ -32,9 +32,11 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 fchollet progressive didclosure of complexity https://overcast.fm/+vScOQcIpg/10:00
 
+pytorch story https://overcast.fm/+Y_EEyXwDs/18:17
 
 ## data
 
+dbt as terraform for analytics https://overcast.fm/+Y_EFKrL7Q/22:15
 
 https://overcast.fm/+wcMr4E4dE/22:00 data ecosystem consolidation
 

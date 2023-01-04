@@ -1,5 +1,10 @@
 # blogpost ideas
 
+## the ties that bind
+
+metaverse has no interop 
+cloudflare bandwidth alliance
+google android
 
 ## accidentally database
 

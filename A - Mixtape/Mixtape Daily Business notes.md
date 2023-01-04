@@ -121,6 +121,7 @@ what shopify did right- narrow waists https://overcast.fm/+rra7_tTSw/10:00
 
 gopay data driven team pm story https://overcast.fm/+6K1Fe_F28/34:14
 
+stevey platforms rant https://overcast.fm/+0TxaJy8g0/06:11
 
 https://youtu.be/IhdH-nU8XBI service as a platform sunil pai 31mins - 
 kenton varda function as a service as a service

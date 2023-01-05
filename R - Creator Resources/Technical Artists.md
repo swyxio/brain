@@ -57,6 +57,7 @@ misc
 - https://twitter.com/thewomenwhodraw val giesler
 - https://twitter.com/i/lists/1471403440760889349
 - illustrations/artists - search #portfolioday https://twitter.com/hashtag/PortfolioDay?src=hashtag_click
+- video editors - @tonystoodios  https://mobile.twitter.com/tomfrankly/status/1601013893425692672
 - more recs 
   - https://twitter.com/natalienagele/status/1326940815839682561?s=20
  - circus 

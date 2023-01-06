@@ -22,6 +22,9 @@ js containers https://overcast.fm/+HaNM7np5k/22:06
 
 openstack vs kubecon cncf https://overcast.fm/+RrQZlFWI
 
+founding of dagger https://overcast.fm/+JEN2ewB5o/10:00
+
+
 ## distsys
 
 https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queue - 2011 kafka, using zookeeper for leader election, now rolling out kRaft
@@ -33,6 +36,10 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 fchollet progressive didclosure of complexity https://overcast.fm/+vScOQcIpg/10:00
 
 pytorch story https://overcast.fm/+Y_EEyXwDs/18:17
+
+how nvidia got into ai https://overcast.fm/+Y_EH2GsgY/01:51 to 16 mins
+
+training gpt3 https://overcast.fm/+Y_EHsVZA0/10:00
 
 ## data
 
@@ -49,6 +56,8 @@ what is a data warehouse by inmon https://youtu.be/Yr07Ntfysd8 5mins
 
 and again on data warehouse
 https://overcast.fm/+6w6hcIAfI/05:22
+
+snowdlake features https://overcast.fm/+H1YNFkS94/40:00 time travel, sharing, multicloud 
 
 inmon vs kimball https://overcast.fm/+6w6hcIAfI/14:01
 
@@ -74,6 +83,7 @@ https://overcast.fm/+IexfoKBtc why airflow 24 mins
 
 vitess features https://overcast.fm/+HZUc8rncY 15ish mins
 
+what is db sharding https://overcast.fm/+fPIR4PH7g/31:53
 
 https://youtu.be/MCz_19KUZ2s 40ish mins mysql vs postgres
 

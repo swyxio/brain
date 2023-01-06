@@ -10,6 +10,7 @@ always use dates
 - related? https://www.troyhunt.com/your-api-versioning-is-wrong-which-is/
 - mixing? https://web.archive.org/web/20170610175619/https://fly.io/articles/pragmatic-api-versioning/
 - roy fielding comments https://news.ycombinator.com/item?id=14516333
+	- richardson maturity https://martinfowler.com/articles/richardsonMaturityModel.html
 
 
 pg on good design http://www.paulgraham.com/taste.html

@@ -41,7 +41,13 @@ how nvidia got into ai https://overcast.fm/+Y_EH2GsgY/01:51 to 16 mins
 
 training gpt3 https://overcast.fm/+Y_EHsVZA0/10:00
 
+origin of spark (from Hadoop) https://overcast.fm/+Y_EEyOOQ4/18:50
+
+the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:00
+
 ## data
+
+birth of data eng https://overcast.fm/+Y_EFw-nWM/09:27
 
 dbt as terraform for analytics https://overcast.fm/+Y_EFKrL7Q/22:15
 

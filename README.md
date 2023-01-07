@@ -7,7 +7,7 @@ This is my public obsidian store of resources and lists and stuff, available on:
 
 These notes are "raw" - not a replacement for my personal output channels ([site](https://swyx.io), [newsletter](https://swyx.io/subscribe), [mixtape](https://swyx.io/mixtape), [youtube](https://youtube.com/swyxTV)), where I will continue to publish my more polished work. You can read more about [why I picked Obsidian here](https://www.swyx.io/obsidian-brain).
 
-## Subsribe to Diffs
+## Subscribe to Diffs
 
 Follow https://twitter.com/swyxio to opt in to the firehose :)
 

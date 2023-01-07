@@ -33,6 +33,8 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 ## ai
 
 
+evolution https://overcast.fm/+3Ag9VZSsY/2:00
+
 fchollet progressive didclosure of complexity https://overcast.fm/+vScOQcIpg/10:00
 
 pytorch story https://overcast.fm/+Y_EEyXwDs/18:17

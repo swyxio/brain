@@ -49,6 +49,8 @@ the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:
 
 birth of data eng https://overcast.fm/+Y_EFw-nWM/09:27
 
+origin of pandas https://overcast.fm/+w94UvceX8
+
 dbt as terraform for analytics https://overcast.fm/+Y_EFKrL7Q/22:15
 
 https://overcast.fm/+wcMr4E4dE/22:00 data ecosystem consolidation

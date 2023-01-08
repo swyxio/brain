@@ -31,6 +31,7 @@
 - paulg twitter 2.0 - edit button, real ID verification
 	- https://twitter.com/paulg/status/1329717349335920641?s=20
 	- https://twitter.com/jayriverlong/status/1329717954779475968?s=20
+	- "shadow follows" across multiple media https://news.ycombinator.com/item?id=34272949
 - DMs
 	- https://twitter.com/chrisjbakke/status/1355979441021702144?s=21
 	- https://twitter.com/Post_Market/status/1355973725187842051?s=20

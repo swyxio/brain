@@ -1,6 +1,8 @@
 ## mixtape raw dumps
 
 
+millinearianism https://overcast.fm/+-YJk6EQVY/12:00 why ai end of times is bullshit
+
 kelsey hightower https://overcast.fm/+34A287H6M/29:00 mcdonalds how did you decide what to do with your life - to 39ish
 
 kelsey https://overcast.fm/+34A287H6M/44:00 on the L4-L9 distinction upt to 55mins

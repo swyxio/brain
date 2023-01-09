@@ -26,6 +26,9 @@ openstack vs kubecon cncf https://overcast.fm/+RrQZlFWI
 founding of dagger https://overcast.fm/+JEN2ewB5o/10:00
 
 
+enterprise security of slack https://overcast.fm/+2tVms0fA0/40:00
+
+
 ## distsys
 
 https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queue - 2011 kafka, using zookeeper for leader election, now rolling out kRaft

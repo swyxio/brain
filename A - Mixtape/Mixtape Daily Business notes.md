@@ -2,6 +2,9 @@ why miami
 - https://overcast.fm/+6K1FFySJU/08:00 ryan hoover
 
 
+happiness advantage and gratitude journalling
+https://overcast.fm/+OozPCUXGs/23:47
+
 the story of gmail https://youtu.be/TCPjk8Tpb5c early days
 
 jason lemkin chat https://overcast.fm/+OozMjV28A

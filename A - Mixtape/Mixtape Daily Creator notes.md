@@ -113,6 +113,8 @@ https://youtu.be/uL0atQFZzL8 storytelling
 https://overcast.fm/+NBVvkPZyc trendjacking/prediction 1h in
 
 
+https://overcast.fm/+R_DgClWpA/43:00 the logic of CPMs on youtube  until 52 mins
+
 https://overcast.fm/+NBVuuQUhM 9mins mr beast
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process
 https://nathanbarry.com/059-samir-chaudry-youtube-launch-creator-enterprise/ find format  and be consistent - 54 mins mark and there was a bit about the importance of finding format say at 20mins in

@@ -3,6 +3,23 @@ created: 2021-12-28 13:03
 updated: 2021-12-28 13:03
 ---
 
+
+jason cohen startup extreme questions - https://longform.asmartbear.com/posts/extreme-questions/
+- "10x prices"
+2.  "No customers"
+3.  "No tech support"
+4.  "Maximize fun"
+5.  "Complete rip-off"
+6.  "No time"
+7.  "Flipped business model"
+8.  "No website"
+9.  "No meetings"
+10.  "No customer contact"
+11.  "Cost is no object"
+12.  "Sociopathic CEO"
+13.  "Mortal wound"
+14.  "Only one thing this year"
+
 ## Founder Questions
 (via replay)
 

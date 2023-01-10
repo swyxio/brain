@@ -9,6 +9,8 @@ https://overcast.fm/+os2ZP7-q8/1:00 keto story
 - mitochondrial uncoupling 25mins
 
 
+long fasts https://overcast.fm/+0OUPGeUm0/3:00
+
 keto diet and weight loss https://overcast.fm/+2-B88Fkz8/2:23:56
 
 new identity to lose weight https://overcast.fm/+2-B-oyQw0/52:36 tol 59 mins

@@ -7,6 +7,8 @@
 
 cal newport artcile research process https://overcast.fm/+b1V156nvg/53:53
 
+mfm research process https://overcast.fm/+rTsX4KdQw/46:05
+
 grow a 250k newsletter in 10 months https://overcast.fm/+L9fj1BPz0/08:11
 
 tiago

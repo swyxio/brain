@@ -36,6 +36,7 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 ## ai
 
+rlhf explanation https://overcast.fm/+HaNPbG9CU/24:00 until 37mins
 
 evolution https://overcast.fm/+3Ag9VZSsY/2:00
 

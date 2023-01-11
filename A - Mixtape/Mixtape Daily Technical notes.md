@@ -10,7 +10,9 @@ origin of stable diffusion https://overcast.fm/+yIRScD9fI/04:20
 
 ## cloud
 
-what is the cloud really https://overcast.fm/+TEKFImZ1g/03:00
+what is the cloud really https://overcast.fm/+TEKFImZ1g/03:00 
+
+wasm and fermyon https://overcast.fm/+TEKFImZ1g/22:00
 
 https://greylock.com/greymatter/powering-the-multi-cloudparadigm/ decompsotions of cloud mcjannet
 

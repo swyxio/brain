@@ -123,6 +123,9 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 
 ## misc
 
+
+fighting ddos cloudflare https://overcast.fm/+JadXKK65g/09:15
+
 arc browser https://overcast.fm/+P2WxMElw8/05:08
 
 https://overcast.fm/+-SqAfL4gg/10:00 comma vs tesla vs waymo self driving unit economics until 16mins

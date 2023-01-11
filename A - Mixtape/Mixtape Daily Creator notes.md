@@ -10,6 +10,8 @@ cal newport artcile research process https://overcast.fm/+b1V156nvg/53:53
 james clear email focus https://overcast.fm/+KebsgFK6Q/0:50:26
 
 
+refactoring ui 3m, 100k team, 60k/month
+
 teach intermediate people abs work in public https://overcast.fm/+SuyERj-Hg/11:31
 
 writing and marketing atomic habits https://overcast.fm/+KebsgFK6Q/1:20:50

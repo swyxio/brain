@@ -14,6 +14,9 @@ iger on buying marvel https://overcast.fm/+BlzGWHF4U/29:00
 
 mailchimp saas and freemium https://overcast.fm/+ZJRjHLQnQ/13:44 to 25’ins ish
 
+
+google vs ai https://overcast.fm/+8XV0Mqhs0/35:00
+
 levels community building principles https://overcast.fm/+os2Ygn-hY/30:00
 - education
 - identity

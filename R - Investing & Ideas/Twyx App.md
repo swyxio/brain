@@ -69,7 +69,8 @@
 - Run Twitter raffles and mass DMs for opt-in
 	- DM if interested https://twitter.com/JuliaLipton/status/1369347651846742019?s=20 
 - collect responses to a tweet to a CRM/spreadsheet https://twitter.com/galeforceVC/status/1333636385509662721
-- mastodon 
+- mastodon
+	- https://mastodon-flock.vercel.app/
 	- https://twitter.com/kelseyhightower/status/1594476134296494082?s=46&t=zuG5GJ_BBZu9dom50GL4Zw
 	- https://vitobotta.com/2022/11/12/setting-up-a-mastodon-twitter-crossposter/
 	- https://medium.com/@pimterry/sync-your-mastodon-back-to-twitter-3c72f2bc8626
@@ -120,6 +121,11 @@ to steal ideas
 - more complaints https://twitter.com/akashtattva/status/1380540312712400899?s=21
 - dormant tweets https://twitter.com/jsjoeio/status/1378043300058398723?s=21
 - twemex https://twemex.app/
+- twitter hot search https://chrome.google.com/webstore/detail/twitter-hot-search/ekoaomnfnljoemgcledgdbgpjdibeifj
+- tweetback twitter archive https://github.com/tweetback/tweetback
+- twitter archiver https://news.ycombinator.com/item?id=34056378
+- birdbear: save and search liked and bookmarked tweets https://birdbear.app/
+- twitvault twitter archiver desktop app https://github.com/terhechte/twitvault
 - more apps https://twitter.com/____hka/status/1365326085173444608?s=21
 - twitter core https://twitter.com/wongmjane/status/1393541248049303555?s=21
 

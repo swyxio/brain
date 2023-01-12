@@ -1,5 +1,6 @@
 ## mixtape raw dumps
 
+hedge funds dont hedge https://overcast.fm/+VqtfCOpEw/47:00
 
 millinearianism https://overcast.fm/+-YJk6EQVY/12:00 why ai end of times is bullshit
 

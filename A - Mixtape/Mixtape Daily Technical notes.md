@@ -56,6 +56,9 @@ the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:
 
 ## data
 
+
+from software to data https://overcast.fm/+w94UNl5rE/05:00 martin casado. data across a16z
+
 birth of data eng https://overcast.fm/+Y_EFw-nWM/09:27
 
 origin of pandas https://overcast.fm/+w94UvceX8

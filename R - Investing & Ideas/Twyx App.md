@@ -135,4 +135,7 @@ quality filter https://twitter.com/george__mack/status/1371148128947220481?s=21
 buffer ux improvmemt
 - undecut
 - talk to feross
-- 
+
+
+scraping legality - linkedin-hi5 and Van Buren vs United States CFAA
+- https://news.ycombinator.com/item?id=34366186

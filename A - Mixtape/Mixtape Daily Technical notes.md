@@ -54,6 +54,9 @@ origin of spark (from Hadoop) https://overcast.fm/+Y_EEyOOQ4/18:50
 
 the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:00
 
+
+origin of eleutherai https://overcast.fm/+vKGhcv4kQ/1:26:04 and also starting conjecture with nat friedman 1h49ish
+
 ## data
 
 

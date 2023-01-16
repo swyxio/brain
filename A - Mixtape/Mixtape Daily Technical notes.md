@@ -133,6 +133,10 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 ## misc
 
 
+server vs desktop hardware difference https://overcast.fm/+2tVl9_iKo/11:00
+
+why rust beat c - package manager and build system https://overcast.fm/+2tVl9_iKo/30:00
+
 fighting ddos cloudflare https://overcast.fm/+JadXKK65g/09:15
 
 arc browser https://overcast.fm/+P2WxMElw8/05:08

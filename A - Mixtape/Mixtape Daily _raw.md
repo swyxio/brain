@@ -4,7 +4,7 @@ hedge funds dont hedge https://overcast.fm/+VqtfCOpEw/47:00
 
 millinearianism https://overcast.fm/+-YJk6EQVY/12:00 why ai end of times is bullshit
 
-
+fighting pandemic https://overcast.fm/+x3HEniUBs/40:00
 
 what it waa like to be early figma https://overcast.fm/+3u0JQWsNE/21:06 inflection point
 

@@ -4,15 +4,6 @@
 
 mat savannah dhaw https://youtu.be/cqFCbtRz1Z0
 
-better call sail
-- titles https://overcast.fm/+ELPwzqEG0/1:00:00
-
-
-
-matthew dicks 20 mins https://overcast.fm/+kfErcA
-
-
-
 
 
 moana https://youtu.be/Bum4936KgOo

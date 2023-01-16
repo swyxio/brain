@@ -146,13 +146,7 @@ https://overcast.fm/+-SqAfL4gg/10:00 comma vs tesla vs waymo self driving unit e
 how podcast analytics work https://overcast.fm/+HaNM08aK4/12:08
 
 
-origin of markdown https://overcast.fm/+B7NBXY82A/10:00
 
-origin of FRP https://overcast.fm/+JrqYOftbw/21:00
-
-origin of mongodb https://overcast.fm/+YNa-pU2mo/04:00 ends 20mins ish when they start talking security
-
- origin of k8s by yegge https://youtu.be/sKE1S7PK1fY 15 mins
 
 why blue screens blue https://youtu.be/KgqJJECQQH0
 
@@ -164,7 +158,6 @@ quic and http3 https://overcast.fm/+mBhkjQW9w/08:00
 ebpf https://overcast.fm/+wtIPwx_jA
 12 mins https://overcast.fm/+wFc3d7pbo usecases off ebpf celium
 
-origin of gke https://overcast.fm/+Fd_pGJjHc/05:23 until 16min ish
 
 https://overcast.fm/+MZ3SQEwtw 15 mins origin story of hashicorp consul
 

@@ -2,6 +2,11 @@ why miami
 - https://overcast.fm/+6K1FFySJU/08:00 ryan hoover
 
 
+
+accredited investor laws 
+super interesting point from tyler cowen here - overreaction from sarbanes oxley led to the “stay private for longer” phenomenon of the 2010s https://overcast.fm/+YNeQfQ8bU/23:00
+
+
 happiness advantage and gratitude journalling
 https://overcast.fm/+OozPCUXGs/23:47
 

@@ -1,3 +1,8 @@
+## building the Steam of developer tools
+
+https://overcast.fm/+-qMwoSV5I/26:51
+
+
 ## apps vs infra
 
 - https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/
@@ -540,6 +545,9 @@ late stage chasm
 - hortziontalised solution. landscape charts
 - then low code no code forms
 - apple integration forms
+
+https://overcast.fm/+-qMwoSV5I/26:51 steam story
+from packaged goods and piracy to free to play and then to steam
 
 
 

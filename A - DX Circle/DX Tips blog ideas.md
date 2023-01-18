@@ -1,3 +1,12 @@
+
+## content agency
+
+- https://devdocs.work/
+- content turbine
+- draft.dev
+- 
+
+
 ## building the Steam of developer tools
 
 https://overcast.fm/+-qMwoSV5I/26:51

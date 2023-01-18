@@ -3,6 +3,9 @@ why miami
 
 
 
+pc gaming and free2play https://overcast.fm/+-qMz-9nDg/41:00 at 1h mark - dota and the launch of riot games
+
+
 accredited investor laws 
 super interesting point from tyler cowen here - overreaction from sarbanes oxley led to the “stay private for longer” phenomenon of the 2010s https://overcast.fm/+YNeQfQ8bU/23:00
 

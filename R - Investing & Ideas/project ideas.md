@@ -2,6 +2,8 @@
 webscraper frameworks https://overcast.fm/+P2Ww31CB0/34:29
 
 
+self hostable journaling app
+
 todo.ai - api with llm prototyping converting to code inftastructure
 
 

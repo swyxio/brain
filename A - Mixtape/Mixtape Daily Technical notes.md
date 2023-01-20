@@ -61,6 +61,9 @@ pubmedgpt story https://overcast.fm/+Jy_x31W5I/10:00 50b tokens of data - all pu
 
 ## data
 
+how heroku made postgres https://overcast.fm/+HaNOAkh8M/04:41
+
+
 
 from software to data https://overcast.fm/+w94UNl5rE/05:00 martin casado. data across a16z
 

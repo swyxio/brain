@@ -57,6 +57,8 @@ the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:
 
 origin of eleutherai https://overcast.fm/+vKGhcv4kQ/1:26:04 and also starting conjecture with nat friedman 1h49ish
 
+pubmedgpt story https://overcast.fm/+Jy_x31W5I/10:00 50b tokens of data - all published journals
+
 ## data
 
 

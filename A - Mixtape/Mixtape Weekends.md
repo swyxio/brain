@@ -17,10 +17,6 @@ stripe dev chat
 
 
 
-eddie hinkle web joy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx
-
-
-
 third age of js 3 years https://www.youtube.com/watch?v=CGnlBU3K_eM
 
 

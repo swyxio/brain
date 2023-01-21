@@ -1,6 +1,9 @@
 why miami
 - https://overcast.fm/+6K1FFySJU/08:00 ryan hoover
 
+ai content business and cnet https://overcast.fm/+QN1pDihwM/24:50 until 35ish
+
+
 wechat pay and red packets 16mins to 23mins https://overcast.fm/+rra4YfILo/16:00 and how it made miniapps
 
 pc gaming and free2play https://overcast.fm/+-qMz-9nDg/41:00 at 1h mark - dota and the launch of riot games

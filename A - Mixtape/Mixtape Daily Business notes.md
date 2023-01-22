@@ -132,6 +132,8 @@ porn dindustry interview 45mins https://overcast.fm/+5K6apFbnE
 ## technibiz
 
 
+segment sales story and questions https://overcast.fm/+3Ag9FEw-s/30:36
+
 team topologies and org design and spotify squad model https://overcast.fm/+5AVSc5zB8/24:50
 
 https://overcast.fm/+Lzu2LUmvw/25:00 horizontal api-ification at 34 mins why modern data stack

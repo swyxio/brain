@@ -5,7 +5,6 @@ stackblitz endorsement https://overcast.fm/+KZ26H5GBs/40:00
 
 spotify ltv model https://overcast.fm/+yIRQTIaY8/31:23 10 mins to 33mins
 
-origin of stable diffusion https://overcast.fm/+yIRScD9fI/04:20
 
 
 ## cloud
@@ -38,11 +37,16 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 ## ai
 
-sam altman on chatgpt https://overcast.fm/+XiHCrt51Q/26:38
+training gpt3 https://overcast.fm/+Y_EHsVZA0/10:00
 
 rlhf explanation https://overcast.fm/+HaNPbG9CU/24:00 until 37mins
 
-evolution https://overcast.fm/+3Ag9VZSsY/2:00
+emad evolution https://overcast.fm/+3Ag9VZSsY/2:00
+
+origin of stable diffusion https://overcast.fm/+yIRScD9fI/04:20
+
+origin of eleutherai https://overcast.fm/+vKGhcv4kQ/1:26:04 and also starting conjecture with nat friedman 1h49ish
+
 
 fchollet progressive didclosure of complexity https://overcast.fm/+vScOQcIpg/10:00
 
@@ -50,14 +54,12 @@ pytorch story https://overcast.fm/+Y_EEyXwDs/18:17
 
 how nvidia got into ai https://overcast.fm/+Y_EH2GsgY/01:51 to 16 mins
 
-training gpt3 https://overcast.fm/+Y_EHsVZA0/10:00
 
 origin of spark (from Hadoop) https://overcast.fm/+Y_EEyOOQ4/18:50
 
 the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:00
 
 
-origin of eleutherai https://overcast.fm/+vKGhcv4kQ/1:26:04 and also starting conjecture with nat friedman 1h49ish
 
 pubmedgpt story https://overcast.fm/+Jy_x31W5I/10:00 50b tokens of data - all published journals
 

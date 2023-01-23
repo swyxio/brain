@@ -37,10 +37,6 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 ## ai
 
-training gpt3 https://overcast.fm/+Y_EHsVZA0/10:00
-
-rlhf explanation https://overcast.fm/+HaNPbG9CU/24:00 until 37mins
-
 emad evolution https://overcast.fm/+3Ag9VZSsY/2:00
 
 origin of stable diffusion https://overcast.fm/+yIRScD9fI/04:20

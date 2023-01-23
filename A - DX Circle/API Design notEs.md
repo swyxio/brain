@@ -2,6 +2,12 @@
 Scaleapi lessons https://youtu.be/1sxKohvJzWo
 
 
+- https://twitter.com/sebasbensu/status/1490452318818426880
+	- People don't want to learn your API, so think of it as a ladder: 
+	- 1. Maximize the problems experts can solve. 
+	- 2. Minimize how much a novice needs to learn when they take their first step. 
+	- 3. Make a smooth ladder between their first and last step.
+
 always use dates
 - https://stripe.com/blog/api-versioning
 - https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/

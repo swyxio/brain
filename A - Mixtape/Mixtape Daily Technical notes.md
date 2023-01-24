@@ -41,8 +41,6 @@ emad evolution https://overcast.fm/+3Ag9VZSsY/2:00
 
 origin of stable diffusion https://overcast.fm/+yIRScD9fI/04:20
 
-origin of eleutherai https://overcast.fm/+vKGhcv4kQ/1:26:04 and also starting conjecture with nat friedman 1h49ish
-
 
 fchollet progressive didclosure of complexity https://overcast.fm/+vScOQcIpg/10:00
 
@@ -53,11 +51,10 @@ how nvidia got into ai https://overcast.fm/+Y_EH2GsgY/01:51 to 16 mins
 
 origin of spark (from Hadoop) https://overcast.fm/+Y_EEyOOQ4/18:50
 
+
 the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:00
 
 
-
-pubmedgpt story https://overcast.fm/+Jy_x31W5I/10:00 50b tokens of data - all published journals
 
 ## data
 

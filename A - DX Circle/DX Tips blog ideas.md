@@ -1,3 +1,19 @@
+## impossible triangles
+
+- https://twitter.com/mark_goldberg_/status/1617629684841480192?s=46&t=D-SPkG3f-9PhRpa0owZpsQ deel brex rippling etc
+
+the awkward jamstack trilemma
+- rendering framework
+- cloud infra
+- content management
+examples
+- shopify making oxygen and hydrogen
+- gatsby making functions
+- nextjs api routes
+- netlify AND gatsby doing deferred generation
+- other examples
+	- https://airbyte.com/blog/airbyte-strategy-to-commoditize-all-data-integration batch data ingestion (ELT), event-driven data integration or reverse ETL?
+
 
 ## content agency
 

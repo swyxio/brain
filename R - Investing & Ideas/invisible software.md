@@ -1,0 +1,4 @@
+- rapportive
+- cal.com https://news.ycombinator.com/item?id=34507672#34510809
+- monitoring and alerting software
+- snapshooter backup 

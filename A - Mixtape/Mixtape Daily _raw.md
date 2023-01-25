@@ -1,5 +1,10 @@
 ## mixtape raw dumps
 
+lifemaxxing https://overcast.fm/+37XOV2yE0/37:00
+and looksmaxxing. have something to look forward to.
+- actual looksmaxxing from 45mins
+
+
 hedge funds dont hedge https://overcast.fm/+VqtfCOpEw/47:00
 
 millinearianism https://overcast.fm/+-YJk6EQVY/12:00 why ai end of times is bullshit

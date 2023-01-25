@@ -222,17 +222,7 @@ Basic content portfolio
 
 
 
-the awkward jamstack trilemma
-- rendering framework
-- cloud infra
-- content management
-examples
-- shopify making oxygen and hydrogen
-- gatsby making functions
-- nextjs api routes
-- netlify AND gatsby doing deferred generation
-- other examples
-	- https://airbyte.com/blog/airbyte-strategy-to-commoditize-all-data-integration batch data ingestion (ELT), event-driven data integration or reverse ETL?[]()
+
 
 
 how to produce at the short form - derek sivers

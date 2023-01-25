@@ -183,6 +183,9 @@ origin of twitter pagination  20 mins https://overcast.fm/+4jBE47JkU fbomb
 
 origin of 99designs https://overcast.fm/+XptO0pwSo/10:00
 
+- avery pennarun on crossing chasm and market segmentation - must go to the same conferences https://podcasts.apple.com/us/podcast/tailscale-and-market-segmentation-with-avery-pennarun/id1514646781?i=1000563738841
+	- "tailscale is the industry standard X for group Y"
+	- starts about 7mins in til maybe about 24mins
 
 https://overcast.fm/+qm89pCIRo 1h 8 mins saas business 4-10x, content 2.5-4x, ecomm 2.5-5x annual sales
 

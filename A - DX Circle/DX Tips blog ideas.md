@@ -555,6 +555,15 @@ casey from accel https://www.accel.com/noteworthy/welcome-casey-aylward
 - late: the result is the story
 	- cost optimisation
 - https://twitter.com/balajis/status/1569149096757280768?s=21&t=q-qB_CPXQwYvEkj_MxR9Tw going from art to science to unprofessional
+- the five chasms
+	- founder - convincing yourself
+	- hobbyists - theoretical + toy/fun
+	- early adopter - feeling real pain
+	- early majority - social proof
+	- late majority - social pressure (staying up to date)
+	- laggards - defaults
+- avery pennarun on crossing chasm and market segmentation - must go to the same conferences https://podcasts.apple.com/us/podcast/tailscale-and-market-segmentation-with-avery-pennarun/id1514646781?i=1000563738841
+	- "tailscale is the industry standard X for group Y"
 
 figma - first figure out the feature, others offer the feature as product
 

@@ -17,6 +17,9 @@ https://overcast.fm/+-qMx_5Oqo/57:00 demo scenes and casual gaming and candy cru
 https://overcast.fm/+-qMwoSV5I/25:51 origin of steam and the platform based publisher until 50mins ish
 
 
+mud games https://overcast.fm/+-qMwI0I10/17:00 to 25ish mins - come for game, stay for community
+
+
 accredited investor laws 
 super interesting point from tyler cowen here - overreaction from sarbanes oxley led to the “stay private for longer” phenomenon of the 2010s https://overcast.fm/+YNeQfQ8bU/23:00
 

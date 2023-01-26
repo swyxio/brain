@@ -17,7 +17,9 @@ https://overcast.fm/+-qMx_5Oqo/57:00 demo scenes and casual gaming and candy cru
 https://overcast.fm/+-qMwoSV5I/25:51 origin of steam and the platform based publisher until 50mins ish
 
 
-mud games https://overcast.fm/+-qMwI0I10/17:00 to 25ish mins - come for game, stay for community
+mud games https://overcast.fm/+-qMwI0I10/17:00 to 25ish mins - come for game, stay for community.
+
+https://overcast.fm/+-qMwI0I10 finding riot games 1h 5 mins ish
 
 
 accredited investor laws 

@@ -139,6 +139,8 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 ## misc
 
 
+worse is better and language features are overrated - distribution wins https://overcast.fm/+Y-HUizbyU/50:00
+
 server vs desktop hardware difference https://overcast.fm/+2tVl9_iKo/11:00
 
 why rust beat c - package manager and build system https://overcast.fm/+2tVl9_iKo/30:00

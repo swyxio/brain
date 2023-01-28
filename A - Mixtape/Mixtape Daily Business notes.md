@@ -3,6 +3,8 @@ why miami
 
 ai content business and cnet https://overcast.fm/+QN1pDihwM/24:50 until 35ish
 
+angel investing in stripe and airbnb elad gil https://overcast.fm/+3Ag9HiOfo/25:22
+
 
 wechat pay and red packets 16mins to 23mins https://overcast.fm/+rra4YfILo/16:00 and how it made miniapps
 

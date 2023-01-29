@@ -64,6 +64,9 @@ the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:
 
 how heroku made postgres https://overcast.fm/+HaNOAkh8M/04:41
 
+
+how the first data warehouses blew away oracle by orders of magnitude back in the day https://overcast.fm/+w94WlS_Zo/25:00
+
 anonymized prod data https://www.dataengineeringpodcast.com/tonic-ai-fake-data-generation-episode-359
 
 from software to data https://overcast.fm/+w94UNl5rE/05:00 martin casado. data across a16z

@@ -3,7 +3,7 @@ the first SQL db - System R https://en.wikipedia.org/wiki/IBM_System_R
 db decision tree https://twitter.com/alexxubyte/status/1576961080454021121/photo/1
 
 
-write db from scratch
+write db from scratch/ build your own database
 - https://dbfromzero.com/
 - https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/
 - https://www.databass.dev/
@@ -12,6 +12,7 @@ write db from scratch
 - http://www.databaselecture.com/
 - https://cstack.github.io/db_tutorial/
 - https://leanpub.com/how-query-engines-work
+- https://build-your-own.org/blog/20230127_byor/
 
 what snowflake does ontop of just being a db
 - https://twitter.com/squarecog/status/1566472243399446528?s=21&t=cImxWUUEdJWHnQyrsmPXoA

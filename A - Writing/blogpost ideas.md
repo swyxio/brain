@@ -20,6 +20,7 @@ google android
 	- oh im just normalizing
 - route53 DNS
 
+database reinvention https://news.ycombinator.com/item?id=34573776
 
 ## startup vs upstart 
 

@@ -15,7 +15,7 @@ examples
 	- https://airbyte.com/blog/airbyte-strategy-to-commoditize-all-data-integration batch data ingestion (ELT), event-driven data integration or reverse ETL?
 
 
-## content agency
+## content agencies
 
 - https://devdocs.work/
 - content turbine

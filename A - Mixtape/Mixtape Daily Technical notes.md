@@ -142,6 +142,9 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 ## misc
 
 
+asml euv machines https://overcast.fm/+QLdsROQho/08:00
+
+
 worse is better and language features are overrated - distribution wins https://overcast.fm/+Y-HUizbyU/50:00
 
 server vs desktop hardware difference https://overcast.fm/+2tVl9_iKo/11:00

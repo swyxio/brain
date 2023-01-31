@@ -32,7 +32,12 @@ https://overcast.fm/+-qMwoSV5I/26:51
 
 - https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/
 
-## annual recurring contnent
+## formats, not calendars
+
+do we want a calendar
+- format that works can be churned out
+
+annual recurring contnent
 
 - billie eilish youtuev 6 years straight
 - best x of 2022wa

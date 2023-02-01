@@ -15,6 +15,7 @@ industry meta
 - https://amplifypartners.com/moderndatateamshub/
 - potemkin data https://mcorrell.medium.com/potemkin-data-science-fba2b5ba5cc6
 - datastack 2021 https://lakefs.io/the-state-of-data-engineering-in-2021/
+- 2016 birth of dbt and modern data stack https://www.getdbt.com/blog/building-a-mature-analytics-workflow/
 - atlans version of the stack https://twitter.com/prukalpa/status/1376192466005549057?s=20
 
 

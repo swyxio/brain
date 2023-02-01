@@ -1,3 +1,7 @@
+## recipes not plugins
+
+community angle. gatsby. nextjs https://twitter.com/swyx/status/1245805239820668928?s=20
+
 ## impossible triangles
 
 - https://twitter.com/mark_goldberg_/status/1617629684841480192?s=46&t=D-SPkG3f-9PhRpa0owZpsQ deel brex rippling etc

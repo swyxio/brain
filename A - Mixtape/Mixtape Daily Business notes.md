@@ -8,21 +8,6 @@ angel investing in stripe and airbnb elad gil https://overcast.fm/+3Ag9HiOfo/25:
 
 wechat pay and red packets 16mins to 23mins https://overcast.fm/+rra4YfILo/16:00 and how it made miniapps
 
-pc gaming and free2play https://overcast.fm/+-qMz-9nDg/41:00 at 1h mark - dota and the launch of riot games
-
-dont forget the low brow https://overcast.fm/+-qMx_5Oqo/03:00 games and deer hunter and the rise of casual games until 17 mins the origin of nokia snake
-
-https://overcast.fm/+-qMx_5Oqo/29:00 ipod games and iphone games and IAPs vs app store
-
-https://overcast.fm/+-qMx_5Oqo/57:00 demo scenes and casual gaming and candy crush
-
-https://overcast.fm/+-qMwoSV5I/25:51 origin of steam and the platform based publisher until 50mins ish
-
-
-mud games https://overcast.fm/+-qMwI0I10/17:00 to 25ish mins - come for game, stay for community.
-
-https://overcast.fm/+-qMwI0I10 finding riot games 1h 5 mins ish
-
 
 accredited investor laws 
 super interesting point from tyler cowen here - overreaction from sarbanes oxley led to the “stay private for longer” phenomenon of the 2010s https://overcast.fm/+YNeQfQ8bU/23:00

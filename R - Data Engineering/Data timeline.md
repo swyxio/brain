@@ -33,7 +33,7 @@ history of bi from preset https://preset.io/blog/dataset-centric-visualization/
 “master data management collapsed under its own weight “
 https://overcast.fm/+x8z-L-oRY/27:00
 
-
+x
 tristan timeline of MDS
 - https://www.getdbt.com/blog/future-of-the-modern-data-stack/
 

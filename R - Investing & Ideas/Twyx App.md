@@ -93,6 +93,8 @@ patticus feature ranking https://twitter.com/Patticus/status/1587848977826938882
 
 https://youtu.be/7ID64AEbl-0
 
+https://github.com/JustAnotherArchivist/snscrape
+
 ungroomed product twitter feedback https://twitter.com/michaelsayman/status/1511118331234893828?s=20&t=zA629sjDdf4TDtobuJSKsg
 
 - twitterverse graph https://twitter.com/euxenus/status/1219777009737510912?s=20&t=2Sh9WhkF2-BSZ-6bPNRSEA

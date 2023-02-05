@@ -1,3 +1,10 @@
+
+## from open source to cloud saas
+
+
+- we are a glorified open source support hotline
+- 
+
 ## recipes not plugins
 
 community angle. gatsby. nextjs https://twitter.com/swyx/status/1245805239820668928?s=20

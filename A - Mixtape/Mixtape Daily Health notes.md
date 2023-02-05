@@ -6,9 +6,14 @@ hapoiness https://overcast.fm/+TbPfIg
 
 ## physical health
 
-VO2 max https://overcast.fm/+2-B-_N0xY/17:20 range to 26 mins
+VO2 max https://overcast.fm/+2-B-_N0xY/17:20 range to 26 mins. then https://overcast.fm/+2-B-_N0xY/1:39:49 vo2max 12 min sprint. 1 mile walk test. to 1h 42. 20mins of work.. finished iut at 1h 50 for levels u want https://overcast.fm/+2-B-_N0xY/1:50:00
+
+1h 07 movement tests https://overcast.fm/+2-B-_N0xY/1:07:00 upt to 1:27
+
+bone health https://overcast.fm/+2-B-B1118/28:05
 
 
+why strength 1min24 https://overcast.fm/+2-B-B1118/01:24
 
 https://overcast.fm/+Fbuk_3PLY/40:00 losing sight
 

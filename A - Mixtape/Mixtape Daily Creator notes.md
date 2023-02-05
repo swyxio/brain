@@ -1,8 +1,8 @@
 
 
 
-
-===
+exploding kittens - activating community for sales
+- https://overcast.fm/+Kebuc8CCE/25:00
 
 abdaal process https://overcast.fm/+23-eZaHgU/1:26:00 to 1h30
 

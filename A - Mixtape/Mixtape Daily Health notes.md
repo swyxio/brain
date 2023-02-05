@@ -12,6 +12,7 @@ VO2 max https://overcast.fm/+2-B-_N0xY/17:20 range to 26 mins. then https://over
 
 bone health https://overcast.fm/+2-B-B1118/28:05
 
+hypertrophy https://overcast.fm/+2-B-B1118/2:47:30 
 
 why strength 1min24 https://overcast.fm/+2-B-B1118/01:24
 

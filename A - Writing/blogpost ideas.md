@@ -59,6 +59,15 @@ write a special purpose database
 - have a well known schema
 
 
+cloudflare
+- pain button -> CDN/DDOS
+
+
+own something central
+- auth
+- logging
+- feature flags
+
 ## components of cloud
 
 space power and connectivity

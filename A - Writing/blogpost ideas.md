@@ -65,8 +65,18 @@ cloudflare
 
 own something central
 - auth
-- logging
+- logging & tracing
+- metrics
 - feature flags
+- dependency injection? https://youtu.be/zrNr3JVUc8I?t=1330
+
+own a part of the company or the place in the 3 financial statements
+- stripe - revenue
+- brex/ramp - expense
+- rippling - employees
+
+
+
 
 ## components of cloud
 

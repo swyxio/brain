@@ -1,4 +1,14 @@
 
+## go to market and persona matrix
+
+- one spectrum: funnel
+	- awareness
+	- consideration
+	- purchase/usage
+- 
+
+
+
 ## from open source to cloud saas
 
 

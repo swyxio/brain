@@ -1,10 +1,38 @@
 # blogpost ideas
 
+
+## founder vs manager
+
+frontline manager is helping team
+middle manager is playing The Game
+founder js going 0 to 1
+
+not super helpful to be in bigtech as founder
+
+
+The Game
+- 9boxes
+- Leadership, Leverage, Impact
+
+L1 - impact on yourself
+L3 - member of the staff
+L7 - industry
+
+
+## the great consolidation
+
+first layoffs 
+now mergers and acquisitins
+
+
 ## the ties that bind
 
 metaverse has no interop 
 cloudflare bandwidth alliance
 google android
+
+ml alliances
+
 
 ## accidentally database
 

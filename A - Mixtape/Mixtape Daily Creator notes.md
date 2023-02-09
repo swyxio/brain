@@ -1,5 +1,5 @@
 
-
+why hbo has boobs https://overcast.fm/+QLdsOYx5I/10:00 - counterprogramming until 24mins
 
 exploding kittens - activating community for sales
 - https://overcast.fm/+Kebuc8CCE/25:00

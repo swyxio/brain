@@ -104,6 +104,9 @@ own a part of the company or the place in the 3 financial statements
 - rippling - employees
 
 
+- stage 2
+	- come for content stay for community
+	- marketplace
 
 
 ## components of cloud

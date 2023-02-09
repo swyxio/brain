@@ -248,6 +248,7 @@ habits
 	- noticing what topics work
 	- noticing what titles make people click
 		- what does everyone want
+		- "With over a billion hours on YouTube watched daily, 70% of those billion hours are from the recommendation system. The most recommended keywords in recommended videos were: get schooled, shreds, debunks, dismantles, debates, rips confronts, destroys, hates, demolishes, obliterates." [https://blog.matthewvere.com/p/54](https://blog.matthewvere.com/p/54 "https://blog.matthewvere.com/p/54")
 
 principles 
 - learning in public and creating luck

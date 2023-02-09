@@ -22,7 +22,7 @@ L7 - industry
 ## the great consolidation
 
 first layoffs 
-now mergers and acquisitins
+now mergers and acquisitions
 
 
 ## the ties that bind

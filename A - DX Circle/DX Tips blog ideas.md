@@ -1,4 +1,37 @@
 
+## 7 myths that stymie your devrel career
+
+
+insoired by shreyas doshi 7 myths
+- not writing. fucking write.
+- chasing devrel manager or vp devrel. you need to lead
+- not marketing? you fucking are
+- not talking to engineers
+
+
+## how to tell your boss the product sucks
+
+- community traction
+- content pull
+- devrel cant create product market fit
+- give ideas
+- framing wuestions
+	- how is your product making the community excited about where the industry is going
+	- what is the natural k factor and retention rate of your product
+	- 
+
+
+## there is gold in your eng team
+
+- find me the guy who scaled
+- who handled the p0’s
+- who knows why we did what we did and didnt do what we didnt
+- help him tell his story
+
+they have opinions on what rhey should do and arent being heard
+you can back them up with user references and data
+
+
 ## go to market and persona matrix
 
 - one spectrum: funnel

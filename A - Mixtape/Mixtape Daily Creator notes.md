@@ -8,6 +8,10 @@ abdaal process https://overcast.fm/+23-eZaHgU/1:26:00 to 1h30
 
 mfm how to be unique https://overcast.fm/+rTsXxO6GM/18:00
 
+how to do linkedin well https://overcast.fm/+JmiPv1fno/29:00 from a guy with 350k followers 
+
+
+pmarca on twitter valuable https://overcast.fm/+b53MMmUcQ/1:00:00 to 1h10 ish
 
 https://overcast.fm/+6Z2rdGnf0/05:30 the story of up, appealing to everyone until 18mins
 

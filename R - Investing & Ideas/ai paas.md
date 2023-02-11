@@ -1,9 +1,11 @@
 
 - rollout canaries
+- caching
+- abtesting
 - audit logs/change notifications
 - cloudflare aka PDN
-
-
+- open data
+	- donate your data
 
 You received a $9,500 counter offer on albatross.ai
 You sent a $1,500 offer on albatross.ai

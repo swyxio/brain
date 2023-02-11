@@ -8,6 +8,11 @@ angel investing in stripe and airbnb elad gil https://overcast.fm/+3Ag9HiOfo/25:
 
 wechat pay and red packets 16mins to 23mins https://overcast.fm/+rra4YfILo/16:00 and how it made miniapps
 
+business of hinge pay love https://overcast.fm/+QN1qy50aM/30:00
+
+
+how fortnite broke the console oligopoly https://overcast.fm/+-qMxtsdDQ/44:00 cross platform play
+
 
 accredited investor laws 
 super interesting point from tyler cowen here - overreaction from sarbanes oxley led to the “stay private for longer” phenomenon of the 2010s https://overcast.fm/+YNeQfQ8bU/23:00

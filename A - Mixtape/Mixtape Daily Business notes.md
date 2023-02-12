@@ -10,6 +10,8 @@ wechat pay and red packets 16mins to 23mins https://overcast.fm/+rra4YfILo/16:00
 
 business of hinge pay love https://overcast.fm/+QN1qy50aM/30:00
 
+jobs to be done story from difitalocean guy https://overcast.fm/+OOu91TDmw/18:00
+
 
 how fortnite broke the console oligopoly https://overcast.fm/+-qMxtsdDQ/44:00 cross platform play
 

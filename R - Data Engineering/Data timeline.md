@@ -21,6 +21,8 @@ https://matt-rickard.com/diseconomies-of-scale-at-google/
 - 2017 - cloudera ipo https://news.crunchbase.com/business/morning-report-ahead-clouderas-ipo-pricing-key-slides-roadshow/ from 4bn to 2bn
 - 2018 - merged https://news.crunchbase.com/venture/the-ever-cheaper-cloudera-hortonworks-merger/
 
+2005 - It is amusing that in 2005, "VLDB" (precursor term to "big data") was defined in Wikipedia to be "larger than 1TB".. after reading through the post and the author's experience.. it would appear that this was not actually a completely terrible estimate, although there are larger and smaller: [https://en.wikipedia.org/w/](https://en.wikipedia.org/w/index.php?title=Very_large_database&oldid=20738417) https://news.ycombinator.com/item?id=34702050
+
 2008-2012 https://overcast.fm/+3lpWZ1nA8/17:32 coining of data scientist ferm by jeff hammerbacher and dj patil
 
 catalog timeline from atlan https://towardsdatascience.com/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf

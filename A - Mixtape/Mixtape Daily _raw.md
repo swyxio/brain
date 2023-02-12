@@ -5,6 +5,8 @@ and looksmaxxing. have something to look forward to.
 - actual looksmaxxing from 45mins
 
 
+casting Keivonn in TLOU https://overcast.fm/+-NFAFPcDM/05:00
+
 hedge funds dont hedge https://overcast.fm/+VqtfCOpEw/47:00
 
 millinearianism https://overcast.fm/+-YJk6EQVY/12:00 why ai end of times is bullshit

@@ -1,4 +1,22 @@
 
+## impactful 1.0 launches
+
+- https://blog.meilisearch.com/v1-enterprise-ready-stable/
+- https://www.confluent.io/blog/apache-kafka-goes-1-0/
+- Svelte 3 https://svelte.dev/blog/svelte-3-rethinking-reactivity
+- Go v1 [preview](https://blog.golang.org/preview-of-go-version-1), [release](https://blog.golang.org/go1). [HN comments](https://news.ycombinator.com/item?id=3766874)
+
+skip the 1.0
+- https://reactjs.org/blog/2016/04/07/react-v15.html
+
+never-2.0
+- golang https://www.techtarget.com/searchsoftwarequality/news/252526948/Go-updates-to-tackle-pain-points-but-Golang-2-is-dead
+
+counterexamples
+- https://dagster.io/blog/dagster-1-0-hello
+- 
+
+
 ## 7 myths that stymie your devrel career
 
 

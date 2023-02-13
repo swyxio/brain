@@ -16,4 +16,7 @@ https://twitter.com/elizalian/status/1623065312706072576?s=46&t=ofyFRrmR_qpgz1gc
 
 
 
-https://twitter.com/kevinafischer/status/1624629889306595329?s=46&t=CVYd4wQwtHep3ab1zy3J1w
+https://twitter.com/kevinafischer/status/1624629889306595329
+- competition
+	- https://twitter.com/didntgetthemem0/status/1624863929364103169?s=20
+	- https://twitter.com/yairhaimo/status/1625001332296896513?s=20

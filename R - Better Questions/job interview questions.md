@@ -4,6 +4,13 @@
 - https://party.pro/icebreakers-work/
 
 
+what is a common misconception of you? https://overcast.fm/+afOCXCY3g/20:03
+- what is something you have always struggled with
+- whats the most difficult feedback youve received in your career?
+	- and how did it change you
+- whos your most favorite leader you ever had and why
+- walk me thru how make career decisions https://overcast.fm/+afOCXCY3g/1:08:00
+
 flip the interview https://www.holloway.com/b/ask-me-this-instead
 - what should I be worried about in joining the company
 

@@ -1,4 +1,9 @@
 
+## uphill devrel vs downhill devrel
+
+value of the seat
+
+
 ## impactful 1.0 launches
 
 - https://blog.meilisearch.com/v1-enterprise-ready-stable/

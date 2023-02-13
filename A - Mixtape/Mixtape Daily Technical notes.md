@@ -65,6 +65,9 @@ the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:
 how heroku made postgres https://overcast.fm/+HaNOAkh8M/04:41
 
 
+auren hoffman on types of data https://overcast.fm/+w94V5_Ttw/9:00 you can sell. 
+- at 36mins, data coop model
+
 how the first data warehouses blew away oracle by orders of magnitude back in the day https://overcast.fm/+w94WlS_Zo/25:00
 
 anonymized prod data https://www.dataengineeringpodcast.com/tonic-ai-fake-data-generation-episode-359

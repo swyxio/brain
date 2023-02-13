@@ -642,10 +642,11 @@ casey from accel https://www.accel.com/noteworthy/welcome-casey-aylward
 - avery pennarun on crossing chasm and market segmentation - must go to the same conferences https://podcasts.apple.com/us/podcast/tailscale-and-market-segmentation-with-avery-pennarun/id1514646781?i=1000563738841
 	- "tailscale is the industry standard X for group Y"
 
-
 react documentary
 - pete hunt says the first react launch was too wide. too much new concepts incl jsx that people would react to
 - second react launch was for the early adopters - hey we have cool ideas
+
+- the reason open source launches appeal to devtools is because it targets early adopters who like to peek under the hood
 
 
 figma - first figure out the feature, others offer the feature as product

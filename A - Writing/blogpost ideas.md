@@ -139,14 +139,7 @@ hollowed out company https://twitter.com/Austen/status/1536400914486943745?s=20&
 anyway the main point is that a few notable metaframeworks have started placing bets for a framework agnostic future. wont be an earnest reality until the preceding few points also become unbundled.
 
 
-the five chasms
-- founder - convincing yourself
-- hobbyists - theoretical + toy/fun
-- early adopter - feeling real pain
-- early majority - social proof
-- late majority - social pressure (staying up to date)
-- laggards - defaults
-- avery pennarun on crossing chasm and market segmentation - must go to the same conferences https://podcasts.apple.com/us/podcast/tailscale-and-market-segmentation-with-avery-pennarun/id1514646781?i=1000563738841
+
 
 - problems with the secondary problem
 	- https://twitter.com/benskuhn/status/1506627296903503881?s=20&t=G5iweJAfKt0tBqLxgOa29w

@@ -13,3 +13,7 @@ smol.ai **$500.00** Renews at $79.98/yr
 ant.dev $720/year
 
 https://twitter.com/elizalian/status/1623065312706072576?s=46&t=ofyFRrmR_qpgz1gc0cAvIQ
+
+
+
+https://twitter.com/kevinafischer/status/1624629889306595329?s=46&t=CVYd4wQwtHep3ab1zy3J1w

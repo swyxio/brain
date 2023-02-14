@@ -13,6 +13,9 @@ business of hinge pay love https://overcast.fm/+QN1qy50aM/30:00
 jobs to be done story from difitalocean guy https://overcast.fm/+OOu91TDmw/18:00
 
 
+transistor.fm competing with free vc competition https://overcast.fm/+EHhum5ppo/55:00
+
+
 how fortnite broke the console oligopoly https://overcast.fm/+-qMxtsdDQ/44:00 cross platform play
 
 

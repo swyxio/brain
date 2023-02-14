@@ -1,4 +1,39 @@
 
+## whats with all the open source zapiers?
+
+- examples
+	- zapier
+		- automatisch
+		- activepieces https://news.ycombinator.com/item?id=34723989
+		- windmill - pipedream alternative
+		- tooljet? interesting story with HN as part of it https://blog.tooljet.com/raising-vc-funding-for-open-source-project/
+		- trigger.dev
+	- retool
+		- openblocks https://news.ycombinator.com/item?id=33592990
+		- appsmith
+		- interval https://news.ycombinator.com/item?id=33598868
+		- bracket? https://news.ycombinator.com/item?id=33600448
+		- illa? very pushy https://news.ycombinator.com/item?id=33605122
+		- budibase
+		- saltcorn
+		- https://github.com/lowdefy/lowdefy
+		- airforms
+		- airplane,.dev success https://news.ycombinator.com/item?id=33020910
+		- (retool has self hosting https://news.ycombinator.com/item?id=33601921)
+		- TODO: search twitter for yahoo pipes nostalgia quotes
+	- airtable
+		- baserow.io
+	- stripes
+- reasons
+	- YC throwing money at the wall
+	- developers starring free work as a way to avoid paying. HN filter bubble
+	- adoption within privacy/security walls
+	- successful companies go upmarket, leaving room at the bottom of the market
+- issues
+	- duplicative MxN integration problem. unless winner takes all or standard emerges, all will kinda suck
+	- abandonware
+- nobody tried open source heroku. why. they are all closed source
+
 ## uphill devrel vs downhill devrel
 
 value of the seat

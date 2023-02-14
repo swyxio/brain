@@ -51,6 +51,7 @@ misc
 - https://www.kristinamatuska.com/ worked on blitzjs
 - https://twitter.com/made_by_betty worked on rescript
 - https://www.illustratorhub.com/
+- https://twitter.com/z1digitalstudio redesigned Meteror for Tiny ([tweet](https://twitter.com/awilkinson/status/1233058062065225728?s=20&t=zpe_iocz0dUvKSHOFgcSoQ))
 - https://twitter.com/Cornerstone_Vic
 - https://annieruygtillustration.com/ flyio illos https://news.ycombinator.com/item?id=14517502
 - https://twitter.com/JrCasas_ josh pigford

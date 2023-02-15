@@ -5,6 +5,8 @@ and looksmaxxing. have something to look forward to.
 - actual looksmaxxing from 45mins
 
 
+when your aretha is so good the judge gives you a pass https://overcast.fm/+11VXkxtsg
+
 casting Keivonn in TLOU https://overcast.fm/+-NFAFPcDM/05:00
 
 hedge funds dont hedge https://overcast.fm/+VqtfCOpEw/47:00

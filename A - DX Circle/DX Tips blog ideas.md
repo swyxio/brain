@@ -1,4 +1,12 @@
 
+## pairing bottom up with first to adopt and top down with post production
+
+https://twitter.com/davidshershey/status/1623799015208030208?s=46&t=fB9be2CeaR6qfQ6uyanBBQ
+
+airbyte - landed on bottom up focus
+o11y/security - top down
+
+
 ## whats with all the open source zapiers?
 
 - examples

@@ -8,6 +8,7 @@ todo:
 - abtesting
 - audit logs/change notifications
 - cloudflare aka PDN
+	- The value of CloudFlare comes from its network, not the software they run. https://news.ycombinator.com/item?id=34800182
 - help to generate adversarial examples
 - open data
 	- donate your data

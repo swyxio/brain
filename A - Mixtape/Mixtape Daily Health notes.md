@@ -21,7 +21,6 @@ https://overcast.fm/+Fbuk_3PLY/40:00 losing sight
 fidgeting https://overcast.fm/+2-B_5egSU/35:00
 and cold ice bath and thecoldplunge.com  up til 1hr mark
 
-
 blue blockers dont work https://overcast.fm/+23-dyloZg/1:10:00 until 1:20
 
 ## food
@@ -29,3 +28,5 @@ blue blockers dont work https://overcast.fm/+23-dyloZg/1:10:00 until 1:20
 teeth https://overcast.fm/+KebuAyTEQ/50:00 
 
 7 day fasting https://overcast.fm/+HFHXvfI_w/59:03
+
+losing 34 lbs in 3 months https://overcast.fm/+93mnJqpUA and what its like to be fat

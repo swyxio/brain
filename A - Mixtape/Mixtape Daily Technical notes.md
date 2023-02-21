@@ -37,6 +37,12 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 ## ai
 
+
+replit society if model small model pull and push https://overcast.fm/+BlzHpk4FQ/22:00
+
+
+ai bing chat experience https://overcast.fm/+m_robosXI/05:00 til 21ish mins
+
 reproducing gpt3 with bloom and opt 175b https://overcast.fm/+yIRTjAscw/45:00
 
 karpathy gpt lecture last 10 mins on training difference between nanogpt and real gpt 
@@ -148,11 +154,14 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 asml euv machines https://overcast.fm/+QLdsROQho/08:00
 
 
+
 worse is better and language features are overrated - distribution wins https://overcast.fm/+Y-HUizbyU/50:00
 
 server vs desktop hardware difference https://overcast.fm/+2tVl9_iKo/11:00
 
 why rust beat c - package manager and build system https://overcast.fm/+2tVl9_iKo/30:00
+
+rust can save the planet https://overcast.fm/+HaNMD-yR4/10:50
 
 fighting ddos cloudflare https://overcast.fm/+JadXKK65g/09:15
 

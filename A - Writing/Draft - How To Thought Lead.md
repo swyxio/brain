@@ -1,9 +1,13 @@
 
 - know what people want
 	- immediate/instinctive response
+	- system 1 devrel vs system 2
+		- https://overcast.fm/+eZyAMruSs/54:00 tim urban hive mind vs lizard brain
 	- aspirational response
 		- - Ralph Waldo Emerson -Our chief want is someone who will inspire us to be what we know we could be
 	- humorous response
+	- define small set of questions evertone wants
+		- sam Altman qtns https://overcast.fm/+BlzHpk4FQ/50:08
 	- in other words: https://twitter.com/chrishlad/status/1375501424830865415?s=20&t=_OvgUKJ6uzSJhOyK6vudow
 		- WOW: i didn't know this is a thing or they make that much $ 
 		- LOL: laugh 
@@ -17,6 +21,8 @@
 	- https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/
 	- things that dont change https://collabfund.com/blog/betting-on-things-that-never-change/
 - have better facts/history than anyone else
+	- mary meeker
+	- https://www.ben-evans.com/presentations
 - have better vision of the future than anyone
 	- articulate a trend/where people are going
 - clarify/express reality better than anyone

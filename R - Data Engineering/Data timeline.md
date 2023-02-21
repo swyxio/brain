@@ -27,6 +27,9 @@ https://matt-rickard.com/diseconomies-of-scale-at-google/
 
 catalog timeline from atlan https://towardsdatascience.com/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf
 
+2010s - neteeza vs snowflake https://chrisreuter.me/2023-02-16-usage-pricing/ pricing comparisons
+
+
 
 history of bi from preset https://preset.io/blog/dataset-centric-visualization/
 

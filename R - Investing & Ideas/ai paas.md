@@ -3,14 +3,24 @@ todo:
 - check what scaleai offers
 
 
-- rollout canaries
-- caching
-- abtesting
-- audit logs/change notifications
-- cloudflare aka PDN
-	- The value of CloudFlare comes from its network, not the software they run. https://news.ycombinator.com/item?id=34800182
-- help to generate adversarial examples
-- open data
+1. prompt injection
+	- prompt suggestion
+	- cloudflare for prompts aka PDN
+		- The value of CloudFlare comes from its network, not the software they run. https://news.ycombinator.com/item?id=34800182
+2. caching
+	1. simple caching for supabase clippy
+	- speculative querying/preloading based on recent behavior?
+		- have to integrate with hotjar and segment?
+		- Alessio example - if i load data in a notebook i'm likely to want to run whisper later
+		- gptcommit - nutlope - speculatively run on git add instead of git commit
+3. smol data
+	- we make shit smaller faster
+	- stage 2 on RLHF 
+4. PaaS concerns
+	- abtesting - rollout canaries
+	- audit logs/change notifications
+	- help to generate adversarial examples
+6. open data
 	- donate your data
 	- sharable profile of open data hackers
 	- “data management platform”?
@@ -35,3 +45,8 @@ https://twitter.com/kevinafischer/status/1624629889306595329
 - competition
 	- https://twitter.com/didntgetthemem0/status/1624863929364103169?s=20
 	- https://twitter.com/yairhaimo/status/1625001332296896513?s=20
+	- https://snorkel.ai/
+	- https://www.datarobot.com/
+	- scale spellbook
+	- helicone
+	- https://honeyhive.ai/

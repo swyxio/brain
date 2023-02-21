@@ -20,6 +20,10 @@ jason cohen startup extreme questions - https://longform.asmartbear.com/posts/ex
 13.  "Mortal wound"
 14.  "Only one thing this year"
 
+instagram questions 
+https://twitter.com/petergyang/status/1627692085485912064?s=46&t=mdWH4-HTRZRMLkqdX7MU1g
+
+
 ## Founder Questions
 (via replay)
 

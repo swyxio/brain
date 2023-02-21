@@ -178,6 +178,9 @@ ikya surskever - alex wang talk - 11min 30s - you need tonhave understanding
 
 ## dx = speed
 
+
+at github deploy speed is the complaint https://overcast.fm/+HZUc3Qfjo/1:10:00
+
 sam lambert https://overcast.fm/+oUqBkopko/24:00 dx is not api or cli. its did they go fast
 
 cli commands https://twitter.com/MichaelDwan/status/1583557379677130752?s=20&t=aKevm3oGdJc7uuZFw9LonA
@@ -761,6 +764,7 @@ You _can_ have the best of both worlds, but it takes a new kind of DevOps tool, 
 
 Ambassador Labs (formerly Datawire), the cloud native developer experience leader, enables developers to code, ship, and run applications faster and easier than ever.
 
+Wilco's mission is to empower every developer, regardless of their background or skill level, to unlock their full potential!
 
 https://news.ycombinator.com/item?id=23331804
 - "WTF DOES IT DO?"

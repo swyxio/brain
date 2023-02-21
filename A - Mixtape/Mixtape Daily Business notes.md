@@ -129,7 +129,7 @@ the trust equation https://overcast.fm/+OozM5Blcw 25 mins
 
 porn dindustry interview 45mins https://overcast.fm/+5K6apFbnE
 
-
+https://overcast.fm/+-qMzjuAIc/30:00 - the rise of minecraft and the evolution of “the stage” game with youtube until 55mins ish where twitch arose
 
 ## technibiz
 

@@ -93,6 +93,7 @@ Deep (?)
 	        - data obs https://www.montecarlodata.com/blog-what-is-data-observability/
 	        - https://principles.planetscale.com/
 	        - https://infinitecanvas.tools/
+	        - https://docs.getdbt.com/community/resources/viewpoint
 					- 12 factor app
 					- jamstack
 					- https://principledgraphql.com/

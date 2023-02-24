@@ -48,13 +48,6 @@ https://twitter.com/kevinafischer/status/1624629889306595329
 	- https://snorkel.ai/
 	- https://www.datarobot.com/
 	- scale spellbook
+	- https://humanloop.com/
 	- helicone
 	- https://honeyhive.ai/
-	- reka.ai https://dyogatama.github.io/
-		- enterprise oriented
-		- build small models against internal data
-		- larger model that they deliver to end customers as an api
-		- similar performance to gpt3
-	- humanloop pivoted away from this
-	- dao huggingface head of research
-		- building chatgpt for enterprise

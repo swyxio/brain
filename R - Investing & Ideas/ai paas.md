@@ -1,8 +1,5 @@
 
-todo:
-- check what scaleai offers
-
-
+updated in https://docs.google.com/document/d/1S0IlBTti_qmcXiTjqcCzaciC-q7s0LrNKbsyQaRx2lk/edit#
 1. prompt injection
 	- prompt suggestion
 	- cloudflare for prompts aka PDN
@@ -15,6 +12,7 @@ todo:
 		- gptcommit - nutlope - speculatively run on git add instead of git commit
 3. smol data
 	- we make shit smaller faster
+	- **Privacy/own servers - [security issues](https://news.ycombinator.com/item?id=34910249)**
 	- stage 2 on RLHF 
 4. PaaS concerns
 	- abtesting - rollout canaries

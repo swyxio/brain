@@ -10,6 +10,7 @@ mfm how to be unique https://overcast.fm/+rTsXxO6GM/18:00
 
 how to do linkedin well https://overcast.fm/+JmiPv1fno/29:00 from a guy with 350k followers 
 
+natalie dormer on season 8 https://youtu.be/0VdWEHzNrv4
 
 whats up with that - kenan thompson https://overcast.fm/+8Lda-naUg/33:00
 

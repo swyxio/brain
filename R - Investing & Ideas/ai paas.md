@@ -14,6 +14,10 @@ trends
 	- OpenAI has great brand but
 	- FB released LLaMA https://ai.facebook.com/blog/large-language-model-llama-meta-ai/  LLaMA-13B outperforms GPT-3 (175B) on most benchmarks, and LLaMA-65B is competitive with the best models, Chinchilla70B and PaLM-540B
 
+alex bowe
+https://github.com/FMInference/FlexGen
+- FlexGen is a high-throughput generation engine for running large language models with limited GPU memory (e.g., a 16GB T4 GPU or a 24GB RTX3090 gaming card!). FlexGen allows high-throughput generation by IO-efficient offloading, compression and large effective batch sizes.
+
 ## 5 step plan
 
 updated in https://docs.google.com/document/d/1S0IlBTti_qmcXiTjqcCzaciC-q7s0LrNKbsyQaRx2lk/edit#
@@ -31,11 +35,11 @@ updated in https://docs.google.com/document/d/1S0IlBTti_qmcXiTjqcCzaciC-q7s0LrNK
 	- we make shit smaller faster
 	- **Privacy/own servers - [security issues](https://news.ycombinator.com/item?id=34910249)**
 	- stage 2 on RLHF 
-4. PaaS concerns
+1. PaaS concerns
 	- abtesting - rollout canaries
 	- audit logs/change notifications
 	- help to generate adversarial examples
-6. open data
+2. open data
 	- donate your data
 	- sharable profile of open data hackers
 	- “data management platform”?

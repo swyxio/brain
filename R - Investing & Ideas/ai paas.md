@@ -9,6 +9,11 @@
 - cost
 - predictability/alignment
 
+trends
+- large models are actually becoming democratized
+	- OpenAI has great brand but
+	- FB released LLaMA https://ai.facebook.com/blog/large-language-model-llama-meta-ai/  LLaMA-13B outperforms GPT-3 (175B) on most benchmarks, and LLaMA-65B is competitive with the best models, Chinchilla70B and PaLM-540B
+
 ## 5 step plan
 
 updated in https://docs.google.com/document/d/1S0IlBTti_qmcXiTjqcCzaciC-q7s0LrNKbsyQaRx2lk/edit#

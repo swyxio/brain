@@ -1,4 +1,16 @@
 
+## why
+
+- smol models are powerful motivator
+	- stable diffusion
+	- whisper https://archive.is/FEGf1
+- privacy/ownership
+- speed
+- cost
+- predictability/alignment
+
+## 5 step plan
+
 updated in https://docs.google.com/document/d/1S0IlBTti_qmcXiTjqcCzaciC-q7s0LrNKbsyQaRx2lk/edit#
 1. prompt injection
 	- prompt suggestion

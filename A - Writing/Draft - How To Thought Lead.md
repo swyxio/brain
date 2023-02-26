@@ -36,6 +36,7 @@
 	- add structure to unordered list https://ianmcallister.substack.com/p/what-distinguishes-the-top-1-of-product
 - have an opinion on everything
 	- be first to articulate opinion on everything new
+	- be quotable https://twitter.com/culturaltutor/status/1629530966778585089
 	- why popular thing everyone likes is actually bad
 	- what everyone gets wrong?
 	- what everyone doesnt understand

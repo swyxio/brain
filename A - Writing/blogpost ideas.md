@@ -33,22 +33,7 @@ google android
 
 ml alliances
 
-
-## accidentally database
-
-- i can just store it in files
-	- need transactions
-- nosql 
-	- reference the reddit has two tables post
-	- https://news.ycombinator.com/item?id=32407873
-- graphql
-	- query planning, caching, query cost, auth
-- redux
-	- oh im just doing optimistic updates for UX
-	- oh im just normalizing
-- route53 DNS
-
-database reinvention https://news.ycombinator.com/item?id=34573776
+\
 
 ## startup vs upstart 
 

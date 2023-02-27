@@ -92,6 +92,7 @@ Deep (?)
 	        - http://oldblog.antirez.com/post/redis-manifesto.html
 	        - data obs https://www.montecarlodata.com/blog-what-is-data-observability/
 	        - https://principles.planetscale.com/
+		        - https://davidgomes.com/defining-database-developer-experience/
 	        - https://infinitecanvas.tools/
 	        - https://docs.getdbt.com/community/resources/viewpoint
 					- 12 factor app

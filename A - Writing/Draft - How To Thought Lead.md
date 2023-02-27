@@ -8,6 +8,8 @@
 	- humorous response
 	- define small set of questions evertone wants
 		- sam Altman qtns https://overcast.fm/+BlzHpk4FQ/50:08
+		- grand challenges 
+			- There are other grand challenges, like curing cancer, achieving 100% renewable energy, or unifying physics. Some fields have entire sets of grand challenges, such as [David Hilbert’s 23 unsolved problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems) in mathematics, which laid down the gauntlet for the entire 20th century.
 	- in other words: https://twitter.com/chrishlad/status/1375501424830865415?s=20&t=_OvgUKJ6uzSJhOyK6vudow
 		- WOW: i didn't know this is a thing or they make that much $ 
 		- LOL: laugh 

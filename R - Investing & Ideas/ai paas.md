@@ -1,3 +1,7 @@
+stunt ideas
+- github first responder - close issues, re-ping on issues, close
+	- summary view of top issues
+
 
 ## why
 

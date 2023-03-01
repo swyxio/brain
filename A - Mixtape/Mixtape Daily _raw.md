@@ -3,6 +3,7 @@
 
 bingchat ai notes https://overcast.fm/+m_robosXI/05:00
 
+on leadership 2 elements https://overcast.fm/+OxeaLgfrU/02:15 
 
 lifemaxxing https://overcast.fm/+37XOV2yE0/37:00
 and looksmaxxing. have something to look forward to.

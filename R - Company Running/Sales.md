@@ -19,3 +19,7 @@ sales consultants
 a16z market annealing
 
 0-3m ARR run https://twitter.com/nakul/status/1615531486882693122
+
+### Sales tech
+
+- personalized videos with descript like editing https://motionbox.io/

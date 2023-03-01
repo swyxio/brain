@@ -6,6 +6,9 @@ exploding kittens - activating community for sales
 
 abdaal process https://overcast.fm/+23-eZaHgU/1:26:00 to 1h30
 
+
+how lennyrat got started https://overcast.fm/+4kkQ2UM28/15:00
+
 mfm how to be unique https://overcast.fm/+rTsXxO6GM/18:00
 
 how to do linkedin well https://overcast.fm/+JmiPv1fno/29:00 from a guy with 350k followers 

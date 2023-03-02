@@ -1,4 +1,6 @@
 
+tinder + chaos meetings https://twitter.com/andrew__reed/status/1630639129146048512?s=20
+
 npm create + ai
 
 

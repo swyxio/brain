@@ -9,6 +9,12 @@ mudflation in game economies https://overcast.fm/+-qMxbTbcI/14:00 until 35mins i
 
 wechat pay and red packets 16mins to 23mins https://overcast.fm/+rra4YfILo/16:00 and how it made miniapps
 
+
+origin of brex. https://overcast.fm/+afODqcc8E/22:49
+34mins - employee compensation
+43 mins - pivoting the business
+
+
 business of hinge pay love https://overcast.fm/+QN1qy50aM/30:00
 
 jobs to be done story from difitalocean guy https://overcast.fm/+OOu91TDmw/18:00

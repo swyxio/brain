@@ -3,8 +3,4 @@
 -
 
 
-moves
-- The Brady 4.5k @ 2 month 3 F blueground or 4.7k @ 3 month F blueground
-- Chorus 4.3k @ 2 month F blueground
-- https://sfbay.craigslist.org/sfc/apa/d/san-francisco-fully-furnished-spacious/7577870191.html 2.5k @ 3mth F
-- 2000 POST 3k @ 6mth U meh
+Nov 13 - react summit NYC - daria 

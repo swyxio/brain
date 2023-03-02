@@ -36,6 +36,7 @@
 		- create formula https://twitter.com/RomeenSheth/status/1450621347328110593?s=20
 		- derek sivers: https://sive.rs/multiply ideas by execution
 	- add structure to unordered list https://ianmcallister.substack.com/p/what-distinguishes-the-top-1-of-product
+	- 8 fallacies https://twitter.com/arcnotes/status/1631334832096649232?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - have an opinion on everything
 	- be first to articulate opinion on everything new
 	- be quotable https://twitter.com/culturaltutor/status/1629530966778585089

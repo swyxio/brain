@@ -14,6 +14,12 @@ origin of brex. https://overcast.fm/+afODqcc8E/22:49
 34mins - employee compensation
 43 mins - pivoting the business
 
+origin of gong https://overcast.fm/+afOBATMM0/20:00 at 50 years old
+
+oriigin of cloudflare https://overcast.fm/+afOBt33RI/28:00 from harvard, and imptnce of having a big mission
+
+origin of databricks https://overcast.fm/+afOCNuG1I/27:00
+
 
 business of hinge pay love https://overcast.fm/+QN1qy50aM/30:00
 

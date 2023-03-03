@@ -1,5 +1,8 @@
 ## mixtape raw dumps
 
+setting dating goals https://overcast.fm/+KebtqEYag/15:00 until 30 mins
+
+
 
 bingchat ai notes https://overcast.fm/+m_robosXI/05:00
 

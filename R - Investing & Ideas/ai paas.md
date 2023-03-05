@@ -10,6 +10,7 @@ stunt ideas
 	- whisper https://archive.is/FEGf1
 - privacy/ownership
 - speed
+	- https://github.com/hwchase17/langchainjs/issues/62#issuecomment-1450627944
 - cost
 - predictability/alignment
 
@@ -76,6 +77,7 @@ https://twitter.com/kevinafischer/status/1624629889306595329
 	- helicone
 	- https://honeyhive.ai/
 	- numberstation https://overcast.fm/+w94WoPpFo/14:16
+	- https://promptlayer.com/ 
 
 ## industry people on smol models
 

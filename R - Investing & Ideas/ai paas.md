@@ -82,4 +82,4 @@ https://twitter.com/kevinafischer/status/1624629889306595329
 ## industry people on smol models
 
 - clement of hf https://overcast.fm/+_gdYlxC60/17:54 generally agree
-- 
+- https://www.linkedin.com/in/ivanvendrov/ liked it at anthropic

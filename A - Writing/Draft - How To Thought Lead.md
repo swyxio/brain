@@ -68,6 +68,8 @@
 
 
 
+jobs to be done
+- https://biblioracle.substack.com/p/a-taxonomy-of-public-writers
 
 
 

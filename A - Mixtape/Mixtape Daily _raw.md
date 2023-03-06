@@ -2,7 +2,7 @@
 
 setting dating goals https://overcast.fm/+KebtqEYag/15:00 until 30 mins
 
-
+equality of opportunity vs outcomme https://overcast.fm/+-YJnqLYFM/1:04:00 until 1,17ish
 
 bingchat ai notes https://overcast.fm/+m_robosXI/05:00
 

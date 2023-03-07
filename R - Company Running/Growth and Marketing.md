@@ -49,3 +49,4 @@ https://twitter.com/david_perell/status/1496510931848740865?s=21
 
 ## seo
 - https://overcast.fm/+os2akmeNM
+- **[surferseo.com](https://surferseo.com/)** - for writing blogposts with seo in mind

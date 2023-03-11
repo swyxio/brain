@@ -37,15 +37,16 @@ updated in https://docs.google.com/document/d/1S0IlBTti_qmcXiTjqcCzaciC-q7s0LrNK
 		- have to integrate with hotjar and segment?
 		- Alessio example - if i load data in a notebook i'm likely to want to run whisper later
 		- gptcommit - nutlope - speculatively run on git add instead of git commit
-3. smol data
+	- monitor drift https://news.ycombinator.com/item?id=35069839
+1. smol data
 	- we make shit smaller faster
 	- **Privacy/own servers - [security issues](https://news.ycombinator.com/item?id=34910249)**
 	- stage 2 on RLHF 
-1. PaaS concerns
+2. PaaS concerns
 	- abtesting - rollout canaries
 	- audit logs/change notifications
 	- help to generate adversarial examples
-2. open data
+3. open data
 	- donate your data
 	- sharable profile of open data hackers
 	- “data management platform”?
@@ -71,6 +72,7 @@ https://twitter.com/kevinafischer/status/1624629889306595329
 	- https://twitter.com/didntgetthemem0/status/1624863929364103169?s=20
 	- https://twitter.com/yairhaimo/status/1625001332296896513?s=20
 	- https://snorkel.ai/
+		- warm start + finetuning https://snorkel.ai/better-not-bigger-how-to-get-gpt-3-quality-at-0-1-the-cost/
 	- https://www.datarobot.com/
 	- scale spellbook
 	- https://humanloop.com/
@@ -80,7 +82,11 @@ https://twitter.com/kevinafischer/status/1624629889306595329
 	- https://promptlayer.com/ 
 	- vellum - YC W23 https://news.ycombinator.com/item?id=35042836
 
+
 ## industry people on smol models
 
 - clement of hf https://overcast.fm/+_gdYlxC60/17:54 generally agree
-- 
+- treybig
+	- 1.  I think its really confusing to software engineers today how you go from big model (including which one to start with) to something production grade - which model to big, how to align, should you fine tune, should you quantize, how do you get to the cost/latency characteristics needed, what is the "pareto optimal" curve across cost/accuracy/latency, etc
+	- and then there are so, so, so many ways to generate data and align now, and then other architectures like training these smaller models on FM generated data, etc
+	- i think if something just made this trivially simple it would be interesting

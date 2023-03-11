@@ -6,6 +6,9 @@ equality of opportunity vs outcomme https://overcast.fm/+-YJnqLYFM/1:04:00 until
 
 bingchat ai notes https://overcast.fm/+m_robosXI/05:00
 
+bing verge https://overcast.fm/+QN1pkOe7Y/01:45 review with ben thompson
+
+
 on leadership 2 elements https://overcast.fm/+OxeaLgfrU/02:15 
 
 lifemaxxing https://overcast.fm/+37XOV2yE0/37:00

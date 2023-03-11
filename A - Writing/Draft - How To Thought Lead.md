@@ -6,7 +6,7 @@
 	- aspirational response
 		- - Ralph Waldo Emerson -Our chief want is someone who will inspire us to be what we know we could be
 	- humorous response
-	- define small set of questions evertone wants
+	- define small set of questions everyone wants
 		- sam Altman qtns https://overcast.fm/+BlzHpk4FQ/50:08
 		- grand challenges 
 			- There are other grand challenges, like curing cancer, achieving 100% renewable energy, or unifying physics. Some fields have entire sets of grand challenges, such as [David Hilbert’s 23 unsolved problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems) in mathematics, which laid down the gauntlet for the entire 20th century.
@@ -27,6 +27,8 @@
 	- https://www.ben-evans.com/presentations
 - have better vision of the future than anyone
 	- articulate a trend/where people are going
+	- name the solution
+		- map out the lore
 - clarify/express reality better than anyone
 	- be quotable
 	- visualize things
@@ -37,6 +39,9 @@
 		- derek sivers: https://sive.rs/multiply ideas by execution
 	- add structure to unordered list https://ianmcallister.substack.com/p/what-distinguishes-the-top-1-of-product
 	- 8 fallacies https://twitter.com/arcnotes/status/1631334832096649232?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- name the problem 
+		- mouthwash
+		- double declaration
 - have an opinion on everything
 	- be first to articulate opinion on everything new
 	- be quotable https://twitter.com/culturaltutor/status/1629530966778585089

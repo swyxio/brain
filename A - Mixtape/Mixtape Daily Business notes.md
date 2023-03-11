@@ -32,6 +32,8 @@ transistor.fm competing with free vc competition https://overcast.fm/+EHhum5ppo/
 
 how fortnite broke the console oligopoly https://overcast.fm/+-qMxtsdDQ/44:00 cross platform play
 
+how the internet is breaking ecommerce https://overcast.fm/+3u0K-TaZc/10:00 ben evans on amazon impact and marketplace
+
 
 accredited investor laws 
 super interesting point from tyler cowen here - overreaction from sarbanes oxley led to the “stay private for longer” phenomenon of the 2010s https://overcast.fm/+YNeQfQ8bU/23:00

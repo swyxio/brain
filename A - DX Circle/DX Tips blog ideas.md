@@ -692,6 +692,10 @@ casey from accel https://www.accel.com/noteworthy/welcome-casey-aylward
 	- laggards - defaults
 - avery pennarun on crossing chasm and market segmentation - must go to the same conferences https://podcasts.apple.com/us/podcast/tailscale-and-market-segmentation-with-avery-pennarun/id1514646781?i=1000563738841
 	- "tailscale is the industry standard X for group Y"
+- thoughts from apurva mehta meeting (responsive.dev)
+	- "only staff+ dev required"
+	- java required - or have to build your own dk
+	- stateful infra downtime
 
 react documentary
 - pete hunt says the first react launch was too wide. too much new concepts incl jsx that people would react to

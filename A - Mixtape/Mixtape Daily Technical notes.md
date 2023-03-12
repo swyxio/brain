@@ -64,7 +64,7 @@ origin of spark (from Hadoop) https://overcast.fm/+Y_EEyOOQ4/18:50
 
 the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:00
 
-
+aifirst databases https://overcast.fm/+31OTam0K4/25:45 weaviate
 
 ## data
 

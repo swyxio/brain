@@ -127,9 +127,11 @@ https://overcast.fm/+rNB9qSa2k/10:00
 
 media company - go90 scale https://overcast.fm/+QN1p98M4o/45:01
 
+amazon ads business explainer https://overcast.fm/+kgdKCUtZA until 15ish mins?
 
 ben horowitz on the origin of the 90 day exercise window
 https://youtu.be/uVhTvQXfibU 15 mins in
+
 
 
 

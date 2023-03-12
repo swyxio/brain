@@ -112,6 +112,14 @@ big data became data
 MDS is dead 
 - i think this is an important read and reflects the mood shift i’ve been seeing among MDS folks this year. important to not be caught off guard with our messaging. https://www.linkedin.com/posts/ethanaaron_snowflakesummit-data-analytics-activity-6942877586976890880-NvGT/?utm_source=linkedin_share&utm_medium=member_desktop_web
 
+
+## analytics engineering
+
+- https://www.getdbt.com/state-of-analytics-engineering-2023/
+	- In January of 2019, Michael Kaminsky, writing for Locally Optimistic, hit publish on a blog post titled [The Analytics Engineer](https://locallyoptimistic.com/post/analytics-engineer/). The blog post described how new tools were enabling any analyst who knew SQL to manage code bases and contribute to the data development process. The blog post perfectly named an experience that many data practitioners were having at the time.
+	- 2021: Two years later, Seth Rosen infamously claimed: [An analytics engineer is really just a pissed off data analyst](https://www.hashpath.com/2020/12/an-analytics-engineer-is-really-just-a-pissed-off-data-analyst/). And 18 months after that, analytics engineers made the mainstream press. [Business Insider](https://www.businessinsider.com/data-analytics-engineer-dbt-tech-job-salary-skills-needed-2022-5) covered the rising salaries of this emerging role, stating that companies like Amazon and Apple were hiring for the desirable skill-set.
+
+
 ## 2022 trends
 
 - saivc/redpoint trends https://twitter.com/SaiVC_/status/1529898644895412259

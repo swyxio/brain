@@ -19,6 +19,8 @@ trends
 	- OpenAI has great brand but
 	- FB released LLaMA https://ai.facebook.com/blog/large-language-model-llama-meta-ai/  
 	- Google released FLAN 20B fully open source
+- foundationa models
+	- https://txt.cohere.ai/ai-is-eating-the-world/
 
 alex bowe
 https://github.com/FMInference/FlexGen

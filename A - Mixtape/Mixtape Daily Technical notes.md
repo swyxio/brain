@@ -70,6 +70,8 @@ the timbit gebru story and stochastic parrots https://overcast.fm/+Y_EFdRvB8/02:
 
 how heroku made postgres https://overcast.fm/+HaNOAkh8M/04:41
 
+snowflake early days https://overcast.fm/+x8z9PdSqA/07:00 from kent graziano
+
 
 auren hoffman on types of data https://overcast.fm/+w94V5_Ttw/9:00 you can sell. 
 - at 36mins, data coop model

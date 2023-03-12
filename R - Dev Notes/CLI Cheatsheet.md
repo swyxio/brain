@@ -13,6 +13,7 @@ I put together a 90 minute Egghead.io [Course](https://egghead.io/courses/build-
 
 ## CLI Design Thinking
 
+- Ben Firshman (Docker)'s Command Line Interface Guidelines https://clig.dev/
 - **12 Factor CLI Apps** ([Blogpost](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46), [Talk](https://www.youtube.com/watch?v=Izx3-KSuaM8)): Jeff Dickey's list of requirements for UX.
 
 - **Heroku CLI Style Guide** ([Guide](https://devcenter.heroku.com/articles/cli-style-guide), [Talk](https://www.youtube.com/watch?v=PHiDG-_XoRk), [Talk](https://www.youtube.com/watch?v=a6ud5MkVN_s)): Heroku's CLI Style Guide.

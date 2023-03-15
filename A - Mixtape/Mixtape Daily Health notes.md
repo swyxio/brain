@@ -23,6 +23,9 @@ and cold ice bath and thecoldplunge.com  up til 1hr mark
 
 blue blockers dont work https://overcast.fm/+23-dyloZg/1:10:00 until 1:20
 
+medicine 2.0 hippocrates https://overcast.fm/+Kebt8cYwM/30:00 peter attia
+
+
 ## food
 
 teeth https://overcast.fm/+KebuAyTEQ/50:00 

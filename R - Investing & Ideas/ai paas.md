@@ -44,6 +44,7 @@ updated in https://docs.google.com/document/d/1S0IlBTti_qmcXiTjqcCzaciC-q7s0LrNK
 	- we make shit smaller faster
 	- **Privacy/own servers - [security issues](https://news.ycombinator.com/item?id=34910249)**
 	- stage 2 on RLHF 
+	- eliezer on alpaca https://twitter.com/ESYudkowsky/status/1635577836525469697
 2. PaaS concerns
 	- abtesting - rollout canaries
 	- audit logs/change notifications

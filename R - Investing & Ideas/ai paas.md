@@ -84,6 +84,7 @@ https://twitter.com/kevinafischer/status/1624629889306595329
 	- numberstation https://overcast.fm/+w94WoPpFo/14:16
 	- https://promptlayer.com/ 
 	- vellum - YC W23 https://news.ycombinator.com/item?id=35042836
+	- guardrails https://github.com/ShreyaR/guardrails
 
 
 ## industry people on smol models

@@ -1,4 +1,10 @@
 
+local memory - record audio + and search/ask
+- from jeanlaf
+- issues - battery consumption, privacy
+
+
+
 tinder + chaos meetings https://twitter.com/andrew__reed/status/1630639129146048512?s=20
 
 npm create + ai

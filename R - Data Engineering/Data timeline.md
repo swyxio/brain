@@ -2,6 +2,12 @@
 - https://overcast.fm/+H1YPGUu6Q/11:00 - MDS - mainframe - teradata - cognos BI
 - oracle, sap, businessobjects (BI)
 - olap invention https://overcast.fm/+x8z9ZeTiE . olap cubrs precalculate everything. pre indexing all the dimensions and measures (https://overcast.fm/+x8z_nL6u0). 7 dimsensions too much. dimensional relational model helps to do this for more dimensions (maybe columnar db)
+- https://www.linkedin.com/feed/update/urn:li:activity:7042137268030959616/
+	- Far before Fivetran, there was Informatica in ‘93.  
+	- They (and others), won the OG multi-billion race for copying data from A to B to C.  Buuuuutttttt….  They only moved data on-prem. (aka ‘pre-cloud’ for the Gen Zers).  In ‘pre-cloud’, you ran computers in some building somewhere.  And such was the state of data integration…  For 17 years.
+	- 2015 - fivetran  “Can you help us sync our data to AWS (Redshift)”   
+	- From ~$34 mil in ‘19 -> to $200 mil/yr!
+	- 
 
 
 semantic layer timeline

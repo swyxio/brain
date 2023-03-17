@@ -84,6 +84,8 @@ https://twitter.com/kevinafischer/status/1624629889306595329
 	- numberstation https://overcast.fm/+w94WoPpFo/14:16
 	- https://promptlayer.com/ 
 	- vellum - YC W23 https://news.ycombinator.com/item?id=35042836
+		- (3) Manage—a low-latency, high-reliability API wrapper that’s provider-agnostic across OpenAI, Cohere, and Anthropic (with more coming soon). Every request is captured and persisted in one place, providing full observability into what you’re sending these models, what they’re giving back, and their performance. Prompts and model providers can be updated without code changes. You can replay historical requests and version history is maintained. This serves as a data layer for metrics, monitoring, and soon, alerting.
+		- (4) Optimize—the data collected in Manage is used to passively build up training data, which can be used to fine-tune your own proprietary models. With enough high quality input/output pairs (minimum 100, but depends on the use case), Vellum can produce fine-tuned models to provide better quality, lower cost or lower latency. If a new model solves a problem better, it can be swapped without code changes.
 	- guardrails https://github.com/ShreyaR/guardrails
 
 

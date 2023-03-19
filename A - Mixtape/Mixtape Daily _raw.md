@@ -8,6 +8,7 @@ bingchat ai notes https://overcast.fm/+m_robosXI/05:00
 
 bing verge https://overcast.fm/+QN1pkOe7Y/01:45 review with ben thompson
 
+critique of utilitatianism https://overcast.fm/+-YJnULCbg/1:00:47
 
 on leadership 2 elements https://overcast.fm/+OxeaLgfrU/02:15 
 

@@ -32,6 +32,8 @@ transistor.fm competing with free vc competition https://overcast.fm/+EHhum5ppo/
 
 how fortnite broke the console oligopoly https://overcast.fm/+-qMxtsdDQ/44:00 cross platform play
 
+video game industry, origin of activision https://overcast.fm/+Faxl0lWnE/20:00 steve jobs - until video game biz model until 40ish mins
+
 how the internet is breaking ecommerce https://overcast.fm/+3u0K-TaZc/10:00 ben evans on amazon impact and marketplace
 
 

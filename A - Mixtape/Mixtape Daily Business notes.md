@@ -36,6 +36,8 @@ video game industry, origin of activision https://overcast.fm/+Faxl0lWnE/20:00 s
 
 how the internet is breaking ecommerce https://overcast.fm/+3u0K-TaZc/10:00 ben evans on amazon impact and marketplace
 
+merchant of record problem - transistor https://overcast.fm/+MBmWpY4cg/18:00
+
 
 accredited investor laws 
 super interesting point from tyler cowen here - overreaction from sarbanes oxley led to the “stay private for longer” phenomenon of the 2010s https://overcast.fm/+YNeQfQ8bU/23:00

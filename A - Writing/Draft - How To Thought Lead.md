@@ -37,6 +37,8 @@
 	- create an equation for your industry - a+b = c
 		- create formula https://twitter.com/RomeenSheth/status/1450621347328110593?s=20
 		- derek sivers: https://sive.rs/multiply ideas by execution
+		- metcalfe's law was made up lol https://news.ycombinator.com/item?id=35259442
+			- Not only did he make it up, but it is false! Multiple lines of evidence point to a O(n log(n)) law instead [https://www-users.cse.umn.edu/~odlyzko/doc/metcalfe.pdf](https://www-users.cse.umn.edu/~odlyzko/doc/metcalfe.pdf) has the details.
 	- add structure to unordered list https://ianmcallister.substack.com/p/what-distinguishes-the-top-1-of-product
 	- 8 fallacies https://twitter.com/arcnotes/status/1631334832096649232?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- name the problem 

@@ -7,6 +7,7 @@ https://slab.com/blog/stripe-writing-culture/
 
 https://a16z.com/2022/08/19/ben-horowitz-on-how-the-best-leaders-build-culture/
 
+hubspot culture - its how people decide when you're not jn the room. its how you scale the company https://overcast.fm/+3Ag-WoGW0/57:30 . measure internal employee nps and publish all answers
 
 ## effective culture
 

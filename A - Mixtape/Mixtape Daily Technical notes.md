@@ -41,6 +41,7 @@ power of self supervised learning https://overcast.fm/+_N6EakAgo/24:07 play.ht t
 
 replit society if model small model pull and push https://overcast.fm/+BlzHpk4FQ/22:00
 
+ilya sutskever on gpt3 understand inguand hallucination https://overcast.fm/+BAKCkEtPhA/15:00
 
 ai bing chat experience https://overcast.fm/+m_robosXI/05:00 til 21ish mins
 

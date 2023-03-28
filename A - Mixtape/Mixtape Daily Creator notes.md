@@ -6,6 +6,7 @@ exploding kittens - activating community for sales
 
 abdaal process https://overcast.fm/+23-eZaHgU/1:26:00 to 1h30
 
+jobs to be done lemmyrat https://overcast.fm/+5sHayhrl8/12:00
 
 how lennyrat got started https://overcast.fm/+4kkQ2UM28/15:00
 

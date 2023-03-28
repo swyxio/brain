@@ -186,6 +186,10 @@ launch weeks https://overcast.fm/+oUqBsHJWc/08:26
 
 ## Product
 
+shreyas https://overcast.fm/+OozMpsxjs
+mandate product
+visionary vs etc 
+
 making a marketplace
 https://overcast.fm/+6K1EVeMN4/30:00 lenny demand and supply constrained
 

@@ -1,5 +1,8 @@
 the first SQL db - System R https://en.wikipedia.org/wiki/IBM_System_R
 
+
+2004 - andrew bosworth started talking about nosql needs, then 2009 nosql conference Hypertable, HBase, Voldemort, Dynomite, and Cassandra. https://redmonk.com/sogrady/2021/10/26/general-purpose-database/ 
+
 db decision tree https://twitter.com/alexxubyte/status/1576961080454021121/photo/1
 
 

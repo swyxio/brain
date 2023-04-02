@@ -209,6 +209,8 @@ origin of twitter pagination  20 mins https://overcast.fm/+4jBE47JkU fbomb
 
 ## startups
 
+how doordash disrupted grubhub https://overcast.fm/+6K1FxbA78/40:00
+
 origin of 99designs https://overcast.fm/+XptO0pwSo/10:00
 
 brian halligannon why SMB market for hubspot https://overcast.fm/+3Ag-WoGW0/20:00 … and then 39 mins in the sloan school ipod and salesforce day. 43 mjns grateful dead story - viral marketers

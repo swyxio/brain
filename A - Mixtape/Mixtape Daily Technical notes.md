@@ -37,6 +37,10 @@ https://overcast.fm/+YNa-ZGnDk intro to kafka 3mins ish to 13 mins with the queu
 
 ## ai
 
+origin of pytorch and rise of DL https://overcast.fm/+vScMC9xwk/05:00
+
+actually good discussion of gpt3 and ai https://overcast.fm/+aYlOEqTJ0/2:04:34
+
 power of self supervised learning https://overcast.fm/+_N6EakAgo/24:07 play.ht transforming from hours to minutes and accent based to general
 
 replit society if model small model pull and push https://overcast.fm/+BlzHpk4FQ/22:00

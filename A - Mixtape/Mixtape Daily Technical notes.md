@@ -41,6 +41,9 @@ origin of pytorch and rise of DL https://overcast.fm/+vScMC9xwk/05:00
 
 actually good discussion of gpt3 and ai https://overcast.fm/+aYlOEqTJ0/2:04:34
 
+shifting compute from training to inference time
+https://overcast.fm/+_C9fBMhI4/14:50
+
 power of self supervised learning https://overcast.fm/+_N6EakAgo/24:07 play.ht transforming from hours to minutes and accent based to general
 
 replit society if model small model pull and push https://overcast.fm/+BlzHpk4FQ/22:00

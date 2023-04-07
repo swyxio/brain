@@ -1,4 +1,8 @@
 
+## how devtools do product hunt
+
+- lago https://twitter.com/byAnhtho/status/1644009408672956417
+
 ## pairing bottom up with first to adopt and top down with post production
 
 https://twitter.com/davidshershey/status/1623799015208030208?s=46&t=fB9be2CeaR6qfQ6uyanBBQ

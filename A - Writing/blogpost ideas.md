@@ -415,7 +415,7 @@ the money is in real estate, the wealth is in retail
 - wrap turning database https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/
 
 
-### complexity inside
+### complexity inside vs simple core
 - simplicity inside complexity outside
 - dan abramov argument about complexity
 - cost of complexity - 
@@ -428,6 +428,15 @@ the money is in real estate, the wealth is in retail
 			- hooks
 			- temporal
 - virtualize all the things and you get benefits
+
+- https://news.ycombinator.com/item?id=35507807
+Let me present the Paige Compositor. A typesetting machine if you like, made from 18,000 precision made parts in 1877. Well, 1877 is the start year of the contract. The project went on for about 15 years. 6 machines were ever made (out of 4,000 ordered). They kept failing.
+
+Meanwhile, a much more limited (initially) machine arrived on the scene, the Linotype machine. It was successfull and did run the world's news and magazine press for the next 100 years.
+
+It's really a fascinating read: [https://www.todayifoundout.com/index.php/2023/03/the-machine...](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
+
+
 
 
 unreasonable effectiveness of virtualizing everything

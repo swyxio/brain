@@ -8,6 +8,8 @@ bingchat ai notes https://overcast.fm/+m_robosXI/05:00
 
 bing verge https://overcast.fm/+QN1pkOe7Y/01:45 review with ben thompson
 
+spice girls story https://overcast.fm/+l8E588/02:00  until 15
+
 critique of utilitatianism https://overcast.fm/+-YJnULCbg/1:00:47
 
 on leadership 2 elements https://overcast.fm/+OxeaLgfrU/02:15 

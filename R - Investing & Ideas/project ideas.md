@@ -73,6 +73,9 @@ Proof (useproof.com) for SaaS
 
 ## misc
 
+new linkedin
+- https://twitter.com/eriktorenberg/status/1646274719748874240
+
 better question startup
 - "Computers are useless. They can only give you answers" - Pablo Picasso (1964)
 

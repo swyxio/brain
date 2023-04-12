@@ -2,5 +2,6 @@
 - [The State of the Cloud in 2023 with ChitChatMoney](https://www.listennotes.com/podcasts/chit-chat-money/the-state-of-the-cloud-in-8r7cCw5kEeL/)
 -
 
-
+Jun 1/2 - gitpod summit
+sep 18/19 - infobip shift
 Nov 13 - react summit NYC - daria 

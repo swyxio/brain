@@ -17,6 +17,7 @@ origin of brex. https://overcast.fm/+afODqcc8E/22:49
 
 oriign of do not pay https://overcast.fm/+OOu-ToRbc
 
+origin of airbnb until covid - joe gebbia tells the airbnb cereeal story https://overcast.fm/+w1Y1bjbOA/12:00 until 24mins
 
 origin of gong https://overcast.fm/+afOBATMM0/20:00 at 50 years old
 

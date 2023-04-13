@@ -1,7 +1,7 @@
 stunt ideas
 - github first responder - close issues, re-ping on issues, close
 	- summary view of top issues
-
+- store keys https://news.ycombinator.com/item?id=35557256
 
 ## why
 

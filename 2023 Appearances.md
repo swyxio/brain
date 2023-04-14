@@ -1,6 +1,6 @@
 - [Crossing the Chasm with Jack Bridger's Scaling DevTools podcast](https://podcast.bitreach.io/episodes/swyx)
 - [The State of the Cloud in 2023 with ChitChatMoney](https://www.listennotes.com/podcasts/chit-chat-money/the-state-of-the-cloud-in-8r7cCw5kEeL/)
--
+- https://alphalist.com/podcast/74-shawn-swyx-wang-developer-experience-expert
 
 Jun 1/2 - gitpod summit
 sep 18/19 - infobip shift

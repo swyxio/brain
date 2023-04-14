@@ -173,6 +173,8 @@ https://overcast.fm/+fPIQYKa8E async await explanation n25mins
 ## misc
 
 
+retool benefiting from react complexity https://overcast.fm/+1mchoujn4/27:00
+
 asml euv machines https://overcast.fm/+QLdsROQho/08:00
 
 

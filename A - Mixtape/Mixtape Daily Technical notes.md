@@ -84,6 +84,10 @@ aifirst databases https://overcast.fm/+31OTam0K4/25:45 weaviate
 
 ## data
 
+
+good discussion of what duckdb got right from jordan tigani 
+https://overcast.fm/+B1yIlrTLg/30:00
+
 how heroku made postgres https://overcast.fm/+HaNOAkh8M/04:41
 
 snowflake early days https://overcast.fm/+x8z9PdSqA/07:00 from kent graziano

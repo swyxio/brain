@@ -1,4 +1,17 @@
 
+**LMQL in JS**
+- dont use streaming
+	- because it is token by token and you need to run validation on the whole thing anyway?
+		- https://docs.lmql.ai/en/latest/language/constraints.html#custom-constraints is eager
+		- but that limits the kind of evals you can make
+	- validate and use reflexion?
+- use streaming 
+	- people want to see output stream in
+	- vercel streaming
+- misc ideas
+	- make testing framework using proxy where name of variable is the thing you will fuzz in unless there is some snapshot that makes everything deterministic
+
+
 local memory - record audio + and search/ask
 - from jeanlaf
 - issues - battery consumption, privacy

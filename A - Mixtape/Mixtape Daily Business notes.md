@@ -26,6 +26,9 @@ oriigin of cloudflare https://overcast.fm/+afOBt33RI/28:00 from harvard, and imp
 origin of databricks https://overcast.fm/+afOCNuG1I/27:00
 
 
+origin of look and what it looked big https://overcast.fm/+afOCFc67Q/30:28
+
+
 business of hinge pay love https://overcast.fm/+QN1qy50aM/30:00
 
 jobs to be done story from difitalocean guy https://overcast.fm/+OOu91TDmw/18:00

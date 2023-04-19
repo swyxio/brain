@@ -937,6 +937,7 @@ cf sarah cataranzo convo
 - broken politics
 - 3 layer cake - infra, platform, app 
 - wardley map
+- production-ready frameworks for underspecified standards
 - aggregation theory
 
 ## what if dev marketing worked like tv commercials

@@ -53,6 +53,10 @@ https://overcast.fm/+_C9fBMhI4/14:50
 
 power of self supervised learning https://overcast.fm/+_N6EakAgo/24:07 play.ht transforming from hours to minutes and accent based to general
 
+power of trading pretraining for inference time - 100,000x in poker https://overcast.fm/+nPmAlZ-VM/12:04 noam brown
+
+solving diplomacy - from scratch - noam brown https://overcast.fm/+nPmAlZ-VM/51:25
+
 replit society if model small model pull and push https://overcast.fm/+BlzHpk4FQ/22:00
 
 ilya sutskever on gpt3 understand inguand hallucination https://overcast.fm/+BAKCkEtPhA/15:00

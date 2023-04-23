@@ -52,6 +52,8 @@
 	- name the problem 
 		- mouthwash
 		- double declaration
+	- analogy for things
+		- karpathy - [GPTs as computers](https://twitter.com/karpathy/status/1644183721405464576)
 - have an opinion on everything
 	- be first to articulate opinion on everything new
 	- be quotable https://twitter.com/culturaltutor/status/1629530966778585089

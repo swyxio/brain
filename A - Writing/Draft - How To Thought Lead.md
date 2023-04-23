@@ -31,8 +31,14 @@
 		- map out the lore
 - clarify/express reality better than anyone
 	- be quotable
+	- categorize things
+		- "which hogwarts school are you?" is viral and works in b2b
+			- people want to bucket other people/companies, and need shorthand to identify themselves and others as part of a group
+			- example: Enneagram, MBTI/OCEAN
+			- gretchen rubin - 4 tendencies
 	- visualize things
 		- map things https://nesslabs.com/thinking-in-maps
+			- landscape charts can work very well
 		- https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas
 		- hierarchy of needs https://twitter.com/zenorocha/status/1418571920618844165?s=20
 		- devrel journey map  https://medium.com/codex/developer-relations-the-developer-journey-map-36bd4619f5f3

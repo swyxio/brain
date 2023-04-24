@@ -62,7 +62,7 @@
 	- what everyone doesnt understand
 	- how the top/worst performers do their job
 		- https://ianmcallister.substack.com/p/what-distinguishes-the-top-1-of-product
-- demonstrate mastery = consistently simplify correctly
+- demonstrate mastery = simplify correctly and consistently https://twitter.com/angjiang/status/1489484042042953730
 - name things
 	- with good timing!!
 	- https://www.swyx.io/two-words

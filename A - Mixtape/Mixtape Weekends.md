@@ -1,6 +1,8 @@
 > longform/swyx content to resyndicate  on weekends
 
 
+wannabe angels https://wannabeangels.com/p/the-devtools-angel-and-scout-shawn#details
+
 changelog https://email.changelog.com/t/n/t-l-d6516f7e7d8011ed8ede88582dbe0ed1-l-r-r-l/
 
 scaling devtools

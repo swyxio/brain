@@ -9,6 +9,8 @@ mudflation in game economies https://overcast.fm/+-qMxbTbcI/14:00 until 35mins i
 
 wechat pay and red packets 16mins to 23mins https://overcast.fm/+rra4YfILo/16:00 and how it made miniapps
 
+bill gates microsoft from simofsky https://overcast.fm/+wFc3ppFNk/22:03 up to 34 mins with the chatgpt internet analogy
+
 asking gokd question’s how do yiu know zach weinberg https://overcast.fm/+3Ag8uSF8I/19:55
 
 origin of brex. https://overcast.fm/+afODqcc8E/22:49

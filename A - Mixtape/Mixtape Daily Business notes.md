@@ -11,6 +11,10 @@ wechat pay and red packets 16mins to 23mins https://overcast.fm/+rra4YfILo/16:00
 
 bill gates microsoft from simofsky https://overcast.fm/+wFc3ppFNk/22:03 up to 34 mins with the chatgpt internet analogy
 
+steve jobs heres to the crazy ones think different ad https://overcast.fm/+TRbUxIPPU/20:00
+
+origin of ipod https://overcast.fm/+TRbUxIPPU/45:00 until 50 mins
+
 asking gokd question’s how do yiu know zach weinberg https://overcast.fm/+3Ag8uSF8I/19:55
 
 origin of brex. https://overcast.fm/+afODqcc8E/22:49

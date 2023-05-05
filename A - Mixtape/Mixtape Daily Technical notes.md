@@ -69,6 +69,8 @@ karpathy gpt lecture last 10 mins on training difference between nanogpt and rea
 
 emad evolution https://overcast.fm/+3Ag9VZSsY/2:00
 
+cebrebras explanation of chip specialty https://overcast.fm/+Jy_zKq9C8/02:30
+
 origin of stable diffusion https://overcast.fm/+yIRScD9fI/04:20
 
 

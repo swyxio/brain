@@ -3,6 +3,10 @@ stunt ideas
 	- summary view of top issues
 - store keys https://news.ycombinator.com/item?id=35557256
 
+- evals as a service
+- third party rating of ai feedback
+
+
 ## why
 
 - smol models are powerful motivator

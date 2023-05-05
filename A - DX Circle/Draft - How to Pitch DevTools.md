@@ -95,8 +95,8 @@ Deep (?)
 		        - https://davidgomes.com/defining-database-developer-experience/
 	        - https://infinitecanvas.tools/
 	        - https://docs.getdbt.com/community/resources/viewpoint
-					- 12 factor app
-					- jamstack
+					- heroku - 12 factor app
+					- jamstack - jamstack.org
 					- https://principledgraphql.com/
 					- https://www.inkandswitch.com/local-first/
 					- https://www.reactivemanifesto.org/  for lightbend

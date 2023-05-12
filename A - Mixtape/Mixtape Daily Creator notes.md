@@ -142,6 +142,7 @@ https://youtu.be/uL0atQFZzL8 storytelling
 
 https://overcast.fm/+NBVvkPZyc trendjacking/prediction 1h in
 
+Some advice and thoughts on writing good videos from Linus at Linus Tech Tips: <https://www.youtube.com/live/ZQ1EoGui-fA?feature=share&t=9325> from kevmodrome 
 
 https://overcast.fm/+R_DgClWpA/43:00 the logic of CPMs on youtube  until 52 mins
 

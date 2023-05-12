@@ -1,3 +1,15 @@
+
+floncrivello
+- name a conflict
+	- argue for the other side
+	- pay attention to the emotional dimension of the other person
+	- name the person - if i call him what will he say about you - then actually call
+- front door checks
+	- are they top 10% of people you work with
+	- whats missing  to be top 1%?
+	- who is top 1%
+
+
 on titles
 
 https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-possible-ea28347714b0

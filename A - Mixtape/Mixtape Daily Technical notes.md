@@ -41,10 +41,13 @@ origin of copilot from graveley https://overcast.fm/+_C9c1TDnM/14:00
 
 surprising capabilities of foundation models percy liang https://overcast.fm/+_C9dVRnXY/15:00
 
+why openai plays dota https://overcast.fm/+BAFqMF8ma8/30:07 - sama and gregb
+
 
 huggingface bloom and bloomz https://overcast.fm/+yIRSmLZik/17:48
 
 origin of pytorch and rise of DL https://overcast.fm/+vScMC9xwk/05:00
+- https://overcast.fm/+vScMC9xwk/40:00 why pytorch api design works
 
 actually good discussion of gpt3 and ai https://overcast.fm/+aYlOEqTJ0/2:04:34
 

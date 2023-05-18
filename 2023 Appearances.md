@@ -6,6 +6,8 @@ May 31-jun-2 renderatl
 	- https://www.renderatl.com/
 Jun 1/2 - gitpod summit
 	- https://twitter.com/CDEUniverse/status/1654486110985154563
+jun 3 - something
+june 12 - O'Reilly ChatGPT Plugins event
 sep 18/19 - infobip shift
 	-   title: Software 3.0 and The Emerging AI Developer Landscape
 	- Abstract: Everyone has gone AI mad, and there is a lot of noise, hype, and demos, but not a lot of guidance on practical usecases. We will go over a mental model of who is doing what and explain both where the opportunities are and where the non-AI developer can start going down the rabbit hole.

@@ -96,3 +96,16 @@ https://twitter.com/jevering/status/1611793067945922560
 16/ Justice. Know the argument. Don't play favorites when it comes to justice; favoritism is one of the most debilitating attributes in a workplace.
 
 17/ Jim's framing leadership as a developable skill gave me the confidence that I might be able to develop these qualities over time -- as long as I dared to accept criticism and had the drive to do better. I'm still working on it 25 years later. /end
+
+---
+
+https://overcast.fm/+rTsWG16OY/47:51?ck_subscriber_id=1427029224&utm_source=convertkit&utm_medium=email&utm_campaign=Sam%2C+Sam%2C+and+Sam%20-%2010824721
+Great summary of leadership from Shaan Puri:
+
+_“If you want to be a leader, three things are true:_
+
+_“**The first is that you have a higher standard for yourself than anybody else has for you**. So it doesn’t really matter what your job title is, but if you hold yourself to a higher standard than your manager holds you to, you are a leader._
+
+_”**Second is somebody who understands what the emotional state is, and what it needs to be, and can transfer it**. So basically anybody that can understand that morale is low, it needs to be high. **They can shift the mood, they can shift the energy**. Or everybody’s a little too comfortable, we need to get a sense of urgency. They understand the emotional state and know how to shift it._
+
+_”**The third is they see things how they actually are**. Not worse than they are, not better than they are, how they actually are. **And then they paint a picture of how it’s going to be better than it currently is**.”_ (Timestamp of quote 47:51-48:43)

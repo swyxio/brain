@@ -11,6 +11,7 @@ jun 2-3 - amplitude thing
 june 12 - O'Reilly ChatGPT Plugins event
 	Talk title: Why Humanity Needs Adversarial Turing Tests
 	Description: As human-sounding text generation gets increasingly easier, it will become increasingly critical for all of us to be able to Turing Test an unknown online entity in as few shots as possible. Are you prepared for this future?
+july 28 - CityJS singapore talk
 sep 18/19 - infobip shift
 	-   title: Software 3.0 and The Emerging AI Developer Landscape
 	- Abstract: Everyone has gone AI mad, and there is a lot of noise, hype, and demos, but not a lot of guidance on practical usecases. We will go over a mental model of who is doing what and explain both where the opportunities are and where the non-AI developer can start going down the rabbit hole.

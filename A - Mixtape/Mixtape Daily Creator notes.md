@@ -1,13 +1,50 @@
 
+why hbo has boobs https://overcast.fm/+QLdsOYx5I/10:00 - counterprogramming until 24mins
 
-vincent woo coderpad https://overcast.fm/+JmiM4xsGA/20:00. 41 mins hagiography lucky ones
+exploding kittens - activating community for sales
+- https://overcast.fm/+Kebuc8CCE/25:00
+
+abdaal process https://overcast.fm/+23-eZaHgU/1:26:00 to 1h30
+
+jobs to be done lemmyrat https://overcast.fm/+5sHayhrl8/12:00
+
+how lennyrat got started https://overcast.fm/+4kkQ2UM28/15:00
+
+mfm how to be unique https://overcast.fm/+rTsXxO6GM/18:00
+
+how to do linkedin well https://overcast.fm/+JmiPv1fno/29:00 from a guy with 350k followers 
+
+natalie dormer on season 8 https://youtu.be/0VdWEHzNrv4
+
+whats up with that - kenan thompson https://overcast.fm/+8Lda-naUg/33:00
+
+seth godin podcast design https://overcast.fm/+CH8T5fWxU/09:00
+
+pmarca on twitter valuable https://overcast.fm/+b53MMmUcQ/1:00:00 to 1h10 ish
+
+https://overcast.fm/+6Z2rdGnf0/05:30 the story of up, appealing to everyone until 18mins
+
+cal newport artcile research process https://overcast.fm/+b1V156nvg/53:53
+
+james clear email focus https://overcast.fm/+KebsgFK6Q/0:50:26
+
+
+refactoring ui 3m, 100k team, 60k/month art of product episode
+
+teach intermediate people abs work in public https://overcast.fm/+SuyERj-Hg/11:31
+
+writing and marketing atomic habits https://overcast.fm/+KebsgFK6Q/1:20:50
+
+mfm research process https://overcast.fm/+rTsX4KdQw/46:05
+
+grow a 250k newsletter in 10 months https://overcast.fm/+L9fj1BPz0/08:11
 
 tiago
 - https://overcast.fm/+HFHVPz1co 27mins code
 
 how social viral wothout following https://overcast.fm/+2E1UbXk7A/13:00
 
-
+khe hy email tricks https://overcast.fm/+ZYLHFcLV4/35:00
 
 gergely orosz https://overcast.fm/+6K1HkR-p0/54:54 how uou get 1k subscribers 
 
@@ -22,15 +59,12 @@ substack recommendations
 https://overcast.fm/+6K1EndFmQ/22:59
 
 
-anchor on clubhouse https://overcast.fm/+3Ag9-yd20/59:53
-
 pets can swear https://overcast.fm/+B2HrTZTvY/12:00 wrf 70 buttons
 
 https://overcast.fm/+DxP3_iEU4/5:50 chase dimon twitter content
 
 stebbings content https://overcast.fm/+OozML4vcU
 
-moloch https://overcast.fm/+eZyBjF53Y/1:29:19 ends about here
 
 extravagance 31 mins https://overcast.fm/+7IlJt8LaQ/31:00
 
@@ -101,8 +135,6 @@ problem with multiverse https://overcast.fm/+vxHfil-wM 20mins
 https://youtu.be/uL0atQFZzL8 storytelling
 
 
-https://overcast.fm/+L9fiEnXsc/30:00 don't be helpful be valuable
-
 
 
 
@@ -110,6 +142,9 @@ https://overcast.fm/+L9fiEnXsc/30:00 don't be helpful be valuable
 
 https://overcast.fm/+NBVvkPZyc trendjacking/prediction 1h in
 
+Some advice and thoughts on writing good videos from Linus at Linus Tech Tips: <https://www.youtube.com/live/ZQ1EoGui-fA?feature=share&t=9325> from kevmodrome 
+
+https://overcast.fm/+R_DgClWpA/43:00 the logic of CPMs on youtube  until 52 mins
 
 https://overcast.fm/+NBVuuQUhM 9mins mr beast
 https://overcast.fm/+zqQxAiCVo 52mins YouTube endcarding then 1h02 process

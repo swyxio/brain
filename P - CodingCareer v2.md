@@ -54,3 +54,11 @@ Goals
 - draw people in, xref lessons that do exist or don't exist yet
 - not just informative article
 - not a straight advertisement
+
+
+---
+
+Future content
+
+- salary research
+	- https://aipaygrad.es/

@@ -1,9 +1,75 @@
 why miami
 - https://overcast.fm/+6K1FFySJU/08:00 ryan hoover
 
+ai content business and cnet https://overcast.fm/+QN1pDihwM/24:50 until 35ish
+
+angel investing in stripe and airbnb elad gil https://overcast.fm/+3Ag9HiOfo/25:22
+
+mudflation in game economies https://overcast.fm/+-qMxbTbcI/14:00 until 35mins ish
+
+wechat pay and red packets 16mins to 23mins https://overcast.fm/+rra4YfILo/16:00 and how it made miniapps
+
+bill gates microsoft from simofsky https://overcast.fm/+wFc3ppFNk/22:03 up to 34 mins with the chatgpt internet analogy
+
+steve jobs heres to the crazy ones think different ad https://overcast.fm/+TRbUxIPPU/20:00
+
+origin of ipod https://overcast.fm/+TRbUxIPPU/45:00 until 50 mins
+
+asking gokd question’s how do yiu know zach weinberg https://overcast.fm/+3Ag8uSF8I/19:55
+
+origin of brex. https://overcast.fm/+afODqcc8E/22:49
+34mins - employee compensation
+43 mins - pivoting the business
+
+oriign of do not pay https://overcast.fm/+OOu-ToRbc
+
+origin of airbnb until covid - joe gebbia tells the airbnb cereeal story https://overcast.fm/+w1Y1bjbOA/12:00 until 24mins
+
+origin of gong https://overcast.fm/+afOBATMM0/20:00 at 50 years old
+
+oriigin of cloudflare https://overcast.fm/+afOBt33RI/28:00 from harvard, and imptnce of having a big mission
+
+origin of databricks https://overcast.fm/+afOCNuG1I/27:00
+
+
+origin of look and what it looked big https://overcast.fm/+afOCFc67Q/30:28
+
+
+business of hinge pay love https://overcast.fm/+QN1qy50aM/30:00
+
+jobs to be done story from difitalocean guy https://overcast.fm/+OOu91TDmw/18:00
+
+
+transistor.fm competing with free vc competition https://overcast.fm/+EHhum5ppo/55:00
+
+
+how fortnite broke the console oligopoly https://overcast.fm/+-qMxtsdDQ/44:00 cross platform play
+
+video game industry, origin of activision https://overcast.fm/+Faxl0lWnE/20:00 steve jobs - until video game biz model until 40ish mins
+
+how the internet is breaking ecommerce https://overcast.fm/+3u0K-TaZc/10:00 ben evans on amazon impact and marketplace
+
+merchant of record problem - transistor https://overcast.fm/+MBmWpY4cg/18:00
+
+
+accredited investor laws 
+super interesting point from tyler cowen here - overreaction from sarbanes oxley led to the “stay private for longer” phenomenon of the 2010s https://overcast.fm/+YNeQfQ8bU/23:00
+
+
+happiness advantage and gratitude journalling
+https://overcast.fm/+OozPCUXGs/23:47
+
+the story of gmail https://youtu.be/TCPjk8Tpb5c early days
 
 jason lemkin chat https://overcast.fm/+OozMjV28A
 
+
+iger on buying marvel https://overcast.fm/+BlzGWHF4U/29:00
+
+mailchimp saas and freemium https://overcast.fm/+ZJRjHLQnQ/13:44 to 25’ins ish
+
+
+google vs ai https://overcast.fm/+8XV0Mqhs0/35:00
 
 levels community building principles https://overcast.fm/+os2Ygn-hY/30:00
 - education
@@ -15,6 +81,8 @@ deel he says it was 20 months from 0 to 100m ARR
 10 mins ish
 https://overcast.fm/+TG-cOA4pM
 
+
+starting boom aero with no aero background https://overcast.fm/+Vl3uF3a1E/14:00 til the end ish
 
 bezos ted talk on electricity https://youtu.be/vMKNUylmanQ
 
@@ -76,9 +144,11 @@ https://overcast.fm/+rNB9qSa2k/10:00
 
 media company - go90 scale https://overcast.fm/+QN1p98M4o/45:01
 
+amazon ads business explainer https://overcast.fm/+kgdKCUtZA until 15ish mins?
 
 ben horowitz on the origin of the 90 day exercise window
 https://youtu.be/uVhTvQXfibU 15 mins in
+
 
 
 
@@ -94,10 +164,14 @@ the trust equation https://overcast.fm/+OozM5Blcw 25 mins
 
 porn dindustry interview 45mins https://overcast.fm/+5K6apFbnE
 
-
+https://overcast.fm/+-qMzjuAIc/30:00 - the rise of minecraft and the evolution of “the stage” game with youtube until 55mins ish where twitch arose
 
 ## technibiz
 
+
+segment sales story and questions https://overcast.fm/+3Ag9FEw-s/30:36
+
+team topologies and org design and spotify squad model https://overcast.fm/+5AVSc5zB8/24:50
 
 https://overcast.fm/+Lzu2LUmvw/25:00 horizontal api-ification at 34 mins why modern data stack
 
@@ -115,6 +189,7 @@ what shopify did right- narrow waists https://overcast.fm/+rra7_tTSw/10:00
 
 gopay data driven team pm story https://overcast.fm/+6K1Fe_F28/34:14
 
+stevey platforms rant https://overcast.fm/+0TxaJy8g0/06:11
 
 https://youtu.be/IhdH-nU8XBI service as a platform sunil pai 31mins - 
 kenton varda function as a service as a service
@@ -123,6 +198,10 @@ https://twitter.com/threepointone/status/1541069324957491200?s=21&t=YlCoFbRAEDfu
 launch weeks https://overcast.fm/+oUqBsHJWc/08:26
 
 ## Product
+
+shreyas https://overcast.fm/+OozMpsxjs
+mandate product
+visionary vs etc 
 
 making a marketplace
 https://overcast.fm/+6K1EVeMN4/30:00 lenny demand and supply constrained
@@ -143,8 +222,17 @@ origin of twitter pagination  20 mins https://overcast.fm/+4jBE47JkU fbomb
 
 ## startups
 
+how doordash disrupted grubhub https://overcast.fm/+6K1FxbA78/40:00
+
 origin of 99designs https://overcast.fm/+XptO0pwSo/10:00
 
+brian halligannon why SMB market for hubspot https://overcast.fm/+3Ag-WoGW0/20:00 … and then 39 mins in the sloan school ipod and salesforce day. 43 mjns grateful dead story - viral marketers
+
+- avery pennarun on crossing chasm and market segmentation - must go to the same conferences https://podcasts.apple.com/us/podcast/tailscale-and-market-segmentation-with-avery-pennarun/id1514646781?i=1000563738841
+	- "tailscale is the industry standard X for group Y"
+	- starts about 7mins in til maybe about 24mins
+- starting huggingface https://www.therobotbrains.ai/who-is-clement-delangue
+	- 20ish mins in, talks about the pivot from chatbot to hosting platform
 
 https://overcast.fm/+qm89pCIRo 1h 8 mins saas business 4-10x, content 2.5-4x, ecomm 2.5-5x annual sales
 

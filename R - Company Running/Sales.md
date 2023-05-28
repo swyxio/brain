@@ -15,3 +15,11 @@ sales consultants
 - they helped salesforce databricks scale sales
 - invented MEDDPICC
 	- https://twitter.com/reinpk/status/1483476836264906752?s=46&t=R6Ai-vCbOio5txP3SOOQQw
+
+a16z market annealing
+
+0-3m ARR run https://twitter.com/nakul/status/1615531486882693122
+
+### Sales tech
+
+- personalized videos with descript like editing https://motionbox.io/

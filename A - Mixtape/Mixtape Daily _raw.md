@@ -1,16 +1,41 @@
 ## mixtape raw dumps
 
+setting dating goals https://overcast.fm/+KebtqEYag/15:00 until 30 mins
 
-kelsey hightower https://overcast.fm/+34A287H6M/29:00 mcdonalds how did you decide what to do with your life - to 39ish
+equality of opportunity vs outcomme https://overcast.fm/+-YJnqLYFM/1:04:00 until 1,17ish
 
-kelsey https://overcast.fm/+34A287H6M/44:00 on the L4-L9 distinction upt to 55mins
+bingchat ai notes https://overcast.fm/+m_robosXI/05:00
 
-kelsey https://overcast.fm/+34A287H6M/1:10:00 manager and hands on keyboard time. and devrel influence. show what they cna do with the thing you have
+bing verge https://overcast.fm/+QN1pkOe7Y/01:45 review with ben thompson
 
-kelsey https://overcast.fm/+34A287H6M/2:43:00 on speaking - 2h52min ish
+spice girls story https://overcast.fm/+l8E588/02:00  until 15
+
+critique of utilitatianism https://overcast.fm/+-YJnULCbg/1:00:47
+
+on leadership 2 elements https://overcast.fm/+OxeaLgfrU/02:15 
+
+lifemaxxing https://overcast.fm/+37XOV2yE0/37:00
+and looksmaxxing. have something to look forward to.
+- actual looksmaxxing from 45mins
+
+
+when your aretha is so good the judge gives you a pass https://overcast.fm/+11VXkxtsg
+
+casting Keivonn in TLOU https://overcast.fm/+-NFAFPcDM/05:00
+
+hedge funds dont hedge https://overcast.fm/+VqtfCOpEw/47:00
+
+millinearianism https://overcast.fm/+-YJk6EQVY/12:00 why ai end of times is bullshit
+
+fighting pandemic https://overcast.fm/+x3HEniUBs/40:00
+
+what it waa like to be early figma https://overcast.fm/+3u0JQWsNE/21:06 inflection point
+
 
 jury nullification https://overcast.fm/+E79hodmls/31:00 
 
+
+annual review https://overcast.fm/+BNTVoFNY/20:00
 
 7 habits review from abdaals https://overcast.fm/+iNRj7BEWc/47:23
 

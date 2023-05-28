@@ -1,3 +1,36 @@
+
+**LMQL in JS**
+- dont use streaming
+	- because it is token by token and you need to run validation on the whole thing anyway?
+		- https://docs.lmql.ai/en/latest/language/constraints.html#custom-constraints is eager
+		- but that limits the kind of evals you can make
+	- validate and use reflexion?
+- use streaming 
+	- people want to see output stream in
+	- vercel streaming
+- misc ideas
+	- make testing framework using proxy where name of variable is the thing you will fuzz in unless there is some snapshot that makes everything deterministic
+
+
+local memory - record audio + and search/ask
+- from jeanlaf
+- issues - battery consumption, privacy
+
+
+
+tinder + chaos meetings https://twitter.com/andrew__reed/status/1630639129146048512?s=20
+
+npm create + ai
+
+
+webscraper frameworks https://overcast.fm/+P2Ww31CB0/34:29
+
+
+self hostable journaling app
+
+todo.ai - api with llm prototyping converting to code inftastructure
+
+
 video for heygithub https://github.com/githubnext/githubnext/tree/main/HeyGitHub
 
 
@@ -52,6 +85,9 @@ Proof (useproof.com) for SaaS
 	- buffer with AI
 
 ## misc
+
+new linkedin
+- https://twitter.com/eriktorenberg/status/1646274719748874240
 
 better question startup
 - "Computers are useless. They can only give you answers" - Pablo Picasso (1964)

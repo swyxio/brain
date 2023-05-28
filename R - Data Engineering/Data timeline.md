@@ -2,6 +2,12 @@
 - https://overcast.fm/+H1YPGUu6Q/11:00 - MDS - mainframe - teradata - cognos BI
 - oracle, sap, businessobjects (BI)
 - olap invention https://overcast.fm/+x8z9ZeTiE . olap cubrs precalculate everything. pre indexing all the dimensions and measures (https://overcast.fm/+x8z_nL6u0). 7 dimsensions too much. dimensional relational model helps to do this for more dimensions (maybe columnar db)
+- https://www.linkedin.com/feed/update/urn:li:activity:7042137268030959616/
+	- Far before Fivetran, there was Informatica in ‘93.  
+	- They (and others), won the OG multi-billion race for copying data from A to B to C.  Buuuuutttttt….  They only moved data on-prem. (aka ‘pre-cloud’ for the Gen Zers).  In ‘pre-cloud’, you ran computers in some building somewhere.  And such was the state of data integration…  For 17 years.
+	- 2015 - fivetran  “Can you help us sync our data to AWS (Redshift)”   
+	- From ~$34 mil in ‘19 -> to $200 mil/yr!
+	- 
 
 
 semantic layer timeline
@@ -21,9 +27,14 @@ https://matt-rickard.com/diseconomies-of-scale-at-google/
 - 2017 - cloudera ipo https://news.crunchbase.com/business/morning-report-ahead-clouderas-ipo-pricing-key-slides-roadshow/ from 4bn to 2bn
 - 2018 - merged https://news.crunchbase.com/venture/the-ever-cheaper-cloudera-hortonworks-merger/
 
+2005 - It is amusing that in 2005, "VLDB" (precursor term to "big data") was defined in Wikipedia to be "larger than 1TB".. after reading through the post and the author's experience.. it would appear that this was not actually a completely terrible estimate, although there are larger and smaller: [https://en.wikipedia.org/w/](https://en.wikipedia.org/w/index.php?title=Very_large_database&oldid=20738417) https://news.ycombinator.com/item?id=34702050
+
 2008-2012 https://overcast.fm/+3lpWZ1nA8/17:32 coining of data scientist ferm by jeff hammerbacher and dj patil
 
 catalog timeline from atlan https://towardsdatascience.com/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf
+
+2010s - neteeza vs snowflake https://chrisreuter.me/2023-02-16-usage-pricing/ pricing comparisons
+
 
 
 history of bi from preset https://preset.io/blog/dataset-centric-visualization/
@@ -33,7 +44,7 @@ history of bi from preset https://preset.io/blog/dataset-centric-visualization/
 “master data management collapsed under its own weight “
 https://overcast.fm/+x8z-L-oRY/27:00
 
-
+x
 tristan timeline of MDS
 - https://www.getdbt.com/blog/future-of-the-modern-data-stack/
 
@@ -55,6 +66,7 @@ rise of sexiness
 
 2010 - data lake https://www.dataversity.net/brief-history-data-lakes/
 2020 - lakehouse https://tdwi.org/articles/2020/03/10/arch-all-welcome-to-the-lakehouse.aspx
+
 
 
 https://overcast.fm/+IexfoKBtc/27:33 airflow copied fb data swarm and data bee
@@ -105,3 +117,15 @@ big data became data
 - 
 MDS is dead 
 - i think this is an important read and reflects the mood shift i’ve been seeing among MDS folks this year. important to not be caught off guard with our messaging. https://www.linkedin.com/posts/ethanaaron_snowflakesummit-data-analytics-activity-6942877586976890880-NvGT/?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+
+## analytics engineering
+
+- https://www.getdbt.com/state-of-analytics-engineering-2023/
+	- In January of 2019, Michael Kaminsky, writing for Locally Optimistic, hit publish on a blog post titled [The Analytics Engineer](https://locallyoptimistic.com/post/analytics-engineer/). The blog post described how new tools were enabling any analyst who knew SQL to manage code bases and contribute to the data development process. The blog post perfectly named an experience that many data practitioners were having at the time.
+	- 2021: Two years later, Seth Rosen infamously claimed: [An analytics engineer is really just a pissed off data analyst](https://www.hashpath.com/2020/12/an-analytics-engineer-is-really-just-a-pissed-off-data-analyst/). And 18 months after that, analytics engineers made the mainstream press. [Business Insider](https://www.businessinsider.com/data-analytics-engineer-dbt-tech-job-salary-skills-needed-2022-5) covered the rising salaries of this emerging role, stating that companies like Amazon and Apple were hiring for the desirable skill-set.
+
+
+## 2022 trends
+
+- saivc/redpoint trends https://twitter.com/SaiVC_/status/1529898644895412259

@@ -92,12 +92,16 @@ Deep (?)
 	        - http://oldblog.antirez.com/post/redis-manifesto.html
 	        - data obs https://www.montecarlodata.com/blog-what-is-data-observability/
 	        - https://principles.planetscale.com/
+		        - https://davidgomes.com/defining-database-developer-experience/
 	        - https://infinitecanvas.tools/
-					- 12 factor app
-					- jamstack
+	        - https://docs.getdbt.com/community/resources/viewpoint
+					- heroku - 12 factor app
+					- jamstack - jamstack.org
 					- https://principledgraphql.com/
 					- https://www.inkandswitch.com/local-first/
 					- https://www.reactivemanifesto.org/  for lightbend
+					- aws distributed computing manifesto https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html
+					- motherduck big data is dead https://motherduck.com/blog/big-data-is-dead/
 - Analogies (useful for nontechnical users)
     
     -   Lean on existing familiarity with other tools as a cognitive shortcut - We are “X for Y”. Downside - all analogies are flawed/incomplete. But - at least we grab attention fast.

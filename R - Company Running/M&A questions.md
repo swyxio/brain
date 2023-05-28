@@ -1,0 +1,1 @@
+https://staysaasy.com/product/2023/02/22/how-acquirers-see-your-company.html

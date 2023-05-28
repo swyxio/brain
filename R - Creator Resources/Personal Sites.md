@@ -51,6 +51,7 @@
 	- https://brianlovin.com/writing/how-my-website-works
 - Plain Programmer profile
 	- https://tdarb.org/
+	- https://brandur.org/
 	- https://github.com/leerob/leerob.io
 	- https://fettblog.eu/typescript-jsdoc-superpowers/
 	- [linus lee @thesephist](https://thesephist.com/)

@@ -1,20 +1,39 @@
 # blogpost ideas
 
 
-## accidentally database
+## founder vs manager
 
-- i can just store it in files
-	- need transactions
-- nosql 
-	- reference the reddit has two tables post
-	- https://news.ycombinator.com/item?id=32407873
-- graphql
-	- query planning, caching, query cost, auth
-- redux
-	- oh im just doing optimistic updates for UX
-	- oh im just normalizing
-- route53 DNS
+frontline manager is helping team
+middle manager is playing The Game
+founder js going 0 to 1
 
+not super helpful to be in bigtech as founder
+
+
+The Game
+- 9boxes
+- Leadership, Leverage, Impact
+
+L1 - impact on yourself
+L3 - member of the staff
+L7 - industry
+
+
+## the great consolidation
+
+first layoffs 
+now mergers and acquisitions
+
+
+## the ties that bind
+
+metaverse has no interop 
+cloudflare bandwidth alliance
+google android
+
+ml alliances
+
+\
 
 ## startup vs upstart 
 
@@ -53,6 +72,28 @@ write a special purpose database
 - have a well known schema
 
 
+cloudflare
+- pain button -> CDN/DDOS
+
+
+own something central
+- auth
+- logging & tracing
+- metrics
+- feature flags
+- dependency injection? https://youtu.be/zrNr3JVUc8I?t=1330
+
+own a part of the company or the place in the 3 financial statements
+- stripe - revenue
+- brex/ramp - expense
+- rippling - employees
+
+
+- stage 2
+	- come for content stay for community
+	- marketplace
+
+
 ## components of cloud
 
 space power and connectivity
@@ -83,13 +124,6 @@ hollowed out company https://twitter.com/Austen/status/1536400914486943745?s=20&
 anyway the main point is that a few notable metaframeworks have started placing bets for a framework agnostic future. wont be an earnest reality until the preceding few points also become unbundled.
 
 
-the five chasms
-- founder - convincing yourself
-- hobbyists - theoretical + toy/fun
-- early adopter - feeling real pain
-- early majority - social proof
-- late majority - social pressure (staying up to date)
-- laggards - defaults
 
 
 - problems with the secondary problem
@@ -217,17 +251,7 @@ Basic content portfolio
 
 
 
-the awkward jamstack trilemma
-- rendering framework
-- cloud infra
-- content management
-examples
-- shopify making oxygen and hydrogen
-- gatsby making functions
-- nextjs api routes
-- netlify AND gatsby doing deferred generation
-- other examples
-	- https://airbyte.com/blog/airbyte-strategy-to-commoditize-all-data-integration batch data ingestion (ELT), event-driven data integration or reverse ETL?[]()
+
 
 
 how to produce at the short form - derek sivers
@@ -391,7 +415,7 @@ the money is in real estate, the wealth is in retail
 - wrap turning database https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/
 
 
-### complexity inside
+### complexity inside vs simple core
 - simplicity inside complexity outside
 - dan abramov argument about complexity
 - cost of complexity - 
@@ -404,6 +428,15 @@ the money is in real estate, the wealth is in retail
 			- hooks
 			- temporal
 - virtualize all the things and you get benefits
+
+- https://news.ycombinator.com/item?id=35507807
+Let me present the Paige Compositor. A typesetting machine if you like, made from 18,000 precision made parts in 1877. Well, 1877 is the start year of the contract. The project went on for about 15 years. 6 machines were ever made (out of 4,000 ordered). They kept failing.
+
+Meanwhile, a much more limited (initially) machine arrived on the scene, the Linotype machine. It was successfull and did run the world's news and magazine press for the next 100 years.
+
+It's really a fascinating read: [https://www.todayifoundout.com/index.php/2023/03/the-machine...](https://www.todayifoundout.com/index.php/2023/03/the-machine-that-bankrupted-mark-twain/)
+
+
 
 
 unreasonable effectiveness of virtualizing everything

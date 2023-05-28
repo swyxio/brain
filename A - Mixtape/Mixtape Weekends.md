@@ -1,10 +1,15 @@
 > longform/swyx content to resyndicate  on weekends
 
 
+svelte radio ai https://www.svelteradio.com/episodes/a-primer-on-ai-for-developers-with-swyx-from-latent-space
+
+wannabe angels https://wannabeangels.com/p/the-devtools-angel-and-scout-shawn#details
+
 changelog https://email.changelog.com/t/n/t-l-d6516f7e7d8011ed8ede88582dbe0ed1-l-r-r-l/
 
 scaling devtools
 
+software unscripted https://www.listennotes.com/podcasts/software-unscripted/crossing-the-chasm-1-dDJwWER37/
 
 cascadiajs talk
 
@@ -13,10 +18,6 @@ mongodb podcast day https://podcasts.mongodb.com/public/115/The-MongoDB-Podcast-
 infoshare poland https://www.youtube.com/watch?v=aZnzzMbA7Vg
 
 stripe dev chat
-
-
-
-eddie hinkle web joy https://webjoy.fm/episode/season-1-episode-4-creating-something-from-nothing-shawn-swyx
 
 
 

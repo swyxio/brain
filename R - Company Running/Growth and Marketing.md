@@ -1,3 +1,10 @@
+
+rob walling checklist 31 Tactics To Level-Up Your Business In 60 Minutes 
+[Get the slide deck here](ocinfo://local.overcast.fm/s/31-Tactics-to-level-up-your-business.pdf) 
+[Watch this talk with slides on YouTube](https://www.youtube.com/watch?v=XE4vhJ7nO6g)
+
+
+
 ## Growth
 https://www.reforge.com/blog/racecar-growth-framework
 
@@ -49,3 +56,4 @@ https://twitter.com/david_perell/status/1496510931848740865?s=21
 
 ## seo
 - https://overcast.fm/+os2akmeNM
+- **[surferseo.com](https://surferseo.com/)** - for writing blogposts with seo in mind

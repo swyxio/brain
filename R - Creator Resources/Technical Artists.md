@@ -51,12 +51,14 @@ misc
 - https://www.kristinamatuska.com/ worked on blitzjs
 - https://twitter.com/made_by_betty worked on rescript
 - https://www.illustratorhub.com/
+- https://twitter.com/z1digitalstudio redesigned Meteror for Tiny ([tweet](https://twitter.com/awilkinson/status/1233058062065225728?s=20&t=zpe_iocz0dUvKSHOFgcSoQ))
 - https://twitter.com/Cornerstone_Vic
 - https://annieruygtillustration.com/ flyio illos https://news.ycombinator.com/item?id=14517502
 - https://twitter.com/JrCasas_ josh pigford
 - https://twitter.com/thewomenwhodraw val giesler
 - https://twitter.com/i/lists/1471403440760889349
 - illustrations/artists - search #portfolioday https://twitter.com/hashtag/PortfolioDay?src=hashtag_click
+- video editors - @tonystoodios  https://mobile.twitter.com/tomfrankly/status/1601013893425692672
 - more recs 
   - https://twitter.com/natalienagele/status/1326940815839682561?s=20
  - circus 

@@ -66,3 +66,14 @@ What is happiness? (And am I happy?)
 When well I know that I have enough?
 How would life be different if there weren’t criticism in the world?
 Who am I?
+
+## annual review questions
+
+https://twitter.com/SahilBloom/status/1603388575919349760?s=20
+-   What did I change my mind on this year?
+- What/Who created energy this year?
+- What drained energy this year?
+- Who held me back/laughed/belittled me this year?
+- What did I not do because of fear? What was the downside? upside?
+- What were my greatest hits and worst misses this year?
+- What did I learn this year?

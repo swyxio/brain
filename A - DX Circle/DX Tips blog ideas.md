@@ -1,8 +1,167 @@
+
+## how devtools do product hunt
+
+- lago https://twitter.com/byAnhtho/status/1644009408672956417
+
+## pairing bottom up with first to adopt and top down with post production
+
+https://twitter.com/davidshershey/status/1623799015208030208?s=46&t=fB9be2CeaR6qfQ6uyanBBQ
+
+airbyte - landed on bottom up focus
+o11y/security - top down
+
+
+## whats with all the open source zapiers?
+
+- examples
+	- zapier
+		- automatisch
+		- activepieces https://news.ycombinator.com/item?id=34723989
+		- windmill - pipedream alternative
+		- tooljet? interesting story with HN as part of it https://blog.tooljet.com/raising-vc-funding-for-open-source-project/
+		- trigger.dev
+	- retool
+		- openblocks https://news.ycombinator.com/item?id=33592990
+		- appsmith
+		- interval https://news.ycombinator.com/item?id=33598868
+		- bracket? https://news.ycombinator.com/item?id=33600448
+		- illa? very pushy https://news.ycombinator.com/item?id=33605122
+		- budibase
+		- saltcorn
+		- https://github.com/lowdefy/lowdefy
+		- airforms
+		- airplane,.dev success https://news.ycombinator.com/item?id=33020910
+		- (retool has self hosting https://news.ycombinator.com/item?id=33601921)
+		- TODO: search twitter for yahoo pipes nostalgia quotes
+	- airtable
+		- baserow.io
+	- stripes
+- reasons
+	- YC throwing money at the wall
+	- developers starring free work as a way to avoid paying. HN filter bubble
+	- adoption within privacy/security walls
+	- successful companies go upmarket, leaving room at the bottom of the market
+- issues
+	- duplicative MxN integration problem. unless winner takes all or standard emerges, all will kinda suck
+	- abandonware
+- nobody tried open source heroku. why. they are all closed source
+
+## uphill devrel vs downhill devrel
+
+value of the seat
+
+
+## impactful 1.0 launches
+
+- https://blog.meilisearch.com/v1-enterprise-ready-stable/
+- https://www.confluent.io/blog/apache-kafka-goes-1-0/
+- Svelte 3 https://svelte.dev/blog/svelte-3-rethinking-reactivity
+- Go v1 [preview](https://blog.golang.org/preview-of-go-version-1), [release](https://blog.golang.org/go1). [HN comments](https://news.ycombinator.com/item?id=3766874)
+
+skip the 1.0
+- https://reactjs.org/blog/2016/04/07/react-v15.html
+
+never-2.0
+- golang https://www.techtarget.com/searchsoftwarequality/news/252526948/Go-updates-to-tackle-pain-points-but-Golang-2-is-dead
+
+counterexamples
+- https://dagster.io/blog/dagster-1-0-hello
+- 
+
+
+## 7 myths that stymie your devrel career
+
+
+insoired by shreyas doshi 7 myths
+- not writing. fucking write.
+- chasing devrel manager or vp devrel. you need to lead
+- not marketing? you fucking are
+- not talking to engineers
+
+
+## how to tell your boss the product sucks
+
+- community traction
+- content pull
+- devrel cant create product market fit
+- give ideas
+- framing wuestions
+	- how is your product making the community excited about where the industry is going
+	- what is the natural k factor and retention rate of your product
+	- 
+
+
+## there is gold in your eng team
+
+- find me the guy who scaled
+- who handled the p0’s
+- who knows why we did what we did and didnt do what we didnt
+- help him tell his story
+
+they have opinions on what rhey should do and arent being heard
+you can back them up with user references and data
+
+
+## go to market and persona matrix
+
+- one spectrum: funnel
+	- awareness
+	- consideration
+	- purchase/usage
+- 
+
+
+
+## from open source to cloud saas
+
+
+- we are a glorified open source support hotline
+- 
+
+## recipes not plugins
+
+community angle. gatsby. nextjs https://twitter.com/swyx/status/1245805239820668928?s=20
+
+## impossible triangles
+
+- https://twitter.com/mark_goldberg_/status/1617629684841480192?s=46&t=D-SPkG3f-9PhRpa0owZpsQ deel brex rippling etc
+
+the awkward jamstack trilemma
+- rendering framework
+- cloud infra
+- content management
+examples
+- shopify making oxygen and hydrogen
+- gatsby making functions
+- nextjs api routes
+- netlify AND gatsby doing deferred generation
+- other examples
+	- https://airbyte.com/blog/airbyte-strategy-to-commoditize-all-data-integration batch data ingestion (ELT), event-driven data integration or reverse ETL?
+
+
+## content agencies
+
+- https://devdocs.work/
+- content turbine
+- draft.dev
+- 
+
+
+## building the Steam of developer tools
+
+https://overcast.fm/+-qMwoSV5I/26:51
+
+
 ## apps vs infra
 
 - https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/
 
-## annual recurring contnent
+## formats, not calendars
+
+do we want a calendar
+- format that works can be churned out
+
+annual recurring contnent
 
 - billie eilish youtuev 6 years straight
 - best x of 2022wa
@@ -22,6 +181,9 @@ ikya surskever - alex wang talk - 11min 30s - you need tonhave understanding
 
 
 ## dx = speed
+
+
+at github deploy speed is the complaint https://overcast.fm/+HZUc3Qfjo/1:10:00
 
 sam lambert https://overcast.fm/+oUqBkopko/24:00 dx is not api or cli. its did they go fast
 
@@ -525,6 +687,26 @@ casey from accel https://www.accel.com/noteworthy/welcome-casey-aylward
 - late: the result is the story
 	- cost optimisation
 - https://twitter.com/balajis/status/1569149096757280768?s=21&t=q-qB_CPXQwYvEkj_MxR9Tw going from art to science to unprofessional
+- the five chasms
+	- founder - convincing yourself
+	- hobbyists - theoretical + toy/fun
+	- early adopter - feeling real pain
+	- early majority - social proof
+	- late majority - social pressure (staying up to date)
+	- laggards - defaults
+- avery pennarun on crossing chasm and market segmentation - must go to the same conferences https://podcasts.apple.com/us/podcast/tailscale-and-market-segmentation-with-avery-pennarun/id1514646781?i=1000563738841
+	- "tailscale is the industry standard X for group Y"
+- thoughts from apurva mehta meeting (responsive.dev)
+	- "only staff+ dev required"
+	- java required - or have to build your own dk
+	- stateful infra downtime
+
+react documentary
+- pete hunt says the first react launch was too wide. too much new concepts incl jsx that people would react to
+- second react launch was for the early adopters - hey we have cool ideas
+
+- the reason open source launches appeal to devtools is because it targets early adopters who like to peek under the hood
+
 
 figma - first figure out the feature, others offer the feature as product
 
@@ -540,6 +722,9 @@ late stage chasm
 - hortziontalised solution. landscape charts
 - then low code no code forms
 - apple integration forms
+
+https://overcast.fm/+-qMwoSV5I/26:51 steam story
+from packaged goods and piracy to free to play and then to steam
 
 
 
@@ -587,6 +772,7 @@ You _can_ have the best of both worlds, but it takes a new kind of DevOps tool, 
 
 Ambassador Labs (formerly Datawire), the cloud native developer experience leader, enables developers to code, ship, and run applications faster and easier than ever.
 
+Wilco's mission is to empower every developer, regardless of their background or skill level, to unlock their full potential!
 
 https://news.ycombinator.com/item?id=23331804
 - "WTF DOES IT DO?"
@@ -751,6 +937,7 @@ cf sarah cataranzo convo
 - broken politics
 - 3 layer cake - infra, platform, app 
 - wardley map
+- production-ready frameworks for underspecified standards
 - aggregation theory
 
 ## what if dev marketing worked like tv commercials

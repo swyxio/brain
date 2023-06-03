@@ -6,6 +6,8 @@ hapoiness https://overcast.fm/+TbPfIg
 
 ## physical health
 
+3 hours a week workout https://overcast.fm/+vpWYtlVfE/40:00 from peter attia 50% lower risk of death
+
 VO2 max https://overcast.fm/+2-B-_N0xY/17:20 range to 26 mins. then https://overcast.fm/+2-B-_N0xY/1:39:49 vo2max 12 min sprint. 1 mile walk test. to 1h 42. 20mins of work.. finished iut at 1h 50 for levels u want https://overcast.fm/+2-B-_N0xY/1:50:00
 
 1h 07 movement tests https://overcast.fm/+2-B-_N0xY/1:07:00 upt to 1:27

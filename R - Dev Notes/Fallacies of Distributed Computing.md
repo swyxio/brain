@@ -3,6 +3,10 @@ created: 2021-12-17 15:40
 updated: 2021-12-20 09:54
 ---
 
+kleppmann distsys textbook https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf
+
+
+
 <https://www.se-radio.net/2021/07/episode-470-l-peter-deutsch-on-the-fallacies-of-distributed-computing/>
 
 The [fallacies](https://en.wikipedia.org/wiki/Fallacy "Fallacy") are:

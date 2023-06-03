@@ -1,4 +1,18 @@
 
+
+## mistakes of community
+
+https://www.cio.com/article/2373699/6-stupid-mistakes-companies-make-with-their-online-communities.html
+
+## 99% developers
+
+https://future.com/software-development-building-for-99-developers/
+
+
+## writing advice
+
+https://refactoringwords.com/
+
 ## how devtools do product hunt
 
 - lago https://twitter.com/byAnhtho/status/1644009408672956417

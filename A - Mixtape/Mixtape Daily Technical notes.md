@@ -43,6 +43,7 @@ surprising capabilities of foundation models percy liang https://overcast.fm/+_C
 
 why openai plays dota https://overcast.fm/+BAFqMF8ma8/30:07 - sama and gregb
 
+riley goodside history of prompt engineering https://overcast.fm/+vScN1ohJs/09:30
 
 huggingface bloom and bloomz https://overcast.fm/+yIRSmLZik/17:48
 

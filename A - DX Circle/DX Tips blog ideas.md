@@ -6,6 +6,14 @@
 - arc boosts
 
 
+## when to launch a superuser program
+
+- monthly call
+- early access
+- slots in conferences
+- content on social and newsletter
+- 
+
 ## mistakes of community
 
 https://www.cio.com/article/2373699/6-stupid-mistakes-companies-make-with-their-online-communities.html

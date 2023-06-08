@@ -1,4 +1,10 @@
 
+## place of your own
+
+- replit 
+- val.town
+- arc boosts
+
 
 ## mistakes of community
 

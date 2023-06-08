@@ -952,6 +952,8 @@ cf sarah cataranzo convo
 - 3 layer cake - infra, platform, app 
 - wardley map
 - production-ready frameworks for underspecified standards
+	- https://github.com/libsql/libsql making sqlite serverless and open contribs!!
+	- 
 - aggregation theory
 
 ## what if dev marketing worked like tv commercials

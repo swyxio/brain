@@ -105,3 +105,7 @@ https://twitter.com/kevinafischer/status/1624629889306595329
 	- 1.  I think its really confusing to software engineers today how you go from big model (including which one to start with) to something production grade - which model to big, how to align, should you fine tune, should you quantize, how do you get to the cost/latency characteristics needed, what is the "pareto optimal" curve across cost/accuracy/latency, etc
 	- and then there are so, so, so many ways to generate data and align now, and then other architectures like training these smaller models on FM generated data, etc
 	- i think if something just made this trivially simple it would be interesting
+
+## summarization
+
+- https://www.summari.com

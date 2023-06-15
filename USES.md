@@ -13,3 +13,6 @@ if you like my work, here's some nice ways for you to toss me a few coins by che
 - Email: https://convertkit.com?lmref=IRwmkQ
 - Sparkloop
 - Brex: brex.com/signup/?rc=OfuqaYt
+
+health
+- casper http://fbuy.me/v/shawn_8499

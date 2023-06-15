@@ -1,4 +1,32 @@
 
+## place of your own
+
+- replit 
+- val.town
+- arc boosts
+
+
+## when to launch a superuser program
+
+- monthly call
+- early access
+- slots in conferences
+- content on social and newsletter
+- 
+
+## mistakes of community
+
+https://www.cio.com/article/2373699/6-stupid-mistakes-companies-make-with-their-online-communities.html
+
+## 99% developers
+
+https://future.com/software-development-building-for-99-developers/
+
+
+## writing advice
+
+https://refactoringwords.com/
+
 ## how devtools do product hunt
 
 - lago https://twitter.com/byAnhtho/status/1644009408672956417
@@ -938,6 +966,8 @@ cf sarah cataranzo convo
 - 3 layer cake - infra, platform, app 
 - wardley map
 - production-ready frameworks for underspecified standards
+	- https://github.com/libsql/libsql making sqlite serverless and open contribs!!
+	- 
 - aggregation theory
 
 ## what if dev marketing worked like tv commercials

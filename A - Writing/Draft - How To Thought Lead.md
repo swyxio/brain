@@ -75,6 +75,10 @@
 		- cs - > CX https://www.intercom.com/blog/podcasts/nate-brown-on-why-proactive-cx-is-the-next-competitive-battleground/
 	- positive and negative - prefect.io
 	- inbound vs outbound
+	- i/o bound vs compute bound
+		- deno ryan dahl - comparison
+			- i/o bound - glue code, app
+			- compute bound - traditional ml
 	- people say they want X what they really want is Y
 	- You might not need X
 	- X considered Harmful

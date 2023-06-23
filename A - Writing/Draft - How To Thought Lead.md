@@ -42,6 +42,7 @@
 		- https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas
 		- hierarchy of needs https://twitter.com/zenorocha/status/1418571920618844165?s=20
 		- devrel journey map  https://medium.com/codex/developer-relations-the-developer-journey-map-36bd4619f5f3
+		- meme things
 	- create an equation for your industry - a+b = c
 		- create formula https://twitter.com/RomeenSheth/status/1450621347328110593?s=20
 		- derek sivers: https://sive.rs/multiply ideas by execution

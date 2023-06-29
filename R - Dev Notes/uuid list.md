@@ -194,6 +194,18 @@ Much of this list derives from the ongoing UUIDv6 IETF draft: https://www.ietf.o
 - Internal Google ID system
 	- "IIRC internally google used an ID for logging events that was a combo of Mac address and microsecond time. There might have been something in there for cpuid. Leaked data but was internal only so not a problem." - [Joe Beda](https://twitter.com/jbeda/status/1563729743224373249?s=20&t=1EW4Du5AJ9aLBzE7C1vNng)
 - MongoDB ObjectID: https://www.mongodb.com/blog/post/generating-globally-unique-identifiers-for-use-with-mongodb
+- Jetpack.io TypeID https://github.com/jetpack-io/typeid https://news.ycombinator.com/item?id=36508811
+	- TypeIDs are a modern, type-safe extension of UUIDv7. TypeIDs are canonically encoded as lowercase strings consisting of three parts:
+	1. A type prefix
+	2. An underscore '_' separator
+	3. A 128-bit UUIDv7 encoded as a 26-character string in base32 (using [Crockford's alphabet](https://www.crockford.com/base32.html) in lowercase).
+	- Here's an example of a TypeID of type `user`:
+
+```
+  user_2x4y6z8a0b1c2d3e4f5g6h7j8k
+  └──┘ └────────────────────────┘
+  type    uuid suffix (base32)
+```
    
 
 ## Misc

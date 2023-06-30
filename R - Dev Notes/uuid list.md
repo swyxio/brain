@@ -120,6 +120,9 @@ list of unique id implementations, design considerations, and resources. may als
     uuidv4(); // ⇨ '9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d'
     ```
 
+- uuid 7 https://github.com/matrixai/js-id
+	-  uuidv7 implementation that we've been using with rocksdb
+
 ## Major UUIDs
 
 Much of this list derives from the ongoing UUIDv6 IETF draft: https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-04.html (HN: https://news.ycombinator.com/item?id=31715119)

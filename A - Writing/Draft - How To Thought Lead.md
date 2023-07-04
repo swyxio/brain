@@ -43,8 +43,9 @@
 		- hierarchy of needs https://twitter.com/zenorocha/status/1418571920618844165?s=20
 		- devrel journey map  https://medium.com/codex/developer-relations-the-developer-journey-map-36bd4619f5f3
 		- meme things
-	- create an equation for your industry - a+b = c
-		- create formula https://twitter.com/RomeenSheth/status/1450621347328110593?s=20
+	- create an equation /formula for your industry - a+b = c
+		- angel investing https://twitter.com/RomeenSheth/status/1450621347328110593?s=20
+		- andy rachleff - team vs market = market wins https://www.lennysnewsletter.com/p/your-startup-idea-probably-isnt-venture
 		- derek sivers: https://sive.rs/multiply ideas by execution
 		- metcalfe's law was made up lol https://news.ycombinator.com/item?id=35259442
 			- Not only did he make it up, but it is false! Multiple lines of evidence point to a O(n log(n)) law instead [https://www-users.cse.umn.edu/~odlyzko/doc/metcalfe.pdf](https://www-users.cse.umn.edu/~odlyzko/doc/metcalfe.pdf) has the details.

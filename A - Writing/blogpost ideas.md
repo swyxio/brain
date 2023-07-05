@@ -1,6 +1,14 @@
 # blogpost ideas
 
 
+
+## B plot vs A plot
+
+humans are bad at slow moving train wrecks
+base effects
+https://twitter.com/george__mack/status/1652708537846632449
+
+
 ## founder vs manager
 
 frontline manager is helping team

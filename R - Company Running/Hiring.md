@@ -2,6 +2,19 @@
 HI THIS INDICATES IT IS NEW
 
 
+Josephifiowa qtns
+
+the who interview - coatue book
+
+- go thru last 5 experiences
+- what do you do
+- what are you most proud of
+	- if different than above, red flag
+- what does the next better person do better than you
+	- 
+- whos ur manager - spell it
+	- when i talk to them what are they gonna say about you
+
 floncrivello
 - name a conflict
 	- argue for the other side

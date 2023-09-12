@@ -109,3 +109,8 @@ _“**The first is that you have a higher standard for yourself than anybody els
 _”**Second is somebody who understands what the emotional state is, and what it needs to be, and can transfer it**. So basically anybody that can understand that morale is low, it needs to be high. **They can shift the mood, they can shift the energy**. Or everybody’s a little too comfortable, we need to get a sense of urgency. They understand the emotional state and know how to shift it._
 
 _”**The third is they see things how they actually are**. Not worse than they are, not better than they are, how they actually are. **And then they paint a picture of how it’s going to be better than it currently is**.”_ (Timestamp of quote 47:51-48:43)
+
+
+## military leadership manual
+
+[](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)

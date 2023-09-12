@@ -645,6 +645,8 @@ once purchased, move customer to a different list! don't keep selling sth they b
   - Tech Resume Inside Out - 1.25c per word, $800 for 80k words
   - [Zero to Sold](https://thebootstrappedfounder.com/how-i-self-published-zero-to-sold-a-bestselling-book-on-bootstrapping/) - Reedsy 100k words for $3k + 2.3k final editor + 800 for proofreader
 - [[Write Useful Books]]  Rob Fitzpatrick's process for the Mom Test
+- ship30for30 ghostwriting book launch https://share.transistor.fm/s/961d7e17
+	- urgency: free now, going on sale next week
 	
 ### advice from big creators
 

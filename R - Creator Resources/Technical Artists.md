@@ -53,6 +53,7 @@ misc
 - https://www.illustratorhub.com/
 - https://twitter.com/z1digitalstudio redesigned Meteror for Tiny ([tweet](https://twitter.com/awilkinson/status/1233058062065225728?s=20&t=zpe_iocz0dUvKSHOFgcSoQ))
 - https://twitter.com/Cornerstone_Vic
+- [Joy Machs](https://twitter.com/joymachs)  did [tigerbeetle illos and game](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/#evolution )
 - https://annieruygtillustration.com/ flyio illos https://news.ycombinator.com/item?id=14517502
 - https://twitter.com/JrCasas_ josh pigford
 - https://twitter.com/thewomenwhodraw val giesler

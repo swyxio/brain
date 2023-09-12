@@ -6,3 +6,5 @@
 -
 
 how to do roadmaps https://askgib.substack.com/p/what-do-you-think-about-project-based
+
+jason cohen: ["is there a problem?" and going from problem to biz model](https://longform.asmartbear.com/problem/)

@@ -4,6 +4,7 @@
 - replit 
 - val.town
 - arc boosts
+- very cool insight from weights and biases about how their reports feature enabled organic growth for them. feel like every saas app should come with a publishing platform https://overcast.fm/+65gpK98fo/29:00
 
 
 ## when to launch a superuser program

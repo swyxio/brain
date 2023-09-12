@@ -122,6 +122,7 @@ list of unique id implementations, design considerations, and resources. may als
 
 - uuid 7 https://github.com/matrixai/js-id
 	-  uuidv7 implementation that we've been using with rocksdb
+	- uuid v7 > v4 because v4 has locality issue https://news.ycombinator.com/item?id=36811247
 
 ## Major UUIDs
 

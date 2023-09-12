@@ -27,6 +27,11 @@
 	- https://www.ben-evans.com/presentations
 - have better vision of the future than anyone
 	- articulate a trend/where people are going
+		- place yourself in context of history
+			- https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/
+			- https://avc.com/2015/02/the-carlota-perez-framework/
+			- https://www.latent.space/p/agents
+			- https://www.swyx.io/js-third-age
 	- name the solution
 		- map out the lore
 - clarify/express reality better than anyone

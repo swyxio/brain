@@ -1,6 +1,7 @@
 mascot name and history
 https://www.vertabelo.com/blog/the-history-of-slonik-the-postgresql-elephant-logo/
 
+history of postgres from https://www.crunchydata.com/blog/when-did-postgres-become-cool
 
 postgres features - what does it mean to be "compatible" https://www.crunchydata.com/postgres-hosting-checklist
 

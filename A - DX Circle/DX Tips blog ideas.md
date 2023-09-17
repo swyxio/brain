@@ -755,7 +755,33 @@ late stage chasm
 https://overcast.fm/+-qMwoSV5I/26:51 steam story
 from packaged goods and piracy to free to play and then to steam
 
-
+from chris bach
+- early adopters
+- early majority - directory level
+- CIOs: business outcomes
+	- interchangeability
+	- reducing infra cost
+	- headless and composable as a strategy
+		- for organization/at scale
+		- not just greenfield
+		- siloed forever or central governmance
+	- alliances
+		- mach alliance
+			- adobe exp manager
+			- microservice saas
+		- traditionally for components of a headless stack
+		- contentful as the heavyweight
+	- what is hard:
+		- sales process
+		- product roadmap
+		- enterprise GTM
+- netlify connect
+	- and graphql layer
+- doing well
+	- commercetools - doingwell
+	- contentstack
+	- greenreach(?) - been around for a while but pivoted + deprecated
+	- sitecore too
 
 ## breaking out of the devrel comfort zone
 

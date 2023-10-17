@@ -22,3 +22,4 @@ oct 8-11 - ai engineer summit
 oct 18 - ted ai day 2
 oct 19 - heavybuild devguild AI
 Nov 12-13 - react summit NYC - daria 
+nov 18 - laufey

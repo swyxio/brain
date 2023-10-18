@@ -19,7 +19,7 @@ Sep 18/19 - infobip shift
 	-   title: Software 3.0 and The Emerging AI Developer Landscape
 	- Abstract: Everyone has gone AI mad, and there is a lot of noise, hype, and demos, but not a lot of guidance on practical usecases. We will go over a mental model of who is doing what and explain both where the opportunities are and where the non-AI developer can start going down the rabbit hole.
 oct 8-11 - ai engineer summit
-oct 18 - ted ai day 2
+oct 18 - ted ai day 2 - https://www.ai-event.ted.com/panelsandworkshops#comp-lms1w1ka2
 oct 19 - heavybuild devguild AI
 Nov 12-13 - react summit NYC - daria 
 nov 18 - laufey

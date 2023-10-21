@@ -94,6 +94,8 @@ Deep (?)
 	        - https://principles.planetscale.com/
 		        - https://davidgomes.com/defining-database-developer-experience/
 	        - https://infinitecanvas.tools/
+	        - https://priceops.org/
+		        - https://news.ycombinator.com/item?id=37916840
 	        - https://docs.getdbt.com/community/resources/viewpoint
 					- heroku - 12 factor app
 					- jamstack - jamstack.org

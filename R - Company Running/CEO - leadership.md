@@ -111,6 +111,12 @@ _”**Second is somebody who understands what the emotional state is, and what i
 _”**The third is they see things how they actually are**. Not worse than they are, not better than they are, how they actually are. **And then they paint a picture of how it’s going to be better than it currently is**.”_ (Timestamp of quote 47:51-48:43)
 
 
+3 jobs of CEO - dev ittycheria
+- (https://overcast.fm/+3Ag8caJlE/20:07)
+- what is company strategy
+- do you have the right people
+- are they unblocked
+
 ## military leadership manual
 
 [](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)

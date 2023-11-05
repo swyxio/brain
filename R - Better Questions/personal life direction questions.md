@@ -70,7 +70,7 @@ Who am I?
 ## annual review questions
 
 https://twitter.com/SahilBloom/status/1603388575919349760?s=20
--   What did I change my mind on this year?
+- What did I change my mind on this year?
 - What/Who created energy this year?
 - What drained energy this year?
 - Who held me back/laughed/belittled me this year?

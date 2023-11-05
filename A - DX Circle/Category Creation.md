@@ -78,4 +78,6 @@ examples
 
 https://overcast.fm/+OozMxH1II/24:00 casado talking category creation
 - mcjannet
-- 
+
+
+https://www.amazon.com/Play-Bigger-Dreamers-Innovators-Dominate/dp/0062407619

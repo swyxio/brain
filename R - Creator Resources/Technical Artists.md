@@ -44,7 +44,7 @@ branding agencies
 
 - metalab
 - https://www.overnice.com/ - small agency that did brand design for Prisma and for GraphCDN/Stellate. Overnice will be doing all the design and most of the implementation.
-
+- openpurpose.com someone recommended to me nov 2023 cant remember
 misc
 
 - https://mobile.twitter.com/tonika_carter worked on shanselman YouTube 

@@ -75,6 +75,16 @@ list of unique id implementations, design considerations, and resources. may als
     return uuid
   }
   ```
+- hashid/sqids: https://news.ycombinator.com/item?id=38414914#38416424
+  - The main use of Sqids is purely visual. If you'd like to use IDs instead of numbers in your webapp, Sqids could be a good choice:
+- Use Cases
+  - Link shortening
+  - Event IDs: Collision-free encoding/decoding
+  - One-Time Passwords: Short & profanity-free
+- Not Good For
+  - Sensitive data
+  - This is not an encryption library
+  - User IDs - Can be decoded
 - fast random ID: 
   - https://github.com/lukeed/uid A tiny (134B) and fast utility to generate random IDs of fixed length
     

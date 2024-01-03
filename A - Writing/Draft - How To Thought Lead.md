@@ -48,6 +48,7 @@
 		- hierarchy of needs https://twitter.com/zenorocha/status/1418571920618844165?s=20
 		- devrel journey map  https://medium.com/codex/developer-relations-the-developer-journey-map-36bd4619f5f3
 		- meme things
+		- venn diagram https://docs.google.com/document/d/1iapDLbQKL3CcXlJRU6RXnZ5_JmXn6d1Vemn2B-xbqGc/edit
 	- create an equation /formula for your industry - a+b = c
 		- angel investing https://twitter.com/RomeenSheth/status/1450621347328110593?s=20
 		- andy rachleff - team vs market = market wins https://www.lennysnewsletter.com/p/your-startup-idea-probably-isnt-venture

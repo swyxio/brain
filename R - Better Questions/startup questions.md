@@ -3,6 +3,12 @@ created: 2021-12-28 13:03
 updated: 2021-12-28 13:03
 ---
 
+https://gmays.com/business-questions-worth-asking/
+- - How do we get customers in the door?
+- How do we get customers to the “wow” moment quickly?
+- How do we deliver value as often as possible?
+- https://news.ycombinator.com/item?id=38223019
+
 
 jason cohen startup extreme questions - https://longform.asmartbear.com/posts/extreme-questions/
 - "10x prices"

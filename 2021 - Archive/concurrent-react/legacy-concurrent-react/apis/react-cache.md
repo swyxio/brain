@@ -85,7 +85,7 @@ Other APIs:
 
 ---
 
-> Next: [hidden](/apis/hidden.md)
+> Next: [hidden](./hidden.md)
 
 ---
 

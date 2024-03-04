@@ -15,7 +15,7 @@ the hidden tabs can be deprioritized.
 
 ---
 
-> Next: [Roots](/apis/roots.md)
+> Next: [Roots](./roots.md)
 
 ---
 

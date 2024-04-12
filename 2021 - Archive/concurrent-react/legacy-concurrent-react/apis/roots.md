@@ -88,7 +88,7 @@ work.commit();
 
 ---
 
-> Next: [Community Demos](/community/demos.md)
+> Next: [Community Demos](../community/demos.md)
 
 ---
 

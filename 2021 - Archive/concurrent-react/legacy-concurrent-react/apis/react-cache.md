@@ -7,7 +7,7 @@ menu: APIs
 
 `react-cache` is a reference React Suspense cache implementation maintained by the React team.
 It was previously known as `simple-cache-provider`.
-[The entire codebase](https://github.com/facebook/react/blob/master/packages/react-cache/src/ReactCache.js) is less than 200 lines of Flow-typed code. You can see usage examples in the [Suspense fixture](https://github.com/facebook/react/blob/master/fixtures/unstable-async/suspense/src/components/UserPage.js).
+[The entire codebase](https://github.com/facebook/react/blob/16.8.6/packages/react-cache/src/ReactCache.js) is less than 200 lines of Flow-typed code. You can see usage examples in the [Suspense fixture](https://github.com/facebook/react/blob/v16.8.6/fixtures/unstable-async/suspense/src/components/UserPage.js).
 
 **Note: `react-cache` is under very active development - this document is more likely than the others to be out of date.** For example, `createCache` no longer exists. 
 
@@ -85,11 +85,11 @@ Other APIs:
 
 ---
 
-> Next: [hidden](/apis/hidden.md)
+> Next: [hidden](./hidden.md)
 
 ---
 
 **Recommended Sources for further info:**
 
 - v2.0.0 API change PR: [PR here](https://github.com/facebook/react/pull/13337)
-- [`react-cache` source](https://github.com/facebook/react/blob/master/packages/react-cache/src/ReactCache.js)
+- [`react-cache` source](https://github.com/facebook/react/blob/16.8.6/packages/react-cache/src/ReactCache.js)

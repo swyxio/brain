@@ -30,6 +30,7 @@ list of unique id implementations, design considerations, and resources. may als
 - no dependencies
 - no need for coordination (among different clients generating uuid's)
 	- recent discussion https://twitter.com/davidfowl/status/1563728728802619393
+- weak types: make it obvious what is sensitive and what not - eg - `sk-xxxx` is SECRET key, `pk-xxxx` is PUBLIC key and can be exposed clientside. More ideas [here which calls them "spicy" id's](https://github.com/mik3y/django-spicy-id)
   
 ## Concepts
 
@@ -220,6 +221,8 @@ Much of this list derives from the ongoing UUIDv6 IETF draft: https://www.ietf.o
   └──┘ └────────────────────────┘
   type    uuid suffix (base32)
 ```
+
+- [Django Spicy ID](https://github.com/mik3y/django-spicy-id): Cool "Stripe-style" self-identifying row IDs for Django. A drop-in replacement AutoField. [via HN](https://news.ycombinator.com/item?id=40004999)
    
 
 ## Misc

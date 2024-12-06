@@ -11,4 +11,9 @@
 
 2025
 
+- 20 feb AIE NYC
+- 2nd march sis
+- 22 apr sf data council
+- 24-28 apr sg aie/iclr
 - 8 may Shift Miami
+- 17 may sis

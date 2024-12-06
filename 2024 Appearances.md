@@ -13,6 +13,7 @@
 
 - 20 feb AIE NYC
 - 2nd march sis
+- Mar 11, 2025 - 8:00 PM Connor Price
 - 22 apr sf data council
 - 24-28 apr sg aie/iclr
 - 8 may Shift Miami

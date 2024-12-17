@@ -16,5 +16,5 @@
 - Mar 11, 2025 - 8:00 PM Connor Price
 - 22 apr sf data council
 - 24-28 apr sg aie/iclr
-- 8 may Shift Miami
+- 8 may Shift Miami or 8-9 may barcelona svelte
 - 17 may sis

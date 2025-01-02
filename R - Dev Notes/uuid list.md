@@ -48,6 +48,8 @@ list of unique id implementations, design considerations, and resources. may als
 
 **⚠️ Cutting edge** as of 2021-2022 the IETF is currently working on standardizing UUIDv6, v7, v8, and Max UUID: https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html (this URL may break)
 
+- uuidv7 in postgres: https://brandur.org/fragments/uuid-v7-monotonicity
+
 
 ## Simple UID Impls
 

@@ -17,4 +17,5 @@
 - 22 apr sf data council
 - 24-28 apr sg aie/iclr
 - 8 may Shift Miami or 8-9 may barcelona svelte
+- 15 may berlin ai dev 4
 - 17 may sis

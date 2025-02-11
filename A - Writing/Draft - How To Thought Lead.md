@@ -64,8 +64,13 @@
 		- karpathy - [GPTs as computers](https://twitter.com/karpathy/status/1644183721405464576)
 - have an opinion on everything
 	- be first to articulate opinion on everything new
+ 		- is this good/bad?
+   		- how does this connect to a broader theme?
+     		- can you demo/hands on with something?
+       		- be confident, certain, highlight the best of/worst of thing
 	- be quotable https://twitter.com/culturaltutor/status/1629530966778585089
 	- why popular thing everyone likes is actually bad
+ 		- https://dx.tips/titles
 	- what everyone gets wrong?
 	- what everyone doesnt understand
 	- how the top/worst performers do their job

@@ -14,9 +14,11 @@
 - 20 feb AIE NYC
 - 2nd march sis
 - Mar 11, 2025 - 8:00 PM Connor Price
+- 5 apr texas 
 - 22 apr sf data council
 - 24-28 apr sg aie/iclr
 - 1-4 may yearn
+- 8 may tim oreilly panel
 - (n) 8 may Shift Miami or 8-9 may barcelona svelte
 - 14-15 may langchain interrupt
 - 15 may berlin ai dev 4

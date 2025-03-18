@@ -14,7 +14,7 @@
 - 20 feb AIE NYC
 - 2nd march sis
 - Mar 11, 2025 - 8:00 PM Connor Price
-- 5 apr texas 
+- 5 apr texas  wedding
 - 22 apr sf data council
 - 24-28 apr sg aie/iclr
 - 1-4 may yearn

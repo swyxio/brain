@@ -22,3 +22,4 @@
 - 14-15 may langchain interrupt
 - 15 may berlin ai dev 4
 - 17 may sis
+- November 18 & 21, 2025 react summit

@@ -19,7 +19,7 @@
 		- NSFW: sextape / crazy fight 
 		- OHH: finally understand what confused me
 	- https://answerthepublic.com/ for SEO research version of this
-	- https://twitter.com/gregisenberg/status/1412074725195538441?s=21
+	- https://twitter.com/gregisenberg/status/1412074725195538441?s=21 (now https://x.com/richeholmes/status/1616148547497521152 i think)
 	- https://vasilishynkarenka.com/13-reads-on-choosing-what-to-work-on/
 	- things that dont change https://collabfund.com/blog/betting-on-things-that-never-change/
 - have better facts/history than anyone else

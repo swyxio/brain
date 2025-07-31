@@ -24,3 +24,4 @@
 - 17 may sis
 - 7 oct react conf
 - November 18 & 21, 2025 react summit
+- dec 1 react advanced london

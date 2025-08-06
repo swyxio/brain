@@ -22,6 +22,8 @@
 - 14-15 may langchain interrupt
 - 15 may berlin ai dev 4
 - 17 may sis
+- 2-3 sep gemini sg
+- 6 oct devday - oai sf
 - 7 oct react conf
 - November 18 & 21, 2025 react summit
 - dec 1 react advanced london

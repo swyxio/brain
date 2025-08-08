@@ -27,6 +27,7 @@
 - 2-5 oct outcove jess mah
 - 6 oct devday - oai sf
 - 7 oct react conf
+- nov 6-9 LiT
 - November 18 & 21, 2025 react summit
 - Nov 18-20 aie summit
 - dec 1 react advanced london

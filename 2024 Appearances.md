@@ -24,6 +24,7 @@
 - 17 may sis
 - 2-3 sep gemini sg
 - 17-18 sep meta
+- 2-5 oct outcove
 - 6 oct devday - oai sf
 - 7 oct react conf
 - November 18 & 21, 2025 react summit

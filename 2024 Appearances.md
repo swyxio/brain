@@ -30,5 +30,7 @@
 - nov 6-9 LiT
 - nov 12 - sync conf
 - November 18 & 21, 2025 react summit
+  - 
+  - GPT5 is a better frontend coder than me, and Cerebras Code is a 10x faster coder than me. But "generative UI" is mostly still stuck in a paradigm of function calling premade widgets. New, fast, coding oriented models create new opportunities for creating truly personal, customized experiences, without the offsetting concern that people want their apps to stay stable and reliable.
 - Nov 18-20 aie summit
 - dec 1 react advanced london

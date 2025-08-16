@@ -27,6 +27,7 @@
 - 2-5 oct outcove jess mah
 - 6 oct devday - oai sf
 - 7 oct react conf
+- 21 oct elasticcon
 - nov 6-9 LiT
 - nov 12 - sync conf
 - November 18 & 21, 2025 react summit

@@ -24,11 +24,10 @@
 - 17 may sis
 - 2-3 sep gemini sg
 - 17-18 sep meta
-- 2-5 oct outcove jess mah
 - 6 oct devday - oai sf
 - 7 oct react conf
 - 21 oct elasticcon
-- 23-26 outcove hi
+- 22 oct nyc - lux capital summit
 - nov 6-9 LiT
 - nov 12 - sync conf
 - November 18 & 21, 2025 react summit

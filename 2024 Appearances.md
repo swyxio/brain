@@ -28,6 +28,7 @@
 - 7 oct react conf
 - 21 oct elasticcon
 - 22 oct nyc - lux capital summit
+- 27 oct sf - techcrcunch danielle
 - nov 6-9 LiT
 - nov 12 - sync conf
 - November 18 & 21, 2025 react summit

@@ -25,6 +25,7 @@
 - 2-3 sep gemini sg
 - ### microsoft travel
 - 17-18 sep meta
+- ### 23-24 oct paris - https://www.ai.engineer/paris
 - 3 oct supabase select https://select.supabase.com/
 - 6 oct devday - oai sf
 - ### 7 oct react conf

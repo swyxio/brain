@@ -23,18 +23,20 @@
 - 15 may berlin ai dev 4
 - 17 may sis
 - 2-3 sep gemini sg
+- ### microsoft travel
 - 17-18 sep meta
+- 3 oct supabase select https://select.supabase.com/
 - 6 oct devday - oai sf
-- 7 oct react conf
+- ### 7 oct react conf
 - 21 oct elasticcon
-- 22 oct nyc - lux capital summit
+- ### 22 oct nyc - lux capital summit
 - 27 oct sf - techcrcunch danielle
 - 28-29 oct sf - github universe https://githubuniverse.com/
-- nov 1-3 - brazil f1
+- ### nov 1-3 - brazil f1
 - nov 6 - tsconf https://tsconf.ai/
 - nov 6-9 LiT
-- nov 12 - sync conf
-- November 18 & 21, 2025 react summit
+- nov 12 - sync conf sf
+- ### November 18 & 21, 2025 react summit
   - GPT5 is a better frontend coder than me, and Cerebras Code is a 10x faster coder than me. But "generative UI" is mostly still stuck in a paradigm of function calling premade widgets. New, fast, coding oriented models create new opportunities for creating truly personal, customized experiences, without the offsetting concern that people want their apps to stay stable and reliable.
-- Nov 18-20 aie summit
+- ### Nov 18-20 aie summit
 - dec 1 react advanced london

@@ -32,6 +32,7 @@
 - ### 14-15 oct cloudflare connect
 - 21 oct elasticcon
 - ### 22 oct nyc - lux capital summit
+- 25 oct sf - future of marketing
 - 27 oct sf - techcrcunch danielle
 - 28-29 oct sf - github universe https://githubuniverse.com/
 - ### nov 1-3 - brazil f1

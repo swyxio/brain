@@ -30,6 +30,7 @@
 - 6 oct devday - oai sf
 - ### 7 oct react conf
 - ### 14-15 oct cloudflare connect
+  - 15 oct wondercraft wonda
 - 21 oct elasticcon
 - ### 22 oct nyc - lux capital summit
 - 25 oct sf - future of marketing

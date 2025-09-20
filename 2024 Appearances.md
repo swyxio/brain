@@ -38,7 +38,7 @@
 - 25 oct sf - future of marketing
 - 27 oct sf - techcrcunch danielle
 - 28-29 oct sf - github universe https://githubuniverse.com/
-- ### nov 1-3 - brazil f1
+- ### nov 1-5 - brazil cogcon
 - nov 6 - tsconf https://tsconf.ai/
 - nov 6-9 LiT
 - nov 12 - sync conf sf

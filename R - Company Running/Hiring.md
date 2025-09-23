@@ -1,8 +1,4 @@
-
-HI THIS INDICATES IT IS NEW
-
-
-Josephifiowa qtns
+## Josephifiowa qtns
 
 the who interview - coatue book
 
@@ -15,7 +11,8 @@ the who interview - coatue book
 - whos ur manager - spell it
 	- when i talk to them what are they gonna say about you
 
-floncrivello
+## flo crivello
+
 - name a conflict
 	- argue for the other side
 	- pay attention to the emotional dimension of the other person
@@ -34,12 +31,16 @@ https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-poss
 
 general
 - https://carta.com/blog/how-to-hire/
+- https://alexw.substack.com/p/hire
+- https://www.lennysnewsletter.com/p/hiring-your-early-team-b2b
+- https://www.ycombinator.com/blog/first-five
+- https://www.youtube.com/watch?v=UyeGB8pd-1w
 
 
 3 mistakes of hiring https://overcast.fm/+eZyBPHAXc/2:20:43
 
 Who system for recruiting 
-- https://twitter.com/_shahedk/status/1547228369527324672?s=21&t=fL2gYbAiXFcWKKgGrvI4ew
+- https://twitter.com/_shahedk/status/1547228369527324672 <- "single most helpful resource" - austin
 
 hiring product leader
 - https://docs.google.com/document/d/1VOltmpBrY81Awsv92ztGjJziVHYmxUArjyKZGCK-eEo/mobilebasic

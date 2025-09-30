@@ -35,7 +35,7 @@
   - The Year Agents ate Search
   - Up until 2024, the normal search paradigm was taking a query, retrieving, ranking, and outputting in one simple pipeline run to return the best results within a latency budget.  When RAG came along, LLMs were mostly glued ontop of normal retrieval and search processes, usually with embedding vectors for "neural search", and that was mostly that. But something changed in 2025. Agents have completely eaten Search. We started the year with lots of excitement about Deep Research, but then interesting search paradigms from Exa's Websets to Perplexity's agents have started to broaden agentic search into more and more form factors. Even in well known coding agents like Claude Code, Devin and Cline, what used to be extensive codebase indexing has now given way to given an agent simple tools to search the codebase like a human would. What happened?
 - ### 22 oct nyc - lux capital summit
-- 25 oct sf - future of marketing
+- 23-25 cogoffsite
 - 27 oct sf - techcrcunch danielle
 - 28-29 oct sf - github universe https://githubuniverse.com/
 - ### nov 1-5 - brazil cogcon

@@ -38,10 +38,12 @@
 - 23-25 cogoffsite
 - 27 oct sf - techcrcunch danielle
 - 28-29 oct sf - github universe https://githubuniverse.com/
-- ### nov 1-5 - brazil cogcon
+- ### nov 1-6 - brazil cogcon
 - nov 6 - tsconf https://tsconf.ai/
 - nov 6-9 LiT
 - nov 12 - sync conf sf
+  - title: Always Be Pair Programming
+  - description: AI agents and sync paradigms are natural complements because local-first is multiplayer by default, and agents are another sort of “player” in addition to human collaborators. Having all changes be visible, diffable, and auditable by the human in charge of the document is a perfect fit.
 - ### November 18 & 21, 2025 react summit
   - GPT5 is a better frontend coder than me, and Cerebras Code is a 10x faster coder than me. But "generative UI" is mostly still stuck in a paradigm of function calling premade widgets. New, fast, coding oriented models create new opportunities for creating truly personal, customized experiences, without the offsetting concern that people want their apps to stay stable and reliable.
 - ### Nov 18-20 aie summit

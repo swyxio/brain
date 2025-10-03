@@ -40,7 +40,6 @@
 - 28-29 oct sf - github universe https://githubuniverse.com/
 - ### nov 1-6 - brazil cogcon
 - nov 6 - tsconf https://tsconf.ai/
-- nov 6-9 LiT
 - nov 12 - sync conf sf
   - title: Always Be Pair Programming
   - description: AI agents and sync paradigms are natural complements because local-first is multiplayer by default, and agents are another sort of “player” in addition to human collaborators. Having all changes be visible, diffable, and auditable by the human in charge of the document is a perfect fit.

@@ -114,6 +114,7 @@ list of unique id implementations, design considerations, and resources. may als
     model.id = nanoid() //=> "V1StGXR8_Z5jdHi6B-myT"
     ```
   - A maintained ulid generator in Node https://www.npmjs.com/package/ulidx
+  	- https://news.ycombinator.com/item?id=46112965
   - Faster nanoid generator https://github.com/rustq/napi-nanoid
   - Yet another random ID generator https://www.npmjs.com/package/hyperid
 

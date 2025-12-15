@@ -134,6 +134,8 @@ list of unique id implementations, design considerations, and resources. may als
     uuidv4(); // ⇨ '9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d'
     ```
 
+some problems with UUID V4: https://news.ycombinator.com/item?id=46272487
+
 - uuid 7 https://github.com/matrixai/js-id
 	-  uuidv7 implementation that we've been using with rocksdb
 	- uuid v7 > v4 because v4 has locality issue https://news.ycombinator.com/item?id=36811247

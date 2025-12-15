@@ -19,3 +19,5 @@ https://youtu.be/ydRlrrwxAus?si=XZW5q2BlJQpAgyUp
 	- ambivalence
 	- coincidence
 - 13 major comedy structures
+
+https://james.brooks.page/blog/getting-into-public-speaking
